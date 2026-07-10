@@ -45,7 +45,7 @@ Ondersteund door [**Workopia**](https://workopia.io/browsejobs/nl?utm_source=git
 
 > **Op zoek naar iets anders?**
 > 🔒 Gesloten/oudere functies → [Inactieve listings](./README-Inactive.md)
-> 🌍 Andere landen → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [Singapore](https://github.com/workopia/Singapore-Graduate-Internship-Jobs) · [France](https://github.com/workopia/France-Graduate-Apprenticeship-Jobs) · [Germany](https://github.com/workopia/Germany-Graduate-Jobs) · [Canada](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) · [Spain](https://github.com/workopia/Spain-Graduate-Internship-Jobs)
+> 🌍 Andere landen → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [Singapore](https://github.com/workopia/Singapore-Graduate-Internship-Jobs) · [France](https://github.com/workopia/France-Graduate-Apprenticeship-Jobs) · [Germany](https://github.com/workopia/Germany-Graduate-Jobs) · [Canada](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) · [Spain](https://github.com/workopia/Spain-Graduate-Internship-Jobs) · [Hong Kong](https://github.com/workopia/Hong-Kong-Graduate-Internship-Jobs)
 > 🔎 De volledige live lijst → [alle Nederlandse banen op Workopia](https://workopia.io/browsejobs/nl?utm_source=github&utm_medium=repo&utm_campaign=netherlands-graduate-jobs)
 
 ## Veelgestelde vragen
