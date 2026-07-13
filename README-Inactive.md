@@ -28,4 +28,24 @@
 <tr><td>miele.cz</td><td>Service Technicus - Regio Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-07-12</td></tr>
 <tr><td>The Gap, Inc.</td><td>Retail Sales Associate - Amsterdam Commons</td><td>Amsterdam</td><td>2026-07-12</td></tr>
 <tr><td>SKECHERS USA Inc</td><td>Deeltijd Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-07-12</td></tr>
+<tr><td>Younggroup</td><td>Commerciële Stagiair(e) In Amsterdam!</td><td>Amsterdam</td><td>2026-07-13</td></tr>
+<tr><td>Careers Philips</td><td>Intern Operational Excellence Ventures</td><td>Amsterdam</td><td>2026-07-13</td></tr>
+<tr><td>DHL Group</td><td>Communicatie Stage</td><td>Alphen Aan Den Rijn</td><td>2026-07-13</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Product Stewardship / Compliance</td><td>Alphen Aan Den Rijn</td><td>2026-07-13</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Product Stewardship / Compliance</td><td>Alphen Aan Den Rijn</td><td>2026-07-13</td></tr>
+<tr><td>GEA</td><td>B2b Marketing Intern</td><td>Bakel</td><td>2026-07-13</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Front Office Intern - The Hoxton, Lloyd</td><td>Amsterdam</td><td>2026-07-13</td></tr>
+<tr><td>Kruidvat</td><td>Stagiair Retail Mbo-niveau (bol)</td><td>Breda</td><td>2026-07-13</td></tr>
+<tr><td>Otis Worldwide</td><td>Service Monteur Noord-holland</td><td>Utrecht</td><td>2026-07-13</td></tr>
+<tr><td>Otis Worldwide</td><td>Service Monteur Amsterdam & Amstelveen</td><td>Amsterdam</td><td>2026-07-13</td></tr>
+<tr><td>Merck & Co., Inc.</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-07-13</td></tr>
+<tr><td>Outokumpu Oyj</td><td>Mechanical Technician</td><td>Westdorpe</td><td>2026-07-13</td></tr>
+<tr><td>CAE</td><td>Simulator Technician-1</td><td>Amsterdam</td><td>2026-07-13</td></tr>
+<tr><td>CAE Australia</td><td>Simulator Technician-1</td><td>Amsterdam</td><td>2026-07-13</td></tr>
+<tr><td>Volvo Group Truck Center</td><td>Apk & Tachograaf Keurmeester</td><td>Alphen Aan Den Rijn</td><td>2026-07-13</td></tr>
+<tr><td>KONE Macedonia</td><td>Reparatie Monteur Roltrappen</td><td>Alphen Aan Den Rijn</td><td>2026-07-13</td></tr>
+<tr><td>Otis</td><td>Service Monteur Amsterdam & Amstelveen</td><td>Amsterdam</td><td>2026-07-13</td></tr>
+<tr><td>Yunex Traffic</td><td>Service Technician Infra</td><td>Alphen Aan Den Rijn</td><td>2026-07-13</td></tr>
+<tr><td>Solenis / Diversey</td><td>Service Technician Taski - Amsterdam</td><td>Amsterdam</td><td>2026-07-13</td></tr>
+<tr><td>COS</td><td>Sales Advisor 31h</td><td>Amsterdam</td><td>2026-07-13</td></tr>
 </table>

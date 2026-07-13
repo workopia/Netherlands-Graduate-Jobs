@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-12",
- "count": 342,
+ "asOf": "2026-07-13",
+ "count": 349,
  "jobs": {
   "8699": {
    "id": "8699",
@@ -110,12 +110,6 @@
    "role": "Bijbaan Administratief Medewerker (16 Tot 24 Uur) - Flexibel Naast Je Studie",
    "location": "Leidschendam"
   },
-  "2661110": {
-   "id": "2661110",
-   "company": "Younggroup",
-   "role": "Commerciële Stagiair(e) In Amsterdam!",
-   "location": "Amsterdam"
-  },
   "2664819": {
    "id": "2664819",
    "company": "Urban Arrow",
@@ -158,6 +152,24 @@
    "role": "Data Scientist (ml & Statistical Modelling)",
    "location": "Amsterdam"
   },
+  "216a8a1c8da623742848d913e6db637a": {
+   "id": "216a8a1c8da623742848d913e6db637a",
+   "company": "JBT Marel",
+   "role": "Internship Business Administration -- Facilities And Mro Procurement",
+   "location": "Venlo"
+  },
+  "20a790f744ec7d593507e403457d65db": {
+   "id": "20a790f744ec7d593507e403457d65db",
+   "company": "createyourowncareer",
+   "role": "Internship Facility Management",
+   "location": "Puttershoek"
+  },
+  "b40fa67b00794facf823643db690dcd6": {
+   "id": "b40fa67b00794facf823643db690dcd6",
+   "company": "createyourowncareer",
+   "role": "Internship Procurement",
+   "location": "Mh"
+  },
   "6b3cc4b7979934b70497205eb5d5705c": {
    "id": "6b3cc4b7979934b70497205eb5d5705c",
    "company": "Mericalherbs",
@@ -170,15 +182,33 @@
    "role": "Mbo/bsc: Internship Chemistry - Research And Improvement Of Cleaning Strategy In An Ink Factory",
    "location": "Venlo"
   },
+  "c96b2b47fef813648872358b6246a2e0": {
+   "id": "c96b2b47fef813648872358b6246a2e0",
+   "company": "jobs.abbott",
+   "role": "Intern",
+   "location": "Amsterdam"
+  },
   "a20dcb8e7af908bfdde5a146c81b9ba2": {
    "id": "a20dcb8e7af908bfdde5a146c81b9ba2",
    "company": "Vanderlande",
    "role": "Internship: Health Interventions In The Workplace",
    "location": "S Hertogenbosch"
   },
+  "09b431e9d2614267691fcd0e2243ff28": {
+   "id": "09b431e9d2614267691fcd0e2243ff28",
+   "company": "HelloFresh",
+   "role": "Field Marketing Stagiair (f/m/x)",
+   "location": "Amsterdam"
+  },
   "80787beb86a64b430a94083db9c6c231": {
    "id": "80787beb86a64b430a94083db9c6c231",
    "company": "Vanderlande UK",
+   "role": "Internship: Health Interventions In The Workplace",
+   "location": "S Hertogenbosch"
+  },
+  "0287b10fc3121f00670d1de1542f9f08": {
+   "id": "0287b10fc3121f00670d1de1542f9f08",
+   "company": "VANDERLANDE INDUSTRIES",
    "role": "Internship: Health Interventions In The Workplace",
    "location": "S Hertogenbosch"
   },
@@ -248,6 +278,12 @@
    "role": "Intern - Operational Resilience & Business Continuity",
    "location": "Netherlands"
   },
+  "3d14f288615a4c5afd1bbb2f39ee35f7": {
+   "id": "3d14f288615a4c5afd1bbb2f39ee35f7",
+   "company": "itinfinance.nl",
+   "role": "Intern - Operational Resilience & Business Continuity",
+   "location": "Netherlands"
+  },
   "687cf677c6c0d0932a57e67a62985935": {
    "id": "687cf677c6c0d0932a57e67a62985935",
    "company": "NXP",
@@ -281,6 +317,12 @@
   "f7c37e1c6d09c51fba089d5ab151837a": {
    "id": "f7c37e1c6d09c51fba089d5ab151837a",
    "company": "www.think-ing.de",
+   "role": "Internship Data Management – Safe Data Team",
+   "location": "Netherlands"
+  },
+  "4157a9d5d84c8b4b2c3a4ff52339b93f": {
+   "id": "4157a9d5d84c8b4b2c3a4ff52339b93f",
+   "company": "Valmont Industries, Inc",
    "role": "Internship Data Management – Safe Data Team",
    "location": "Netherlands"
   },
@@ -554,48 +596,6 @@
    "role": "Pension Management Internship",
    "location": "Alphen Aan Den Rijn"
   },
-  "089b672ae989d005bcb411a0f161fdf4": {
-   "id": "089b672ae989d005bcb411a0f161fdf4",
-   "company": "Careers Philips",
-   "role": "Intern Operational Excellence Ventures",
-   "location": "Amsterdam"
-  },
-  "6bf92946e2201c6c608bb919f4bd5eac": {
-   "id": "6bf92946e2201c6c608bb919f4bd5eac",
-   "company": "DHL Group",
-   "role": "Communicatie Stage",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "382f6a1091d98f5697e0e45086a74119": {
-   "id": "382f6a1091d98f5697e0e45086a74119",
-   "company": "Avery Dennison Corp",
-   "role": "Internship: Product Stewardship / Compliance",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "3d643018211a2436a78a0bfb1f475475": {
-   "id": "3d643018211a2436a78a0bfb1f475475",
-   "company": "Avery Dennison Smartrac",
-   "role": "Internship: Product Stewardship / Compliance",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "f581d7e788ddba5ac7d9147577c9c8f0": {
-   "id": "f581d7e788ddba5ac7d9147577c9c8f0",
-   "company": "GEA",
-   "role": "B2b Marketing Intern",
-   "location": "Bakel"
-  },
-  "9bd76abe71d4aebd315bcaa36fcad6f1": {
-   "id": "9bd76abe71d4aebd315bcaa36fcad6f1",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Front Office Intern - The Hoxton, Lloyd",
-   "location": "Amsterdam"
-  },
-  "32071d63ce3dd8a5dcf8d45e3dcf124b": {
-   "id": "32071d63ce3dd8a5dcf8d45e3dcf124b",
-   "company": "Kruidvat",
-   "role": "Stagiair Retail Mbo-niveau (bol)",
-   "location": "Breda"
-  },
   "83b834aebd2d426fa7c41bf7e286bc9c": {
    "id": "83b834aebd2d426fa7c41bf7e286bc9c",
    "company": "Insify",
@@ -661,6 +661,12 @@
    "company": "ING Group",
    "role": "Intern - Data Analyst And Power Bi Expert",
    "location": "Netherlands"
+  },
+  "f7ac44dc6f126fc5a3d717b989393e2f": {
+   "id": "f7ac44dc6f126fc5a3d717b989393e2f",
+   "company": "flatexDEGIRO AG",
+   "role": "Data Reporting & Analytics",
+   "location": "Amsterdam"
   },
   "27acd0a056ba4456ded18f17a13d2ff7": {
    "id": "27acd0a056ba4456ded18f17a13d2ff7",
@@ -884,6 +890,18 @@
    "role": "Product Specialist (f/m/x)",
    "location": "Amsterdam"
   },
+  "42d0ec42ab17a6dd8283ea88f6c10896": {
+   "id": "42d0ec42ab17a6dd8283ea88f6c10896",
+   "company": "Bilfinger SE",
+   "role": "Servicetechnicus (technicus E&i A)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "eee4de4ed0dd499598b8b1f5df2b5312": {
+   "id": "eee4de4ed0dd499598b8b1f5df2b5312",
+   "company": "Bilfinger SE",
+   "role": "Werkvoorbereider Elektrotechniek",
+   "location": "Alphen Aan Den Rijn"
+  },
   "8cdbea690922788ee5dbaaf669ded948": {
    "id": "8cdbea690922788ee5dbaaf669ded948",
    "company": "Applied Materials Inc",
@@ -908,9 +926,63 @@
    "role": "Electrical Technician - Field Maintenance & Modification 1",
    "location": "Alphen Aan Den Rijn"
   },
+  "a09d3e6239e3ba27bd503eca094b6cfd": {
+   "id": "a09d3e6239e3ba27bd503eca094b6cfd",
+   "company": "Outokumpu Oyj",
+   "role": "Mechanical Technician",
+   "location": "Westdorpe"
+  },
+  "9e44ff5359eb3eb4be8046afd78bd81a": {
+   "id": "9e44ff5359eb3eb4be8046afd78bd81a",
+   "company": "Yara International",
+   "role": "Hoofdmonteur",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "c8e4db9ee764d7164bf4246d617a2938": {
+   "id": "c8e4db9ee764d7164bf4246d617a2938",
+   "company": "Schindler Group",
+   "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "a341ea7b8e2fdc4e68e74838ba7648c7": {
+   "id": "a341ea7b8e2fdc4e68e74838ba7648c7",
+   "company": "Schindler Group",
+   "role": "Service Technician Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "1f8218c29cccc96d7c4dfc3e8b57b5b6": {
+   "id": "1f8218c29cccc96d7c4dfc3e8b57b5b6",
+   "company": "Schindler Group",
+   "role": "Service Technician Utrecht",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "6a4c9cb7bd9d896c6c6c773492a32207": {
+   "id": "6a4c9cb7bd9d896c6c6c773492a32207",
+   "company": "Schindler Group",
+   "role": "Service Technician Regio Leiden",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "d3af288591199e4d6b47348b4581a681": {
+   "id": "d3af288591199e4d6b47348b4581a681",
+   "company": "Schindler Group",
+   "role": "Reparatie Monteur Zuid",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "577ef339600b9b11b2f9898d67470e2e": {
+   "id": "577ef339600b9b11b2f9898d67470e2e",
+   "company": "ABB UK",
+   "role": "Field Service Engineer Laagspanning",
+   "location": "Netherlands"
+  },
   "fa8b8d486e2def9749c640c816f1c938": {
    "id": "fa8b8d486e2def9749c640c816f1c938",
    "company": "Jdch",
+   "role": "Maintenance Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "57bc331bb7eb997a537541a3ab9ac385": {
+   "id": "57bc331bb7eb997a537541a3ab9ac385",
+   "company": "Johnson & Johnson Innovative Medicine",
    "role": "Maintenance Technician",
    "location": "Alphen Aan Den Rijn"
   },
@@ -941,6 +1013,12 @@
   "c636c974476d2707adbc9b2bb9e86335": {
    "id": "c636c974476d2707adbc9b2bb9e86335",
    "company": "Airproducts Com Hk",
+   "role": "E&i Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "cbb4f1f2c8c38e5392eabd8abb1a38df": {
+   "id": "cbb4f1f2c8c38e5392eabd8abb1a38df",
+   "company": "airproducts.hu",
    "role": "E&i Technician",
    "location": "Alphen Aan Den Rijn"
   },
@@ -1112,12 +1190,6 @@
    "role": "Reparatie Monteur Roltrappen",
    "location": "Alphen Aan Den Rijn"
   },
-  "577ef339600b9b11b2f9898d67470e2e": {
-   "id": "577ef339600b9b11b2f9898d67470e2e",
-   "company": "ABB UK",
-   "role": "Field Service Engineer Laagspanning",
-   "location": "Netherlands"
-  },
   "18569e0609576d55ac3975a03602e29f": {
    "id": "18569e0609576d55ac3975a03602e29f",
    "company": "Essity",
@@ -1286,70 +1358,10 @@
    "role": "Service Monteur / Diverse Regio's In Nederland",
    "location": "Amsterdam"
   },
-  "c200571363dd95e7aaf7dc3265379f60": {
-   "id": "c200571363dd95e7aaf7dc3265379f60",
-   "company": "Otis Worldwide",
-   "role": "Service Monteur Noord-holland",
-   "location": "Utrecht"
-  },
-  "24aad175cc3ceab7b92384732c1c3564": {
-   "id": "24aad175cc3ceab7b92384732c1c3564",
-   "company": "Otis Worldwide",
-   "role": "Service Monteur Amsterdam & Amstelveen",
-   "location": "Amsterdam"
-  },
-  "b1fdf029097b389f4a50921d8ab2098e": {
-   "id": "b1fdf029097b389f4a50921d8ab2098e",
-   "company": "Merck & Co., Inc.",
-   "role": "Maintenance Monteur - Storing & Onderhoud",
-   "location": "Venlo"
-  },
-  "5cbaf57d3cc55e80a72a9dc06b62865d": {
-   "id": "5cbaf57d3cc55e80a72a9dc06b62865d",
-   "company": "Outokumpu Oyj",
-   "role": "Mechanical Technician",
-   "location": "Westdorpe"
-  },
-  "6fc6b67baf1fe9a288e8f11b6f49438d": {
-   "id": "6fc6b67baf1fe9a288e8f11b6f49438d",
-   "company": "CAE",
-   "role": "Simulator Technician-1",
-   "location": "Amsterdam"
-  },
-  "9741f82b89d16abc363d07e203bb9eab": {
-   "id": "9741f82b89d16abc363d07e203bb9eab",
-   "company": "CAE Australia",
-   "role": "Simulator Technician-1",
-   "location": "Amsterdam"
-  },
-  "2d6048f81743d0f340988e53144088b3": {
-   "id": "2d6048f81743d0f340988e53144088b3",
-   "company": "Volvo Group Truck Center",
-   "role": "Apk & Tachograaf Keurmeester",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "98d65179f700c86fdb9fa25053f17cf1": {
-   "id": "98d65179f700c86fdb9fa25053f17cf1",
-   "company": "KONE Macedonia",
-   "role": "Reparatie Monteur Roltrappen",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "b757736015afc9904bf788b3dfd308ec": {
-   "id": "b757736015afc9904bf788b3dfd308ec",
-   "company": "Otis",
-   "role": "Service Monteur Amsterdam & Amstelveen",
-   "location": "Amsterdam"
-  },
-  "a6764f527e0f3be9d4a950a88ed2ee8f": {
-   "id": "a6764f527e0f3be9d4a950a88ed2ee8f",
-   "company": "Yunex Traffic",
-   "role": "Service Technician Infra",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "d27b9933f4e9804422ff35d88c88baec": {
-   "id": "d27b9933f4e9804422ff35d88c88baec",
-   "company": "Solenis / Diversey",
-   "role": "Service Technician Taski - Amsterdam",
+  "d24b07fcfb5c01a4050e815eac92c94b": {
+   "id": "d24b07fcfb5c01a4050e815eac92c94b",
+   "company": "SKECHERS USA Inc",
+   "role": "Parttime Verkoopmedewerker - Amsterdam",
    "location": "Amsterdam"
   },
   "a4ede0ae7a87467b9a6cddd80fcc292c": {
@@ -1796,17 +1808,41 @@
    "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amstelveen",
    "location": "Amsterdam"
   },
-  "6af4d6b0d6923c52c32a648cae41161a": {
-   "id": "6af4d6b0d6923c52c32a648cae41161a",
-   "company": "COS",
-   "role": "Sales Advisor 31h",
+  "d3a413700b5fd7df0af135501f98fe08": {
+   "id": "d3a413700b5fd7df0af135501f98fe08",
+   "company": "CEVA Logistics",
+   "role": "Assistant Warehouse Supervisor Outbound",
    "location": "Amsterdam"
+  },
+  "6142bc231c7d1a9df65289377e7fa7ca": {
+   "id": "6142bc231c7d1a9df65289377e7fa7ca",
+   "company": "CMA CGM Group",
+   "role": "Assistant Warehouse Supervisor",
+   "location": "Utrecht"
+  },
+  "8e002c9ae2adb8f5f2ad862edede7646": {
+   "id": "8e002c9ae2adb8f5f2ad862edede7646",
+   "company": "PALFINGER AG",
+   "role": "Service Coordinator (m/f/d)",
+   "location": "Alphen Aan Den Rijn"
   },
   "9f849940c6d704aa0c21993633b6b073": {
    "id": "9f849940c6d704aa0c21993633b6b073",
    "company": "Applied Materials Inc",
    "role": "Administrator Assistant (part-time) – Facilities Support",
    "location": "Amsterdam"
+  },
+  "30edd24b2ed0fc3e1802de181732e5f8": {
+   "id": "30edd24b2ed0fc3e1802de181732e5f8",
+   "company": "Reckitt",
+   "role": "Wf Receptionist And Administrator",
+   "location": "Schiphol"
+  },
+  "e9b0721c8ab045e576020c7515c570dc": {
+   "id": "e9b0721c8ab045e576020c7515c570dc",
+   "company": "CRH plc",
+   "role": "Logistiek Administratief Medewerker",
+   "location": "Wanssum"
   },
   "471e4a4b0b5eff19b10133589e54218d": {
    "id": "471e4a4b0b5eff19b10133589e54218d",
@@ -1835,6 +1871,12 @@
   "c16316793398a213d7899708a6aa92ca": {
    "id": "c16316793398a213d7899708a6aa92ca",
    "company": "The Church of Jesus Christ of Latter-day Saints",
+   "role": "Administrative Assistant I The Hague (netherlands) I Permanent (part-time, 14 Hours/week)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "91e6f8203992fa6e583fcae7c37a7163": {
+   "id": "91e6f8203992fa6e583fcae7c37a7163",
+   "company": "Church of Jesus Christ",
    "role": "Administrative Assistant I The Hague (netherlands) I Permanent (part-time, 14 Hours/week)",
    "location": "Alphen Aan Den Rijn"
   },
