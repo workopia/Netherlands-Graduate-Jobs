@@ -48,4 +48,20 @@
 <tr><td>Yunex Traffic</td><td>Service Technician Infra</td><td>Alphen Aan Den Rijn</td><td>2026-07-13</td></tr>
 <tr><td>Solenis / Diversey</td><td>Service Technician Taski - Amsterdam</td><td>Amsterdam</td><td>2026-07-13</td></tr>
 <tr><td>COS</td><td>Sales Advisor 31h</td><td>Amsterdam</td><td>2026-07-13</td></tr>
+<tr><td>Flagship Amsterdam</td><td>Stage Finance In Amsterdam</td><td>Amsterdam</td><td>2026-07-14</td></tr>
+<tr><td>Armaokchapter</td><td>Network Sector Coverage (nsc) Intern</td><td>Amsterdam</td><td>2026-07-14</td></tr>
+<tr><td>39med</td><td>Stagiair – Laboratorium Of Productietechniek – Visuele Inspectie</td><td>Netherlands</td><td>2026-07-14</td></tr>
+<tr><td>Fortive Corporation</td><td>Controlling Intern</td><td>Eindhoven</td><td>2026-07-14</td></tr>
+<tr><td>Werken bij Loods 5</td><td>Stagiair(e) Grafisch Vormgever – Loods 5fulltime / Parttimehalfweg</td><td>Halfweg</td><td>2026-07-14</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Commercial Finance</td><td>Alphen Aan Den Rijn</td><td>2026-07-14</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Commercial Finance</td><td>Alphen Aan Den Rijn</td><td>2026-07-14</td></tr>
+<tr><td>ABB UK</td><td>Pension Management Internship</td><td>Alphen Aan Den Rijn</td><td>2026-07-14</td></tr>
+<tr><td>Shell</td><td>Mechanical Maintenance Technician</td><td>Netherlands</td><td>2026-07-14</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicetechnicus (technicus E&amp;i A)</td><td>Alphen Aan Den Rijn</td><td>2026-07-14</td></tr>
+<tr><td>Carrier Corporation</td><td>Monteur Autotechniek Of Koeltechniek - Transicold Rotterdam, Hoogvliet</td><td>Alphen Aan Den Rijn</td><td>2026-07-14</td></tr>
+<tr><td>Vopak</td><td>2e E&i Monteur</td><td>Netherlands</td><td>2026-07-14</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Service Monteur / Diverse Regio's In Nederland</td><td>Amsterdam</td><td>2026-07-14</td></tr>
+<tr><td>PVH Corp</td><td>Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)</td><td>Amsterdam</td><td>2026-07-14</td></tr>
+<tr><td>PVH</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amstelveen</td><td>Amsterdam</td><td>2026-07-14</td></tr>
+<tr><td>Wartsila Oyj Abp</td><td>Service Coordinator</td><td>Drunen</td><td>2026-07-14</td></tr>
 </table>
