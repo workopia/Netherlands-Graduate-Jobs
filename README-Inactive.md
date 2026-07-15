@@ -64,4 +64,23 @@
 <tr><td>PVH Corp</td><td>Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)</td><td>Amsterdam</td><td>2026-07-14</td></tr>
 <tr><td>PVH</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amstelveen</td><td>Amsterdam</td><td>2026-07-14</td></tr>
 <tr><td>Wartsila Oyj Abp</td><td>Service Coordinator</td><td>Drunen</td><td>2026-07-14</td></tr>
+<tr><td>Urban Arrow</td><td>Stage Marketing / Content & Events</td><td>Amsterdam</td><td>2026-07-15</td></tr>
+<tr><td>itinfinance.nl</td><td>Intern Digital Strategy & Experience (coo People) – Amsterdam</td><td>Amsterdam</td><td>2026-07-15</td></tr>
+<tr><td>ING</td><td>Internship Brainport Expat Community</td><td>Eindhoven</td><td>2026-07-15</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Internship Brainport Expat Community</td><td>Netherlands</td><td>2026-07-15</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship Brainport Expat Community</td><td>Netherlands</td><td>2026-07-15</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Rgm</td><td>Alphen Aan Den Rijn</td><td>2026-07-15</td></tr>
+<tr><td>leHACK</td><td>Stagiair - Mbo Microbiologie/biochemie/procestechnologie - Tissue Culture Boxmeer</td><td>Venlo</td><td>2026-07-15</td></tr>
+<tr><td>539</td><td>Stagiair - Mbo Microbiologie/biochemie/procestechnologie - Tissue Culture Boxmeer</td><td>Venlo</td><td>2026-07-15</td></tr>
+<tr><td>39med</td><td>Stagiair - Mbo Microbiologie/biochemie/procestechnologie - Tissue Culture Boxmeer</td><td>Venlo</td><td>2026-07-15</td></tr>
+<tr><td>HelloFresh</td><td>Menu Planning & Ingredients Intern (f/m/x)</td><td>Amsterdam</td><td>2026-07-15</td></tr>
+<tr><td>HelloFresh</td><td>Partnerships Marketing Intern (f/m/x)</td><td>Amsterdam</td><td>2026-07-15</td></tr>
+<tr><td>ICI Paris XL</td><td>Stage Online Marketing Ici Paris Xl</td><td>Renswoude</td><td>2026-07-15</td></tr>
+<tr><td>ICI Paris XL</td><td>Stagiair Mbo-niveau 2 (bol)</td><td>Alphen Aan Den Rijn</td><td>2026-07-15</td></tr>
+<tr><td>ICI Paris XL</td><td>Stagiair Mbo-niveau 3 (bol)</td><td>Alphen Aan Den Rijn</td><td>2026-07-15</td></tr>
+<tr><td>ICI Paris XL</td><td>Stagiair Mbo-niveau 4 (bol)</td><td>Alphen Aan Den Rijn</td><td>2026-07-15</td></tr>
+<tr><td>Nestle SA</td><td>Masterdata Analyst</td><td>Amsterdam</td><td>2026-07-15</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 5-12h</td><td>Amsterdam</td><td>2026-07-15</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Sales Advisor (oproep), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam</td><td>Alphen Aan Den Rijn</td><td>2026-07-15</td></tr>
+<tr><td>Tommy Hilfiger / Calvin Klein (PVH)</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-07-15</td></tr>
 </table>
