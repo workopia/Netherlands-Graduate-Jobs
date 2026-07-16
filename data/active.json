@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-15",
- "count": 358,
+ "asOf": "2026-07-16",
+ "count": 361,
  "jobs": {
   "8699": {
    "id": "8699",
@@ -31,12 +31,6 @@
    "company": "Koninklijk Nederlands Lucht",
    "role": "Software Engineer Met Passie Voor Aerospace Systemen",
    "location": "Amsterdam"
-  },
-  "2603203": {
-   "id": "2603203",
-   "company": "Keune Haircosmetics B.V",
-   "role": "Intern Innovation & Research - Hair Care & Styling",
-   "location": "Amersfoort"
   },
   "2620563": {
    "id": "2620563",
@@ -85,12 +79,6 @@
    "company": "Lankhof Beveiliging Beheer B.V",
    "role": "Medewerker Administratie & Gegevensverwerking",
    "location": "Alphen Aan Den Rijn"
-  },
-  "2652032": {
-   "id": "2652032",
-   "company": "Feenstra",
-   "role": "Servicemonteur",
-   "location": "Amsterdam"
   },
   "2654409": {
    "id": "2654409",
@@ -151,6 +139,12 @@
    "company": "Profuomo",
    "role": "Sales Advisor - Bijenkorf Rotterdam",
    "location": "Alphen Aan Den Rijn"
+  },
+  "2677446": {
+   "id": "2677446",
+   "company": "Feenstra",
+   "role": "Servicemonteur",
+   "location": "Amsterdam"
   },
   "a11228347d2dc9bd25330b54319b9ab9": {
    "id": "a11228347d2dc9bd25330b54319b9ab9",
@@ -476,6 +470,12 @@
    "role": "Internship: Indirect Procurement",
    "location": "Alphen Aan Den Rijn"
   },
+  "b48f4e7ec61cf2da1247c0c6a67ee510": {
+   "id": "b48f4e7ec61cf2da1247c0c6a67ee510",
+   "company": "Avery Dennison",
+   "role": "Internship: Indirect Procurement",
+   "location": "Alphen Aan Den Rijn"
+  },
   "cd8259bdadf4f311e81a82a0ffa744e5": {
    "id": "cd8259bdadf4f311e81a82a0ffa744e5",
    "company": "Abbott Diabetes Care",
@@ -584,6 +584,18 @@
    "role": "Stagiair Strategic Corporate & Transaction Communication",
    "location": "Amsterdam"
   },
+  "d2d5b57e0ee23a593fc252e4407ce8c7": {
+   "id": "d2d5b57e0ee23a593fc252e4407ce8c7",
+   "company": "Vestcom",
+   "role": "Internship: Product Stewardship / Compliance",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "0c67bc3cd3d3a95702ca5a3e9144cab9": {
+   "id": "0c67bc3cd3d3a95702ca5a3e9144cab9",
+   "company": "Vestcom",
+   "role": "Internship: Commercial Finance",
+   "location": "Alphen Aan Den Rijn"
+  },
   "66c04c63278a012692c6321df06314a3": {
    "id": "66c04c63278a012692c6321df06314a3",
    "company": "Philjobs",
@@ -595,18 +607,6 @@
    "company": "Philips",
    "role": "Internship: Service Transformation Pmo",
    "location": "Eindhoven"
-  },
-  "60a99bc5f71d3011041b050d4d575189": {
-   "id": "60a99bc5f71d3011041b050d4d575189",
-   "company": "Investmentbankinginternships",
-   "role": "Intern Digital Strategy & Experience (coo People) – Amsterdam",
-   "location": "Amsterdam"
-  },
-  "43b54021a6ece53dae12a90c97176e08": {
-   "id": "43b54021a6ece53dae12a90c97176e08",
-   "company": "Valmont Industries, Inc",
-   "role": "Intern Digital Strategy & Experience (coo People) – Amsterdam",
-   "location": "Amsterdam"
   },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
@@ -932,6 +932,18 @@
    "role": "Product Specialist (f/m/x)",
    "location": "Amsterdam"
   },
+  "17e59ccd55bb20ea10e51b0270abd588": {
+   "id": "17e59ccd55bb20ea10e51b0270abd588",
+   "company": "539",
+   "role": "Maintenance Monteur - Storing & Onderhoud",
+   "location": "Venlo"
+  },
+  "6f35bac61e072b4da4d24e039d3519a5": {
+   "id": "6f35bac61e072b4da4d24e039d3519a5",
+   "company": "Chart Industries Inc",
+   "role": "Maintenance/field Services Technician",
+   "location": "Zuidland"
+  },
   "34948f1cb75ac0e77c04364cbe7a6ded": {
    "id": "34948f1cb75ac0e77c04364cbe7a6ded",
    "company": "Vistaprint",
@@ -1027,6 +1039,12 @@
    "company": "Schindler Group",
    "role": "Reparatie Monteur Zuid",
    "location": "Alphen Aan Den Rijn"
+  },
+  "a53909c3fd476282075b27287cd05588": {
+   "id": "a53909c3fd476282075b27287cd05588",
+   "company": "ABB Ltd",
+   "role": "Field Service Engineer Marine & Ports Power",
+   "location": "Singapore +2"
   },
   "577ef339600b9b11b2f9898d67470e2e": {
    "id": "577ef339600b9b11b2f9898d67470e2e",
@@ -1382,22 +1400,10 @@
    "role": "Servicemonteur Leiden",
    "location": "Alphen Aan Den Rijn"
   },
-  "6fd3c1ee974cb860e00c6a77871b61a3": {
-   "id": "6fd3c1ee974cb860e00c6a77871b61a3",
-   "company": "Otis Worldwide",
-   "role": "Service Monteur Vve Utrecht",
-   "location": "Utrecht"
-  },
-  "1d2cf0e28b3c6a889c5bb65b077ddc87": {
-   "id": "1d2cf0e28b3c6a889c5bb65b077ddc87",
-   "company": "Nexerainc",
-   "role": "Techniker Egio (m/w/d)",
-   "location": "Netherlands"
-  },
-  "1bae85173015ce454f07361e25aaecdf": {
-   "id": "1bae85173015ce454f07361e25aaecdf",
-   "company": "Yara International ASA",
-   "role": "Hoofdmonteur",
+  "072a5754f66f3ac24696f6e0090432a5": {
+   "id": "072a5754f66f3ac24696f6e0090432a5",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor 31h",
    "location": "Alphen Aan Den Rijn"
   },
   "a1295a7f396361a2c8fee0402df985ff": {
@@ -1838,16 +1844,28 @@
    "role": "Verkoopmedewerker En Klantadviseur In Amsterdam",
    "location": "Amsterdam"
   },
-  "4662118bbb83b4f2992fd04bc534753c": {
-   "id": "4662118bbb83b4f2992fd04bc534753c",
-   "company": "Skechers",
-   "role": "Deeltijd Verkoopmedewerker - Amsterdam",
-   "location": "Amsterdam"
+  "709aa267397b487689164715b659d1e3": {
+   "id": "709aa267397b487689164715b659d1e3",
+   "company": "Primark",
+   "role": "Fulltime Retail Assistant Utrecht",
+   "location": "Utrecht"
   },
   "aec2ad040a0108df1cf121322804db01": {
    "id": "aec2ad040a0108df1cf121322804db01",
    "company": "afa'afea",
    "role": "Service Coordinator",
+   "location": "Amsterdam"
+  },
+  "fe9ac89bc20fabb7795f972563794bfe": {
+   "id": "fe9ac89bc20fabb7795f972563794bfe",
+   "company": "DSV Panalpina AS",
+   "role": "Office Administrator",
+   "location": "Venlo"
+  },
+  "b5294ff08c8d1d188ace3e8520bd6218": {
+   "id": "b5294ff08c8d1d188ace3e8520bd6218",
+   "company": "Hotelschool The Hague",
+   "role": "Placement Coordinator (0.7 Fte, Temporary 6 Months)",
    "location": "Amsterdam"
   },
   "a610d9482f908043776b8a5402b183f2": {

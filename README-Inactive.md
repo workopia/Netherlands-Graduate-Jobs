@@ -83,4 +83,12 @@
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 5-12h</td><td>Amsterdam</td><td>2026-07-15</td></tr>
 <tr><td>Tommy Hilfiger</td><td>Sales Advisor (oproep), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam</td><td>Alphen Aan Den Rijn</td><td>2026-07-15</td></tr>
 <tr><td>Tommy Hilfiger / Calvin Klein (PVH)</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-07-15</td></tr>
+<tr><td>Keune Haircosmetics B.V</td><td>Intern Innovation & Research - Hair Care & Styling</td><td>Amersfoort</td><td>2026-07-16</td></tr>
+<tr><td>Feenstra</td><td>Servicemonteur</td><td>Amsterdam</td><td>2026-07-16</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Intern Digital Strategy & Experience (coo People) – Amsterdam</td><td>Amsterdam</td><td>2026-07-16</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Intern Digital Strategy & Experience (coo People) – Amsterdam</td><td>Amsterdam</td><td>2026-07-16</td></tr>
+<tr><td>Otis Worldwide</td><td>Service Monteur Vve Utrecht</td><td>Utrecht</td><td>2026-07-16</td></tr>
+<tr><td>Nexerainc</td><td>Techniker Egio (m/w/d)</td><td>Netherlands</td><td>2026-07-16</td></tr>
+<tr><td>Yara International ASA</td><td>Hoofdmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-07-16</td></tr>
+<tr><td>Skechers</td><td>Deeltijd Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-07-16</td></tr>
 </table>

@@ -9,10 +9,11 @@
   "site_slug": "netherlands",
   "lang": "nl",
   "site_live": false,
-  "as_of": "2026-07-15",
+  "as_of": "2026-07-16",
   "window_days": 60,
   "total_site_jobs_str": "7.7M+",
-  "generated_at": "2026-07-15T01:01:56.421Z"
+  "country_live_total": 4588,
+  "generated_at": "2026-07-16T00:52:56.149Z"
  },
  "categories": [
   {
@@ -993,6 +994,23 @@
   },
   {
    "salary_display": null,
+   "id": "b48f4e7ec61cf2da1247c0c6a67ee510",
+   "source": "Workopia",
+   "company_name": "Avery Dennison",
+   "company_hi_slug": "avery-dennison",
+   "title": "Internship: Indirect Procurement",
+   "location": "Alphen Aan Den Rijn",
+   "skills": "Strategic Sourcing, RFP Execution",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-09T06:44:21.750Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/b48f4e7ec61cf2da1247c0c6a67ee510",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
    "id": "cd8259bdadf4f311e81a82a0ffa744e5",
    "source": "Workopia",
    "company_name": "Abbott Diabetes Care",
@@ -1350,6 +1368,40 @@
   },
   {
    "salary_display": null,
+   "id": "d2d5b57e0ee23a593fc252e4407ce8c7",
+   "source": "Workopia",
+   "company_name": "Vestcom",
+   "company_hi_slug": "vestcom",
+   "title": "Internship: Product Stewardship / Compliance",
+   "location": "Alphen Aan Den Rijn",
+   "skills": "Chemistry, Environmental Science",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-03T06:16:39.863Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/d2d5b57e0ee23a593fc252e4407ce8c7",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "0c67bc3cd3d3a95702ca5a3e9144cab9",
+   "source": "Workopia",
+   "company_name": "Vestcom",
+   "company_hi_slug": "vestcom",
+   "title": "Internship: Commercial Finance",
+   "location": "Alphen Aan Den Rijn",
+   "skills": "Financial Reporting, Excel Proficiency",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-03T06:15:28.767Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/0c67bc3cd3d3a95702ca5a3e9144cab9",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
    "id": "66c04c63278a012692c6321df06314a3",
    "source": "Workopia",
    "company_name": "Philjobs",
@@ -1379,57 +1431,6 @@
    "date_posted": "2026-07-02T16:07:15.632Z",
    "active": true,
    "url": "https://workopia.io/jobs/bdbe234bb1665f29468cc990ba3914e2",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "2603203",
-   "source": "Workopia",
-   "company_name": "Keune Haircosmetics B.V",
-   "company_hi_slug": "keune-haircosmetics-b-v",
-   "title": "Intern Innovation & Research - Hair Care & Styling",
-   "location": "Amersfoort",
-   "skills": "Formulation developmen, Cosmetic product innov",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-02T14:48:21.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/2603203",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "60a99bc5f71d3011041b050d4d575189",
-   "source": "Workopia",
-   "company_name": "Investmentbankinginternships",
-   "company_hi_slug": "investmentbankinginternships",
-   "title": "Intern Digital Strategy & Experience (coo People) – Amsterdam",
-   "location": "Amsterdam",
-   "skills": "SharePoint, Digital Product Operat",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-02T14:29:32.117Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/60a99bc5f71d3011041b050d4d575189",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "43b54021a6ece53dae12a90c97176e08",
-   "source": "Workopia",
-   "company_name": "Valmont Industries, Inc",
-   "company_hi_slug": "valmont-industries",
-   "title": "Intern Digital Strategy & Experience (coo People) – Amsterdam",
-   "location": "Amsterdam",
-   "skills": "SharePoint, User Experience Design",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-02T14:29:32.117Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/43b54021a6ece53dae12a90c97176e08",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1774,7 +1775,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€4,100–6,360/mo",
+   "salary_display": null,
    "id": "2672765",
    "source": "Workopia",
    "company_name": "Budget Thuis",
@@ -2455,6 +2456,57 @@
   },
   {
    "salary_display": null,
+   "id": "2677446",
+   "source": "Workopia",
+   "company_name": "Feenstra",
+   "company_hi_slug": "feenstra",
+   "title": "Servicemonteur",
+   "location": "Amsterdam",
+   "skills": "Technical skills, Customer service",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-15T11:40:51.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/2677446",
+   "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "17e59ccd55bb20ea10e51b0270abd588",
+   "source": "Workopia",
+   "company_name": "539",
+   "company_hi_slug": null,
+   "title": "Maintenance Monteur - Storing & Onderhoud",
+   "location": "Venlo",
+   "skills": "Electrical Repair, Equipment Reliability ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-15T10:05:13.108Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/17e59ccd55bb20ea10e51b0270abd588",
+   "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "6f35bac61e072b4da4d24e039d3519a5",
+   "source": "Workopia",
+   "company_name": "Chart Industries Inc",
+   "company_hi_slug": "chart-industries-inc",
+   "title": "Maintenance/field Services Technician",
+   "location": "Zuidland",
+   "skills": "Preventive and correct, Reciprocating compress",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-13T18:22:39.246Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/6f35bac61e072b4da4d24e039d3519a5",
+   "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "34948f1cb75ac0e77c04364cbe7a6ded",
    "source": "Workopia",
    "company_name": "Vistaprint",
@@ -2722,6 +2774,23 @@
    "date_posted": "2026-07-11T03:46:44.253Z",
    "active": true,
    "url": "https://workopia.io/jobs/d3af288591199e4d6b47348b4581a681",
+   "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "a53909c3fd476282075b27287cd05588",
+   "source": "Workopia",
+   "company_name": "ABB Ltd",
+   "company_hi_slug": "abb",
+   "title": "Field Service Engineer Marine & Ports Power",
+   "location": "Singapore +2",
+   "skills": "Electrical systems mai, Troubleshooting comple",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-11T03:06:26.671Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a53909c3fd476282075b27287cd05588",
    "category": "trades",
    "tier": "Entry-level"
   },
@@ -3407,23 +3476,6 @@
   },
   {
    "salary_display": null,
-   "id": "2652032",
-   "source": "Workopia",
-   "company_name": "Feenstra",
-   "company_hi_slug": "feenstra",
-   "title": "Servicemonteur",
-   "location": "Amsterdam",
-   "skills": "Technical skills, Customer service",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-24T07:54:49.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/2652032",
-   "category": "trades",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
    "id": "18569e0609576d55ac3975a03602e29f",
    "source": "Workopia",
    "company_name": "Essity",
@@ -3474,7 +3526,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€3,600/mo",
+   "salary_display": null,
    "id": "6add0398de11ed9296f13a5498883998",
    "source": "Workopia",
    "company_name": "100",
@@ -3491,7 +3543,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€3,600–5,200/mo",
+   "salary_display": "€4,200–5,200/mo",
    "id": "a545dc46da875efbc68ba5d19ffb67eb",
    "source": "Workopia",
    "company_name": "100",
@@ -3764,57 +3816,6 @@
   },
   {
    "salary_display": null,
-   "id": "6fd3c1ee974cb860e00c6a77871b61a3",
-   "source": "Workopia",
-   "company_name": "Otis Worldwide",
-   "company_hi_slug": "otis-worldwide",
-   "title": "Service Monteur Vve Utrecht",
-   "location": "Utrecht",
-   "skills": "Technical training, Rijbewijs B",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-19T12:11:36.643Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/6fd3c1ee974cb860e00c6a77871b61a3",
-   "category": "trades",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "1d2cf0e28b3c6a889c5bb65b077ddc87",
-   "source": "Workopia",
-   "company_name": "Nexerainc",
-   "company_hi_slug": "nexerainc",
-   "title": "Techniker Egio (m/w/d)",
-   "location": "Netherlands",
-   "skills": "State certified techni, Electrical engineering",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-19T07:49:59.671Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/1d2cf0e28b3c6a889c5bb65b077ddc87",
-   "category": "trades",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "1bae85173015ce454f07361e25aaecdf",
-   "source": "Workopia",
-   "company_name": "Yara International ASA",
-   "company_hi_slug": "yara-international-asa",
-   "title": "Hoofdmonteur",
-   "location": "Alphen Aan Den Rijn",
-   "skills": "Electrical systems, Control systems",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-19T02:30:29.914Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/1bae85173015ce454f07361e25aaecdf",
-   "category": "trades",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
    "id": "2677160",
    "source": "Workopia",
    "company_name": "Profuomo",
@@ -3827,6 +3828,23 @@
    "date_posted": "2026-07-14T13:18:07.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/2677160",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "072a5754f66f3ac24696f6e0090432a5",
+   "source": "Workopia",
+   "company_name": "H & M Hennes & Mauritz AB",
+   "company_hi_slug": "h-m-hennes-mauritz-ab",
+   "title": "Sales Advisor 31h",
+   "location": "Alphen Aan Den Rijn",
+   "skills": "customer service, retail experience",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-14T07:27:30.103Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/072a5754f66f3ac24696f6e0090432a5",
    "category": "sales",
    "tier": "Entry-level"
   },
@@ -4341,7 +4359,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€2,550/mo",
+   "salary_display": null,
    "id": "2cf490f17ffe39d91bfdb10b13233ff7",
    "source": "Workopia",
    "company_name": "Nestle SA",
@@ -4630,7 +4648,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–24/hr",
+   "salary_display": "€14.71–21/hr",
    "id": "2634186",
    "source": "Workopia",
    "company_name": "MS Mode Nederland BV",
@@ -4783,7 +4801,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–20/hr",
+   "salary_display": "€17.36/hr",
    "id": "2629270",
    "source": "Workopia",
    "company_name": "MS Mode Nederland BV",
@@ -4885,7 +4903,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€5.25–25/hr",
+   "salary_display": "€5.25–17.5/hr",
    "id": "25207f877f94a82226a6429be2ecb901",
    "source": "Workopia",
    "company_name": "H&M Group",
@@ -4919,7 +4937,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€25–31/hr",
+   "salary_display": "€26/hr",
    "id": "48b403800de446656ec84840ae690b06",
    "source": "Workopia",
    "company_name": "H&M Group",
@@ -4987,7 +5005,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–20/hr",
+   "salary_display": "€14.71/hr",
    "id": "2623267",
    "source": "Workopia",
    "company_name": "MS Mode Nederland BV",
@@ -5157,20 +5175,20 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": null,
-   "id": "4662118bbb83b4f2992fd04bc534753c",
+   "salary_display": "€8.53–16.08/hr",
+   "id": "709aa267397b487689164715b659d1e3",
    "source": "Workopia",
-   "company_name": "Skechers",
-   "company_hi_slug": "skechers",
-   "title": "Deeltijd Verkoopmedewerker - Amsterdam",
-   "location": "Amsterdam",
-   "skills": "Strong customer servic, Effective verbal and w",
+   "company_name": "Primark",
+   "company_hi_slug": "primark",
+   "title": "Fulltime Retail Assistant Utrecht",
+   "location": "Utrecht",
+   "skills": "customer service, inventory management",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-05-30T04:41:07.441Z",
+   "date_posted": "2026-07-14T14:28:12.482Z",
    "active": true,
-   "url": "https://workopia.io/jobs/4662118bbb83b4f2992fd04bc534753c",
-   "category": "sales",
+   "url": "https://workopia.io/jobs/709aa267397b487689164715b659d1e3",
+   "category": "admin",
    "tier": "Entry-level"
   },
   {
@@ -5187,6 +5205,40 @@
    "date_posted": "2026-07-14T10:30:09.413Z",
    "active": true,
    "url": "https://workopia.io/jobs/aec2ad040a0108df1cf121322804db01",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "fe9ac89bc20fabb7795f972563794bfe",
+   "source": "Workopia",
+   "company_name": "DSV Panalpina AS",
+   "company_hi_slug": "dsv-panalpina-as",
+   "title": "Office Administrator",
+   "location": "Venlo",
+   "skills": "Administrative tasks, Logistical coordinatio",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-13T18:28:20.332Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/fe9ac89bc20fabb7795f972563794bfe",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "€3,478–4,595/mo",
+   "id": "b5294ff08c8d1d188ace3e8520bd6218",
+   "source": "Workopia",
+   "company_name": "Hotelschool The Hague",
+   "company_hi_slug": "hotelschool-the-hague",
+   "title": "Placement Coordinator (0.7 Fte, Temporary 6 Months)",
+   "location": "Amsterdam",
+   "skills": "Student coaching, Internship coordinatio",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-13T11:13:52.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/b5294ff08c8d1d188ace3e8520bd6218",
    "category": "admin",
    "tier": "Entry-level"
   },
@@ -5548,7 +5600,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–16.39/hr",
+   "salary_display": "€8.69–16.39/hr",
    "id": "c2850ebbe33363d892d240a6c22e9d71",
    "source": "Workopia",
    "company_name": "Primark",
@@ -5633,7 +5685,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€25–40/hr",
+   "salary_display": "€40/hr",
    "id": "2656536",
    "source": "Workopia",
    "company_name": "Mobiel",
@@ -5650,7 +5702,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–16.08/hr",
+   "salary_display": "€8.53–16.08/hr",
    "id": "47d7e10e1221d7f374dcab94c8c4d9c0",
    "source": "Workopia",
    "company_name": "Primark",
@@ -5786,7 +5838,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–16.08/hr",
+   "salary_display": "€8.53–16.08/hr",
    "id": "d640b546d180eadfc7f1002d7d2fe0f3",
    "source": "Workopia",
    "company_name": "Primark",
@@ -5837,7 +5889,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€3,000–4,800/mo",
+   "salary_display": null,
    "id": "c208e3862042d1a269a728cb6af6ef56",
    "source": "Workopia",
    "company_name": "Hogan Lovells",
@@ -5905,7 +5957,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–16.08/hr",
+   "salary_display": "€8.53–16.08/hr",
    "id": "4fd4a6f3bf9f7a672dbf0d5b53026948",
    "source": "Workopia",
    "company_name": "Primark",
@@ -5939,7 +5991,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–16.08/hr",
+   "salary_display": "€8.53–16.08/hr",
    "id": "d04d70ac885646de5ed18cc79e238424",
    "source": "Workopia",
    "company_name": "Primark",
@@ -6007,7 +6059,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–16.08/hr",
+   "salary_display": "€8.53–16.08/hr",
    "id": "6a35a3bb2b13cfbb2e68cab4aff9ba82",
    "source": "Workopia",
    "company_name": "Primark",
@@ -6041,7 +6093,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–16.08/hr",
+   "salary_display": "€8.53–16.08/hr",
    "id": "5bd960668d88bf24fbd7611eba20881d",
    "source": "Workopia",
    "company_name": "Primark",
@@ -6092,7 +6144,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–16.08/hr",
+   "salary_display": "€8.53–16.08/hr",
    "id": "71c4e2f4e814f5d3b1265076b6fa9470",
    "source": "Workopia",
    "company_name": "Primark",
@@ -6126,7 +6178,7 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "€8–16.08/hr",
+   "salary_display": "€8.53–16.08/hr",
    "id": "e152b12579e10040fa457a35bd61c8ed",
    "source": "Workopia",
    "company_name": "Primark",
