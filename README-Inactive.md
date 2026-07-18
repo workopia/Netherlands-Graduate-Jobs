@@ -111,4 +111,18 @@
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 5-12h</td><td>Alphen Aan Den Rijn</td><td>2026-07-17</td></tr>
 <tr><td>PVH Corp.</td><td>Sales Advisor (oproep), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam</td><td>Alphen Aan Den Rijn</td><td>2026-07-17</td></tr>
 <tr><td>PartsPoint</td><td>Verkoopmedewerker En Klantadviseur In Amsterdam</td><td>Amsterdam</td><td>2026-07-17</td></tr>
+<tr><td>itinfinance.nl</td><td>Stage Ing Arnhem - Nijmegen - Den Bosch-3</td><td>Arnhem</td><td>2026-07-18</td></tr>
+<tr><td>itinfinance.nl</td><td>Stage Ing Arnhem - Nijmegen - Den Bosch-2</td><td>Arnhem</td><td>2026-07-18</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Intern Fcfp Business Performance Office</td><td>Netherlands</td><td>2026-07-18</td></tr>
+<tr><td>itinfinance.nl</td><td>Intern Fcfp Business Performance Office</td><td>Netherlands</td><td>2026-07-18</td></tr>
+<tr><td>Butternut Box / B Corp</td><td>Influencer Marketing Stage</td><td>Amsterdam</td><td>2026-07-18</td></tr>
+<tr><td>Butternut Box / B Corp</td><td>Online Marketing Stage</td><td>Amsterdam</td><td>2026-07-18</td></tr>
+<tr><td>Dentsu</td><td>Legal Intern</td><td>Amsterdam</td><td>2026-07-18</td></tr>
+<tr><td>Ksyos Expertise Centrum</td><td>Stage Allround Marketing &amp; Communicatiestageamsterdam</td><td>Amsterdam</td><td>2026-07-18</td></tr>
+<tr><td>Coty Inc.</td><td>Marketing Intern Hugo Boss</td><td>Amsterdam</td><td>2026-07-18</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Internship Debt Capital Markets Investment Grade Corporate Team</td><td>Amsterdam</td><td>2026-07-18</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship Debt Capital Markets Investment Grade Corporate Team</td><td>Amsterdam</td><td>2026-07-18</td></tr>
+<tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Zuidoost Nederland</td><td>Nieuwkuijk +1</td><td>2026-07-18</td></tr>
+<tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Zuidwest Nederland</td><td>Zuidwest Nederland</td><td>2026-07-18</td></tr>
+<tr><td>Electrolux</td><td>Servicemonteur Aeg Zuid-holland</td><td>Zuid-Holland</td><td>2026-07-18</td></tr>
 </table>
