@@ -125,4 +125,19 @@
 <tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Zuidoost Nederland</td><td>Nieuwkuijk +1</td><td>2026-07-18</td></tr>
 <tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Zuidwest Nederland</td><td>Zuidwest Nederland</td><td>2026-07-18</td></tr>
 <tr><td>Electrolux</td><td>Servicemonteur Aeg Zuid-holland</td><td>Zuid-Holland</td><td>2026-07-18</td></tr>
+<tr><td>P1 Travel</td><td>Stage Ai & Automation</td><td>Alphen Aan Den Rijn</td><td>2026-07-19</td></tr>
+<tr><td>Corbion Group Netherlands B.V</td><td>Intern Polymer Technology</td><td>S Hertogenbosch</td><td>2026-07-19</td></tr>
+<tr><td>www.think-ing.de</td><td>Internship Data Management – Safe Data Team</td><td>Netherlands</td><td>2026-07-19</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Internship Data Management – Safe Data Team</td><td>Netherlands</td><td>2026-07-19</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Indirect Procurement</td><td>Alphen Aan Den Rijn</td><td>2026-07-19</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Indirect Procurement</td><td>Alphen Aan Den Rijn</td><td>2026-07-19</td></tr>
+<tr><td>Avery Dennison</td><td>Internship: Indirect Procurement</td><td>Alphen Aan Den Rijn</td><td>2026-07-19</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Intern</td><td>Amsterdam</td><td>2026-07-19</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Stage Ing Arnhem - Nijmegen - Den Bosch-3</td><td>Arnhem</td><td>2026-07-19</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Stage Ing Arnhem - Nijmegen - Den Bosch-2</td><td>Arnhem</td><td>2026-07-19</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Stage Ing Arnhem - Nijmegen - Den Bosch-1</td><td>Arnhem</td><td>2026-07-19</td></tr>
+<tr><td>itinfinance.nl</td><td>Stage Ing Arnhem - Nijmegen - Den Bosch-1</td><td>Arnhem</td><td>2026-07-19</td></tr>
+<tr><td>Medtronic Diabetes</td><td>Payroll Analyst</td><td>Netherlands</td><td>2026-07-19</td></tr>
+<tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Noordoost Nederland</td><td>Noordoost Nederland</td><td>2026-07-19</td></tr>
+<tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Noordwest Nederland</td><td>Noordwest Nederland</td><td>2026-07-19</td></tr>
 </table>
