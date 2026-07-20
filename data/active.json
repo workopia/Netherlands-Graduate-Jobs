@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-19",
- "count": 369,
+ "asOf": "2026-07-20",
+ "count": 370,
  "jobs": {
   "2422159": {
    "id": "2422159",
@@ -152,6 +152,12 @@
    "role": "Managementassistent 32 Uur",
    "location": "Alphen Aan Den Rijn"
   },
+  "8ddb570f5eae7eb0467b9212c9965e29": {
+   "id": "8ddb570f5eae7eb0467b9212c9965e29",
+   "company": "olam food ingredients (ofi)",
+   "role": "Internship Supply Chain",
+   "location": "Amsterdam"
+  },
   "fab94b56bccf8406cc250a402a529296": {
    "id": "fab94b56bccf8406cc250a402a529296",
    "company": "Avanade",
@@ -163,6 +169,12 @@
    "company": "Unilever Com Tr",
    "role": "Internship 26' - Customer Development Trade Marketing",
    "location": "Netherlands"
+  },
+  "b1c150a4ae94df90a1cf12df73aacb07": {
+   "id": "b1c150a4ae94df90a1cf12df73aacb07",
+   "company": "Yunex Traffic",
+   "role": "Hr Stage",
+   "location": "Alphen Aan Den Rijn"
   },
   "50316435ab7bc29e3219c0bf0df2d4ae": {
    "id": "50316435ab7bc29e3219c0bf0df2d4ae",
@@ -242,6 +254,12 @@
    "role": "Marketing Intern Prestige Edm",
    "location": "Amsterdam"
   },
+  "972481983d700d464b77f75b095e0856": {
+   "id": "972481983d700d464b77f75b095e0856",
+   "company": "Unilever Com Tr",
+   "role": "Internship 26' - Supply Chain Management And Operations",
+   "location": "Netherlands"
+  },
   "b14084943f1fb33baf8da28a62f56f4b": {
    "id": "b14084943f1fb33baf8da28a62f56f4b",
    "company": "bankcarriere.nl",
@@ -251,6 +269,12 @@
   "6e3732365c2c21e5d710e813e43def2d": {
    "id": "6e3732365c2c21e5d710e813e43def2d",
    "company": "itinfinance.nl",
+   "role": "Intern – Global (lending) Portfolio Management Transformation",
+   "location": "Netherlands"
+  },
+  "5028c9aaf91250223dbcce54b38a5a00": {
+   "id": "5028c9aaf91250223dbcce54b38a5a00",
+   "company": "224",
    "role": "Intern – Global (lending) Portfolio Management Transformation",
    "location": "Netherlands"
   },
@@ -284,17 +308,17 @@
    "role": "Loyalty Internship",
    "location": "Netherlands"
   },
+  "02845c5f9a9d260462af1ce259bf9aae": {
+   "id": "02845c5f9a9d260462af1ce259bf9aae",
+   "company": "Remeha GmbH",
+   "role": "Loyalty Internship",
+   "location": "Netherlands"
+  },
   "875615dc22109a95c7f1879eaecab4f8": {
    "id": "875615dc22109a95c7f1879eaecab4f8",
    "company": "Unilever Com Br",
    "role": "Internship 26' - Marketing Brand And Campaign Management",
    "location": "Netherlands"
-  },
-  "b71d50617d182ebeac55a0770e9b4baf": {
-   "id": "b71d50617d182ebeac55a0770e9b4baf",
-   "company": "olam food ingredients (ofi)",
-   "role": "Internship Supply Chain",
-   "location": "Amsterdam"
   },
   "52ce54372cccaa7f8f077cb9e73dbb2f": {
    "id": "52ce54372cccaa7f8f077cb9e73dbb2f",
@@ -590,30 +614,6 @@
    "role": "Internship / Master Thesis Opportunity – Analog & Rfic Design For Sub-thz Communication Systems",
    "location": "Eindhoven"
   },
-  "7845a5ecefe4b4e6362405b79ec4acb0": {
-   "id": "7845a5ecefe4b4e6362405b79ec4acb0",
-   "company": "NXP USA INC.",
-   "role": "Internship / Master Thesis Opportunity – Analog & Rfic Design For Sub-thz Communication Systems",
-   "location": "Eindhoven"
-  },
-  "2117e9c7dbe2f91a989fd4dbe806a468": {
-   "id": "2117e9c7dbe2f91a989fd4dbe806a468",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Front Office Stagiaire - Jouw Stageplek Is Beschikbaar!",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "d75d65514b1e4a35e77e11dea068ee72": {
-   "id": "d75d65514b1e4a35e77e11dea068ee72",
-   "company": "itinfinance.nl",
-   "role": "Internship Data Management – Safe Data Team",
-   "location": "Netherlands"
-  },
-  "9bf9c418343a6065d47d6d2fc46edcb9": {
-   "id": "9bf9c418343a6065d47d6d2fc46edcb9",
-   "company": "ING Group",
-   "role": "Internship Data Management – Safe Data Team",
-   "location": "Netherlands"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -648,6 +648,12 @@
    "id": "aff1d7c17bbf0c47d955b2bb3651a92c",
    "company": "Insify",
    "role": "Software Engineer",
+   "location": "Amsterdam"
+  },
+  "a7b10cf5293ac1df00566fda5056f735": {
+   "id": "a7b10cf5293ac1df00566fda5056f735",
+   "company": "Careers Philips",
+   "role": "Internship: Data Strategy",
    "location": "Amsterdam"
   },
   "d54782892adae674d2123a5ec973882b": {
@@ -962,11 +968,35 @@
    "role": "Product Specialist (f/m/x)",
    "location": "Amsterdam"
   },
+  "b757736015afc9904bf788b3dfd308ec": {
+   "id": "b757736015afc9904bf788b3dfd308ec",
+   "company": "Otis",
+   "role": "Service Monteur Amsterdam & Amstelveen",
+   "location": "Utrecht"
+  },
+  "56bc80b31f230c7be048e94b711667ab": {
+   "id": "56bc80b31f230c7be048e94b711667ab",
+   "company": "Bilfinger",
+   "role": "Servicetechnicus (technicus E&i A)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "2c10a9b4a81713a8ff8a5be7fb8cb9ec": {
+   "id": "2c10a9b4a81713a8ff8a5be7fb8cb9ec",
+   "company": "Bilfinger",
+   "role": "Werkvoorbereider Elektrotechniek",
+   "location": "Alphen Aan Den Rijn"
+  },
   "ac43cc434c31cf5ab7d317c958c3fd45": {
    "id": "ac43cc434c31cf5ab7d317c958c3fd45",
    "company": "Colgate-Palmolive",
    "role": "Maintenance Bbl",
    "location": "Etten-Leur"
+  },
+  "3acbb07fb6476d60ba332257fed2362c": {
+   "id": "3acbb07fb6476d60ba332257fed2362c",
+   "company": "Rocar-Tech",
+   "role": "Service Monteur Garage Equipment",
+   "location": "Netherlands"
   },
   "5483b9e1a8e6f2e1635862ea624e4def": {
    "id": "5483b9e1a8e6f2e1635862ea624e4def",
@@ -1405,30 +1435,6 @@
    "company": "100",
    "role": "Mechanical Maintenance Technician",
    "location": "Netherlands"
-  },
-  "a545dc46da875efbc68ba5d19ffb67eb": {
-   "id": "a545dc46da875efbc68ba5d19ffb67eb",
-   "company": "100",
-   "role": "E&i Maintenance Technician",
-   "location": "Netherlands"
-  },
-  "7c4437a7b675b788a60fca3026ba14c3": {
-   "id": "7c4437a7b675b788a60fca3026ba14c3",
-   "company": "Stora Enso Oyj",
-   "role": "Onderhoudsmonteur",
-   "location": "Netherlands"
-  },
-  "bc5077b6ae856e60f7125f05a195b467": {
-   "id": "bc5077b6ae856e60f7125f05a195b467",
-   "company": "Stora Enso Oyj",
-   "role": "Storings- En Onderhoudsmonteur",
-   "location": "Netherlands"
-  },
-  "9cddebe44129ccf49fa8927c25467011": {
-   "id": "9cddebe44129ccf49fa8927c25467011",
-   "company": "Stora Enso Oyj",
-   "role": "Technieker Elektrische Dienst",
-   "location": "Langerbrugge"
   },
   "809c9e2ffca56c26f46da326cd6f3af4": {
    "id": "809c9e2ffca56c26f46da326cd6f3af4",

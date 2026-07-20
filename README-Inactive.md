@@ -140,4 +140,13 @@
 <tr><td>Medtronic Diabetes</td><td>Payroll Analyst</td><td>Netherlands</td><td>2026-07-19</td></tr>
 <tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Noordoost Nederland</td><td>Noordoost Nederland</td><td>2026-07-19</td></tr>
 <tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Noordwest Nederland</td><td>Noordwest Nederland</td><td>2026-07-19</td></tr>
+<tr><td>olam food ingredients (ofi)</td><td>Internship Supply Chain</td><td>Amsterdam</td><td>2026-07-20</td></tr>
+<tr><td>NXP USA INC.</td><td>Internship / Master Thesis Opportunity – Analog & Rfic Design For Sub-thz Communication Systems</td><td>Eindhoven</td><td>2026-07-20</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Front Office Stagiaire - Jouw Stageplek Is Beschikbaar!</td><td>Alphen Aan Den Rijn</td><td>2026-07-20</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship Data Management – Safe Data Team</td><td>Netherlands</td><td>2026-07-20</td></tr>
+<tr><td>ING Group</td><td>Internship Data Management – Safe Data Team</td><td>Netherlands</td><td>2026-07-20</td></tr>
+<tr><td>100</td><td>E&i Maintenance Technician</td><td>Netherlands</td><td>2026-07-20</td></tr>
+<tr><td>Stora Enso Oyj</td><td>Onderhoudsmonteur</td><td>Netherlands</td><td>2026-07-20</td></tr>
+<tr><td>Stora Enso Oyj</td><td>Storings- En Onderhoudsmonteur</td><td>Netherlands</td><td>2026-07-20</td></tr>
+<tr><td>Stora Enso Oyj</td><td>Technieker Elektrische Dienst</td><td>Langerbrugge</td><td>2026-07-20</td></tr>
 </table>
