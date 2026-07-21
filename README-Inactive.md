@@ -149,4 +149,9 @@
 <tr><td>Stora Enso Oyj</td><td>Onderhoudsmonteur</td><td>Netherlands</td><td>2026-07-20</td></tr>
 <tr><td>Stora Enso Oyj</td><td>Storings- En Onderhoudsmonteur</td><td>Netherlands</td><td>2026-07-20</td></tr>
 <tr><td>Stora Enso Oyj</td><td>Technieker Elektrische Dienst</td><td>Langerbrugge</td><td>2026-07-20</td></tr>
+<tr><td>ING</td><td>Intern - Operational Resilience & Business Continuity</td><td>Netherlands</td><td>2026-07-21</td></tr>
+<tr><td>itinfinance.nl</td><td>Intern - Operational Resilience & Business Continuity</td><td>Netherlands</td><td>2026-07-21</td></tr>
+<tr><td>NXP</td><td>Internship / Master Thesis Opportunity – Analog & Rfic Design For Sub-thz Communication Systems</td><td>Eindhoven</td><td>2026-07-21</td></tr>
+<tr><td>Insify</td><td>Software Engineer</td><td>Amsterdam</td><td>2026-07-21</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Compressor Technician</td><td>Zoeterwoude</td><td>2026-07-21</td></tr>
 </table>
