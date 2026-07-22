@@ -9,11 +9,11 @@
   "site_slug": "netherlands",
   "lang": "nl",
   "site_live": false,
-  "as_of": "2026-07-21",
+  "as_of": "2026-07-22",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 4656,
-  "generated_at": "2026-07-21T00:53:45.796Z"
+  "country_live_total": 4654,
+  "generated_at": "2026-07-22T00:54:42.972Z"
  },
  "categories": [
   {
@@ -2558,6 +2558,23 @@
   },
   {
    "salary_display": null,
+   "id": "32a848f7734b7af5c92e24bf8c562147",
+   "source": "Workopia",
+   "company_name": "Kone Corporation",
+   "company_hi_slug": "kone",
+   "title": "Service Monteur Liften",
+   "location": "Alphen Aan Den Rijn",
+   "skills": "Self-driven, Technical problem-solv",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-21T12:41:27.870Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/32a848f7734b7af5c92e24bf8c562147",
+   "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "3bc95c9bff27a7a3a1a76319db6aee56",
    "source": "Workopia",
    "company_name": "Ingersoll Rand PLC",
@@ -3896,23 +3913,6 @@
    "date_posted": "2026-06-23T19:58:55.155Z",
    "active": true,
    "url": "https://workopia.io/jobs/e7de33921f48831075fa5a48ebbbb2b9",
-   "category": "trades",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "6add0398de11ed9296f13a5498883998",
-   "source": "Workopia",
-   "company_name": "100",
-   "company_hi_slug": null,
-   "title": "Mechanical Maintenance Technician",
-   "location": "Netherlands",
-   "skills": "Mechanical maintenance, Industrial environment",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-22T02:03:24.844Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/6add0398de11ed9296f13a5498883998",
    "category": "trades",
    "tier": "Entry-level"
   },

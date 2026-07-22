@@ -1,5 +1,5 @@
 {
- "asOf": "2026-07-21",
+ "asOf": "2026-07-22",
  "count": 371,
  "jobs": {
   "2422159": {
@@ -974,6 +974,12 @@
    "role": "Product Specialist (f/m/x)",
    "location": "Amsterdam"
   },
+  "32a848f7734b7af5c92e24bf8c562147": {
+   "id": "32a848f7734b7af5c92e24bf8c562147",
+   "company": "Kone Corporation",
+   "role": "Service Monteur Liften",
+   "location": "Alphen Aan Den Rijn"
+  },
   "3bc95c9bff27a7a3a1a76319db6aee56": {
    "id": "3bc95c9bff27a7a3a1a76319db6aee56",
    "company": "Ingersoll Rand PLC",
@@ -1435,12 +1441,6 @@
    "company": "Airi Quideer",
    "role": "E&i Technician Electrolyser 200mw - Elygator",
    "location": "Alphen Aan Den Rijn"
-  },
-  "6add0398de11ed9296f13a5498883998": {
-   "id": "6add0398de11ed9296f13a5498883998",
-   "company": "100",
-   "role": "Mechanical Maintenance Technician",
-   "location": "Netherlands"
   },
   "809c9e2ffca56c26f46da326cd6f3af4": {
    "id": "809c9e2ffca56c26f46da326cd6f3af4",

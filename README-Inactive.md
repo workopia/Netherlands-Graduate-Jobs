@@ -154,4 +154,5 @@
 <tr><td>NXP</td><td>Internship / Master Thesis Opportunity – Analog & Rfic Design For Sub-thz Communication Systems</td><td>Eindhoven</td><td>2026-07-21</td></tr>
 <tr><td>Insify</td><td>Software Engineer</td><td>Amsterdam</td><td>2026-07-21</td></tr>
 <tr><td>Ingersoll Rand PLC</td><td>Compressor Technician</td><td>Zoeterwoude</td><td>2026-07-21</td></tr>
+<tr><td>100</td><td>Mechanical Maintenance Technician</td><td>Netherlands</td><td>2026-07-22</td></tr>
 </table>
