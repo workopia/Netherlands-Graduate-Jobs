@@ -155,4 +155,23 @@
 <tr><td>Insify</td><td>Software Engineer</td><td>Amsterdam</td><td>2026-07-21</td></tr>
 <tr><td>Ingersoll Rand PLC</td><td>Compressor Technician</td><td>Zoeterwoude</td><td>2026-07-21</td></tr>
 <tr><td>100</td><td>Mechanical Maintenance Technician</td><td>Netherlands</td><td>2026-07-22</td></tr>
+<tr><td>CYBEX GmbH</td><td>Intern Marketing Netherlands (m/f/d)</td><td>Amsterdam</td><td>2026-07-23</td></tr>
+<tr><td>JBT Marel</td><td>Internship Business Administration -- Facilities And Mro Procurement</td><td>Venlo</td><td>2026-07-23</td></tr>
+<tr><td>createyourowncareer</td><td>Internship Facility Management</td><td>Puttershoek</td><td>2026-07-23</td></tr>
+<tr><td>createyourowncareer</td><td>Internship Procurement</td><td>Mh</td><td>2026-07-23</td></tr>
+<tr><td>Under Armour</td><td>Intern, Digital Marketplace - Rookie Program 2026</td><td>Amsterdam</td><td>2026-07-23</td></tr>
+<tr><td>Mericalherbs</td><td>Stagiair - Mbo Microbiologie/biochemie/procestechnologie - Tissue Culture Boxmeer</td><td>Venlo</td><td>2026-07-23</td></tr>
+<tr><td>Canon Production Printing Netherlands B.V</td><td>Mbo/bsc: Internship Chemistry - Research And Improvement Of Cleaning Strategy In An Ink Factory</td><td>Venlo</td><td>2026-07-23</td></tr>
+<tr><td>jobs.abbott</td><td>Intern</td><td>Amsterdam</td><td>2026-07-23</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Health Interventions In The Workplace</td><td>S Hertogenbosch</td><td>2026-07-23</td></tr>
+<tr><td>HelloFresh</td><td>Field Marketing Stagiair (f/m/x)</td><td>Amsterdam</td><td>2026-07-23</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Health Interventions In The Workplace</td><td>S Hertogenbosch</td><td>2026-07-23</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Health Interventions In The Workplace</td><td>S Hertogenbosch</td><td>2026-07-23</td></tr>
+<tr><td>sligrofoodgroup</td><td>Hk Personeel & Organisatie / Meewerkstage Recruitment</td><td>S Hertogenbosch</td><td>2026-07-23</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Stagiair Finance</td><td>Breda</td><td>2026-07-23</td></tr>
+<tr><td>ING Group</td><td>Intern - Operational Resilience & Business Continuity</td><td>Netherlands</td><td>2026-07-23</td></tr>
+<tr><td>Essity</td><td>Mechanisch Monteur</td><td>Cuijk</td><td>2026-07-23</td></tr>
+<tr><td>Damen</td><td>Service Monteur Motoren (scheeps- En Industriële Motoren) – Regio Goeree / Voorne‑putten</td><td>Voorne-Putten +1</td><td>2026-07-23</td></tr>
+<tr><td>Airi Quideer</td><td>E&i Technician Electrolyser 200mw - Elygator</td><td>Alphen Aan Den Rijn</td><td>2026-07-23</td></tr>
+<tr><td>PVH</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-07-23</td></tr>
 </table>
