@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-23",
- "count": 373,
+ "asOf": "2026-07-24",
+ "count": 377,
  "jobs": {
   "39442": {
    "id": "39442",
@@ -25,6 +25,12 @@
    "company": "Parfumado",
    "role": "Brand Management Intern",
    "location": "Amsterdam"
+  },
+  "2528256": {
+   "id": "2528256",
+   "company": "PSV",
+   "role": "Stagiair(e) Video Analyse",
+   "location": "Eindhoven"
   },
   "2568638": {
    "id": "2568638",
@@ -188,6 +194,114 @@
    "role": "Hr Stagiair(e)",
    "location": "Amsterdam"
   },
+  "32abe0da2acd6bf1e5a18ba36f435298": {
+   "id": "32abe0da2acd6bf1e5a18ba36f435298",
+   "company": "GKN Aerospace Services Ltd",
+   "role": "Stagiair Finance",
+   "location": "Breda"
+  },
+  "225be422612a65228185006d62e9e5d2": {
+   "id": "225be422612a65228185006d62e9e5d2",
+   "company": "Perfetti Van Melle ICT B.V",
+   "role": "Internship Digital Content Marketing - Amsterdam Location",
+   "location": "Amsterdam"
+  },
+  "4a72affbe899eb40c2af3675e355d3fd": {
+   "id": "4a72affbe899eb40c2af3675e355d3fd",
+   "company": "Corbion Group Netherlands B.V",
+   "role": "Intern Polymer Technology",
+   "location": "S Hertogenbosch"
+  },
+  "76b1cc24066a96dd490f31f29c70ec13": {
+   "id": "76b1cc24066a96dd490f31f29c70ec13",
+   "company": "Coty Inc.",
+   "role": "Marketing Pricing Intern",
+   "location": "Amsterdam"
+  },
+  "2d2ec4aa2fa7c8205adf7c9cb728e3ec": {
+   "id": "2d2ec4aa2fa7c8205adf7c9cb728e3ec",
+   "company": "Coty Inc.",
+   "role": "Marketing Intern",
+   "location": "Amsterdam"
+  },
+  "70e139501228a1518808cf4a7084159a": {
+   "id": "70e139501228a1518808cf4a7084159a",
+   "company": "Coty Inc.",
+   "role": "Marketing Intern Hugo Boss",
+   "location": "Amsterdam"
+  },
+  "985f6b32d8460d0d05a66ba48b7d6d3f": {
+   "id": "985f6b32d8460d0d05a66ba48b7d6d3f",
+   "company": "Coty Inc.",
+   "role": "Intern Hr Global Functions",
+   "location": "Amsterdam"
+  },
+  "6195ea9cf500d35b8e8cb8fbee751501": {
+   "id": "6195ea9cf500d35b8e8cb8fbee751501",
+   "company": "Coty Inc.",
+   "role": "Facility Management Intern",
+   "location": "Amsterdam"
+  },
+  "19836935999a3366d857f934e1929145": {
+   "id": "19836935999a3366d857f934e1929145",
+   "company": "Coty Inc.",
+   "role": "Procurement Intern - Raw Materials & Tpm",
+   "location": "Amsterdam"
+  },
+  "69a9675afc977a2b62a0769ad5b0da1f": {
+   "id": "69a9675afc977a2b62a0769ad5b0da1f",
+   "company": "Coty Inc.",
+   "role": "Tpm Color Cosmetics Procurement Intern",
+   "location": "Amsterdam-Zuid"
+  },
+  "606e622b940e2b6bd43d315eb30e0806": {
+   "id": "606e622b940e2b6bd43d315eb30e0806",
+   "company": "Coty Inc.",
+   "role": "Marketing Intern Prestige Edm",
+   "location": "Amsterdam"
+  },
+  "aa83aff79cd3aa9e45d32868f5fb2f39": {
+   "id": "aa83aff79cd3aa9e45d32868f5fb2f39",
+   "company": "Coty Inc.",
+   "role": "Training & Marketing Intern Ams Hub",
+   "location": "Amsterdam"
+  },
+  "0a8bb7a9e13bd6b2a048140a03e29a3b": {
+   "id": "0a8bb7a9e13bd6b2a048140a03e29a3b",
+   "company": "AkzoNobel N.V.",
+   "role": "R&d Internship",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "5fc774c540f5575bf7b95fdc57899693": {
+   "id": "5fc774c540f5575bf7b95fdc57899693",
+   "company": "itinfinance.nl",
+   "role": "Internship Debt Capital Markets Investment Grade Corporate Team",
+   "location": "Amsterdam"
+  },
+  "597122c8e6c299bb59de5b9dd25004d2": {
+   "id": "597122c8e6c299bb59de5b9dd25004d2",
+   "company": "itinfinance.nl",
+   "role": "Internship Talent, Learning Leadership & Dib",
+   "location": "Netherlands"
+  },
+  "bd537d29e51cfd89d3219584a3948430": {
+   "id": "bd537d29e51cfd89d3219584a3948430",
+   "company": "itinfinance.nl",
+   "role": "Meewerkstage Marketing Ing Private Banking",
+   "location": "Netherlands"
+  },
+  "a684614fdf4914e421b89a09a57809d0": {
+   "id": "a684614fdf4914e421b89a09a57809d0",
+   "company": "Secrid",
+   "role": "Stagiair Qualitystagesecrid Hq",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f7de18483fcbc8a4d83eeed3cea9c579": {
+   "id": "f7de18483fcbc8a4d83eeed3cea9c579",
+   "company": "Secrid",
+   "role": "Stagiair Concept Designstagesecrid Hq",
+   "location": "Alphen Aan Den Rijn"
+  },
   "c4bc45e32fc9ed2b6fbdb33c6884bc9d": {
    "id": "c4bc45e32fc9ed2b6fbdb33c6884bc9d",
    "company": "282",
@@ -205,6 +319,18 @@
    "company": "NXP USA INC.",
    "role": "Internship - Robotics",
    "location": "Eindhoven"
+  },
+  "be3276426636f1bfa12a98c51665b877": {
+   "id": "be3276426636f1bfa12a98c51665b877",
+   "company": "Avery Dennison Smartrac",
+   "role": "Internship: Pricing",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "e5bd519287edf9fa20c5af49ec997116": {
+   "id": "e5bd519287edf9fa20c5af49ec997116",
+   "company": "Avery Dennison Corp",
+   "role": "Internship: Pricing",
+   "location": "Alphen Aan Den Rijn"
   },
   "f19132075c17fdfcb370438160f4e48b": {
    "id": "f19132075c17fdfcb370438160f4e48b",
@@ -224,9 +350,21 @@
    "role": "Internship 26' - Marketing Market Research And Consumer Insights",
    "location": "Netherlands"
   },
+  "01074d9ecc82cdfebe37b07e2c280dd7": {
+   "id": "01074d9ecc82cdfebe37b07e2c280dd7",
+   "company": "Coty",
+   "role": "Intern Hr Global Functions",
+   "location": "Amsterdam"
+  },
   "5f557444b6cfeb849d08268b3dc2548b": {
    "id": "5f557444b6cfeb849d08268b3dc2548b",
    "company": "Traineekraftheinz",
+   "role": "Marketing & Portfolio Afh Growth Intern",
+   "location": "Amsterdam"
+  },
+  "47497caa668d9829bb2c4cd4d964f186": {
+   "id": "47497caa668d9829bb2c4cd4d964f186",
+   "company": "Elkgrovesubaru",
    "role": "Marketing & Portfolio Afh Growth Intern",
    "location": "Amsterdam"
   },
@@ -314,12 +452,6 @@
    "role": "Procurement Intern - Raw Materials & Tpm",
    "location": "Amsterdam"
   },
-  "7b6d2ef2cbfcf679145e2b3b754584a4": {
-   "id": "7b6d2ef2cbfcf679145e2b3b754584a4",
-   "company": "Coty",
-   "role": "Intern Hr Global Functions",
-   "location": "Amsterdam"
-  },
   "13d173af54e2914b39b47eaf21889d4f": {
    "id": "13d173af54e2914b39b47eaf21889d4f",
    "company": "Coty",
@@ -344,23 +476,11 @@
    "role": "Training & Marketing Intern Ams Hub",
    "location": "Amsterdam"
   },
-  "2f7af11967d08882634ef80b10b668d0": {
-   "id": "2f7af11967d08882634ef80b10b668d0",
-   "company": "Corbion Group Netherlands B.V",
-   "role": "Intern Polymer Technology",
-   "location": "S Hertogenbosch"
-  },
   "68bd622ee8e5145bcb17bd9497707445": {
    "id": "68bd622ee8e5145bcb17bd9497707445",
    "company": "Boeing Netherlands B.V.",
    "role": "Internship Boeing Maintenance Organization In The Netherlands",
    "location": "Woensdrecht"
-  },
-  "84c52d0c7836f3b6087a57321ff6c8f3": {
-   "id": "84c52d0c7836f3b6087a57321ff6c8f3",
-   "company": "Coty Inc",
-   "role": "Marketing Intern Prestige Edm",
-   "location": "Amsterdam"
   },
   "972481983d700d464b77f75b095e0856": {
    "id": "972481983d700d464b77f75b095e0856",
@@ -391,12 +511,6 @@
    "company": "Investmentbankinginternships",
    "role": "Intern – Global (lending) Portfolio Management Transformation",
    "location": "Netherlands"
-  },
-  "f7de18483fcbc8a4d83eeed3cea9c579": {
-   "id": "f7de18483fcbc8a4d83eeed3cea9c579",
-   "company": "Secrid",
-   "role": "Stagiair Concept Designstagesecrid Hq",
-   "location": "Alphen Aan Den Rijn"
   },
   "f2403e3b2d7badd82c8e27ba70f8693d": {
    "id": "f2403e3b2d7badd82c8e27ba70f8693d",
@@ -500,124 +614,16 @@
    "role": "Intern - Global Paid Media & Media Analytics",
    "location": "Amsterdam"
   },
-  "91ab6004b6b596ba35903564f2a0d7e4": {
-   "id": "91ab6004b6b596ba35903564f2a0d7e4",
-   "company": "alius.nl",
-   "role": "Stagefulltime / Parttimeeersel",
-   "location": "Eindhoven"
-  },
-  "5a2dc2a073aa269fc4227b64d6a5bf92": {
-   "id": "5a2dc2a073aa269fc4227b64d6a5bf92",
-   "company": "Werken bij Loods 5",
-   "role": "Stagiair(e) Grafisch Vormgever – Loods 5fulltime / Parttimehalfweg",
-   "location": "Halfweg"
-  },
-  "2911ba537b98ac5f4f803cd22abcf7ba": {
-   "id": "2911ba537b98ac5f4f803cd22abcf7ba",
-   "company": "Volkshotel",
-   "role": "Stage - Open Sollicitatiestageamsterdam",
-   "location": "Amsterdam"
-  },
-  "a684614fdf4914e421b89a09a57809d0": {
-   "id": "a684614fdf4914e421b89a09a57809d0",
-   "company": "Secrid",
-   "role": "Stagiair Qualitystagesecrid Hq",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "682b9623f3f805f9139d2afb98a3524b": {
-   "id": "682b9623f3f805f9139d2afb98a3524b",
-   "company": "Parfumerie Douglas Nederland",
-   "role": "Stagiair Corporate Communicatie, Content &amp; Design (hbo)stagedouglas Hoofdkantoor - Nijmegen",
-   "location": "Arnhem"
-  },
-  "b74ad19bf089903fdb11b871ae7adbd0": {
-   "id": "b74ad19bf089903fdb11b871ae7adbd0",
-   "company": "Parfumerie Douglas Nederland",
-   "role": "Stagiair(e) In Storestagestores",
-   "location": "Nl"
-  },
-  "a3db07bbd7f94cce80b8333a6ae22f9f": {
-   "id": "a3db07bbd7f94cce80b8333a6ae22f9f",
-   "company": "Netvlies V.O.F",
-   "role": "Stage En Afstuderen",
-   "location": "Breda"
-  },
-  "42a10ba5918f3f1695b42a3c5964ed57": {
-   "id": "42a10ba5918f3f1695b42a3c5964ed57",
-   "company": "IDFA",
-   "role": "Stagiair(e) Office &amp; Facilities Supportfull-time / Part-timeamsterdam",
-   "location": "Amsterdam"
-  },
-  "95e735660d7f94873728b37f555b3fc1": {
-   "id": "95e735660d7f94873728b37f555b3fc1",
-   "company": "Fremantle",
-   "role": "Casting Stagiair(e) Series En Filmsfulltimeamsterdam",
-   "location": "Amsterdam"
-  },
-  "da0c596cef817fddcce8075a373d97ec": {
-   "id": "da0c596cef817fddcce8075a373d97ec",
-   "company": "Ditt.officemakers",
-   "role": "Stagiair Ditt Designfulltimeditt. Amsterdam",
-   "location": "Amsterdam"
-  },
-  "26d1827375ffab4eeb8b8d2d98118e1a": {
-   "id": "26d1827375ffab4eeb8b8d2d98118e1a",
-   "company": "Ask Phill",
-   "role": "Marketing &amp; Events Interninternshipamsterdam",
-   "location": "Amsterdam"
-  },
-  "9cfdb5816d138966107f6fbc35cadb36": {
-   "id": "9cfdb5816d138966107f6fbc35cadb36",
-   "company": "afa'afea",
-   "role": "Stagiair Continuous Improvement",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "624a374464b0d4c45706a917c0e3d737": {
-   "id": "624a374464b0d4c45706a917c0e3d737",
-   "company": "afa'afea",
-   "role": "Stagiair Laadinfra Elektrische Trucks",
-   "location": "Beesd"
-  },
-  "3f00487f39dd1a7db3988122f52206a7": {
-   "id": "3f00487f39dd1a7db3988122f52206a7",
-   "company": "Xcenda",
-   "role": "Bol Stagiaire",
-   "location": "Zevenhuizen"
-  },
-  "b4de5c0844ccf561c77de8fa79a9426e": {
-   "id": "b4de5c0844ccf561c77de8fa79a9426e",
-   "company": "Vistaprint",
-   "role": "Global Capex Procurement Intern - Venlo, Nl",
-   "location": "Venlo"
-  },
-  "69371e424d58f447bd58551b11bae95c": {
-   "id": "69371e424d58f447bd58551b11bae95c",
-   "company": "Vistaprint",
-   "role": "Raw Materials Procurement Intern - Venlo, Nl",
-   "location": "Venlo"
-  },
-  "4e26d88879b984f39836022ae26abb1f": {
-   "id": "4e26d88879b984f39836022ae26abb1f",
-   "company": "Ses Group",
-   "role": "Intern, Europe, Middle East And Africa Regulatory And Legal",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "d2869ab0f65fc80f26e4d8b358dcae9b": {
-   "id": "d2869ab0f65fc80f26e4d8b358dcae9b",
-   "company": "Ses Group",
-   "role": "Intern, Spectrum Management And Strategy",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1e7e5ed824323bba18b59b3ed4d720eb": {
-   "id": "1e7e5ed824323bba18b59b3ed4d720eb",
-   "company": "Lincolninternational",
-   "role": "Intern M&a – Amsterdam (march 2027 – June 2027)",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
    "role": "Software Developer Intern",
+   "location": "Amsterdam"
+  },
+  "1a0812d0a6715e54c31b0c9cbcd754d1": {
+   "id": "1a0812d0a6715e54c31b0c9cbcd754d1",
+   "company": "RELX (LexisNexis)",
+   "role": "Software Engineer Iii",
    "location": "Amsterdam"
   },
   "b937ad0778289385fb9a45ebafe88c90": {
@@ -836,6 +842,12 @@
    "role": "Intern Business Analyst",
    "location": "Amsterdam"
   },
+  "1c18ac8f679bf3196d44bd98d2c25a03": {
+   "id": "1c18ac8f679bf3196d44bd98d2c25a03",
+   "company": "AkzoNobel N.V.",
+   "role": "Payroll Analyst",
+   "location": "Amsterdam"
+  },
   "4f113fdf234a55a90facafea46f0727e": {
    "id": "4f113fdf234a55a90facafea46f0727e",
    "company": "Jobgether",
@@ -974,6 +986,18 @@
    "role": "Product Specialist (f/m/x)",
    "location": "Amsterdam"
   },
+  "f868eea553e184153e602bd61313063d": {
+   "id": "f868eea553e184153e602bd61313063d",
+   "company": "Jobgether",
+   "role": "Salesforce Cpq Business Analyst",
+   "location": "Netherlands"
+  },
+  "3ad3b8c2741e55c23ac99a409e428744": {
+   "id": "3ad3b8c2741e55c23ac99a409e428744",
+   "company": "AkzoNobel N.V.",
+   "role": "Mechanic Allround",
+   "location": "Alphen Aan Den Rijn"
+  },
   "d26b39f83d3e527dd32f5afa61264f8c": {
    "id": "d26b39f83d3e527dd32f5afa61264f8c",
    "company": "57",
@@ -986,6 +1010,18 @@
    "role": "Junior Service Monteur",
    "location": "Netherlands"
   },
+  "ff79b10b3003dbb062c5b7ae6ab459b1": {
+   "id": "ff79b10b3003dbb062c5b7ae6ab459b1",
+   "company": "Ingersoll Rand PLC",
+   "role": "Service Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "d118647e1f863da0ceef9d1c9f12e86c": {
+   "id": "d118647e1f863da0ceef9d1c9f12e86c",
+   "company": "Ingersoll Rand PLC",
+   "role": "Compressor Technician",
+   "location": "Zoeterwoude"
+  },
   "32a848f7734b7af5c92e24bf8c562147": {
    "id": "32a848f7734b7af5c92e24bf8c562147",
    "company": "Kone Corporation",
@@ -997,12 +1033,6 @@
    "company": "KONE Romania",
    "role": "Onderhoudsmonteur Personendeuren",
    "location": "Utrecht"
-  },
-  "3bc95c9bff27a7a3a1a76319db6aee56": {
-   "id": "3bc95c9bff27a7a3a1a76319db6aee56",
-   "company": "Ingersoll Rand PLC",
-   "role": "Compressor Technician",
-   "location": "Zoeterwoude"
   },
   "b757736015afc9904bf788b3dfd308ec": {
    "id": "b757736015afc9904bf788b3dfd308ec",
@@ -1128,12 +1158,6 @@
    "id": "eee4de4ed0dd499598b8b1f5df2b5312",
    "company": "Bilfinger SE",
    "role": "Werkvoorbereider Elektrotechniek",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "ff79b10b3003dbb062c5b7ae6ab459b1": {
-   "id": "ff79b10b3003dbb062c5b7ae6ab459b1",
-   "company": "Ingersoll Rand PLC",
-   "role": "Service Technician",
    "location": "Alphen Aan Den Rijn"
   },
   "8cdbea690922788ee5dbaaf669ded948": {
@@ -1436,11 +1460,11 @@
    "role": "Service Monteur Liften & Roltrappen",
    "location": "Amsterdam"
   },
-  "35fa97f334010c45b71bbf3c9e720455": {
-   "id": "35fa97f334010c45b71bbf3c9e720455",
-   "company": "KONE Romania",
-   "role": "Reparatie Monteur Roltrappen",
-   "location": "Alphen Aan Den Rijn"
+  "31f4b030b828336d69019c5141864810": {
+   "id": "31f4b030b828336d69019c5141864810",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor 5-12h",
+   "location": "Amsterdam"
   },
   "369195a4f28552240c08dc410ac1902a": {
    "id": "369195a4f28552240c08dc410ac1902a",
@@ -1470,12 +1494,6 @@
    "id": "7a978866065a2525d546f4467c3057fa",
    "company": "H & M Hennes & Mauritz AB",
    "role": "Verkoopmedewerker - Amsterdam Buikslotermeerplein (21 Uur)",
-   "location": "Amsterdam"
-  },
-  "31f4b030b828336d69019c5141864810": {
-   "id": "31f4b030b828336d69019c5141864810",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor 5-12h",
    "location": "Amsterdam"
   },
   "ce0ab5432babfa68a3e2dd02d4581c63": {
@@ -1808,11 +1826,29 @@
    "role": "Retail Sales Associate (early Morning) - Amsterdam Commons",
    "location": "Amsterdam"
   },
+  "58c19a7623ac8a8f74e152e9c369d8ff": {
+   "id": "58c19a7623ac8a8f74e152e9c369d8ff",
+   "company": "Sligro Food Group",
+   "role": "Verkoopmedewerker Food / Sligro / Leiden",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "79d5b62ad30dbd0a0a1a5192536ae96d": {
+   "id": "79d5b62ad30dbd0a0a1a5192536ae96d",
+   "company": "Tommy Hilfiger",
+   "role": "Sales Advisor (oproep), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam",
+   "location": "Alphen Aan Den Rijn"
+  },
   "13461236ebf3211917729889cc45c059": {
    "id": "13461236ebf3211917729889cc45c059",
    "company": "COS",
    "role": "Sales Advisor 5-12h",
    "location": "Amsterdam"
+  },
+  "71393584793ac2fe4b49ba266ea8ecbd": {
+   "id": "71393584793ac2fe4b49ba266ea8ecbd",
+   "company": "H&M Group",
+   "role": "Verkoopmedewerker – Vlaardingen (weekend/bijbaan)",
+   "location": "Alphen Aan Den Rijn"
   },
   "25207f877f94a82226a6429be2ecb901": {
    "id": "25207f877f94a82226a6429be2ecb901",
@@ -1856,35 +1892,17 @@
    "role": "Deeltijd Verkoopmedewerker - Amsterdam",
    "location": "Amsterdam"
   },
+  "f5d0c493d2e93f2aa3b74a06160247f6": {
+   "id": "f5d0c493d2e93f2aa3b74a06160247f6",
+   "company": "PVH Corp",
+   "role": "Part Time Sales Associate, (16 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen",
+   "location": "Amsterdam"
+  },
   "4cc7e35ffe4b13e6a243c31ae340f28a": {
    "id": "4cc7e35ffe4b13e6a243c31ae340f28a",
    "company": "Shopsycamorecommons",
    "role": "Retail Sales Associate (early Morning) - Amsterdam Commons",
    "location": "Amsterdam"
-  },
-  "619ea6591aa1ced003700441f7d60540": {
-   "id": "619ea6591aa1ced003700441f7d60540",
-   "company": "Shopsycamorecommons",
-   "role": "Retail Sales Associate - Amsterdam Commons",
-   "location": "Amsterdam"
-  },
-  "7716db8d5c77433d2e556d11a43cddaa": {
-   "id": "7716db8d5c77433d2e556d11a43cddaa",
-   "company": "PVH Corp.",
-   "role": "Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Rotterdam",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "aa38d6041654f51e57dac68a663c1e05": {
-   "id": "aa38d6041654f51e57dac68a663c1e05",
-   "company": "PVH Corp.",
-   "role": "Part Time Sales Associate, (16 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen",
-   "location": "Amsterdam"
-  },
-  "442f8555f36f8194a03121562755cbc5": {
-   "id": "442f8555f36f8194a03121562755cbc5",
-   "company": "Tommy Hilfiger / Calvin Klein - PVH Corp",
-   "role": "Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Rotterdam",
-   "location": "Alphen Aan Den Rijn"
   },
   "71c4e2f4e814f5d3b1265076b6fa9470": {
    "id": "71c4e2f4e814f5d3b1265076b6fa9470",
@@ -1903,6 +1921,12 @@
    "company": "DSV Panalpina AS",
    "role": "Administrative Specialist",
    "location": "Veenendaal"
+  },
+  "addd9a6b82acfbde509b44e7c20f46ab": {
+   "id": "addd9a6b82acfbde509b44e7c20f46ab",
+   "company": "122",
+   "role": "Facilities Coordinator",
+   "location": "Eindhoven"
   },
   "cdc6bb3966646f95a0e61810fb2f5ce4": {
    "id": "cdc6bb3966646f95a0e61810fb2f5ce4",
