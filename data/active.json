@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-24",
- "count": 377,
+ "asOf": "2026-07-25",
+ "count": 382,
  "jobs": {
   "39442": {
    "id": "39442",
@@ -164,12 +164,6 @@
    "role": "Servicemonteur",
    "location": "Amsterdam"
   },
-  "2679108": {
-   "id": "2679108",
-   "company": "Eichholtz B.V",
-   "role": "Stagiair(e) Hr",
-   "location": "Alphen Aan Den Rijn"
-  },
   "2680221": {
    "id": "2680221",
    "company": "Portbase",
@@ -278,15 +272,33 @@
    "role": "Internship Debt Capital Markets Investment Grade Corporate Team",
    "location": "Amsterdam"
   },
+  "23a6bdcb52b0e1345611de5252c07bd6": {
+   "id": "23a6bdcb52b0e1345611de5252c07bd6",
+   "company": "ING Group",
+   "role": "Internship Debt Capital Markets Investment Grade Corporate Team",
+   "location": "Amsterdam"
+  },
   "597122c8e6c299bb59de5b9dd25004d2": {
    "id": "597122c8e6c299bb59de5b9dd25004d2",
    "company": "itinfinance.nl",
    "role": "Internship Talent, Learning Leadership & Dib",
    "location": "Netherlands"
   },
+  "6f5c915656e58e118c258c1765138dac": {
+   "id": "6f5c915656e58e118c258c1765138dac",
+   "company": "ING Group",
+   "role": "Internship Talent, Learning Leadership & Dib",
+   "location": "Netherlands"
+  },
   "bd537d29e51cfd89d3219584a3948430": {
    "id": "bd537d29e51cfd89d3219584a3948430",
    "company": "itinfinance.nl",
+   "role": "Meewerkstage Marketing Ing Private Banking",
+   "location": "Netherlands"
+  },
+  "6a65621c72514d7c7d518d316cbe4a3a": {
+   "id": "6a65621c72514d7c7d518d316cbe4a3a",
+   "company": "ING Group",
    "role": "Meewerkstage Marketing Ing Private Banking",
    "location": "Netherlands"
   },
@@ -302,9 +314,57 @@
    "role": "Stagiair Concept Designstagesecrid Hq",
    "location": "Alphen Aan Den Rijn"
   },
+  "3fcbd8633dce3cb0d39482f280a3e1d4": {
+   "id": "3fcbd8633dce3cb0d39482f280a3e1d4",
+   "company": "Halfspace ApS",
+   "role": "Talent & Organization Working Internship - Strategy & Consulting",
+   "location": "Amsterdam"
+  },
+  "a2804d80cdf09733326a03b1a64f2e3d": {
+   "id": "a2804d80cdf09733326a03b1a64f2e3d",
+   "company": "Vopak",
+   "role": "Stagiair Hr",
+   "location": "Netherlands"
+  },
+  "078808fad1047377109430b7bfd1c3e9": {
+   "id": "078808fad1047377109430b7bfd1c3e9",
+   "company": "afa'afea",
+   "role": "Stagiair Continuous Improvement",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "c1bd6b315793b0b6779355c35bf38c2e": {
+   "id": "c1bd6b315793b0b6779355c35bf38c2e",
+   "company": "afa'afea",
+   "role": "Stagiair Laadinfra Elektrische Trucks",
+   "location": "Beesd"
+  },
+  "2ec0ce647b8740fdf000e3cd573aecda": {
+   "id": "2ec0ce647b8740fdf000e3cd573aecda",
+   "company": "Teneo",
+   "role": "Internship - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "741c37b73246135ab15918535189e567": {
+   "id": "741c37b73246135ab15918535189e567",
+   "company": "Edelman PR",
+   "role": "Intern Communications",
+   "location": "Netherlands"
+  },
   "c4bc45e32fc9ed2b6fbdb33c6884bc9d": {
    "id": "c4bc45e32fc9ed2b6fbdb33c6884bc9d",
    "company": "282",
+   "role": "Stagiair Hydrocarbon & New Energies",
+   "location": "Amsterdam"
+  },
+  "18074b052f35918e49795aef68534041": {
+   "id": "18074b052f35918e49795aef68534041",
+   "company": "itinfinance.nl",
+   "role": "Stagiair Hydrocarbon & New Energies",
+   "location": "Amsterdam"
+  },
+  "5489780494e85e38cf297489f93b14a1": {
+   "id": "5489780494e85e38cf297489f93b14a1",
+   "company": "ING Group",
    "role": "Stagiair Hydrocarbon & New Energies",
    "location": "Amsterdam"
   },
@@ -314,9 +374,21 @@
    "role": "Intern - Credit Risk Consultant",
    "location": "Netherlands"
   },
+  "d71397cc9f3aa670889207e48f8e9c30": {
+   "id": "d71397cc9f3aa670889207e48f8e9c30",
+   "company": "ING",
+   "role": "Intern - Credit Risk Consultant",
+   "location": "Netherlands"
+  },
   "eea4aefe4a067363c487fbfef9be9f2f": {
    "id": "eea4aefe4a067363c487fbfef9be9f2f",
    "company": "NXP USA INC.",
+   "role": "Internship - Robotics",
+   "location": "Eindhoven"
+  },
+  "f95f7fb8a5f3f8892290a7af7ec9af4b": {
+   "id": "f95f7fb8a5f3f8892290a7af7ec9af4b",
+   "company": "NXP",
    "role": "Internship - Robotics",
    "location": "Eindhoven"
   },
@@ -335,6 +407,12 @@
   "f19132075c17fdfcb370438160f4e48b": {
    "id": "f19132075c17fdfcb370438160f4e48b",
    "company": "OMRON Corporation",
+   "role": "Internal Auditor - Intern/trainee",
+   "location": "Amsterdam"
+  },
+  "cd6961ea137ef45baf22f09632f10ab5": {
+   "id": "cd6961ea137ef45baf22f09632f10ab5",
+   "company": "OMRON",
    "role": "Internal Auditor - Intern/trainee",
    "location": "Amsterdam"
   },
@@ -536,88 +614,22 @@
    "role": "Loyalty Internship",
    "location": "Netherlands"
   },
-  "02845c5f9a9d260462af1ce259bf9aae": {
-   "id": "02845c5f9a9d260462af1ce259bf9aae",
-   "company": "Remeha GmbH",
-   "role": "Loyalty Internship",
-   "location": "Netherlands"
-  },
-  "875615dc22109a95c7f1879eaecab4f8": {
-   "id": "875615dc22109a95c7f1879eaecab4f8",
-   "company": "Unilever Com Br",
-   "role": "Internship 26' - Marketing Brand And Campaign Management",
-   "location": "Netherlands"
-  },
-  "52ce54372cccaa7f8f077cb9e73dbb2f": {
-   "id": "52ce54372cccaa7f8f077cb9e73dbb2f",
-   "company": "Nouryon",
-   "role": "R&d Internship",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "32977d43a15586d2f79e4d9881f47154": {
-   "id": "32977d43a15586d2f79e4d9881f47154",
-   "company": "Agrifirm Group",
-   "role": "Stage Mest En Mineralen Oss",
-   "location": "S Hertogenbosch"
-  },
-  "0dd803f5f52d4a3e4bf885d98c3e538e": {
-   "id": "0dd803f5f52d4a3e4bf885d98c3e538e",
-   "company": "Flix",
-   "role": "Stagiair – Operations Benelux (m/f/d)",
-   "location": "Amsterdam"
-  },
-  "f65e7b4871e4ed2e6850406c10ebffec": {
-   "id": "f65e7b4871e4ed2e6850406c10ebffec",
-   "company": "jobdayuib.cat",
-   "role": "Hr Meewerkstage",
-   "location": "S Hertogenbosch"
-  },
-  "8d700c6d80660a81e9d62d43e8f4b168": {
-   "id": "8d700c6d80660a81e9d62d43e8f4b168",
-   "company": "santillana.cat",
-   "role": "Hr Meewerkstage",
-   "location": "S Hertogenbosch"
-  },
-  "934d083c6a2e2ab8d20ed28fa9f55331": {
-   "id": "934d083c6a2e2ab8d20ed28fa9f55331",
-   "company": "itinfinance.nl",
-   "role": "Internship - Interest Rate Risk In The Banking Book (irrbb) Team",
-   "location": "Amsterdam"
-  },
-  "4217a52ac487df81455a73cea5c2145c": {
-   "id": "4217a52ac487df81455a73cea5c2145c",
-   "company": "Ingalcivil Com Au",
-   "role": "Internship - Interest Rate Risk In The Banking Book (irrbb) Team",
-   "location": "Amsterdam"
-  },
-  "a11228347d2dc9bd25330b54319b9ab9": {
-   "id": "a11228347d2dc9bd25330b54319b9ab9",
-   "company": "Wolters Kluwer",
-   "role": "Marketing Specialist Intern (12-month Internship)",
-   "location": "Alphen A/D Rijn"
-  },
-  "6bf42e1b0a0512bd5506e69b96031a47": {
-   "id": "6bf42e1b0a0512bd5506e69b96031a47",
-   "company": "Wolters Kluwer N.V",
-   "role": "Marketing Specialist Intern (12-month Internship)",
-   "location": "Alphen A/D Rijn"
-  },
-  "06d328d3aac3a77d335899dcca723012": {
-   "id": "06d328d3aac3a77d335899dcca723012",
-   "company": "itinfinance.nl",
-   "role": "Intern - Global Paid Media & Media Analytics",
-   "location": "Amsterdam"
-  },
-  "4e625dcdaa84727a48c4ba7141f57479": {
-   "id": "4e625dcdaa84727a48c4ba7141f57479",
-   "company": "Ingalcivil Com Au",
-   "role": "Intern - Global Paid Media & Media Analytics",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
    "role": "Software Developer Intern",
+   "location": "Amsterdam"
+  },
+  "00cfd4cf71543d20f01b49cb60195ea5": {
+   "id": "00cfd4cf71543d20f01b49cb60195ea5",
+   "company": "Adyen",
+   "role": "Software Engineer - Postgressql",
+   "location": "Amsterdam"
+  },
+  "205ea96a793a9dc0052d9e53adb9137a": {
+   "id": "205ea96a793a9dc0052d9e53adb9137a",
+   "company": "LNRS DATA SERVICES",
+   "role": "Software Engineer Iii",
    "location": "Amsterdam"
   },
   "1a0812d0a6715e54c31b0c9cbcd754d1": {
@@ -716,6 +728,24 @@
    "role": "Intern - Data Analyst And Power Bi Expert",
    "location": "Netherlands"
   },
+  "f7ac44dc6f126fc5a3d717b989393e2f": {
+   "id": "f7ac44dc6f126fc5a3d717b989393e2f",
+   "company": "flatexDEGIRO AG",
+   "role": "Data Reporting & Analytics",
+   "location": "Amsterdam"
+  },
+  "a683a506b0e11ea75f3eb4faf5373d54": {
+   "id": "a683a506b0e11ea75f3eb4faf5373d54",
+   "company": "Jobgether",
+   "role": "Data Analyst",
+   "location": "Netherlands"
+  },
+  "9d5ced52e5b2c60e217e256b175bba0d": {
+   "id": "9d5ced52e5b2c60e217e256b175bba0d",
+   "company": "Jobgether",
+   "role": "Growth Analyst (m/f/d)",
+   "location": "Netherlands"
+  },
   "00a9f150e2db9567cb2b7971a90b9e89": {
    "id": "00a9f150e2db9567cb2b7971a90b9e89",
    "company": "Nestle Ltd",
@@ -738,12 +768,6 @@
    "id": "902c5040c37a20b3a81fe39c5e74ff41",
    "company": "Nestle SA",
    "role": "Masterdata Analyst",
-   "location": "Amsterdam"
-  },
-  "f7ac44dc6f126fc5a3d717b989393e2f": {
-   "id": "f7ac44dc6f126fc5a3d717b989393e2f",
-   "company": "flatexDEGIRO AG",
-   "role": "Data Reporting & Analytics",
    "location": "Amsterdam"
   },
   "27acd0a056ba4456ded18f17a13d2ff7": {
@@ -992,15 +1016,87 @@
    "role": "Salesforce Cpq Business Analyst",
    "location": "Netherlands"
   },
+  "9e44ff5359eb3eb4be8046afd78bd81a": {
+   "id": "9e44ff5359eb3eb4be8046afd78bd81a",
+   "company": "Yara International",
+   "role": "Hoofdmonteur",
+   "location": "Alphen Aan Den Rijn"
+  },
   "3ad3b8c2741e55c23ac99a409e428744": {
    "id": "3ad3b8c2741e55c23ac99a409e428744",
    "company": "AkzoNobel N.V.",
    "role": "Mechanic Allround",
    "location": "Alphen Aan Den Rijn"
   },
+  "717e4e30bd39c5064bdb1a3131d9dd0a": {
+   "id": "717e4e30bd39c5064bdb1a3131d9dd0a",
+   "company": "Schindler Elevator Ltd",
+   "role": "Reparatie Monteur Zuid",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "45f0529fb36bbb8431137c911b8f9740": {
+   "id": "45f0529fb36bbb8431137c911b8f9740",
+   "company": "Schindler Elevator Ltd",
+   "role": "Service Technician Regio Leiden",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "5fee292b1ce2bf54379eee56126c57f8": {
+   "id": "5fee292b1ce2bf54379eee56126c57f8",
+   "company": "Schindler Elevator Ltd",
+   "role": "Service Technician Roltrappen",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "24ccb62f4d3cf9571a92945e52b5c0d1": {
+   "id": "24ccb62f4d3cf9571a92945e52b5c0d1",
+   "company": "Schindler Elevator Ltd",
+   "role": "Service Technician Utrecht",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "73e6aedd5dc6bf063727848cd46e18d8": {
+   "id": "73e6aedd5dc6bf063727848cd46e18d8",
+   "company": "Schindler Elevator Ltd",
+   "role": "Service Technician Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "e03cff1f0bcee2bedbdb1ef568d50d77": {
+   "id": "e03cff1f0bcee2bedbdb1ef568d50d77",
+   "company": "Schindler Elevator Ltd",
+   "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "42d0ec42ab17a6dd8283ea88f6c10896": {
+   "id": "42d0ec42ab17a6dd8283ea88f6c10896",
+   "company": "Bilfinger SE",
+   "role": "Servicetechnicus (technicus E&i A)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "eee4de4ed0dd499598b8b1f5df2b5312": {
+   "id": "eee4de4ed0dd499598b8b1f5df2b5312",
+   "company": "Bilfinger SE",
+   "role": "Werkvoorbereider Elektrotechniek",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "2d6048f81743d0f340988e53144088b3": {
+   "id": "2d6048f81743d0f340988e53144088b3",
+   "company": "afa'afea",
+   "role": "Apk & Tachograaf Keurmeester",
+   "location": "Alphen Aan Den Rijn"
+  },
   "d26b39f83d3e527dd32f5afa61264f8c": {
    "id": "d26b39f83d3e527dd32f5afa61264f8c",
    "company": "57",
+   "role": "Reparatie Monteur Roltrappen",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "2c46bfdc873cea62a62828dd7d82f40c": {
+   "id": "2c46bfdc873cea62a62828dd7d82f40c",
+   "company": "KONE Bulgaria",
+   "role": "Reparatie Monteur Roltrappen",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "be6005622cd0c8b10223e806973838fb": {
+   "id": "be6005622cd0c8b10223e806973838fb",
+   "company": "Kone Corporation",
    "role": "Reparatie Monteur Roltrappen",
    "location": "Alphen Aan Den Rijn"
   },
@@ -1025,6 +1121,12 @@
   "32a848f7734b7af5c92e24bf8c562147": {
    "id": "32a848f7734b7af5c92e24bf8c562147",
    "company": "Kone Corporation",
+   "role": "Service Monteur Liften",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "24fe5f1cb35cc7938992324251e5c6f2": {
+   "id": "24fe5f1cb35cc7938992324251e5c6f2",
+   "company": "KONE Romania",
    "role": "Service Monteur Liften",
    "location": "Alphen Aan Den Rijn"
   },
@@ -1100,42 +1202,6 @@
    "role": "Maintenance Monteur - Storing & Onderhoud",
    "location": "Venlo"
   },
-  "717e4e30bd39c5064bdb1a3131d9dd0a": {
-   "id": "717e4e30bd39c5064bdb1a3131d9dd0a",
-   "company": "Schindler Elevator Ltd",
-   "role": "Reparatie Monteur Zuid",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "45f0529fb36bbb8431137c911b8f9740": {
-   "id": "45f0529fb36bbb8431137c911b8f9740",
-   "company": "Schindler Elevator Ltd",
-   "role": "Service Technician Regio Leiden",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "5fee292b1ce2bf54379eee56126c57f8": {
-   "id": "5fee292b1ce2bf54379eee56126c57f8",
-   "company": "Schindler Elevator Ltd",
-   "role": "Service Technician Roltrappen",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "24ccb62f4d3cf9571a92945e52b5c0d1": {
-   "id": "24ccb62f4d3cf9571a92945e52b5c0d1",
-   "company": "Schindler Elevator Ltd",
-   "role": "Service Technician Utrecht",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "73e6aedd5dc6bf063727848cd46e18d8": {
-   "id": "73e6aedd5dc6bf063727848cd46e18d8",
-   "company": "Schindler Elevator Ltd",
-   "role": "Service Technician Rotterdam",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "e03cff1f0bcee2bedbdb1ef568d50d77": {
-   "id": "e03cff1f0bcee2bedbdb1ef568d50d77",
-   "company": "Schindler Elevator Ltd",
-   "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
-   "location": "Alphen Aan Den Rijn"
-  },
   "6f35bac61e072b4da4d24e039d3519a5": {
    "id": "6f35bac61e072b4da4d24e039d3519a5",
    "company": "Chart Industries Inc",
@@ -1147,18 +1213,6 @@
    "company": "Vistaprint",
    "role": "Maintenance Technician X3",
    "location": "Venlo"
-  },
-  "42d0ec42ab17a6dd8283ea88f6c10896": {
-   "id": "42d0ec42ab17a6dd8283ea88f6c10896",
-   "company": "Bilfinger SE",
-   "role": "Servicetechnicus (technicus E&i A)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "eee4de4ed0dd499598b8b1f5df2b5312": {
-   "id": "eee4de4ed0dd499598b8b1f5df2b5312",
-   "company": "Bilfinger SE",
-   "role": "Werkvoorbereider Elektrotechniek",
-   "location": "Alphen Aan Den Rijn"
   },
   "8cdbea690922788ee5dbaaf669ded948": {
    "id": "8cdbea690922788ee5dbaaf669ded948",
@@ -1189,12 +1243,6 @@
    "company": "Outokumpu Oyj",
    "role": "Mechanical Technician",
    "location": "Westdorpe"
-  },
-  "9e44ff5359eb3eb4be8046afd78bd81a": {
-   "id": "9e44ff5359eb3eb4be8046afd78bd81a",
-   "company": "Yara International",
-   "role": "Hoofdmonteur",
-   "location": "Alphen Aan Den Rijn"
   },
   "c8e4db9ee764d7164bf4246d617a2938": {
    "id": "c8e4db9ee764d7164bf4246d617a2938",
@@ -1436,35 +1484,35 @@
    "role": "Field Service Engineer",
    "location": "Netherlands"
   },
-  "443f9c7bbcfc774d5ac77d6ff5ec5aff": {
-   "id": "443f9c7bbcfc774d5ac77d6ff5ec5aff",
-   "company": "Miele",
-   "role": "Field Service Engineer Professional Services - Laboratoria, Medisch, Dentaal",
-   "location": "Netherlands"
-  },
-  "7376ab9fa36b113575af8dd42caf0e0b": {
-   "id": "7376ab9fa36b113575af8dd42caf0e0b",
-   "company": "A.P. Moller - Maersk",
-   "role": "Reefer Technician / Storingsmonteur Maasvlakte",
-   "location": "Maasvlakte"
-  },
-  "2c0b828296371cdbcb83673af86f5c94": {
-   "id": "2c0b828296371cdbcb83673af86f5c94",
-   "company": "Xcenda",
-   "role": "Technician",
-   "location": "Netherlands"
-  },
-  "4d677271bbed9b0452b3ea3f5eb3b8e0": {
-   "id": "4d677271bbed9b0452b3ea3f5eb3b8e0",
-   "company": "KONE Romania",
-   "role": "Service Monteur Liften & Roltrappen",
-   "location": "Amsterdam"
-  },
   "31f4b030b828336d69019c5141864810": {
    "id": "31f4b030b828336d69019c5141864810",
    "company": "H & M Hennes & Mauritz AB",
    "role": "Sales Advisor 5-12h",
    "location": "Amsterdam"
+  },
+  "737f2ecd985d8ee5d05cfac8030d3480": {
+   "id": "737f2ecd985d8ee5d05cfac8030d3480",
+   "company": "Sixt",
+   "role": "Parttime Rental Sales Agent (m/v/d)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "d84baca3f10ff5e3903c57730ead21d5": {
+   "id": "d84baca3f10ff5e3903c57730ead21d5",
+   "company": "Breitling SA",
+   "role": "Sales Associate (m/f/x) - Den Haag - Part-time (60%)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "4909b38931800e3119403b50ee989152": {
+   "id": "4909b38931800e3119403b50ee989152",
+   "company": "Pfh",
+   "role": "Sales Advisor (12 Hours), Tommy Hilfiger/calvin Klein - Den Haag (dutch Speaking)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f1114865497111ee4471e8d1875afc2d": {
+   "id": "f1114865497111ee4471e8d1875afc2d",
+   "company": "Pvhcc",
+   "role": "Sales Advisor (12 Hours), Tommy Hilfiger/calvin Klein - Den Haag (dutch Speaking)",
+   "location": "Alphen Aan Den Rijn"
   },
   "369195a4f28552240c08dc410ac1902a": {
    "id": "369195a4f28552240c08dc410ac1902a",
@@ -1506,12 +1554,6 @@
    "id": "072a5754f66f3ac24696f6e0090432a5",
    "company": "H & M Hennes & Mauritz AB",
    "role": "Sales Advisor 31h",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "d84baca3f10ff5e3903c57730ead21d5": {
-   "id": "d84baca3f10ff5e3903c57730ead21d5",
-   "company": "Breitling SA",
-   "role": "Sales Associate (m/f/x) - Den Haag - Part-time (60%)",
    "location": "Alphen Aan Den Rijn"
   },
   "d24b07fcfb5c01a4050e815eac92c94b": {
@@ -1886,23 +1928,11 @@
    "role": "Retail Sales Associate - Amsterdam Commons",
    "location": "Amsterdam"
   },
-  "490cc5cb31f891ec2d845dcef765b890": {
-   "id": "490cc5cb31f891ec2d845dcef765b890",
-   "company": "skechers.dk",
-   "role": "Deeltijd Verkoopmedewerker - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "f5d0c493d2e93f2aa3b74a06160247f6": {
-   "id": "f5d0c493d2e93f2aa3b74a06160247f6",
-   "company": "PVH Corp",
-   "role": "Part Time Sales Associate, (16 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen",
-   "location": "Amsterdam"
-  },
-  "4cc7e35ffe4b13e6a243c31ae340f28a": {
-   "id": "4cc7e35ffe4b13e6a243c31ae340f28a",
-   "company": "Shopsycamorecommons",
-   "role": "Retail Sales Associate (early Morning) - Amsterdam Commons",
-   "location": "Amsterdam"
+  "303e14bfed7a814fdb8d2ea6b5444af6": {
+   "id": "303e14bfed7a814fdb8d2ea6b5444af6",
+   "company": "Primark",
+   "role": "Retail Assistant Weekday - Zoetermeer",
+   "location": "Alphen Aan Den Rijn"
   },
   "71c4e2f4e814f5d3b1265076b6fa9470": {
    "id": "71c4e2f4e814f5d3b1265076b6fa9470",

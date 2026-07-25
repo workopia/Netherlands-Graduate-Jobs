@@ -201,4 +201,25 @@
 <tr><td>PVH Corp.</td><td>Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-07-24</td></tr>
 <tr><td>PVH Corp.</td><td>Part Time Sales Associate, (16 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen</td><td>Amsterdam</td><td>2026-07-24</td></tr>
 <tr><td>Tommy Hilfiger / Calvin Klein - PVH Corp</td><td>Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-07-24</td></tr>
+<tr><td>Eichholtz B.V</td><td>Stagiair(e) Hr</td><td>Alphen Aan Den Rijn</td><td>2026-07-25</td></tr>
+<tr><td>Remeha GmbH</td><td>Loyalty Internship</td><td>Netherlands</td><td>2026-07-25</td></tr>
+<tr><td>Unilever Com Br</td><td>Internship 26' - Marketing Brand And Campaign Management</td><td>Netherlands</td><td>2026-07-25</td></tr>
+<tr><td>Nouryon</td><td>R&d Internship</td><td>Alphen Aan Den Rijn</td><td>2026-07-25</td></tr>
+<tr><td>Agrifirm Group</td><td>Stage Mest En Mineralen Oss</td><td>S Hertogenbosch</td><td>2026-07-25</td></tr>
+<tr><td>Flix</td><td>Stagiair – Operations Benelux (m/f/d)</td><td>Amsterdam</td><td>2026-07-25</td></tr>
+<tr><td>jobdayuib.cat</td><td>Hr Meewerkstage</td><td>S Hertogenbosch</td><td>2026-07-25</td></tr>
+<tr><td>santillana.cat</td><td>Hr Meewerkstage</td><td>S Hertogenbosch</td><td>2026-07-25</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship - Interest Rate Risk In The Banking Book (irrbb) Team</td><td>Amsterdam</td><td>2026-07-25</td></tr>
+<tr><td>Ingalcivil Com Au</td><td>Internship - Interest Rate Risk In The Banking Book (irrbb) Team</td><td>Amsterdam</td><td>2026-07-25</td></tr>
+<tr><td>Wolters Kluwer</td><td>Marketing Specialist Intern (12-month Internship)</td><td>Alphen A/D Rijn</td><td>2026-07-25</td></tr>
+<tr><td>Wolters Kluwer N.V</td><td>Marketing Specialist Intern (12-month Internship)</td><td>Alphen A/D Rijn</td><td>2026-07-25</td></tr>
+<tr><td>itinfinance.nl</td><td>Intern - Global Paid Media & Media Analytics</td><td>Amsterdam</td><td>2026-07-25</td></tr>
+<tr><td>Ingalcivil Com Au</td><td>Intern - Global Paid Media & Media Analytics</td><td>Amsterdam</td><td>2026-07-25</td></tr>
+<tr><td>Miele</td><td>Field Service Engineer Professional Services - Laboratoria, Medisch, Dentaal</td><td>Netherlands</td><td>2026-07-25</td></tr>
+<tr><td>A.P. Moller - Maersk</td><td>Reefer Technician / Storingsmonteur Maasvlakte</td><td>Maasvlakte</td><td>2026-07-25</td></tr>
+<tr><td>Xcenda</td><td>Technician</td><td>Netherlands</td><td>2026-07-25</td></tr>
+<tr><td>KONE Romania</td><td>Service Monteur Liften & Roltrappen</td><td>Amsterdam</td><td>2026-07-25</td></tr>
+<tr><td>skechers.dk</td><td>Deeltijd Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-07-25</td></tr>
+<tr><td>PVH Corp</td><td>Part Time Sales Associate, (16 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen</td><td>Amsterdam</td><td>2026-07-25</td></tr>
+<tr><td>Shopsycamorecommons</td><td>Retail Sales Associate (early Morning) - Amsterdam Commons</td><td>Amsterdam</td><td>2026-07-25</td></tr>
 </table>
