@@ -222,4 +222,39 @@
 <tr><td>skechers.dk</td><td>Deeltijd Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-07-25</td></tr>
 <tr><td>PVH Corp</td><td>Part Time Sales Associate, (16 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen</td><td>Amsterdam</td><td>2026-07-25</td></tr>
 <tr><td>Shopsycamorecommons</td><td>Retail Sales Associate (early Morning) - Amsterdam Commons</td><td>Amsterdam</td><td>2026-07-25</td></tr>
+<tr><td>Parfumado</td><td>Brand Management Intern</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>Koninklijk Nederlands Lucht</td><td>Software Engineer Met Passie Voor Aerospace Systemen</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>MS Mode Nederland BV</td><td>Verkoopmedewerker (15 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-07-26</td></tr>
+<tr><td>Boekenvoordeel B.V</td><td>Verkoopmedewerker Amsterdam En Regio 24-32 Uur</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>vigogroep.nl</td><td>Masterstage Gedragswetenschapper / Noord-brabant / 24 Uur</td><td>Deurne</td><td>2026-07-26</td></tr>
+<tr><td>afa'afea</td><td>Stagiair Continuous Improvement</td><td>Alphen Aan Den Rijn</td><td>2026-07-26</td></tr>
+<tr><td>afa'afea</td><td>Stagiair Laadinfra Elektrische Trucks</td><td>Beesd</td><td>2026-07-26</td></tr>
+<tr><td>Coty</td><td>Training & Marketing Intern Ams Hub</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>Boeing Netherlands B.V.</td><td>Internship Boeing Maintenance Organization In The Netherlands</td><td>Woensdrecht</td><td>2026-07-26</td></tr>
+<tr><td>Unilever Com Tr</td><td>Internship 26' - Supply Chain Management And Operations</td><td>Netherlands</td><td>2026-07-26</td></tr>
+<tr><td>bankcarriere.nl</td><td>Intern – Global (lending) Portfolio Management Transformation</td><td>Netherlands</td><td>2026-07-26</td></tr>
+<tr><td>itinfinance.nl</td><td>Intern – Global (lending) Portfolio Management Transformation</td><td>Netherlands</td><td>2026-07-26</td></tr>
+<tr><td>224</td><td>Intern – Global (lending) Portfolio Management Transformation</td><td>Netherlands</td><td>2026-07-26</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Intern – Global (lending) Portfolio Management Transformation</td><td>Netherlands</td><td>2026-07-26</td></tr>
+<tr><td>HOK</td><td>Emea Team Intern</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>Tencent Music Entertainment Group</td><td>Emea Team Intern</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship – Hr Talent & Learning - International Talent Programme</td><td>Netherlands</td><td>2026-07-26</td></tr>
+<tr><td>Bdrthermeagroup</td><td>Loyalty Internship</td><td>Netherlands</td><td>2026-07-26</td></tr>
+<tr><td>ING Group</td><td>Intern - Data Analyst And Power Bi Expert</td><td>Netherlands</td><td>2026-07-26</td></tr>
+<tr><td>Elsevier</td><td>Data Scientist Iii</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>afa'afea</td><td>Apk & Tachograaf Keurmeester</td><td>Alphen Aan Den Rijn</td><td>2026-07-26</td></tr>
+<tr><td>ABB UK</td><td>Field Service Engineer Middenspanning</td><td>Netherlands</td><td>2026-07-26</td></tr>
+<tr><td>Genpt</td><td>Service Engineer In Regio Zuid Holland En Zeeland</td><td>Zuid-Holland +1</td><td>2026-07-26</td></tr>
+<tr><td>100</td><td>Onderhoudstechnicus Analyzer</td><td>Netherlands</td><td>2026-07-26</td></tr>
+<tr><td>vetshired.us</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-07-26</td></tr>
+<tr><td>BW Forsyth PartnersT LLC</td><td>Field Service Engineer</td><td>Netherlands</td><td>2026-07-26</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Sales Advisor (oproep), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam</td><td>Alphen Aan Den Rijn</td><td>2026-07-26</td></tr>
+<tr><td>COS</td><td>Sales Advisor 5-12h</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>H&M Group</td><td>Verkoopmedewerker – Vlaardingen (weekend/bijbaan)</td><td>Alphen Aan Den Rijn</td><td>2026-07-26</td></tr>
+<tr><td>H&M Group</td><td>Verkoopmedewerker - Amstelveen (weekend/bijbaan)</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkoopmedewerker - Amsterdam De Dam (26/31 Uur)</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>H&M Group</td><td>Verkoopmedewerker - Amsterdam De Dam (26/31 Uur)</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>COS</td><td>Sales Advisor 16h</td><td>Alphen Aan Den Rijn</td><td>2026-07-26</td></tr>
+<tr><td>Old Navy (Gap Inc.)</td><td>Retail Sales Associate - Amsterdam Commons</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>Athleta (Gap Inc.)</td><td>Retail Sales Associate - Amsterdam Commons</td><td>Amsterdam</td><td>2026-07-26</td></tr>
 </table>
