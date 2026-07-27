@@ -257,4 +257,10 @@
 <tr><td>COS</td><td>Sales Advisor 16h</td><td>Alphen Aan Den Rijn</td><td>2026-07-26</td></tr>
 <tr><td>Old Navy (Gap Inc.)</td><td>Retail Sales Associate - Amsterdam Commons</td><td>Amsterdam</td><td>2026-07-26</td></tr>
 <tr><td>Athleta (Gap Inc.)</td><td>Retail Sales Associate - Amsterdam Commons</td><td>Amsterdam</td><td>2026-07-26</td></tr>
+<tr><td>Arcadis</td><td>Internship - Afstudeeropdracht Bovenleiding</td><td>Amersfoort</td><td>2026-07-27</td></tr>
+<tr><td>Coty</td><td>Procurement Intern - Raw Materials & Tpm</td><td>Amsterdam</td><td>2026-07-27</td></tr>
+<tr><td>Coty</td><td>Tpm Color Cosmetics Procurement Intern</td><td>Amsterdam-Zuid</td><td>2026-07-27</td></tr>
+<tr><td>Coty</td><td>Marketing Pricing Intern</td><td>Amsterdam</td><td>2026-07-27</td></tr>
+<tr><td>Coty</td><td>Marketing Intern Prestige Edm</td><td>Amsterdam</td><td>2026-07-27</td></tr>
+<tr><td>Ssp Group</td><td>Part Time Kitchen Assistant</td><td>Netherlands</td><td>2026-07-27</td></tr>
 </table>
