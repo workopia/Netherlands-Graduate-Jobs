@@ -263,4 +263,10 @@
 <tr><td>Coty</td><td>Marketing Pricing Intern</td><td>Amsterdam</td><td>2026-07-27</td></tr>
 <tr><td>Coty</td><td>Marketing Intern Prestige Edm</td><td>Amsterdam</td><td>2026-07-27</td></tr>
 <tr><td>Ssp Group</td><td>Part Time Kitchen Assistant</td><td>Netherlands</td><td>2026-07-27</td></tr>
+<tr><td>Coty</td><td>Marketing Intern Hugo Boss</td><td>Amsterdam</td><td>2026-07-28</td></tr>
+<tr><td>Coty</td><td>Marketing Intern</td><td>Amsterdam</td><td>2026-07-28</td></tr>
+<tr><td>Jobgether</td><td>Product Analyst / Data Analyst</td><td>Netherlands</td><td>2026-07-28</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Product Specialist (f/m/x)</td><td>Amsterdam</td><td>2026-07-28</td></tr>
+<tr><td>Jobgether</td><td>Salesforce Cpq Business Analyst</td><td>Netherlands</td><td>2026-07-28</td></tr>
+<tr><td>JCI</td><td>Technician - Global Marine En Navy</td><td>Gorinchem +7</td><td>2026-07-28</td></tr>
 </table>

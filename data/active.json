@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-27",
- "count": 383,
+ "asOf": "2026-07-28",
+ "count": 380,
  "jobs": {
   "39594": {
    "id": "39594",
@@ -175,6 +175,18 @@
    "company": "AFS Group",
    "role": "Business Analyst",
    "location": "Amsterdam"
+  },
+  "ac4dcf6d2991f49385d58aeae3fe80ba": {
+   "id": "ac4dcf6d2991f49385d58aeae3fe80ba",
+   "company": "VistaCreate",
+   "role": "Global Capex Procurement Intern - Venlo, Nl",
+   "location": "Venlo"
+  },
+  "e19eb2bbbd71532aeb984528d719e335": {
+   "id": "e19eb2bbbd71532aeb984528d719e335",
+   "company": "VistaCreate",
+   "role": "Raw Materials Procurement Intern - Venlo, Nl",
+   "location": "Venlo"
   },
   "263ecad6be21ad3d701a63cef429f148": {
    "id": "263ecad6be21ad3d701a63cef429f148",
@@ -596,18 +608,6 @@
    "role": "Digital Shelf Excellence Europe Intern",
    "location": "Amsterdam"
   },
-  "c7a7b07644ef5002085e8f22015b937b": {
-   "id": "c7a7b07644ef5002085e8f22015b937b",
-   "company": "Coty",
-   "role": "Marketing Intern Hugo Boss",
-   "location": "Amsterdam"
-  },
-  "1688e8610e88e316267f141463dbdca1": {
-   "id": "1688e8610e88e316267f141463dbdca1",
-   "company": "Coty",
-   "role": "Marketing Intern",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -812,12 +812,6 @@
    "role": "Product Data Analyst",
    "location": "Netherlands"
   },
-  "a4ecb09ac96030b1f6c533c029891730": {
-   "id": "a4ecb09ac96030b1f6c533c029891730",
-   "company": "Jobgether",
-   "role": "Product Analyst / Data Analyst",
-   "location": "Netherlands"
-  },
   "61a125be370951d7f4b775543ccc2304": {
    "id": "61a125be370951d7f4b775543ccc2304",
    "company": "Philips",
@@ -998,17 +992,11 @@
    "role": "Product Specialist (f/m/x)",
    "location": "Amsterdam"
   },
-  "4c6fad27f9893c6a341ea0451b77ee0c": {
-   "id": "4c6fad27f9893c6a341ea0451b77ee0c",
-   "company": "Deutsche Bank UK",
-   "role": "Product Specialist (f/m/x)",
-   "location": "Amsterdam"
-  },
-  "f868eea553e184153e602bd61313063d": {
-   "id": "f868eea553e184153e602bd61313063d",
-   "company": "Jobgether",
-   "role": "Salesforce Cpq Business Analyst",
-   "location": "Netherlands"
+  "afa337bef496ad54c73d58b8846827e9": {
+   "id": "afa337bef496ad54c73d58b8846827e9",
+   "company": "VistaCreate",
+   "role": "Maintenance Technician X3",
+   "location": "Venlo"
   },
   "13d495183557fd36230ff96940562bce": {
    "id": "13d495183557fd36230ff96940562bce",
@@ -1471,12 +1459,6 @@
    "company": "Solenis",
    "role": "Service Technician - Regio Randstad",
    "location": "Randstad"
-  },
-  "bd366e2c56b220aa4f242a152ee5d760": {
-   "id": "bd366e2c56b220aa4f242a152ee5d760",
-   "company": "JCI",
-   "role": "Technician - Global Marine En Navy",
-   "location": "Gorinchem +7"
   },
   "ffbffeaea1612ca6df8a0ca0e7feb204": {
    "id": "ffbffeaea1612ca6df8a0ca0e7feb204",
