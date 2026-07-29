@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-28",
- "count": 380,
+ "asOf": "2026-07-29",
+ "count": 374,
  "jobs": {
   "39594": {
    "id": "39594",
@@ -704,24 +704,6 @@
    "role": "Data Analyst Intern",
    "location": "Amsterdam"
   },
-  "e1c3f337942a7d6bd39d530ec46e2a29": {
-   "id": "e1c3f337942a7d6bd39d530ec46e2a29",
-   "company": "ING",
-   "role": "Intern - Data Analyst And Power Bi Expert",
-   "location": "Netherlands"
-  },
-  "a5e7a9f5d20e191fb74114875492cb90": {
-   "id": "a5e7a9f5d20e191fb74114875492cb90",
-   "company": "Euronext",
-   "role": "Commodities Data Analyst Intern",
-   "location": "Paris +1"
-  },
-  "bcfd62be97a9d60e3e4a6de5e329a02b": {
-   "id": "bcfd62be97a9d60e3e4a6de5e329a02b",
-   "company": "Kraft Heinz",
-   "role": "Data Analyst Intern",
-   "location": "Amsterdam"
-  },
   "f7ac44dc6f126fc5a3d717b989393e2f": {
    "id": "f7ac44dc6f126fc5a3d717b989393e2f",
    "company": "flatexDEGIRO AG",
@@ -974,23 +956,17 @@
    "role": "Business Analyst - Change Expert –data Delivery Frida Esg",
    "location": "Netherlands"
   },
-  "3aa18af6a4fe2bd9f5c2f215dc9018c7": {
-   "id": "3aa18af6a4fe2bd9f5c2f215dc9018c7",
-   "company": "itinfinance.nl",
-   "role": "Business Analyst - Change Expert –data Delivery Frida Esg",
-   "location": "Netherlands"
+  "4912b133b5ffeebeed944427e4a59cb0": {
+   "id": "4912b133b5ffeebeed944427e4a59cb0",
+   "company": "247",
+   "role": "Service Technicus",
+   "location": "Alphen Aan Den Rijn"
   },
-  "d5fa7551004582637e639ff1879ebb61": {
-   "id": "d5fa7551004582637e639ff1879ebb61",
-   "company": "itinfinance.nl",
-   "role": "Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe",
-   "location": "Netherlands"
-  },
-  "df166e17bb5d843984325934a7ba83ff": {
-   "id": "df166e17bb5d843984325934a7ba83ff",
-   "company": "Deutsche Bank",
-   "role": "Product Specialist (f/m/x)",
-   "location": "Amsterdam"
+  "8d29f49e72d6bca9788e8fb217d96242": {
+   "id": "8d29f49e72d6bca9788e8fb217d96242",
+   "company": "Outokumpu Oyj",
+   "role": "Electrical Technician",
+   "location": "Westdorpe"
   },
   "afa337bef496ad54c73d58b8846827e9": {
    "id": "afa337bef496ad54c73d58b8846827e9",
@@ -1447,18 +1423,6 @@
    "company": "MediaMarktSaturn",
    "role": "Reparatie- &amp; Servicemedewerker Elektronica Alexandrium",
    "location": "Alphen Aan Den Rijn"
-  },
-  "9a86fa5144de86545ada494c8475c1ba": {
-   "id": "9a86fa5144de86545ada494c8475c1ba",
-   "company": "OTIS",
-   "role": "Service Monteur Vve Utrecht",
-   "location": "Utrecht"
-  },
-  "3de05844efb66a4be9135c2768fdbdd7": {
-   "id": "3de05844efb66a4be9135c2768fdbdd7",
-   "company": "Solenis",
-   "role": "Service Technician - Regio Randstad",
-   "location": "Randstad"
   },
   "ffbffeaea1612ca6df8a0ca0e7feb204": {
    "id": "ffbffeaea1612ca6df8a0ca0e7feb204",

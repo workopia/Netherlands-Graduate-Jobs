@@ -269,4 +269,12 @@
 <tr><td>Deutsche Bank UK</td><td>Product Specialist (f/m/x)</td><td>Amsterdam</td><td>2026-07-28</td></tr>
 <tr><td>Jobgether</td><td>Salesforce Cpq Business Analyst</td><td>Netherlands</td><td>2026-07-28</td></tr>
 <tr><td>JCI</td><td>Technician - Global Marine En Navy</td><td>Gorinchem +7</td><td>2026-07-28</td></tr>
+<tr><td>ING</td><td>Intern - Data Analyst And Power Bi Expert</td><td>Netherlands</td><td>2026-07-29</td></tr>
+<tr><td>Euronext</td><td>Commodities Data Analyst Intern</td><td>Paris +1</td><td>2026-07-29</td></tr>
+<tr><td>Kraft Heinz</td><td>Data Analyst Intern</td><td>Amsterdam</td><td>2026-07-29</td></tr>
+<tr><td>itinfinance.nl</td><td>Business Analyst - Change Expert –data Delivery Frida Esg</td><td>Netherlands</td><td>2026-07-29</td></tr>
+<tr><td>itinfinance.nl</td><td>Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe</td><td>Netherlands</td><td>2026-07-29</td></tr>
+<tr><td>Deutsche Bank</td><td>Product Specialist (f/m/x)</td><td>Amsterdam</td><td>2026-07-29</td></tr>
+<tr><td>OTIS</td><td>Service Monteur Vve Utrecht</td><td>Utrecht</td><td>2026-07-29</td></tr>
+<tr><td>Solenis</td><td>Service Technician - Regio Randstad</td><td>Randstad</td><td>2026-07-29</td></tr>
 </table>
