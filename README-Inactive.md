@@ -277,4 +277,14 @@
 <tr><td>Deutsche Bank</td><td>Product Specialist (f/m/x)</td><td>Amsterdam</td><td>2026-07-29</td></tr>
 <tr><td>OTIS</td><td>Service Monteur Vve Utrecht</td><td>Utrecht</td><td>2026-07-29</td></tr>
 <tr><td>Solenis</td><td>Service Technician - Regio Randstad</td><td>Randstad</td><td>2026-07-29</td></tr>
+<tr><td>Avanade</td><td>Graduation Internship Netherland - Cyber Defend Yourself</td><td>Netherlands</td><td>2026-07-30</td></tr>
+<tr><td>Unilever Com Tr</td><td>Internship 26' - Customer Development Trade Marketing</td><td>Netherlands</td><td>2026-07-30</td></tr>
+<tr><td>Yunex Traffic</td><td>Hr Stage</td><td>Alphen Aan Den Rijn</td><td>2026-07-30</td></tr>
+<tr><td>Coty</td><td>Marketing Intern - Consumer Beauty</td><td>Amsterdam</td><td>2026-07-30</td></tr>
+<tr><td>Coty</td><td>Digital Shelf Excellence Europe Intern</td><td>Amsterdam</td><td>2026-07-30</td></tr>
+<tr><td>Saxo</td><td>Python Developer (outbound Engineering)</td><td>Amsterdam</td><td>2026-07-30</td></tr>
+<tr><td>Kraft Heinz Company</td><td>Data Analyst Intern</td><td>Amsterdam</td><td>2026-07-30</td></tr>
+<tr><td>Athleta (Gap Inc.)</td><td>Retail Sales Associate (early Morning) - Amsterdam Commons</td><td>Amsterdam</td><td>2026-07-30</td></tr>
+<tr><td>Sligro Food Group</td><td>Verkoopmedewerker Food / Sligro / Leiden</td><td>Alphen Aan Den Rijn</td><td>2026-07-30</td></tr>
+<tr><td>Primark</td><td>Part Time Retail Assistant Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-07-30</td></tr>
 </table>
