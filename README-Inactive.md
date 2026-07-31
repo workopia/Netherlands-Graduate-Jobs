@@ -287,4 +287,10 @@
 <tr><td>Athleta (Gap Inc.)</td><td>Retail Sales Associate (early Morning) - Amsterdam Commons</td><td>Amsterdam</td><td>2026-07-30</td></tr>
 <tr><td>Sligro Food Group</td><td>Verkoopmedewerker Food / Sligro / Leiden</td><td>Alphen Aan Den Rijn</td><td>2026-07-30</td></tr>
 <tr><td>Primark</td><td>Part Time Retail Assistant Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-07-30</td></tr>
+<tr><td>Portbase</td><td>Stagiair Inkoop & Contractmanagement</td><td>Alphen Aan Den Rijn</td><td>2026-07-31</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Stagiair(e) Display & Native Advertising</td><td>Amsterdam</td><td>2026-07-31</td></tr>
+<tr><td>Ses Group</td><td>Intern Corporate Marketing</td><td>Alphen Aan Den Rijn</td><td>2026-07-31</td></tr>
+<tr><td>Action</td><td>Stagiaire Sourcing</td><td>Nl</td><td>2026-07-31</td></tr>
+<tr><td>olam food ingredients (ofi)</td><td>Internship Supply Chain</td><td>Amsterdam</td><td>2026-07-31</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Reparatie- &amp; Servicemedewerker Elektronica Alexandrium</td><td>Alphen Aan Den Rijn</td><td>2026-07-31</td></tr>
 </table>
