@@ -293,4 +293,30 @@
 <tr><td>Action</td><td>Stagiaire Sourcing</td><td>Nl</td><td>2026-07-31</td></tr>
 <tr><td>olam food ingredients (ofi)</td><td>Internship Supply Chain</td><td>Amsterdam</td><td>2026-07-31</td></tr>
 <tr><td>MediaMarktSaturn</td><td>Reparatie- &amp; Servicemedewerker Elektronica Alexandrium</td><td>Alphen Aan Den Rijn</td><td>2026-07-31</td></tr>
+<tr><td>Arcadis</td><td>Internship - Afstudeerstage Project Management Gebouwen</td><td>Amersfoort</td><td>2026-08-01</td></tr>
+<tr><td>Arcadis</td><td>Internship - Afstudeerstage Duurzaam Gebouw Onderhoud</td><td>Alphen Aan Den Rijn</td><td>2026-08-01</td></tr>
+<tr><td>PSV</td><td>Stagiair(e) Video Analyse</td><td>Eindhoven</td><td>2026-08-01</td></tr>
+<tr><td>ADC</td><td>Decision Scientist / Transport & Retail</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Stagiair(e) Butler</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Hr Stagiair(e)</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>ING Group</td><td>Stagiair Hydrocarbon & New Energies</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>282</td><td>Intern - Credit Risk Consultant</td><td>Netherlands</td><td>2026-08-01</td></tr>
+<tr><td>ING</td><td>Intern - Credit Risk Consultant</td><td>Netherlands</td><td>2026-08-01</td></tr>
+<tr><td>NXP USA INC.</td><td>Internship - Robotics</td><td>Eindhoven</td><td>2026-08-01</td></tr>
+<tr><td>NXP</td><td>Internship - Robotics</td><td>Eindhoven</td><td>2026-08-01</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Pricing</td><td>Alphen Aan Den Rijn</td><td>2026-08-01</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Pricing</td><td>Alphen Aan Den Rijn</td><td>2026-08-01</td></tr>
+<tr><td>OMRON Corporation</td><td>Internal Auditor - Intern/trainee</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>OMRON</td><td>Internal Auditor - Intern/trainee</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>HAVI</td><td>Hr Stagiair</td><td>Amersfoort</td><td>2026-08-01</td></tr>
+<tr><td>Unilever Com Br</td><td>Internship 26' - Marketing Market Research And Consumer Insights</td><td>Netherlands</td><td>2026-08-01</td></tr>
+<tr><td>Coty</td><td>Intern Hr Global Functions</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>Traineekraftheinz</td><td>Marketing & Portfolio Afh Growth Intern</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>Elkgrovesubaru</td><td>Marketing & Portfolio Afh Growth Intern</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>Philips</td><td>Internship: Project Management Office (non-thesis)</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>SentinelOne</td><td>Marketing Intern</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Reparatie &amp; Servicemedewerker Elektronica Hoog Catharijne</td><td>Utrecht</td><td>2026-08-01</td></tr>
+<tr><td>Danaher Corp</td><td>Field Service Engineer Benelux</td><td>Netherlands</td><td>2026-08-01</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Reparatie &amp; Servicemedewerker Elektronica Amsterdam Arena</td><td>Amsterdam</td><td>2026-08-01</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 31h</td><td>Alphen Aan Den Rijn</td><td>2026-08-01</td></tr>
 </table>
