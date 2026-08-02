@@ -319,4 +319,16 @@
 <tr><td>Danaher Corp</td><td>Field Service Engineer Benelux</td><td>Netherlands</td><td>2026-08-01</td></tr>
 <tr><td>MediaMarktSaturn</td><td>Reparatie &amp; Servicemedewerker Elektronica Amsterdam Arena</td><td>Amsterdam</td><td>2026-08-01</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 31h</td><td>Alphen Aan Den Rijn</td><td>2026-08-01</td></tr>
+<tr><td>Vopak</td><td>Stagiair Hr</td><td>Netherlands</td><td>2026-08-02</td></tr>
+<tr><td>Teneo</td><td>Internship - Amsterdam</td><td>Amsterdam</td><td>2026-08-02</td></tr>
+<tr><td>Edelman PR</td><td>Intern Communications</td><td>Netherlands</td><td>2026-08-02</td></tr>
+<tr><td>282</td><td>Stagiair Hydrocarbon & New Energies</td><td>Amsterdam</td><td>2026-08-02</td></tr>
+<tr><td>itinfinance.nl</td><td>Stagiair Hydrocarbon & New Energies</td><td>Amsterdam</td><td>2026-08-02</td></tr>
+<tr><td>ING</td><td>Business Analyst– Intelligent Automation</td><td>Netherlands</td><td>2026-08-02</td></tr>
+<tr><td>ING</td><td>Hr Cps Business Analyst</td><td>Netherlands</td><td>2026-08-02</td></tr>
+<tr><td>ING</td><td>Business Analyst - Change Expert –data Delivery Frida Esg</td><td>Netherlands</td><td>2026-08-02</td></tr>
+<tr><td>Diversey Com Hr</td><td>Service Technician Dosing Systems</td><td>Nederland</td><td>2026-08-02</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Reparatie &amp; Servicemedewerker Elektronica Amsterdam Centrum</td><td>Amsterdam</td><td>2026-08-02</td></tr>
+<tr><td>PVH Corp.</td><td>Sales Advisor (12 Hours), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam</td><td>Alphen Aan Den Rijn</td><td>2026-08-02</td></tr>
+<tr><td>Jobgether</td><td>Accountant / Administrative Assistant</td><td>Netherlands</td><td>2026-08-02</td></tr>
 </table>

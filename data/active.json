@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-01",
- "count": 382,
+ "asOf": "2026-08-02",
+ "count": 385,
  "jobs": {
   "42763": {
    "id": "42763",
@@ -146,6 +146,36 @@
    "role": "Administratief Medewerker Da",
    "location": "Alphen Aan Den Rijn"
   },
+  "2696124": {
+   "id": "2696124",
+   "company": "Younggroup",
+   "role": "Commerciële Stagiair(e) In Amsterdam!",
+   "location": "Amsterdam"
+  },
+  "4a72affbe899eb40c2af3675e355d3fd": {
+   "id": "4a72affbe899eb40c2af3675e355d3fd",
+   "company": "Corbion Group Netherlands B.V",
+   "role": "Intern Polymer Technology",
+   "location": "S Hertogenbosch"
+  },
+  "40b0740f1e311d809ea1d394ef152d6e": {
+   "id": "40b0740f1e311d809ea1d394ef152d6e",
+   "company": "jobdayuib.cat",
+   "role": "Hr Meewerkstage",
+   "location": "S Hertogenbosch"
+  },
+  "9cfdb5816d138966107f6fbc35cadb36": {
+   "id": "9cfdb5816d138966107f6fbc35cadb36",
+   "company": "afa'afea",
+   "role": "Stagiair Continuous Improvement",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "624a374464b0d4c45706a917c0e3d737": {
+   "id": "624a374464b0d4c45706a917c0e3d737",
+   "company": "afa'afea",
+   "role": "Stagiair Laadinfra Elektrische Trucks",
+   "location": "Beesd"
+  },
   "808df15067a54b7f86a6b6d67e61c1c4": {
    "id": "808df15067a54b7f86a6b6d67e61c1c4",
    "company": "NN Group",
@@ -155,6 +185,12 @@
   "aadd055b5f7a9f8237fde1241cddbb63": {
    "id": "aadd055b5f7a9f8237fde1241cddbb63",
    "company": "Philips UK",
+   "role": "Internship: Philips Foundation - Impact Investing (master, Non-thesis)",
+   "location": "Eindhoven"
+  },
+  "ae89f5407aa4ff14dc1cbb4381ec775e": {
+   "id": "ae89f5407aa4ff14dc1cbb4381ec775e",
+   "company": "Philips Foundation",
    "role": "Internship: Philips Foundation - Impact Investing (master, Non-thesis)",
    "location": "Eindhoven"
   },
@@ -191,6 +227,12 @@
   "ebf132ed5216f7e64ee5e624f0f98d83": {
    "id": "ebf132ed5216f7e64ee5e624f0f98d83",
    "company": "Chanel",
+   "role": "Internship – Client Marketing Fashion – September 2026 - M/f/d",
+   "location": "Amsterdam"
+  },
+  "3244cdbd83f868815021b889a04b914b": {
+   "id": "3244cdbd83f868815021b889a04b914b",
+   "company": "G&F Châtelain",
    "role": "Internship – Client Marketing Fashion – September 2026 - M/f/d",
    "location": "Amsterdam"
   },
@@ -275,6 +317,12 @@
   "c45642ff557741d7b8167cd43856c51e": {
    "id": "c45642ff557741d7b8167cd43856c51e",
    "company": "282",
+   "role": "Internship Position / Wholesale Banking / Corporate Sector Coverage Nl",
+   "location": "Maple"
+  },
+  "13c555d12c39acfc66cb39a61aed6836": {
+   "id": "13c555d12c39acfc66cb39a61aed6836",
+   "company": "bankcarriere.nl",
    "role": "Internship Position / Wholesale Banking / Corporate Sector Coverage Nl",
    "location": "Maple"
   },
@@ -374,18 +422,6 @@
    "role": "Stage Mest En Mineralen Oss",
    "location": "S Hertogenbosch"
   },
-  "9cfdb5816d138966107f6fbc35cadb36": {
-   "id": "9cfdb5816d138966107f6fbc35cadb36",
-   "company": "afa'afea",
-   "role": "Stagiair Continuous Improvement",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "624a374464b0d4c45706a917c0e3d737": {
-   "id": "624a374464b0d4c45706a917c0e3d737",
-   "company": "afa'afea",
-   "role": "Stagiair Laadinfra Elektrische Trucks",
-   "location": "Beesd"
-  },
   "16bd057985fd94badd65855fc9b275b1": {
    "id": "16bd057985fd94badd65855fc9b275b1",
    "company": "Philjobs",
@@ -421,12 +457,6 @@
    "company": "Perfetti Van Melle ICT B.V",
    "role": "Internship Digital Content Marketing - Amsterdam Location",
    "location": "Amsterdam"
-  },
-  "4a72affbe899eb40c2af3675e355d3fd": {
-   "id": "4a72affbe899eb40c2af3675e355d3fd",
-   "company": "Corbion Group Netherlands B.V",
-   "role": "Intern Polymer Technology",
-   "location": "S Hertogenbosch"
   },
   "76b1cc24066a96dd490f31f29c70ec13": {
    "id": "76b1cc24066a96dd490f31f29c70ec13",
@@ -584,40 +614,16 @@
    "role": "Talent & Organization Working Internship - Strategy & Consulting",
    "location": "Amsterdam"
   },
-  "a2804d80cdf09733326a03b1a64f2e3d": {
-   "id": "a2804d80cdf09733326a03b1a64f2e3d",
-   "company": "Vopak",
-   "role": "Stagiair Hr",
-   "location": "Netherlands"
-  },
-  "2ec0ce647b8740fdf000e3cd573aecda": {
-   "id": "2ec0ce647b8740fdf000e3cd573aecda",
-   "company": "Teneo",
-   "role": "Internship - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "741c37b73246135ab15918535189e567": {
-   "id": "741c37b73246135ab15918535189e567",
-   "company": "Edelman PR",
-   "role": "Intern Communications",
-   "location": "Netherlands"
-  },
-  "c4bc45e32fc9ed2b6fbdb33c6884bc9d": {
-   "id": "c4bc45e32fc9ed2b6fbdb33c6884bc9d",
-   "company": "282",
-   "role": "Stagiair Hydrocarbon & New Energies",
-   "location": "Amsterdam"
-  },
-  "18074b052f35918e49795aef68534041": {
-   "id": "18074b052f35918e49795aef68534041",
-   "company": "itinfinance.nl",
-   "role": "Stagiair Hydrocarbon & New Energies",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
    "role": "Software Developer Intern",
+   "location": "Amsterdam"
+  },
+  "f7a8ce428d938fe30dd54faf8527182a": {
+   "id": "f7a8ce428d938fe30dd54faf8527182a",
+   "company": "IMC Trading",
+   "role": "Graduate Software Engineer (2027)",
    "location": "Amsterdam"
   },
   "00cfd4cf71543d20f01b49cb60195ea5": {
@@ -674,6 +680,12 @@
    "role": "Data Analyst - Internship",
    "location": "Cedar"
   },
+  "5eafa7e7e47d24843e04283ef1953ac7": {
+   "id": "5eafa7e7e47d24843e04283ef1953ac7",
+   "company": "itinfinance.nl",
+   "role": "Data Analyst - Internship",
+   "location": "Cedar"
+  },
   "ef7ed50002e73b95cdf606e26c11f785": {
    "id": "ef7ed50002e73b95cdf606e26c11f785",
    "company": "Philips",
@@ -727,6 +739,18 @@
    "company": "Carat Australia",
    "role": "Data Scientist",
    "location": "Amsterdam"
+  },
+  "5e27f5a3a7009e8dfcde7d637084c3b1": {
+   "id": "5e27f5a3a7009e8dfcde7d637084c3b1",
+   "company": "dentsucareer.se",
+   "role": "Data Scientist",
+   "location": "Amsterdam"
+  },
+  "34257708bc46bfa3c2905d50a73984ab": {
+   "id": "34257708bc46bfa3c2905d50a73984ab",
+   "company": "Unilever",
+   "role": "Data Analyst",
+   "location": "Brussels +1"
   },
   "f7ac44dc6f126fc5a3d717b989393e2f": {
    "id": "f7ac44dc6f126fc5a3d717b989393e2f",
@@ -854,6 +878,18 @@
    "role": "Intern Business Analyst",
    "location": "Amsterdam"
   },
+  "15bf663240ed9d84f4e7eee04a0267f2": {
+   "id": "15bf663240ed9d84f4e7eee04a0267f2",
+   "company": "WibitCS",
+   "role": "Power Platform Developer / Business Analyst",
+   "location": "Amsterdam"
+  },
+  "706972112370faf4a417a1c400f309fd": {
+   "id": "706972112370faf4a417a1c400f309fd",
+   "company": "Jobgether",
+   "role": "Contract Business Analyst",
+   "location": "Netherlands"
+  },
   "fdf6ee063faadd40574f3e3c7dd7d0ce": {
    "id": "fdf6ee063faadd40574f3e3c7dd7d0ce",
    "company": "282",
@@ -863,6 +899,12 @@
   "acecaab19311d4b72f7ea4506913f408": {
    "id": "acecaab19311d4b72f7ea4506913f408",
    "company": "ING",
+   "role": "Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe",
+   "location": "Haarlerbergpark"
+  },
+  "592028552fd7af4d232530467d900bf2": {
+   "id": "592028552fd7af4d232530467d900bf2",
+   "company": "itinfinance.nl",
    "role": "Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe",
    "location": "Haarlerbergpark"
   },
@@ -877,6 +919,12 @@
    "company": "Rbsfuel",
    "role": "Sustainable Finance Advisory Analyst",
    "location": "Amsterdam"
+  },
+  "4f113fdf234a55a90facafea46f0727e": {
+   "id": "4f113fdf234a55a90facafea46f0727e",
+   "company": "Jobgether",
+   "role": "Compliance Analyst",
+   "location": "Netherlands"
   },
   "061f6243066252994273a4a2a7012192": {
    "id": "061f6243066252994273a4a2a7012192",
@@ -895,12 +943,6 @@
    "company": "AkzoNobel N.V.",
    "role": "Payroll Analyst",
    "location": "Amsterdam"
-  },
-  "4f113fdf234a55a90facafea46f0727e": {
-   "id": "4f113fdf234a55a90facafea46f0727e",
-   "company": "Jobgether",
-   "role": "Compliance Analyst",
-   "location": "Netherlands"
   },
   "7336cebdc28ea239fedcd5f2aa25ce15": {
    "id": "7336cebdc28ea239fedcd5f2aa25ce15",
@@ -986,23 +1028,53 @@
    "role": "Sap Business Analyst & Sme",
    "location": "Netherlands"
   },
-  "ef566a43a533da5143c5946d65905479": {
-   "id": "ef566a43a533da5143c5946d65905479",
-   "company": "ING",
-   "role": "Business Analyst– Intelligent Automation",
-   "location": "Netherlands"
+  "c8e4db9ee764d7164bf4246d617a2938": {
+   "id": "c8e4db9ee764d7164bf4246d617a2938",
+   "company": "Schindler Group",
+   "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
+   "location": "Alphen Aan Den Rijn"
   },
-  "bfd8cadf4902c1ed3cdb03adbdd0e4e6": {
-   "id": "bfd8cadf4902c1ed3cdb03adbdd0e4e6",
-   "company": "ING",
-   "role": "Hr Cps Business Analyst",
-   "location": "Netherlands"
+  "d3af288591199e4d6b47348b4581a681": {
+   "id": "d3af288591199e4d6b47348b4581a681",
+   "company": "Schindler Group",
+   "role": "Reparatie Monteur Zuid",
+   "location": "Alphen Aan Den Rijn"
   },
-  "dee6c85caea2b750e8f6df7615011aaf": {
-   "id": "dee6c85caea2b750e8f6df7615011aaf",
-   "company": "ING",
-   "role": "Business Analyst - Change Expert –data Delivery Frida Esg",
-   "location": "Netherlands"
+  "a341ea7b8e2fdc4e68e74838ba7648c7": {
+   "id": "a341ea7b8e2fdc4e68e74838ba7648c7",
+   "company": "Schindler Group",
+   "role": "Service Technician Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "1f8218c29cccc96d7c4dfc3e8b57b5b6": {
+   "id": "1f8218c29cccc96d7c4dfc3e8b57b5b6",
+   "company": "Schindler Group",
+   "role": "Service Technician Utrecht",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "6a4c9cb7bd9d896c6c6c773492a32207": {
+   "id": "6a4c9cb7bd9d896c6c6c773492a32207",
+   "company": "Schindler Group",
+   "role": "Service Technician Regio Leiden",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "e1e763a5fa3e969e47c700978e464d1e": {
+   "id": "e1e763a5fa3e969e47c700978e464d1e",
+   "company": "Schindler Group",
+   "role": "Service Technician Roltrappen",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "75cdf40a922ddfe0077a6cf9033934bd": {
+   "id": "75cdf40a922ddfe0077a6cf9033934bd",
+   "company": "afa'afea",
+   "role": "Apk & Tachograaf Keurmeester",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "60d463102796c625eb5575e6962790a7": {
+   "id": "60d463102796c625eb5575e6962790a7",
+   "company": "ABB UK",
+   "role": "Service Engineer Marine & Ports Drives",
+   "location": "Alphen Aan Den Rijn"
   },
   "ea78892a126019dd079a1eda980ca9ed": {
    "id": "ea78892a126019dd079a1eda980ca9ed",
@@ -1075,12 +1147,6 @@
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Reparatie & Servicemedewerker Elektronica Amsterdam Arena",
    "location": "Amsterdam"
-  },
-  "75cdf40a922ddfe0077a6cf9033934bd": {
-   "id": "75cdf40a922ddfe0077a6cf9033934bd",
-   "company": "afa'afea",
-   "role": "Apk & Tachograaf Keurmeester",
-   "location": "Alphen Aan Den Rijn"
   },
   "5b84c2195809439ca87f36a3a29d80c9": {
    "id": "5b84c2195809439ca87f36a3a29d80c9",
@@ -1304,36 +1370,6 @@
    "role": "Mechanical Technician",
    "location": "Westdorpe"
   },
-  "c8e4db9ee764d7164bf4246d617a2938": {
-   "id": "c8e4db9ee764d7164bf4246d617a2938",
-   "company": "Schindler Group",
-   "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "a341ea7b8e2fdc4e68e74838ba7648c7": {
-   "id": "a341ea7b8e2fdc4e68e74838ba7648c7",
-   "company": "Schindler Group",
-   "role": "Service Technician Rotterdam",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1f8218c29cccc96d7c4dfc3e8b57b5b6": {
-   "id": "1f8218c29cccc96d7c4dfc3e8b57b5b6",
-   "company": "Schindler Group",
-   "role": "Service Technician Utrecht",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "6a4c9cb7bd9d896c6c6c773492a32207": {
-   "id": "6a4c9cb7bd9d896c6c6c773492a32207",
-   "company": "Schindler Group",
-   "role": "Service Technician Regio Leiden",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "d3af288591199e4d6b47348b4581a681": {
-   "id": "d3af288591199e4d6b47348b4581a681",
-   "company": "Schindler Group",
-   "role": "Reparatie Monteur Zuid",
-   "location": "Alphen Aan Den Rijn"
-  },
   "a53909c3fd476282075b27287cd05588": {
    "id": "a53909c3fd476282075b27287cd05588",
    "company": "ABB Ltd",
@@ -1460,16 +1496,10 @@
    "role": "Maintenance Specialist – Steriele Productie",
    "location": "Olst"
   },
-  "4f6b6ece985afdb88d76e46cc1f50a37": {
-   "id": "4f6b6ece985afdb88d76e46cc1f50a37",
-   "company": "Diversey Com Hr",
-   "role": "Service Technician Dosing Systems",
-   "location": "Nederland"
-  },
-  "9c6ed41d72cabe895c22a3e7c45f49e9": {
-   "id": "9c6ed41d72cabe895c22a3e7c45f49e9",
-   "company": "MediaMarktSaturn",
-   "role": "Reparatie &amp; Servicemedewerker Elektronica Amsterdam Centrum",
+  "f55685e99d9841c34a299169ab346e9d": {
+   "id": "f55685e99d9841c34a299169ab346e9d",
+   "company": "Nestle SA",
+   "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
    "location": "Amsterdam"
   },
   "69241ff2c30fe8b59bed4d4bf432b631": {
@@ -1922,12 +1952,6 @@
    "role": "Sales Advisor (12 Hours), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam",
    "location": "Alphen Aan Den Rijn"
   },
-  "685b1f278da454c1560fcfc541f15031": {
-   "id": "685b1f278da454c1560fcfc541f15031",
-   "company": "PVH Corp.",
-   "role": "Sales Advisor (12 Hours), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam",
-   "location": "Alphen Aan Den Rijn"
-  },
   "d3a413700b5fd7df0af135501f98fe08": {
    "id": "d3a413700b5fd7df0af135501f98fe08",
    "company": "CEVA Logistics",
@@ -2287,12 +2311,6 @@
    "company": "Primark",
    "role": "Parttime Retail Assistant Eindhoven",
    "location": "Eindhoven"
-  },
-  "ddc285a0113519ec90e64014e88216bc": {
-   "id": "ddc285a0113519ec90e64014e88216bc",
-   "company": "Jobgether",
-   "role": "Accountant / Administrative Assistant",
-   "location": "Netherlands"
   }
  }
 }
