@@ -331,4 +331,11 @@
 <tr><td>MediaMarktSaturn</td><td>Reparatie &amp; Servicemedewerker Elektronica Amsterdam Centrum</td><td>Amsterdam</td><td>2026-08-02</td></tr>
 <tr><td>PVH Corp.</td><td>Sales Advisor (12 Hours), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam</td><td>Alphen Aan Den Rijn</td><td>2026-08-02</td></tr>
 <tr><td>Jobgether</td><td>Accountant / Administrative Assistant</td><td>Netherlands</td><td>2026-08-02</td></tr>
+<tr><td>ING Private Banking</td><td>Meewerkstage Marketing Ing Private Banking</td><td>Netherlands</td><td>2026-08-03</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Meewerkstage Marketing Ing Private Banking</td><td>Netherlands</td><td>2026-08-03</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Global Data Privacy Management</td><td>S Hertogenbosch</td><td>2026-08-03</td></tr>
+<tr><td>Secrid</td><td>Stagiair Qualitystagesecrid Hq</td><td>Alphen Aan Den Rijn</td><td>2026-08-03</td></tr>
+<tr><td>Secrid</td><td>Stagiair Concept Designstagesecrid Hq</td><td>Alphen Aan Den Rijn</td><td>2026-08-03</td></tr>
+<tr><td>Halfspace ApS</td><td>Talent & Organization Working Internship - Strategy & Consulting</td><td>Amsterdam</td><td>2026-08-03</td></tr>
+<tr><td>jobs.abbott</td><td>Maintenance Specialist – Steriele Productie</td><td>Olst</td><td>2026-08-03</td></tr>
 </table>

@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-02",
- "count": 385,
+ "asOf": "2026-08-03",
+ "count": 387,
  "jobs": {
   "42763": {
    "id": "42763",
@@ -152,6 +152,42 @@
    "role": "Commerciële Stagiair(e) In Amsterdam!",
    "location": "Amsterdam"
   },
+  "32abe0da2acd6bf1e5a18ba36f435298": {
+   "id": "32abe0da2acd6bf1e5a18ba36f435298",
+   "company": "GKN Aerospace Services Ltd",
+   "role": "Stagiair Finance",
+   "location": "Breda"
+  },
+  "8ddb570f5eae7eb0467b9212c9965e29": {
+   "id": "8ddb570f5eae7eb0467b9212c9965e29",
+   "company": "olam food ingredients (ofi)",
+   "role": "Internship Supply Chain",
+   "location": "Amsterdam"
+  },
+  "f8c030310c8823f4423be9e5c842cbfc": {
+   "id": "f8c030310c8823f4423be9e5c842cbfc",
+   "company": "olam food ingredients (ofi)",
+   "role": "R&d Internship - Shelf Life & Nut Fillings",
+   "location": "Amsterdam"
+  },
+  "52ce54372cccaa7f8f077cb9e73dbb2f": {
+   "id": "52ce54372cccaa7f8f077cb9e73dbb2f",
+   "company": "Nouryon",
+   "role": "R&d Internship",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "4c848641210d5a03d6974abc1f458bf9": {
+   "id": "4c848641210d5a03d6974abc1f458bf9",
+   "company": "Vetamc",
+   "role": "Stagiair – Laboratorium Of Productietechniek – Visuele Inspectie",
+   "location": "North Brabant"
+  },
+  "3c25bb50425eeed1d1d0e648d92de715": {
+   "id": "3c25bb50425eeed1d1d0e648d92de715",
+   "company": "Dyson",
+   "role": "Intern",
+   "location": "Amsterdam Office"
+  },
   "4a72affbe899eb40c2af3675e355d3fd": {
    "id": "4a72affbe899eb40c2af3675e355d3fd",
    "company": "Corbion Group Netherlands B.V",
@@ -161,6 +197,12 @@
   "40b0740f1e311d809ea1d394ef152d6e": {
    "id": "40b0740f1e311d809ea1d394ef152d6e",
    "company": "jobdayuib.cat",
+   "role": "Hr Meewerkstage",
+   "location": "S Hertogenbosch"
+  },
+  "be5cfe5763e068edb967f8a8fad890f2": {
+   "id": "be5cfe5763e068edb967f8a8fad890f2",
+   "company": "santillana.cat",
    "role": "Hr Meewerkstage",
    "location": "S Hertogenbosch"
   },
@@ -446,12 +488,6 @@
    "role": "Work Student Marketing",
    "location": "Bakel"
   },
-  "32abe0da2acd6bf1e5a18ba36f435298": {
-   "id": "32abe0da2acd6bf1e5a18ba36f435298",
-   "company": "GKN Aerospace Services Ltd",
-   "role": "Stagiair Finance",
-   "location": "Breda"
-  },
   "225be422612a65228185006d62e9e5d2": {
    "id": "225be422612a65228185006d62e9e5d2",
    "company": "Perfetti Van Melle ICT B.V",
@@ -578,42 +614,6 @@
    "role": "Meewerkstage Marketing Ing Private Banking",
    "location": "Netherlands"
   },
-  "073514dcc971556212a7b0e4ddb9526a": {
-   "id": "073514dcc971556212a7b0e4ddb9526a",
-   "company": "ING Private Banking",
-   "role": "Meewerkstage Marketing Ing Private Banking",
-   "location": "Netherlands"
-  },
-  "847cfe41573540d9b8fa05f9a4be06d6": {
-   "id": "847cfe41573540d9b8fa05f9a4be06d6",
-   "company": "Valmont Industries, Inc",
-   "role": "Meewerkstage Marketing Ing Private Banking",
-   "location": "Netherlands"
-  },
-  "213b3baa2b9e0cff5e16e8e3b929a36e": {
-   "id": "213b3baa2b9e0cff5e16e8e3b929a36e",
-   "company": "Vanderlande UK",
-   "role": "Internship: Global Data Privacy Management",
-   "location": "S Hertogenbosch"
-  },
-  "a684614fdf4914e421b89a09a57809d0": {
-   "id": "a684614fdf4914e421b89a09a57809d0",
-   "company": "Secrid",
-   "role": "Stagiair Qualitystagesecrid Hq",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "f7de18483fcbc8a4d83eeed3cea9c579": {
-   "id": "f7de18483fcbc8a4d83eeed3cea9c579",
-   "company": "Secrid",
-   "role": "Stagiair Concept Designstagesecrid Hq",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "3fcbd8633dce3cb0d39482f280a3e1d4": {
-   "id": "3fcbd8633dce3cb0d39482f280a3e1d4",
-   "company": "Halfspace ApS",
-   "role": "Talent & Organization Working Internship - Strategy & Consulting",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -728,6 +728,12 @@
    "role": "Oliver Wyman - Internship, Analyst - Data & Analytics - Amsterdam",
    "location": "Amsterdam"
   },
+  "902c5040c37a20b3a81fe39c5e74ff41": {
+   "id": "902c5040c37a20b3a81fe39c5e74ff41",
+   "company": "Nestle SA",
+   "role": "Masterdata Analyst",
+   "location": "Amsterdam"
+  },
   "184910780351de7a3b1fce88127db675": {
    "id": "184910780351de7a3b1fce88127db675",
    "company": "220",
@@ -743,6 +749,12 @@
   "5e27f5a3a7009e8dfcde7d637084c3b1": {
    "id": "5e27f5a3a7009e8dfcde7d637084c3b1",
    "company": "dentsucareer.se",
+   "role": "Data Scientist",
+   "location": "Amsterdam"
+  },
+  "19996d6b1599b37e796c58599b6a6990": {
+   "id": "19996d6b1599b37e796c58599b6a6990",
+   "company": "Dentsusports",
    "role": "Data Scientist",
    "location": "Amsterdam"
   },
@@ -787,12 +799,6 @@
    "company": "Jobgether",
    "role": "Growth & Data (ic)",
    "location": "Netherlands"
-  },
-  "902c5040c37a20b3a81fe39c5e74ff41": {
-   "id": "902c5040c37a20b3a81fe39c5e74ff41",
-   "company": "Nestle SA",
-   "role": "Masterdata Analyst",
-   "location": "Amsterdam"
   },
   "7117f317c62658946aae5431012ded74": {
    "id": "7117f317c62658946aae5431012ded74",
@@ -878,6 +884,12 @@
    "role": "Intern Business Analyst",
    "location": "Amsterdam"
   },
+  "b6bf4d5b36a76452d0931c7de4ee7d90": {
+   "id": "b6bf4d5b36a76452d0931c7de4ee7d90",
+   "company": "Nouryon",
+   "role": "Payroll Analyst",
+   "location": "Amsterdam"
+  },
   "15bf663240ed9d84f4e7eee04a0267f2": {
    "id": "15bf663240ed9d84f4e7eee04a0267f2",
    "company": "WibitCS",
@@ -905,6 +917,12 @@
   "592028552fd7af4d232530467d900bf2": {
    "id": "592028552fd7af4d232530467d900bf2",
    "company": "itinfinance.nl",
+   "role": "Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe",
+   "location": "Haarlerbergpark"
+  },
+  "a13c42231931ce2841b87e3594356d2e": {
+   "id": "a13c42231931ce2841b87e3594356d2e",
+   "company": "ING Group",
    "role": "Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe",
    "location": "Haarlerbergpark"
   },
@@ -954,12 +972,6 @@
    "id": "e2eb4fe7e58d2d49a278025f6de6869b",
    "company": "Oaklins International Inc",
    "role": "Investment Banking Interninternshipamsterdam, Zuidas",
-   "location": "Amsterdam"
-  },
-  "b6bf4d5b36a76452d0931c7de4ee7d90": {
-   "id": "b6bf4d5b36a76452d0931c7de4ee7d90",
-   "company": "Nouryon",
-   "role": "Payroll Analyst",
    "location": "Amsterdam"
   },
   "331fa5d8e2a4f6cda60dd1523612bd2f": {
@@ -1027,6 +1039,18 @@
    "company": "Jobgether",
    "role": "Sap Business Analyst & Sme",
    "location": "Netherlands"
+  },
+  "f8564aecd097a7192bdc10e5434063bc": {
+   "id": "f8564aecd097a7192bdc10e5434063bc",
+   "company": "Nouryon",
+   "role": "Mechanic Allround",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "c73de303165f7eea1bac4d5acf3b09b9": {
+   "id": "c73de303165f7eea1bac4d5acf3b09b9",
+   "company": "Cabot Corporation",
+   "role": "E/i Craftsperson Maintenance",
+   "location": "Alphen Aan Den Rijn"
   },
   "c8e4db9ee764d7164bf4246d617a2938": {
    "id": "c8e4db9ee764d7164bf4246d617a2938",
@@ -1298,12 +1322,6 @@
    "role": "Field Service Engineer 2d-laser",
    "location": "Netherlands"
   },
-  "f8564aecd097a7192bdc10e5434063bc": {
-   "id": "f8564aecd097a7192bdc10e5434063bc",
-   "company": "AkzoNobel",
-   "role": "Mechanic Allround",
-   "location": "Alphen Aan Den Rijn"
-  },
   "6d47c2bab371f424fa8d4b05897f4c56": {
    "id": "6d47c2bab371f424fa8d4b05897f4c56",
    "company": "microsatsystems.biz",
@@ -1489,12 +1507,6 @@
    "company": "asud-ascenseur.fr",
    "role": "Service Monteur Amsterdam & Amstelveen",
    "location": "Utrecht"
-  },
-  "b6182bb8f9aadaed696446e231f9fdd2": {
-   "id": "b6182bb8f9aadaed696446e231f9fdd2",
-   "company": "jobs.abbott",
-   "role": "Maintenance Specialist – Steriele Productie",
-   "location": "Olst"
   },
   "f55685e99d9841c34a299169ab346e9d": {
    "id": "f55685e99d9841c34a299169ab346e9d",
