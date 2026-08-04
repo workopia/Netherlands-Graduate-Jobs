@@ -338,4 +338,12 @@
 <tr><td>Secrid</td><td>Stagiair Concept Designstagesecrid Hq</td><td>Alphen Aan Den Rijn</td><td>2026-08-03</td></tr>
 <tr><td>Halfspace ApS</td><td>Talent & Organization Working Internship - Strategy & Consulting</td><td>Amsterdam</td><td>2026-08-03</td></tr>
 <tr><td>jobs.abbott</td><td>Maintenance Specialist – Steriele Productie</td><td>Olst</td><td>2026-08-03</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Internship Debt Capital Markets Investment Grade Corporate Team</td><td>Netherlands</td><td>2026-08-04</td></tr>
+<tr><td>ING</td><td>Internship Talent, Learning Leadership & Dib</td><td>Netherlands</td><td>2026-08-04</td></tr>
+<tr><td>itinfinance.nl</td><td>Meewerkstage Marketing Ing Private Banking</td><td>Netherlands</td><td>2026-08-04</td></tr>
+<tr><td>ING Group</td><td>Meewerkstage Marketing Ing Private Banking</td><td>Netherlands</td><td>2026-08-04</td></tr>
+<tr><td>Coty Inc</td><td>Intern Business Analyst</td><td>Amsterdam</td><td>2026-08-04</td></tr>
+<tr><td>asud-ascenseur.fr</td><td>Service Monteur Amsterdam & Amstelveen</td><td>Utrecht</td><td>2026-08-04</td></tr>
+<tr><td>GXO Logistics</td><td>Hr Administrative</td><td>Alphen Aan Den Rijn</td><td>2026-08-04</td></tr>
+<tr><td>Primark</td><td>Parttime Retail Assistant Eindhoven</td><td>Eindhoven</td><td>2026-08-04</td></tr>
 </table>
