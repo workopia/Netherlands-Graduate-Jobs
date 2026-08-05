@@ -346,4 +346,20 @@
 <tr><td>asud-ascenseur.fr</td><td>Service Monteur Amsterdam & Amstelveen</td><td>Utrecht</td><td>2026-08-04</td></tr>
 <tr><td>GXO Logistics</td><td>Hr Administrative</td><td>Alphen Aan Den Rijn</td><td>2026-08-04</td></tr>
 <tr><td>Primark</td><td>Parttime Retail Assistant Eindhoven</td><td>Eindhoven</td><td>2026-08-04</td></tr>
+<tr><td>MS Mode Nederland BV</td><td>Verkoopmedewerker (flex 3-20 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-08-05</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Stagiair(e) Reserveringen</td><td>Amsterdam</td><td>2026-08-05</td></tr>
+<tr><td>Ses Group</td><td>Intern Corporate Marketing</td><td>Alphen Aan Den Rijn</td><td>2026-08-05</td></tr>
+<tr><td>Ses Group</td><td>Intern, Europe, Middle East And Africa Regulatory And Legal</td><td>Alphen Aan Den Rijn</td><td>2026-08-05</td></tr>
+<tr><td>Ses Group</td><td>Intern, Spectrum Management And Strategy</td><td>Alphen Aan Den Rijn</td><td>2026-08-05</td></tr>
+<tr><td>Coty Inc.</td><td>Training & Marketing Intern Ams Hub</td><td>Amsterdam</td><td>2026-08-05</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>R&d Internship</td><td>Alphen Aan Den Rijn</td><td>2026-08-05</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship Debt Capital Markets Investment Grade Corporate Team</td><td>Amsterdam</td><td>2026-08-05</td></tr>
+<tr><td>ING Group</td><td>Internship Debt Capital Markets Investment Grade Corporate Team</td><td>Amsterdam</td><td>2026-08-05</td></tr>
+<tr><td>www.think-ing.de</td><td>Internship Debt Capital Markets Investment Grade Corporate Team</td><td>Amsterdam</td><td>2026-08-05</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship Talent, Learning Leadership & Dib</td><td>Netherlands</td><td>2026-08-05</td></tr>
+<tr><td>ING Group</td><td>Internship Talent, Learning Leadership & Dib</td><td>Netherlands</td><td>2026-08-05</td></tr>
+<tr><td>www.think-ing.de</td><td>Internship Talent, Learning Leadership & Dib</td><td>Netherlands</td><td>2026-08-05</td></tr>
+<tr><td>asud-ascenseur.fr</td><td>Service Monteur Noord-holland</td><td>Badhoevedorp</td><td>2026-08-05</td></tr>
+<tr><td>Nestle Ltd</td><td>Verkoopmedewerker Nespresso Amstelveen Stadshart</td><td>Amsterdam</td><td>2026-08-05</td></tr>
+<tr><td>Throwbackpacks</td><td>Sales Advisor (12 Hours), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam</td><td>Alphen Aan Den Rijn</td><td>2026-08-05</td></tr>
 </table>
