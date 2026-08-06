@@ -362,4 +362,11 @@
 <tr><td>asud-ascenseur.fr</td><td>Service Monteur Noord-holland</td><td>Badhoevedorp</td><td>2026-08-05</td></tr>
 <tr><td>Nestle Ltd</td><td>Verkoopmedewerker Nespresso Amstelveen Stadshart</td><td>Amsterdam</td><td>2026-08-05</td></tr>
 <tr><td>Throwbackpacks</td><td>Sales Advisor (12 Hours), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam</td><td>Alphen Aan Den Rijn</td><td>2026-08-05</td></tr>
+<tr><td>Coty Inc.</td><td>Procurement Intern - Raw Materials & Tpm</td><td>Amsterdam</td><td>2026-08-06</td></tr>
+<tr><td>Coty Inc.</td><td>Tpm Color Cosmetics Procurement Intern</td><td>Amsterdam-Zuid</td><td>2026-08-06</td></tr>
+<tr><td>Coty Inc.</td><td>Marketing Intern Prestige Edm</td><td>Amsterdam</td><td>2026-08-06</td></tr>
+<tr><td>Cantire</td><td>Field Service Engineer - Carrier Rental</td><td>Netherlands</td><td>2026-08-06</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Sales Advisor (oproep), Tommy Hilfiger Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-08-06</td></tr>
+<tr><td>Tommy Hilfiger / Calvin Klein - De Bijenkorf</td><td>Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-06</td></tr>
+<tr><td>PVH Corp.</td><td>Sales Advisor (oproep), Calvin Klein - Mall Of The Netherlands Den Haag/leidschendam</td><td>Alphen Aan Den Rijn</td><td>2026-08-06</td></tr>
 </table>
