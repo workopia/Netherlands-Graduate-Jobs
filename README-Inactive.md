@@ -369,4 +369,11 @@
 <tr><td>Tommy Hilfiger</td><td>Sales Advisor (oproep), Tommy Hilfiger Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-08-06</td></tr>
 <tr><td>Tommy Hilfiger / Calvin Klein - De Bijenkorf</td><td>Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-06</td></tr>
 <tr><td>PVH Corp.</td><td>Sales Advisor (oproep), Calvin Klein - Mall Of The Netherlands Den Haag/leidschendam</td><td>Alphen Aan Den Rijn</td><td>2026-08-06</td></tr>
+<tr><td>Coty Inc.</td><td>Marketing Intern Hugo Boss</td><td>Amsterdam</td><td>2026-08-07</td></tr>
+<tr><td>Coty Inc.</td><td>Intern Hr Global Functions</td><td>Amsterdam</td><td>2026-08-07</td></tr>
+<tr><td>Coty Inc.</td><td>Facility Management Intern</td><td>Amsterdam</td><td>2026-08-07</td></tr>
+<tr><td>HelloFresh</td><td>Allround Onderhoudsmonteur (v/m/x)</td><td>Alphen Aan Den Rijn</td><td>2026-08-07</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Technician - Global Marine En Navy</td><td>Gorinchem +7</td><td>2026-08-07</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Verkoopmedewerker 32hs - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-07</td></tr>
+<tr><td>Skechers</td><td>Verkoopmedewerker 32hs - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-07</td></tr>
 </table>

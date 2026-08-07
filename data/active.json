@@ -1,12 +1,18 @@
 {
- "asOf": "2026-08-06",
- "count": 381,
+ "asOf": "2026-08-07",
+ "count": 384,
  "jobs": {
   "42763": {
    "id": "42763",
    "company": "Arcadis",
    "role": "Internship - Afstudeeropdracht Bovenleiding",
    "location": "Amersfoort"
+  },
+  "81660": {
+   "id": "81660",
+   "company": "Firmenich",
+   "role": "Trainee / Apprentice",
+   "location": "Alphen Aan Den Rijn"
   },
   "2565608": {
    "id": "2565608",
@@ -182,6 +188,18 @@
    "role": "Stagiair(e) Butler",
    "location": "Amsterdam"
   },
+  "2700015": {
+   "id": "2700015",
+   "company": "Den Hartogh Liquid Logistics",
+   "role": "Customer Service Coordinator Global",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "7ee58e9a5fda4f5655c411b44d662bdc": {
+   "id": "7ee58e9a5fda4f5655c411b44d662bdc",
+   "company": "itinfinance.nl",
+   "role": "Stagiair Marketing & Communicatie",
+   "location": "Haarlerbergpark"
+  },
   "56409a7fa3937687e8834d4d2a17a74d": {
    "id": "56409a7fa3937687e8834d4d2a17a74d",
    "company": "Shell Energy UK",
@@ -193,6 +211,12 @@
    "company": "Stora Enso Oyj",
    "role": "Stagiair Safety",
    "location": "Alphen Aan Den Rijn"
+  },
+  "dfe634110e9f0171a2d417f11d5fd974": {
+   "id": "dfe634110e9f0171a2d417f11d5fd974",
+   "company": "Colgate-Palmolive",
+   "role": "E-commerce Internship",
+   "location": "Amsterdam"
   },
   "4d7a66c4d8b7f74191098e2c1dff4744": {
    "id": "4d7a66c4d8b7f74191098e2c1dff4744",
@@ -596,24 +620,6 @@
    "role": "Marketing Intern",
    "location": "Amsterdam"
   },
-  "70e139501228a1518808cf4a7084159a": {
-   "id": "70e139501228a1518808cf4a7084159a",
-   "company": "Coty Inc.",
-   "role": "Marketing Intern Hugo Boss",
-   "location": "Amsterdam"
-  },
-  "985f6b32d8460d0d05a66ba48b7d6d3f": {
-   "id": "985f6b32d8460d0d05a66ba48b7d6d3f",
-   "company": "Coty Inc.",
-   "role": "Intern Hr Global Functions",
-   "location": "Amsterdam"
-  },
-  "6195ea9cf500d35b8e8cb8fbee751501": {
-   "id": "6195ea9cf500d35b8e8cb8fbee751501",
-   "company": "Coty Inc.",
-   "role": "Facility Management Intern",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -624,6 +630,12 @@
    "id": "f7a8ce428d938fe30dd54faf8527182a",
    "company": "IMC Trading",
    "role": "Graduate Software Engineer (2027)",
+   "location": "Amsterdam"
+  },
+  "6801bce67ed036a695e79bf08baa0f8e": {
+   "id": "6801bce67ed036a695e79bf08baa0f8e",
+   "company": "Adyen",
+   "role": "Staff Engineer (java) - Merchant Fraud Prevention",
    "location": "Amsterdam"
   },
   "00cfd4cf71543d20f01b49cb60195ea5": {
@@ -666,6 +678,12 @@
    "id": "83b834aebd2d426fa7c41bf7e286bc9c",
    "company": "Insify",
    "role": "Software Engineer, Claims Platform",
+   "location": "Amsterdam"
+  },
+  "677399a2924d92f13e7097bd92289643": {
+   "id": "677399a2924d92f13e7097bd92289643",
+   "company": "Bynder",
+   "role": "Customer Analytics Internship",
    "location": "Amsterdam"
   },
   "c0a224fbe107f04f3ef313b0952a3ffa": {
@@ -727,6 +745,12 @@
    "company": "Marsh & McLennan Companies Inc",
    "role": "Oliver Wyman - Internship, Analyst - Data & Analytics - Amsterdam",
    "location": "Amsterdam"
+  },
+  "e8f971ab84ed8f5d5b67ab81b9331a4d": {
+   "id": "e8f971ab84ed8f5d5b67ab81b9331a4d",
+   "company": "Swiss Life",
+   "role": "Data Analyst Benelux",
+   "location": "The Netherlands"
   },
   "902c5040c37a20b3a81fe39c5e74ff41": {
    "id": "902c5040c37a20b3a81fe39c5e74ff41",
@@ -1034,11 +1058,29 @@
    "role": "Sap Business Analyst & Sme",
    "location": "Netherlands"
   },
+  "2c10a9b4a81713a8ff8a5be7fb8cb9ec": {
+   "id": "2c10a9b4a81713a8ff8a5be7fb8cb9ec",
+   "company": "Bilfinger",
+   "role": "Werkvoorbereider Elektrotechniek",
+   "location": "Alphen Aan Den Rijn"
+  },
   "45468810b950a842ba2081a806ca9f66": {
    "id": "45468810b950a842ba2081a806ca9f66",
    "company": "Otisjob",
    "role": "Service Monteur Liften Zuid-holland",
    "location": "Utrecht"
+  },
+  "881e7d4306fef483fab4feebd3a698b9": {
+   "id": "881e7d4306fef483fab4feebd3a698b9",
+   "company": "workday.gea",
+   "role": "Field Service Engineer",
+   "location": "De Rijp"
+  },
+  "8ff302424fc30328a6336d18c4d487c2": {
+   "id": "8ff302424fc30328a6336d18c4d487c2",
+   "company": "Yara International ASA",
+   "role": "Hoofdmonteur",
+   "location": "Alphen Aan Den Rijn"
   },
   "42d0ec42ab17a6dd8283ea88f6c10896": {
    "id": "42d0ec42ab17a6dd8283ea88f6c10896",
@@ -1304,12 +1346,6 @@
    "role": "Servicetechnicus (technicus E&i A)",
    "location": "Alphen Aan Den Rijn"
   },
-  "2c10a9b4a81713a8ff8a5be7fb8cb9ec": {
-   "id": "2c10a9b4a81713a8ff8a5be7fb8cb9ec",
-   "company": "Bilfinger",
-   "role": "Werkvoorbereider Elektrotechniek",
-   "location": "Alphen Aan Den Rijn"
-  },
   "ac43cc434c31cf5ab7d317c958c3fd45": {
    "id": "ac43cc434c31cf5ab7d317c958c3fd45",
    "company": "Colgate-Palmolive",
@@ -1484,17 +1520,17 @@
    "role": "Mechanisch Monteur",
    "location": "Cuijk"
   },
-  "7c96a68cfc28ae19e9a242b9dacde5c8": {
-   "id": "7c96a68cfc28ae19e9a242b9dacde5c8",
-   "company": "HelloFresh",
-   "role": "Allround Onderhoudsmonteur (v/m/x)",
-   "location": "Alphen Aan Den Rijn"
+  "e3092f87d68a0aeeef2a013586210ff0": {
+   "id": "e3092f87d68a0aeeef2a013586210ff0",
+   "company": "Capri",
+   "role": "Part Time Sales Associate 12h",
+   "location": "Amsterdam"
   },
-  "00b58edc7ac46f91f50718e788fbf492": {
-   "id": "00b58edc7ac46f91f50718e788fbf492",
-   "company": "Johnson Controls OpenBlue",
-   "role": "Technician - Global Marine En Navy",
-   "location": "Gorinchem +7"
+  "31f4b030b828336d69019c5141864810": {
+   "id": "31f4b030b828336d69019c5141864810",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor 5-12h",
+   "location": "Amsterdam"
   },
   "0f17ecfbfcf70428aa667a145f205a8a": {
    "id": "0f17ecfbfcf70428aa667a145f205a8a",
@@ -1603,12 +1639,6 @@
    "company": "Parfumerie Douglas Nederland",
    "role": "Service Assistantparttimerotterdam Zuidplein",
    "location": "Alphen Aan Den Rijn"
-  },
-  "31f4b030b828336d69019c5141864810": {
-   "id": "31f4b030b828336d69019c5141864810",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor 5-12h",
-   "location": "Amsterdam"
   },
   "737f2ecd985d8ee5d05cfac8030d3480": {
    "id": "737f2ecd985d8ee5d05cfac8030d3480",
@@ -1916,17 +1946,11 @@
    "role": "Verkoopmedewerker - Amsterdam Maison De Bonneterie (31 Uur)",
    "location": "Amsterdam"
   },
-  "f0225d10d0d19ffa24b4707f82f7a123": {
-   "id": "f0225d10d0d19ffa24b4707f82f7a123",
-   "company": "SKECHERS USA Inc",
-   "role": "Verkoopmedewerker 32hs - Rotterdam",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "bc9159c7bdc69e92c4ba92db250f11b4": {
-   "id": "bc9159c7bdc69e92c4ba92db250f11b4",
-   "company": "Skechers",
-   "role": "Verkoopmedewerker 32hs - Rotterdam",
-   "location": "Alphen Aan Den Rijn"
+  "a2f723b378d6a493315d42dcd213267d": {
+   "id": "a2f723b378d6a493315d42dcd213267d",
+   "company": "DSV Panalpina AS",
+   "role": "Logistiek Administratief Medewerker",
+   "location": "Moerdijk"
   },
   "e9b0721c8ab045e576020c7515c570dc": {
    "id": "e9b0721c8ab045e576020c7515c570dc",
@@ -1987,12 +2011,6 @@
    "company": "Primark",
    "role": "Parttime Retail Assistant Zaandam",
    "location": "Amsterdam"
-  },
-  "a2f723b378d6a493315d42dcd213267d": {
-   "id": "a2f723b378d6a493315d42dcd213267d",
-   "company": "DSV Panalpina AS",
-   "role": "Logistiek Administratief Medewerker",
-   "location": "Moerdijk"
   },
   "b7a3e1dabf98657628522c32e0cecdda": {
    "id": "b7a3e1dabf98657628522c32e0cecdda",
