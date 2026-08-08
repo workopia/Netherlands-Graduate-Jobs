@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-07",
+ "asOf": "2026-08-08",
  "count": 384,
  "jobs": {
   "42763": {
@@ -73,12 +73,6 @@
    "company": "Mobiel",
    "role": "Bijbaan Administratief Medewerker (16 Tot 24 Uur) - Flexibel Naast Je Studie",
    "location": "Leidschendam"
-  },
-  "2664881": {
-   "id": "2664881",
-   "company": "Younggroup",
-   "role": "Huismeester/facilitair Medewerker (den Haag/rotterdam)",
-   "location": "Alphen Aan Den Rijn"
   },
   "2665659": {
    "id": "2665659",
@@ -194,17 +188,59 @@
    "role": "Customer Service Coordinator Global",
    "location": "Alphen Aan Den Rijn"
   },
+  "2700076": {
+   "id": "2700076",
+   "company": "Simvia",
+   "role": "Sales Stage Benelux (nederlandstalig) - Growing Impact Scale Up",
+   "location": "Amsterdam"
+  },
+  "4e56573d8d1fd4c54bad5cee74723219": {
+   "id": "4e56573d8d1fd4c54bad5cee74723219",
+   "company": "Omnicom Public Relations Group",
+   "role": "Stage Pr En Communicatie Consultant",
+   "location": "Amsterdam"
+  },
   "7ee58e9a5fda4f5655c411b44d662bdc": {
    "id": "7ee58e9a5fda4f5655c411b44d662bdc",
    "company": "itinfinance.nl",
    "role": "Stagiair Marketing & Communicatie",
    "location": "Haarlerbergpark"
   },
+  "e9e64b12414ec48687b839ed5434f0a0": {
+   "id": "e9e64b12414ec48687b839ed5434f0a0",
+   "company": "Fromageries Bel",
+   "role": "Marketing Assistant - Internship",
+   "location": "Utrecht"
+  },
+  "391e4a9c1c5d8f10bd45953ecb28e2f6": {
+   "id": "391e4a9c1c5d8f10bd45953ecb28e2f6",
+   "company": "Fromageries Bel",
+   "role": "Internship Brand & Digital Marketing Assistant",
+   "location": "Utrecht"
+  },
+  "a39fc3a2da2246fec1ddbbac8b9273e4": {
+   "id": "a39fc3a2da2246fec1ddbbac8b9273e4",
+   "company": "Philips",
+   "role": "Intern Operational Excellence Ventures",
+   "location": "Amsterdam"
+  },
   "56409a7fa3937687e8834d4d2a17a74d": {
    "id": "56409a7fa3937687e8834d4d2a17a74d",
    "company": "Shell Energy UK",
    "role": "Category Mgmt Intern, Food Service",
    "location": "Alphen Aan Den Rijn"
+  },
+  "2059f415bf658da93320bd5edab996c2": {
+   "id": "2059f415bf658da93320bd5edab996c2",
+   "company": "WPP Media Australia & New Zealand",
+   "role": "Internship Digital Video & Audio Advertising",
+   "location": "Amsterdam"
+  },
+  "5e3875f998526465fb1cd8fb296d6ad4": {
+   "id": "5e3875f998526465fb1cd8fb296d6ad4",
+   "company": "WPP Media Australia & New Zealand",
+   "role": "Internship Display & Native Advertising",
+   "location": "Amsterdam +1"
   },
   "bcda5c1e34452e2f1d21294cf0286c2f": {
    "id": "bcda5c1e34452e2f1d21294cf0286c2f",
@@ -337,6 +373,18 @@
    "company": "Caterpillar UK",
    "role": "Hr Meewerkstage",
    "location": "S Hertogenbosch"
+  },
+  "06d185702da8210b754d6ce81bb05d35": {
+   "id": "06d185702da8210b754d6ce81bb05d35",
+   "company": "Tonny Media",
+   "role": "Vormgevingstagiair [tonny Media]",
+   "location": "Amsterdam"
+  },
+  "3cb22a5ba8f823b9606142ef7dc9ad81": {
+   "id": "3cb22a5ba8f823b9606142ef7dc9ad81",
+   "company": "Tonny Media",
+   "role": "Videostagiair [tonny Media]",
+   "location": "Amsterdam"
   },
   "9cfdb5816d138966107f6fbc35cadb36": {
    "id": "9cfdb5816d138966107f6fbc35cadb36",
@@ -566,64 +614,16 @@
    "role": "Internship Cro",
    "location": "Alphen Aan Den Rijn"
   },
-  "391e4a9c1c5d8f10bd45953ecb28e2f6": {
-   "id": "391e4a9c1c5d8f10bd45953ecb28e2f6",
-   "company": "Fromageries Bel",
-   "role": "Internship Brand & Digital Marketing Assistant",
-   "location": "Utrecht"
-  },
-  "32977d43a15586d2f79e4d9881f47154": {
-   "id": "32977d43a15586d2f79e4d9881f47154",
-   "company": "Agrifirm Group",
-   "role": "Stage Mest En Mineralen Oss",
-   "location": "S Hertogenbosch"
-  },
-  "16bd057985fd94badd65855fc9b275b1": {
-   "id": "16bd057985fd94badd65855fc9b275b1",
-   "company": "Philjobs",
-   "role": "Internship: Change Management (non-thesis)",
-   "location": "Amsterdam"
-  },
-  "9f9f6e7d3538bf94be0c0f78c415c665": {
-   "id": "9f9f6e7d3538bf94be0c0f78c415c665",
-   "company": "Philips",
-   "role": "Internship: Change Management (non-thesis)",
-   "location": "Amsterdam"
-  },
-  "224495574654daacfefa87d6e2cc1859": {
-   "id": "224495574654daacfefa87d6e2cc1859",
-   "company": "CYBEX GmbH",
-   "role": "Intern Marketing Netherlands (m/f/d)",
-   "location": "Amsterdam"
-  },
-  "6895ebb8a272d418f5f81c863b3e5974": {
-   "id": "6895ebb8a272d418f5f81c863b3e5974",
-   "company": "GEA",
-   "role": "Work Student Marketing",
-   "location": "Bakel"
-  },
-  "225be422612a65228185006d62e9e5d2": {
-   "id": "225be422612a65228185006d62e9e5d2",
-   "company": "Perfetti Van Melle ICT B.V",
-   "role": "Internship Digital Content Marketing - Amsterdam Location",
-   "location": "Amsterdam"
-  },
-  "76b1cc24066a96dd490f31f29c70ec13": {
-   "id": "76b1cc24066a96dd490f31f29c70ec13",
-   "company": "Coty Inc.",
-   "role": "Marketing Pricing Intern",
-   "location": "Amsterdam"
-  },
-  "2d2ec4aa2fa7c8205adf7c9cb728e3ec": {
-   "id": "2d2ec4aa2fa7c8205adf7c9cb728e3ec",
-   "company": "Coty Inc.",
-   "role": "Marketing Intern",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
    "role": "Software Developer Intern",
+   "location": "Amsterdam"
+  },
+  "40bfd8ea715f2c582c0e2ed49d6554b2": {
+   "id": "40bfd8ea715f2c582c0e2ed49d6554b2",
+   "company": "IMC Trading",
+   "role": "C++ Software Engineer, Early Careers",
    "location": "Amsterdam"
   },
   "f7a8ce428d938fe30dd54faf8527182a": {
@@ -674,10 +674,10 @@
    "role": "Ervaren Python / Django Developerfulltimeamsterdam En/of Rotterdam",
    "location": "Amsterdam"
   },
-  "83b834aebd2d426fa7c41bf7e286bc9c": {
-   "id": "83b834aebd2d426fa7c41bf7e286bc9c",
-   "company": "Insify",
-   "role": "Software Engineer, Claims Platform",
+  "303f61db5c4a4be32d5b446009a5408a": {
+   "id": "303f61db5c4a4be32d5b446009a5408a",
+   "company": "Oshkosh Corporation",
+   "role": "Purchasing Data Analytics Intern - Npd",
    "location": "Amsterdam"
   },
   "677399a2924d92f13e7097bd92289643": {
@@ -980,12 +980,6 @@
    "role": "Payroll Analyst",
    "location": "Amsterdam"
   },
-  "7336cebdc28ea239fedcd5f2aa25ce15": {
-   "id": "7336cebdc28ea239fedcd5f2aa25ce15",
-   "company": "Jobgether",
-   "role": "Business Analyst",
-   "location": "Netherlands"
-  },
   "e2eb4fe7e58d2d49a278025f6de6869b": {
    "id": "e2eb4fe7e58d2d49a278025f6de6869b",
    "company": "Oaklins International Inc",
@@ -1058,10 +1052,22 @@
    "role": "Sap Business Analyst & Sme",
    "location": "Netherlands"
   },
+  "8d29f49e72d6bca9788e8fb217d96242": {
+   "id": "8d29f49e72d6bca9788e8fb217d96242",
+   "company": "Outokumpu Oyj",
+   "role": "Electrical Technician",
+   "location": "Westdorpe"
+  },
   "2c10a9b4a81713a8ff8a5be7fb8cb9ec": {
    "id": "2c10a9b4a81713a8ff8a5be7fb8cb9ec",
    "company": "Bilfinger",
    "role": "Werkvoorbereider Elektrotechniek",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "d0212f1c9f252f2b226b18bc526185f1": {
+   "id": "d0212f1c9f252f2b226b18bc526185f1",
+   "company": "Topcon",
+   "role": "Service Technician - Surveying Technology",
    "location": "Alphen Aan Den Rijn"
   },
   "45468810b950a842ba2081a806ca9f66": {
@@ -1070,9 +1076,27 @@
    "role": "Service Monteur Liften Zuid-holland",
    "location": "Utrecht"
   },
+  "667bbea47f2b3afdd9708aca9dd5fbfc": {
+   "id": "667bbea47f2b3afdd9708aca9dd5fbfc",
+   "company": "Otis",
+   "role": "Service Monteur Liften Zuid-holland",
+   "location": "Utrecht"
+  },
+  "49e43fccc818fc65ff75d00590040acc": {
+   "id": "49e43fccc818fc65ff75d00590040acc",
+   "company": "OTIS ELEVATOR COMPANY",
+   "role": "Service Monteur Liften Zuid-holland",
+   "location": "Utrecht"
+  },
   "881e7d4306fef483fab4feebd3a698b9": {
    "id": "881e7d4306fef483fab4feebd3a698b9",
    "company": "workday.gea",
+   "role": "Field Service Engineer",
+   "location": "De Rijp"
+  },
+  "77e3db78b1fea0bfc5350ffe14b289a3": {
+   "id": "77e3db78b1fea0bfc5350ffe14b289a3",
+   "company": "GEA",
    "role": "Field Service Engineer",
    "location": "De Rijp"
   },
@@ -1195,12 +1219,6 @@
    "company": "Henry Schein",
    "role": "Service Technicus",
    "location": "Alphen Aan Den Rijn"
-  },
-  "8d29f49e72d6bca9788e8fb217d96242": {
-   "id": "8d29f49e72d6bca9788e8fb217d96242",
-   "company": "Outokumpu Oyj",
-   "role": "Electrical Technician",
-   "location": "Westdorpe"
   },
   "afa337bef496ad54c73d58b8846827e9": {
    "id": "afa337bef496ad54c73d58b8846827e9",
@@ -1502,29 +1520,17 @@
    "role": "E&i Technician",
    "location": "Alphen Aan Den Rijn"
   },
-  "95b0b2bc5f26765d4d6383f23c9ed99a": {
-   "id": "95b0b2bc5f26765d4d6383f23c9ed99a",
-   "company": "KONE",
-   "role": "Onderhoudsmonteur Personendeuren",
-   "location": "Utrecht"
-  },
-  "60c7b15a9819d28afe0697512f6b1748": {
-   "id": "60c7b15a9819d28afe0697512f6b1748",
-   "company": "Kone Com Kw",
-   "role": "Onderhoudsmonteur Personendeuren",
-   "location": "Utrecht"
-  },
-  "81715180fee0244d518e6ebee99328de": {
-   "id": "81715180fee0244d518e6ebee99328de",
-   "company": "Essity AB",
-   "role": "Mechanisch Monteur",
-   "location": "Cuijk"
-  },
   "e3092f87d68a0aeeef2a013586210ff0": {
    "id": "e3092f87d68a0aeeef2a013586210ff0",
    "company": "Capri",
    "role": "Part Time Sales Associate 12h",
    "location": "Amsterdam"
+  },
+  "072a5754f66f3ac24696f6e0090432a5": {
+   "id": "072a5754f66f3ac24696f6e0090432a5",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor 31h",
+   "location": "Alphen Aan Den Rijn"
   },
   "31f4b030b828336d69019c5141864810": {
    "id": "31f4b030b828336d69019c5141864810",
@@ -1548,12 +1554,6 @@
    "id": "69241ff2c30fe8b59bed4d4bf432b631",
    "company": "H & M Hennes & Mauritz AB",
    "role": "Verkoopmedewerker - Purmerend (21/26 Uur)",
-   "location": "Amsterdam"
-  },
-  "acfccaa474b022463bee0a18e4deceb7": {
-   "id": "acfccaa474b022463bee0a18e4deceb7",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor 31h",
    "location": "Amsterdam"
   },
   "ce0ab5432babfa68a3e2dd02d4581c63": {
@@ -1934,17 +1934,11 @@
    "role": "Rental Sales Agent",
    "location": "Alphen Aan Den Rijn"
   },
-  "d82493d23567ef259339ce5c5255c09c": {
-   "id": "d82493d23567ef259339ce5c5255c09c",
-   "company": "H&M Group",
-   "role": "Verkoopmedewerker - Purmerend (21/26 Uur)",
-   "location": "Amsterdam"
-  },
-  "d703b1a62758e2c107fd50014fd1fe82": {
-   "id": "d703b1a62758e2c107fd50014fd1fe82",
-   "company": "COS",
-   "role": "Verkoopmedewerker - Amsterdam Maison De Bonneterie (31 Uur)",
-   "location": "Amsterdam"
+  "4de9700cae81e4dba2d320bc14b951bc": {
+   "id": "4de9700cae81e4dba2d320bc14b951bc",
+   "company": "ABB Ltd",
+   "role": "Customer Service Specialist",
+   "location": "Alphen Aan Den Rijn"
   },
   "a2f723b378d6a493315d42dcd213267d": {
    "id": "a2f723b378d6a493315d42dcd213267d",
@@ -1957,6 +1951,18 @@
    "company": "CRH plc",
    "role": "Logistiek Administratief Medewerker",
    "location": "Wanssum"
+  },
+  "16e871bbb13e5c76e8893686616a3b2a": {
+   "id": "16e871bbb13e5c76e8893686616a3b2a",
+   "company": "Primark",
+   "role": "Parttime Retail Assistant Eindhoven",
+   "location": "Eindhoven"
+  },
+  "71c4e2f4e814f5d3b1265076b6fa9470": {
+   "id": "71c4e2f4e814f5d3b1265076b6fa9470",
+   "company": "Primark",
+   "role": "Parttime Retail Assistant Zaandam",
+   "location": "Amsterdam"
   },
   "8fad68b49b65759e76d5b79ab43997b7": {
    "id": "8fad68b49b65759e76d5b79ab43997b7",
@@ -2005,12 +2011,6 @@
    "company": "Primark",
    "role": "Retail Assistant Weekday - Zoetermeer",
    "location": "Alphen Aan Den Rijn"
-  },
-  "71c4e2f4e814f5d3b1265076b6fa9470": {
-   "id": "71c4e2f4e814f5d3b1265076b6fa9470",
-   "company": "Primark",
-   "role": "Parttime Retail Assistant Zaandam",
-   "location": "Amsterdam"
   },
   "b7a3e1dabf98657628522c32e0cecdda": {
    "id": "b7a3e1dabf98657628522c32e0cecdda",

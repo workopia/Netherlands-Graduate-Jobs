@@ -376,4 +376,21 @@
 <tr><td>Johnson Controls OpenBlue</td><td>Technician - Global Marine En Navy</td><td>Gorinchem +7</td><td>2026-08-07</td></tr>
 <tr><td>SKECHERS USA Inc</td><td>Verkoopmedewerker 32hs - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-07</td></tr>
 <tr><td>Skechers</td><td>Verkoopmedewerker 32hs - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-07</td></tr>
+<tr><td>Younggroup</td><td>Huismeester/facilitair Medewerker (den Haag/rotterdam)</td><td>Alphen Aan Den Rijn</td><td>2026-08-08</td></tr>
+<tr><td>Agrifirm Group</td><td>Stage Mest En Mineralen Oss</td><td>S Hertogenbosch</td><td>2026-08-08</td></tr>
+<tr><td>Philjobs</td><td>Internship: Change Management (non-thesis)</td><td>Amsterdam</td><td>2026-08-08</td></tr>
+<tr><td>Philips</td><td>Internship: Change Management (non-thesis)</td><td>Amsterdam</td><td>2026-08-08</td></tr>
+<tr><td>CYBEX GmbH</td><td>Intern Marketing Netherlands (m/f/d)</td><td>Amsterdam</td><td>2026-08-08</td></tr>
+<tr><td>GEA</td><td>Work Student Marketing</td><td>Bakel</td><td>2026-08-08</td></tr>
+<tr><td>Perfetti Van Melle ICT B.V</td><td>Internship Digital Content Marketing - Amsterdam Location</td><td>Amsterdam</td><td>2026-08-08</td></tr>
+<tr><td>Coty Inc.</td><td>Marketing Pricing Intern</td><td>Amsterdam</td><td>2026-08-08</td></tr>
+<tr><td>Coty Inc.</td><td>Marketing Intern</td><td>Amsterdam</td><td>2026-08-08</td></tr>
+<tr><td>Insify</td><td>Software Engineer, Claims Platform</td><td>Amsterdam</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Business Analyst</td><td>Netherlands</td><td>2026-08-08</td></tr>
+<tr><td>KONE</td><td>Onderhoudsmonteur Personendeuren</td><td>Utrecht</td><td>2026-08-08</td></tr>
+<tr><td>Kone Com Kw</td><td>Onderhoudsmonteur Personendeuren</td><td>Utrecht</td><td>2026-08-08</td></tr>
+<tr><td>Essity AB</td><td>Mechanisch Monteur</td><td>Cuijk</td><td>2026-08-08</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 31h</td><td>Amsterdam</td><td>2026-08-08</td></tr>
+<tr><td>H&M Group</td><td>Verkoopmedewerker - Purmerend (21/26 Uur)</td><td>Amsterdam</td><td>2026-08-08</td></tr>
+<tr><td>COS</td><td>Verkoopmedewerker - Amsterdam Maison De Bonneterie (31 Uur)</td><td>Amsterdam</td><td>2026-08-08</td></tr>
 </table>
