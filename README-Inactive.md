@@ -393,4 +393,29 @@
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 31h</td><td>Amsterdam</td><td>2026-08-08</td></tr>
 <tr><td>H&M Group</td><td>Verkoopmedewerker - Purmerend (21/26 Uur)</td><td>Amsterdam</td><td>2026-08-08</td></tr>
 <tr><td>COS</td><td>Verkoopmedewerker - Amsterdam Maison De Bonneterie (31 Uur)</td><td>Amsterdam</td><td>2026-08-08</td></tr>
+<tr><td>Arcadis</td><td>Internship - Afstudeeropdracht Bovenleiding</td><td>Amersfoort</td><td>2026-08-09</td></tr>
+<tr><td>Boggi Milano</td><td>Sales Advisor - Amsterdam Maternity Cover</td><td>Amsterdam</td><td>2026-08-09</td></tr>
+<tr><td>MS Mode Nederland BV</td><td>Verkoopmedewerker (20-24 Uur)</td><td>Amsterdam</td><td>2026-08-09</td></tr>
+<tr><td>Philips UK</td><td>Internship: Marketing Planning And Operations</td><td>Amsterdam</td><td>2026-08-09</td></tr>
+<tr><td>NN Group</td><td>Stagiair - Data Kwaliteit Klantdata C&d</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
+<tr><td>Philips</td><td>Internship: Partner Program Operations</td><td>Amsterdam</td><td>2026-08-09</td></tr>
+<tr><td>282</td><td>Stageplek Hr Legal & Industrial Relations</td><td>Amsterdam</td><td>2026-08-09</td></tr>
+<tr><td>itinfinance.nl</td><td>Stageplek Hr Legal & Industrial Relations</td><td>Amsterdam</td><td>2026-08-09</td></tr>
+<tr><td>ING Group</td><td>Intern Mrm</td><td>Acanthus</td><td>2026-08-09</td></tr>
+<tr><td>282</td><td>Internship One Business Banking</td><td>Acanthus</td><td>2026-08-09</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship One Business Banking</td><td>Acanthus</td><td>2026-08-09</td></tr>
+<tr><td>VistaCreate</td><td>Global Capex Procurement Intern - Venlo, Nl</td><td>Venlo</td><td>2026-08-09</td></tr>
+<tr><td>VistaCreate</td><td>Raw Materials Procurement Intern - Venlo, Nl</td><td>Venlo</td><td>2026-08-09</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Internship Accountmanagement Marketplace</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Internship Recruitment Stores</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Internship Cro</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
+<tr><td>Yara International</td><td>Hoofdmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
+<tr><td>Johnson & Johnson</td><td>Maintenance Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
+<tr><td>Otisjob</td><td>Service Monteur Noord-holland</td><td>Badhoevedorp</td><td>2026-08-09</td></tr>
+<tr><td>Otisjob</td><td>Service Monteur Amsterdam & Amstelveen</td><td>Utrecht</td><td>2026-08-09</td></tr>
+<tr><td>Airproducts Com</td><td>E&i Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
+<tr><td>airproducts.fr</td><td>E&i Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
+<tr><td>Airproducts Com Hk</td><td>E&i Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
+<tr><td>airproducts.hu</td><td>E&i Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Logistiek Administratief Medewerker</td><td>Moerdijk</td><td>2026-08-09</td></tr>
 </table>

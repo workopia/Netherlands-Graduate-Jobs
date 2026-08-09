@@ -1,13 +1,7 @@
 {
- "asOf": "2026-08-08",
- "count": 384,
+ "asOf": "2026-08-09",
+ "count": 389,
  "jobs": {
-  "42763": {
-   "id": "42763",
-   "company": "Arcadis",
-   "role": "Internship - Afstudeeropdracht Bovenleiding",
-   "location": "Amersfoort"
-  },
   "81660": {
    "id": "81660",
    "company": "Firmenich",
@@ -30,18 +24,6 @@
    "id": "2571488",
    "company": "Dpg Media",
    "role": "Software Engineer Broadcast Systems (qmusic, Joe, Willy)",
-   "location": "Amsterdam"
-  },
-  "2620563": {
-   "id": "2620563",
-   "company": "Boggi Milano",
-   "role": "Sales Advisor - Amsterdam Maternity Cover",
-   "location": "Amsterdam"
-  },
-  "2634186": {
-   "id": "2634186",
-   "company": "MS Mode Nederland BV",
-   "role": "Verkoopmedewerker (20-24 Uur)",
    "location": "Amsterdam"
   },
   "2640272": {
@@ -194,6 +176,90 @@
    "role": "Sales Stage Benelux (nederlandstalig) - Growing Impact Scale Up",
    "location": "Amsterdam"
   },
+  "2703872": {
+   "id": "2703872",
+   "company": "Futurewhiz B.V",
+   "role": "Efficacy Lab Internship: Effective Multiple Choice Answers",
+   "location": "Amsterdam"
+  },
+  "e5da9f73d5a21a1654a48c2b8cb90c57": {
+   "id": "e5da9f73d5a21a1654a48c2b8cb90c57",
+   "company": "Coty Inc.",
+   "role": "Procurement Intern - Raw Materials & Tpm",
+   "location": "Amsterdam"
+  },
+  "624a374464b0d4c45706a917c0e3d737": {
+   "id": "624a374464b0d4c45706a917c0e3d737",
+   "company": "Volvo Trucks",
+   "role": "Stagiair Laadinfra Elektrische Trucks",
+   "location": "Beesd"
+  },
+  "9cfdb5816d138966107f6fbc35cadb36": {
+   "id": "9cfdb5816d138966107f6fbc35cadb36",
+   "company": "Volvo Group Truck Center B.V.",
+   "role": "Stagiair Continuous Improvement",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "a50d4a9ed983693959fcad14caf51363": {
+   "id": "a50d4a9ed983693959fcad14caf51363",
+   "company": "224",
+   "role": "Intern For Market Risk Management For Ing’s Consolidated Trading Book",
+   "location": "Cedar"
+  },
+  "9f1f9009b09786423eea6c6da937da4a": {
+   "id": "9f1f9009b09786423eea6c6da937da4a",
+   "company": "bankcarriere.nl",
+   "role": "Intern For Market Risk Management For Ing’s Consolidated Trading Book",
+   "location": "Cedar"
+  },
+  "0cee6c13ede27ca3c5c007093f270b33": {
+   "id": "0cee6c13ede27ca3c5c007093f270b33",
+   "company": "224",
+   "role": "Internship - Market Risk Stress Testing Project",
+   "location": "Maple"
+  },
+  "20e5ecd316828487f10cd6e8e6eefd49": {
+   "id": "20e5ecd316828487f10cd6e8e6eefd49",
+   "company": "ING",
+   "role": "Internship - Market Risk Stress Testing Project",
+   "location": "Maple"
+  },
+  "3298f302a48765cd81922aa162af11dc": {
+   "id": "3298f302a48765cd81922aa162af11dc",
+   "company": "100",
+   "role": "Category Management Intern - Food Service",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "dc656b7115621561924c1ed8ce793c49": {
+   "id": "dc656b7115621561924c1ed8ce793c49",
+   "company": "Unilever",
+   "role": "Internship 26' - Customer Development – Category Management",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f23187f1c5636662e099cf22839df4ed": {
+   "id": "f23187f1c5636662e099cf22839df4ed",
+   "company": "Cencora",
+   "role": "Intern, Data",
+   "location": "S Hertogenbosch"
+  },
+  "ebdd835dbdee32a5c6a75f3f6eef15f0": {
+   "id": "ebdd835dbdee32a5c6a75f3f6eef15f0",
+   "company": "Stora Enso Oyj",
+   "role": "Hr Stagiair (met Focus Op Recruitment)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "c03bd2184684a6281a86f9dfe750a4bc": {
+   "id": "c03bd2184684a6281a86f9dfe750a4bc",
+   "company": "224",
+   "role": "Meewerkstage Marketing Ing Private Banking",
+   "location": "Acanthus"
+  },
+  "22b8ec1d728106b357a64b49be4850e1": {
+   "id": "22b8ec1d728106b357a64b49be4850e1",
+   "company": "ING Private Banking",
+   "role": "Meewerkstage Marketing Ing Private Banking",
+   "location": "Acanthus"
+  },
   "4e56573d8d1fd4c54bad5cee74723219": {
    "id": "4e56573d8d1fd4c54bad5cee74723219",
    "company": "Omnicom Public Relations Group",
@@ -203,6 +269,18 @@
   "7ee58e9a5fda4f5655c411b44d662bdc": {
    "id": "7ee58e9a5fda4f5655c411b44d662bdc",
    "company": "itinfinance.nl",
+   "role": "Stagiair Marketing & Communicatie",
+   "location": "Haarlerbergpark"
+  },
+  "ec92e219f271e47da9d5f46af6eacfd2": {
+   "id": "ec92e219f271e47da9d5f46af6eacfd2",
+   "company": "224",
+   "role": "Stagiair Marketing & Communicatie",
+   "location": "Haarlerbergpark"
+  },
+  "fffe90119f6f2d7b8a21d41809f9b647": {
+   "id": "fffe90119f6f2d7b8a21d41809f9b647",
+   "company": "bankcarriere.nl",
    "role": "Stagiair Marketing & Communicatie",
    "location": "Haarlerbergpark"
   },
@@ -386,18 +464,6 @@
    "role": "Videostagiair [tonny Media]",
    "location": "Amsterdam"
   },
-  "9cfdb5816d138966107f6fbc35cadb36": {
-   "id": "9cfdb5816d138966107f6fbc35cadb36",
-   "company": "afa'afea",
-   "role": "Stagiair Continuous Improvement",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "624a374464b0d4c45706a917c0e3d737": {
-   "id": "624a374464b0d4c45706a917c0e3d737",
-   "company": "afa'afea",
-   "role": "Stagiair Laadinfra Elektrische Trucks",
-   "location": "Beesd"
-  },
   "808df15067a54b7f86a6b6d67e61c1c4": {
    "id": "808df15067a54b7f86a6b6d67e61c1c4",
    "company": "NN Group",
@@ -536,84 +602,6 @@
    "role": "Internship: Marketing Planning And Operations",
    "location": "Amsterdam"
   },
-  "5156443252bf011522e7b86cc577973e": {
-   "id": "5156443252bf011522e7b86cc577973e",
-   "company": "Philips UK",
-   "role": "Internship: Marketing Planning And Operations",
-   "location": "Amsterdam"
-  },
-  "3c492bc27cd2ca0d72dc70beb8cb97ca": {
-   "id": "3c492bc27cd2ca0d72dc70beb8cb97ca",
-   "company": "NN Group",
-   "role": "Stagiair - Data Kwaliteit Klantdata C&d",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "72361c4d0b11f4a4c4b2ed00e5051470": {
-   "id": "72361c4d0b11f4a4c4b2ed00e5051470",
-   "company": "Philips",
-   "role": "Internship: Partner Program Operations",
-   "location": "Amsterdam"
-  },
-  "d0267330a62556a76878bc0dda1ed5c8": {
-   "id": "d0267330a62556a76878bc0dda1ed5c8",
-   "company": "282",
-   "role": "Stageplek Hr Legal & Industrial Relations",
-   "location": "Amsterdam"
-  },
-  "9b6e054adc466d9ed017aba870ce0c0f": {
-   "id": "9b6e054adc466d9ed017aba870ce0c0f",
-   "company": "itinfinance.nl",
-   "role": "Stageplek Hr Legal & Industrial Relations",
-   "location": "Amsterdam"
-  },
-  "4c031633ed2a26be76fbc82799e33b79": {
-   "id": "4c031633ed2a26be76fbc82799e33b79",
-   "company": "ING Group",
-   "role": "Intern Mrm",
-   "location": "Acanthus"
-  },
-  "1e9fecda4ba47749e135f5caee92bc09": {
-   "id": "1e9fecda4ba47749e135f5caee92bc09",
-   "company": "282",
-   "role": "Internship One Business Banking",
-   "location": "Acanthus"
-  },
-  "a308055e35de661ed87a094595c9065c": {
-   "id": "a308055e35de661ed87a094595c9065c",
-   "company": "itinfinance.nl",
-   "role": "Internship One Business Banking",
-   "location": "Acanthus"
-  },
-  "ac4dcf6d2991f49385d58aeae3fe80ba": {
-   "id": "ac4dcf6d2991f49385d58aeae3fe80ba",
-   "company": "VistaCreate",
-   "role": "Global Capex Procurement Intern - Venlo, Nl",
-   "location": "Venlo"
-  },
-  "e19eb2bbbd71532aeb984528d719e335": {
-   "id": "e19eb2bbbd71532aeb984528d719e335",
-   "company": "VistaCreate",
-   "role": "Raw Materials Procurement Intern - Venlo, Nl",
-   "location": "Venlo"
-  },
-  "263ecad6be21ad3d701a63cef429f148": {
-   "id": "263ecad6be21ad3d701a63cef429f148",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Internship Accountmanagement Marketplace",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "93404085a9481dff76a2b265ae3d1564": {
-   "id": "93404085a9481dff76a2b265ae3d1564",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Internship Recruitment Stores",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "9286210049be41068f99acd767671604": {
-   "id": "9286210049be41068f99acd767671604",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Internship Cro",
-   "location": "Alphen Aan Den Rijn"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -630,6 +618,12 @@
    "id": "f7a8ce428d938fe30dd54faf8527182a",
    "company": "IMC Trading",
    "role": "Graduate Software Engineer (2027)",
+   "location": "Amsterdam"
+  },
+  "0a5572a3b37910ec434eed10d01bd56a": {
+   "id": "0a5572a3b37910ec434eed10d01bd56a",
+   "company": "BeFrank",
+   "role": "Software Engineer Data Platform",
    "location": "Amsterdam"
   },
   "6801bce67ed036a695e79bf08baa0f8e": {
@@ -677,6 +671,18 @@
   "303f61db5c4a4be32d5b446009a5408a": {
    "id": "303f61db5c4a4be32d5b446009a5408a",
    "company": "Oshkosh Corporation",
+   "role": "Purchasing Data Analytics Intern - Npd",
+   "location": "Amsterdam"
+  },
+  "c8756798a6b1d37b8ef426efdb55aab1": {
+   "id": "c8756798a6b1d37b8ef426efdb55aab1",
+   "company": "Oshkosh Corp.",
+   "role": "Purchasing Data Analytics Intern - Npd",
+   "location": "Amsterdam"
+  },
+  "b15bcf2c1863e27c7aa7596384d29ab8": {
+   "id": "b15bcf2c1863e27c7aa7596384d29ab8",
+   "company": "Pratt Miller",
    "role": "Purchasing Data Analytics Intern - Npd",
    "location": "Amsterdam"
   },
@@ -744,6 +750,12 @@
    "id": "ceb5a396b7f039095bd8dad20176c3fa",
    "company": "Marsh & McLennan Companies Inc",
    "role": "Oliver Wyman - Internship, Analyst - Data & Analytics - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "8ef23112a7277bf794d892eeca649d4e": {
+   "id": "8ef23112a7277bf794d892eeca649d4e",
+   "company": "CRH plc",
+   "role": "Sap Data Analyst",
    "location": "Amsterdam"
   },
   "e8f971ab84ed8f5d5b67ab81b9331a4d": {
@@ -902,6 +914,12 @@
    "role": "Internship: Climate Action Business Analyst (non-thesis)",
    "location": "Amsterdam"
   },
+  "b3c1370ab0209eeff5ff4b9076687042": {
+   "id": "b3c1370ab0209eeff5ff4b9076687042",
+   "company": "Commonwealth Bank of Australia (Europe) N.V.",
+   "role": "Analyst Regulatory Reporting",
+   "location": "Amsterdam"
+  },
   "b6bf4d5b36a76452d0931c7de4ee7d90": {
    "id": "b6bf4d5b36a76452d0931c7de4ee7d90",
    "company": "Nouryon",
@@ -1052,6 +1070,54 @@
    "role": "Sap Business Analyst & Sme",
    "location": "Netherlands"
   },
+  "190aceefa7beb56a703a1c7d483de79f": {
+   "id": "190aceefa7beb56a703a1c7d483de79f",
+   "company": "Yara International",
+   "role": "Hoofdmonteur",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "170d68a057f9615710e0bbfc9c5ac965": {
+   "id": "170d68a057f9615710e0bbfc9c5ac965",
+   "company": "Alstom",
+   "role": "Field Maintenance Operator Painting",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "583e1b75ef6056bc3d822f7909e6a398": {
+   "id": "583e1b75ef6056bc3d822f7909e6a398",
+   "company": "DSV Panalpina AS",
+   "role": "Technician Facilities & Technical Services",
+   "location": "Venlo"
+  },
+  "5d9cefbf80e692b2d8cc3d8bee7408f5": {
+   "id": "5d9cefbf80e692b2d8cc3d8bee7408f5",
+   "company": "DSV Panalpina AS",
+   "role": "Monteur Facility & Technische Dienst",
+   "location": "Venlo"
+  },
+  "75cdf40a922ddfe0077a6cf9033934bd": {
+   "id": "75cdf40a922ddfe0077a6cf9033934bd",
+   "company": "Volvo Group Truck Center",
+   "role": "Apk & Tachograaf Keurmeester",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "9009b59a70a8e1a0d8fabb21f0ab6d78": {
+   "id": "9009b59a70a8e1a0d8fabb21f0ab6d78",
+   "company": "KONE International",
+   "role": "Service Monteur Liften",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "d6800b5251516f9ce1798b6f8c47a7f5": {
+   "id": "d6800b5251516f9ce1798b6f8c47a7f5",
+   "company": "KONE",
+   "role": "Service Monteur Liften",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "ac43cc434c31cf5ab7d317c958c3fd45": {
+   "id": "ac43cc434c31cf5ab7d317c958c3fd45",
+   "company": "Colgate-Palmolive",
+   "role": "Maintenance Bbl",
+   "location": "Etten-Leur"
+  },
   "8d29f49e72d6bca9788e8fb217d96242": {
    "id": "8d29f49e72d6bca9788e8fb217d96242",
    "company": "Outokumpu Oyj",
@@ -1067,6 +1133,12 @@
   "d0212f1c9f252f2b226b18bc526185f1": {
    "id": "d0212f1c9f252f2b226b18bc526185f1",
    "company": "Topcon",
+   "role": "Service Technician - Surveying Technology",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "ea2c57df1564a7172aa500b0b828b9cd": {
+   "id": "ea2c57df1564a7172aa500b0b828b9cd",
+   "company": "Topcon Corporation",
    "role": "Service Technician - Surveying Technology",
    "location": "Alphen Aan Den Rijn"
   },
@@ -1166,12 +1238,6 @@
    "role": "Service Technician Roltrappen",
    "location": "Alphen Aan Den Rijn"
   },
-  "75cdf40a922ddfe0077a6cf9033934bd": {
-   "id": "75cdf40a922ddfe0077a6cf9033934bd",
-   "company": "afa'afea",
-   "role": "Apk & Tachograaf Keurmeester",
-   "location": "Alphen Aan Den Rijn"
-  },
   "60d463102796c625eb5575e6962790a7": {
    "id": "60d463102796c625eb5575e6962790a7",
    "company": "ABB UK",
@@ -1201,12 +1267,6 @@
    "company": "Ardagh Group",
    "role": "E&i Maintenance Engineer",
    "location": "Moerdijk"
-  },
-  "9e44ff5359eb3eb4be8046afd78bd81a": {
-   "id": "9e44ff5359eb3eb4be8046afd78bd81a",
-   "company": "Yara International",
-   "role": "Hoofdmonteur",
-   "location": "Alphen Aan Den Rijn"
   },
   "4912b133b5ffeebeed944427e4a59cb0": {
    "id": "4912b133b5ffeebeed944427e4a59cb0",
@@ -1298,6 +1358,12 @@
    "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
    "location": "Alphen Aan Den Rijn"
   },
+  "2d6048f81743d0f340988e53144088b3": {
+   "id": "2d6048f81743d0f340988e53144088b3",
+   "company": "afa'afea",
+   "role": "Apk & Tachograaf Keurmeester",
+   "location": "Alphen Aan Den Rijn"
+  },
   "d26b39f83d3e527dd32f5afa61264f8c": {
    "id": "d26b39f83d3e527dd32f5afa61264f8c",
    "company": "57",
@@ -1363,12 +1429,6 @@
    "company": "Bilfinger",
    "role": "Servicetechnicus (technicus E&i A)",
    "location": "Alphen Aan Den Rijn"
-  },
-  "ac43cc434c31cf5ab7d317c958c3fd45": {
-   "id": "ac43cc434c31cf5ab7d317c958c3fd45",
-   "company": "Colgate-Palmolive",
-   "role": "Maintenance Bbl",
-   "location": "Etten-Leur"
   },
   "3acbb07fb6476d60ba332257fed2362c": {
    "id": "3acbb07fb6476d60ba332257fed2362c",
@@ -1478,47 +1538,17 @@
    "role": "Maintenance Technician",
    "location": "Alphen Aan Den Rijn"
   },
-  "f9c42951ead3cf615ffd28dee1d98335": {
-   "id": "f9c42951ead3cf615ffd28dee1d98335",
-   "company": "Johnson & Johnson",
-   "role": "Maintenance Technician",
-   "location": "Alphen Aan Den Rijn"
+  "8816ee4cf85a540eb3f714e9a40221c4": {
+   "id": "8816ee4cf85a540eb3f714e9a40221c4",
+   "company": "Parfumerie Douglas Nederland",
+   "role": "Beauty Advisorparttimeamsterdam Oostpoort",
+   "location": "Amsterdam"
   },
-  "07634873b190fc87c5d995d936ef5cc3": {
-   "id": "07634873b190fc87c5d995d936ef5cc3",
-   "company": "Otisjob",
-   "role": "Service Monteur Noord-holland",
-   "location": "Badhoevedorp"
-  },
-  "0329f46ddee5f995836baf93571a57ba": {
-   "id": "0329f46ddee5f995836baf93571a57ba",
-   "company": "Otisjob",
-   "role": "Service Monteur Amsterdam & Amstelveen",
-   "location": "Utrecht"
-  },
-  "af2d662188f631eaf22456b033d749ad": {
-   "id": "af2d662188f631eaf22456b033d749ad",
-   "company": "Airproducts Com",
-   "role": "E&i Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "55d9e912d807a16f34ddcf0d21044697": {
-   "id": "55d9e912d807a16f34ddcf0d21044697",
-   "company": "airproducts.fr",
-   "role": "E&i Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "c636c974476d2707adbc9b2bb9e86335": {
-   "id": "c636c974476d2707adbc9b2bb9e86335",
-   "company": "Airproducts Com Hk",
-   "role": "E&i Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "cbb4f1f2c8c38e5392eabd8abb1a38df": {
-   "id": "cbb4f1f2c8c38e5392eabd8abb1a38df",
-   "company": "airproducts.hu",
-   "role": "E&i Technician",
-   "location": "Alphen Aan Den Rijn"
+  "ce0ab5432babfa68a3e2dd02d4581c63": {
+   "id": "ce0ab5432babfa68a3e2dd02d4581c63",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor 21h",
+   "location": "Amsterdam"
   },
   "e3092f87d68a0aeeef2a013586210ff0": {
    "id": "e3092f87d68a0aeeef2a013586210ff0",
@@ -1554,12 +1584,6 @@
    "id": "69241ff2c30fe8b59bed4d4bf432b631",
    "company": "H & M Hennes & Mauritz AB",
    "role": "Verkoopmedewerker - Purmerend (21/26 Uur)",
-   "location": "Amsterdam"
-  },
-  "ce0ab5432babfa68a3e2dd02d4581c63": {
-   "id": "ce0ab5432babfa68a3e2dd02d4581c63",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor 21h",
    "location": "Amsterdam"
   },
   "7a978866065a2525d546f4467c3057fa": {
@@ -1934,17 +1958,29 @@
    "role": "Rental Sales Agent",
    "location": "Alphen Aan Den Rijn"
   },
+  "4f4ce001eef79a8f66298f7daf4a538d": {
+   "id": "4f4ce001eef79a8f66298f7daf4a538d",
+   "company": "DSV Panalpina AS",
+   "role": "Logistiek Administratief Medewerker",
+   "location": "Moerdijk"
+  },
+  "4fd4a6f3bf9f7a672dbf0d5b53026948": {
+   "id": "4fd4a6f3bf9f7a672dbf0d5b53026948",
+   "company": "Primark",
+   "role": "Parttime Retail Assistant Rotterdam Zuidplein",
+   "location": "Alphen Aan Den Rijn"
+  },
   "4de9700cae81e4dba2d320bc14b951bc": {
    "id": "4de9700cae81e4dba2d320bc14b951bc",
    "company": "ABB Ltd",
    "role": "Customer Service Specialist",
    "location": "Alphen Aan Den Rijn"
   },
-  "a2f723b378d6a493315d42dcd213267d": {
-   "id": "a2f723b378d6a493315d42dcd213267d",
-   "company": "DSV Panalpina AS",
-   "role": "Logistiek Administratief Medewerker",
-   "location": "Moerdijk"
+  "d5a92ac3b26f9e82eda5421f6fdf0baa": {
+   "id": "d5a92ac3b26f9e82eda5421f6fdf0baa",
+   "company": "ABB UK",
+   "role": "Customer Service Specialist",
+   "location": "Alphen Aan Den Rijn"
   },
   "e9b0721c8ab045e576020c7515c570dc": {
    "id": "e9b0721c8ab045e576020c7515c570dc",
@@ -2262,12 +2298,6 @@
    "id": "2ea0e8b417e9cbc90aaa59c870f66638",
    "company": "kone.kz",
    "role": "Commercieel Administratief Medewerker",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "4fd4a6f3bf9f7a672dbf0d5b53026948": {
-   "id": "4fd4a6f3bf9f7a672dbf0d5b53026948",
-   "company": "Primark",
-   "role": "Parttime Retail Assistant Rotterdam Zuidplein (20 Uur)",
    "location": "Alphen Aan Den Rijn"
   },
   "d04d70ac885646de5ed18cc79e238424": {
