@@ -418,4 +418,8 @@
 <tr><td>Airproducts Com Hk</td><td>E&i Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
 <tr><td>airproducts.hu</td><td>E&i Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-09</td></tr>
 <tr><td>DSV Panalpina AS</td><td>Logistiek Administratief Medewerker</td><td>Moerdijk</td><td>2026-08-09</td></tr>
+<tr><td>Philips</td><td>Internship: Marketing Planning And Operations</td><td>Amsterdam</td><td>2026-08-10</td></tr>
+<tr><td>Jobgether</td><td>Product Data Analyst</td><td>Netherlands</td><td>2026-08-10</td></tr>
+<tr><td>Jobgether</td><td>Sap Business Analyst & Sme</td><td>Netherlands</td><td>2026-08-10</td></tr>
+<tr><td>SIXT</td><td>Rental Sales Agent</td><td>Alphen Aan Den Rijn</td><td>2026-08-10</td></tr>
 </table>
