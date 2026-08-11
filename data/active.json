@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-10",
- "count": 386,
+ "asOf": "2026-08-11",
+ "count": 383,
  "jobs": {
   "81660": {
    "id": "81660",
@@ -182,6 +182,60 @@
    "role": "Efficacy Lab Internship: Effective Multiple Choice Answers",
    "location": "Amsterdam"
   },
+  "702302998b9e29897994346b5ccd4e7a": {
+   "id": "702302998b9e29897994346b5ccd4e7a",
+   "company": "flatexDEGIRO AG",
+   "role": "Internship - Internal Audit",
+   "location": "Amsterdam"
+  },
+  "1e3cac661aea57941ee8e8291b2ae470": {
+   "id": "1e3cac661aea57941ee8e8291b2ae470",
+   "company": "flatexDEGIRO AG",
+   "role": "Internship Learning & Development (m/f/d)",
+   "location": "Amsterdam"
+  },
+  "ac4dcf6d2991f49385d58aeae3fe80ba": {
+   "id": "ac4dcf6d2991f49385d58aeae3fe80ba",
+   "company": "VistaCreate",
+   "role": "Global Capex Procurement Intern - Venlo, Nl",
+   "location": "Venlo"
+  },
+  "e19eb2bbbd71532aeb984528d719e335": {
+   "id": "e19eb2bbbd71532aeb984528d719e335",
+   "company": "VistaCreate",
+   "role": "Raw Materials Procurement Intern - Venlo, Nl",
+   "location": "Venlo"
+  },
+  "c1bd6b315793b0b6779355c35bf38c2e": {
+   "id": "c1bd6b315793b0b6779355c35bf38c2e",
+   "company": "afa'afea",
+   "role": "Stagiair Laadinfra Elektrische Trucks",
+   "location": "Beesd"
+  },
+  "078808fad1047377109430b7bfd1c3e9": {
+   "id": "078808fad1047377109430b7bfd1c3e9",
+   "company": "afa'afea",
+   "role": "Stagiair Continuous Improvement",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "876670db8fe2c674a0025a16ea843ab3": {
+   "id": "876670db8fe2c674a0025a16ea843ab3",
+   "company": "Philips",
+   "role": "Internship: Brand & Marketing Communication (sonicare)",
+   "location": "Amsterdam"
+  },
+  "d2869ab0f65fc80f26e4d8b358dcae9b": {
+   "id": "d2869ab0f65fc80f26e4d8b358dcae9b",
+   "company": "Ses Group",
+   "role": "Intern, Spectrum Management And Strategy",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "3b7dc92e342c61f65363bc93ebfa7b3c": {
+   "id": "3b7dc92e342c61f65363bc93ebfa7b3c",
+   "company": "Ses Group",
+   "role": "Intern Corporate Marketing",
+   "location": "Alphen Aan Den Rijn"
+  },
   "225be422612a65228185006d62e9e5d2": {
    "id": "225be422612a65228185006d62e9e5d2",
    "company": "Perfetti Van Melle ICT B.V",
@@ -223,6 +277,18 @@
    "company": "bankcarriere.nl",
    "role": "Intern For Market Risk Management For Ing’s Consolidated Trading Book",
    "location": "Cedar"
+  },
+  "3a99583a230f551bdab5d822123295ad": {
+   "id": "3a99583a230f551bdab5d822123295ad",
+   "company": "ING Group",
+   "role": "Intern For Market Risk Management For Ing’s Consolidated Trading Book",
+   "location": "Cedar"
+  },
+  "493b793c8d914df47c72e510fb983241": {
+   "id": "493b793c8d914df47c72e510fb983241",
+   "company": "ING Group",
+   "role": "Internship - Market Risk Stress Testing Project",
+   "location": "Amsterdam"
   },
   "0cee6c13ede27ca3c5c007093f270b33": {
    "id": "0cee6c13ede27ca3c5c007093f270b33",
@@ -350,22 +416,10 @@
    "role": "Intern Dcm Origination Fig",
    "location": "Amsterdam"
   },
-  "e47696f5b34ae101ebe2053815e96134": {
-   "id": "e47696f5b34ae101ebe2053815e96134",
-   "company": "Ses Group",
-   "role": "Intern, Spectrum Management And Strategy",
-   "location": "Alphen Aan Den Rijn"
-  },
   "ceeb7a5b9f6fe6b004774d202f035ecb": {
    "id": "ceeb7a5b9f6fe6b004774d202f035ecb",
    "company": "Ses Group",
    "role": "Intern, Europe, Middle East And Africa Regulatory And Legal",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "19b9e73c57cc59428a0851259c699cd4": {
-   "id": "19b9e73c57cc59428a0851259c699cd4",
-   "company": "Ses Group",
-   "role": "Intern Corporate Marketing",
    "location": "Alphen Aan Den Rijn"
   },
   "4f74c302c2dfe5941b25aa0df4c81f2d": {
@@ -548,60 +602,6 @@
    "role": "Procurement Intern - Raw Materials & Tpm",
    "location": "Amsterdam"
   },
-  "27f8559b2f31d10aa42841ed8ad235d9": {
-   "id": "27f8559b2f31d10aa42841ed8ad235d9",
-   "company": "Coty",
-   "role": "Facility Management Intern",
-   "location": "Amsterdam"
-  },
-  "b738caf5a045483c95c789e37006635b": {
-   "id": "b738caf5a045483c95c789e37006635b",
-   "company": "Coty",
-   "role": "Marketing Pricing Intern",
-   "location": "Amsterdam"
-  },
-  "7b6d2ef2cbfcf679145e2b3b754584a4": {
-   "id": "7b6d2ef2cbfcf679145e2b3b754584a4",
-   "company": "Coty",
-   "role": "Intern Hr Global Functions",
-   "location": "Amsterdam"
-  },
-  "13d173af54e2914b39b47eaf21889d4f": {
-   "id": "13d173af54e2914b39b47eaf21889d4f",
-   "company": "Coty",
-   "role": "Tpm Color Cosmetics Procurement Intern",
-   "location": "Amsterdam-Zuid"
-  },
-  "a214556069badb55f0f56b50baf2a0ba": {
-   "id": "a214556069badb55f0f56b50baf2a0ba",
-   "company": "Coty",
-   "role": "Training & Marketing Intern Ams Hub",
-   "location": "Amsterdam"
-  },
-  "0bc335a31808c3e018ab549d2193c8c2": {
-   "id": "0bc335a31808c3e018ab549d2193c8c2",
-   "company": "ING",
-   "role": "Internship Position / Wholesale Banking / Corporate Sector Coverage Nl",
-   "location": "Amsterdam"
-  },
-  "a9945114d01eccc3d9448617cadcd3b1": {
-   "id": "a9945114d01eccc3d9448617cadcd3b1",
-   "company": "itinfinance.nl",
-   "role": "Internship Position / Wholesale Banking / Corporate Sector Coverage Nl",
-   "location": "Maple"
-  },
-  "c45642ff557741d7b8167cd43856c51e": {
-   "id": "c45642ff557741d7b8167cd43856c51e",
-   "company": "282",
-   "role": "Internship Position / Wholesale Banking / Corporate Sector Coverage Nl",
-   "location": "Maple"
-  },
-  "13c555d12c39acfc66cb39a61aed6836": {
-   "id": "13c555d12c39acfc66cb39a61aed6836",
-   "company": "bankcarriere.nl",
-   "role": "Internship Position / Wholesale Banking / Corporate Sector Coverage Nl",
-   "location": "Maple"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -750,6 +750,12 @@
    "id": "ceb5a396b7f039095bd8dad20176c3fa",
    "company": "Marsh & McLennan Companies Inc",
    "role": "Oliver Wyman - Internship, Analyst - Data & Analytics - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "d044ee34d54db57ef0a281d1ddb8d976": {
+   "id": "d044ee34d54db57ef0a281d1ddb8d976",
+   "company": "Booking Holdings",
+   "role": "Data Scientist Ii - Finance",
    "location": "Amsterdam"
   },
   "8ef23112a7277bf794d892eeca649d4e": {
@@ -914,6 +920,12 @@
    "role": "Analyst Regulatory Reporting",
    "location": "Amsterdam"
   },
+  "532d33173ca26af55cb15cb6a8e4a42c": {
+   "id": "532d33173ca26af55cb15cb6a8e4a42c",
+   "company": "Burbankbank",
+   "role": "Analyst Regulatory Reporting",
+   "location": "Amsterdam"
+  },
   "b6bf4d5b36a76452d0931c7de4ee7d90": {
    "id": "b6bf4d5b36a76452d0931c7de4ee7d90",
    "company": "Nouryon",
@@ -1058,6 +1070,18 @@
    "role": "Business Analyst",
    "location": "Netherlands"
   },
+  "afa337bef496ad54c73d58b8846827e9": {
+   "id": "afa337bef496ad54c73d58b8846827e9",
+   "company": "VistaCreate",
+   "role": "Maintenance Technician X3",
+   "location": "Venlo"
+  },
+  "2d6048f81743d0f340988e53144088b3": {
+   "id": "2d6048f81743d0f340988e53144088b3",
+   "company": "afa'afea",
+   "role": "Apk & Tachograaf Keurmeester",
+   "location": "Alphen Aan Den Rijn"
+  },
   "190aceefa7beb56a703a1c7d483de79f": {
    "id": "190aceefa7beb56a703a1c7d483de79f",
    "company": "Yara International",
@@ -1097,6 +1121,12 @@
   "d6800b5251516f9ce1798b6f8c47a7f5": {
    "id": "d6800b5251516f9ce1798b6f8c47a7f5",
    "company": "KONE",
+   "role": "Service Monteur Liften",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "136a18cd2bb0470ce3afc65519cd7533": {
+   "id": "136a18cd2bb0470ce3afc65519cd7533",
+   "company": "KONE GmbH",
    "role": "Service Monteur Liften",
    "location": "Alphen Aan Den Rijn"
   },
@@ -1268,12 +1298,6 @@
    "role": "Service Technicus",
    "location": "Alphen Aan Den Rijn"
   },
-  "afa337bef496ad54c73d58b8846827e9": {
-   "id": "afa337bef496ad54c73d58b8846827e9",
-   "company": "VistaCreate",
-   "role": "Maintenance Technician X3",
-   "location": "Venlo"
-  },
   "13d495183557fd36230ff96940562bce": {
    "id": "13d495183557fd36230ff96940562bce",
    "company": "Alstom",
@@ -1344,12 +1368,6 @@
    "id": "e03cff1f0bcee2bedbdb1ef568d50d77",
    "company": "Schindler Elevator Ltd",
    "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "2d6048f81743d0f340988e53144088b3": {
-   "id": "2d6048f81743d0f340988e53144088b3",
-   "company": "afa'afea",
-   "role": "Apk & Tachograaf Keurmeester",
    "location": "Alphen Aan Den Rijn"
   },
   "d26b39f83d3e527dd32f5afa61264f8c": {
@@ -1517,12 +1535,6 @@
   "fa8b8d486e2def9749c640c816f1c938": {
    "id": "fa8b8d486e2def9749c640c816f1c938",
    "company": "Jdch",
-   "role": "Maintenance Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "57bc331bb7eb997a537541a3ab9ac385": {
-   "id": "57bc331bb7eb997a537541a3ab9ac385",
-   "company": "Johnson & Johnson Innovative Medicine",
    "role": "Maintenance Technician",
    "location": "Alphen Aan Den Rijn"
   },
@@ -1916,30 +1928,6 @@
    "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
-  "e983dc9e068fdfb72dee78947a6e72a5": {
-   "id": "e983dc9e068fdfb72dee78947a6e72a5",
-   "company": "Tommy Hilfiger / PVH Corp",
-   "role": "Sales Advisor (12 Hours), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "9b73fd39e2d611b716b356e3f7b99036": {
-   "id": "9b73fd39e2d611b716b356e3f7b99036",
-   "company": "TJX Europe",
-   "role": "Retail Associate Rotterdam Alexandrium",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "21498a9e334e47a25da7ccac85767495": {
-   "id": "21498a9e334e47a25da7ccac85767495",
-   "company": "TK Maxx",
-   "role": "Processing Room Associate",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "83f11b1ceb7cd48088cc84404bde7322": {
-   "id": "83f11b1ceb7cd48088cc84404bde7322",
-   "company": "Parfumerie Douglas Nederland",
-   "role": "Beauty Advisorparttimeamstelveen",
-   "location": "Amsterdam"
-  },
   "4f4ce001eef79a8f66298f7daf4a538d": {
    "id": "4f4ce001eef79a8f66298f7daf4a538d",
    "company": "DSV Panalpina AS",
@@ -2311,12 +2299,6 @@
    "company": "Primark",
    "role": "Weekend Retail Assistant Rotterdam Forum",
    "location": "Alphen Aan Den Rijn"
-  },
-  "5bd960668d88bf24fbd7611eba20881d": {
-   "id": "5bd960668d88bf24fbd7611eba20881d",
-   "company": "Primark",
-   "role": "Retail Assistant",
-   "location": "Utrecht"
   }
  }
 }

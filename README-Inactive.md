@@ -422,4 +422,21 @@
 <tr><td>Jobgether</td><td>Product Data Analyst</td><td>Netherlands</td><td>2026-08-10</td></tr>
 <tr><td>Jobgether</td><td>Sap Business Analyst & Sme</td><td>Netherlands</td><td>2026-08-10</td></tr>
 <tr><td>SIXT</td><td>Rental Sales Agent</td><td>Alphen Aan Den Rijn</td><td>2026-08-10</td></tr>
+<tr><td>Ses Group</td><td>Intern, Spectrum Management And Strategy</td><td>Alphen Aan Den Rijn</td><td>2026-08-11</td></tr>
+<tr><td>Ses Group</td><td>Intern Corporate Marketing</td><td>Alphen Aan Den Rijn</td><td>2026-08-11</td></tr>
+<tr><td>Coty</td><td>Facility Management Intern</td><td>Amsterdam</td><td>2026-08-11</td></tr>
+<tr><td>Coty</td><td>Marketing Pricing Intern</td><td>Amsterdam</td><td>2026-08-11</td></tr>
+<tr><td>Coty</td><td>Intern Hr Global Functions</td><td>Amsterdam</td><td>2026-08-11</td></tr>
+<tr><td>Coty</td><td>Tpm Color Cosmetics Procurement Intern</td><td>Amsterdam-Zuid</td><td>2026-08-11</td></tr>
+<tr><td>Coty</td><td>Training & Marketing Intern Ams Hub</td><td>Amsterdam</td><td>2026-08-11</td></tr>
+<tr><td>ING</td><td>Internship Position / Wholesale Banking / Corporate Sector Coverage Nl</td><td>Amsterdam</td><td>2026-08-11</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship Position / Wholesale Banking / Corporate Sector Coverage Nl</td><td>Maple</td><td>2026-08-11</td></tr>
+<tr><td>282</td><td>Internship Position / Wholesale Banking / Corporate Sector Coverage Nl</td><td>Maple</td><td>2026-08-11</td></tr>
+<tr><td>bankcarriere.nl</td><td>Internship Position / Wholesale Banking / Corporate Sector Coverage Nl</td><td>Maple</td><td>2026-08-11</td></tr>
+<tr><td>Johnson & Johnson Innovative Medicine</td><td>Maintenance Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-11</td></tr>
+<tr><td>Tommy Hilfiger / PVH Corp</td><td>Sales Advisor (12 Hours), Tommy Hilfiger - Mall Of The Netherlands Den Haag/leidschendam</td><td>Alphen Aan Den Rijn</td><td>2026-08-11</td></tr>
+<tr><td>TJX Europe</td><td>Retail Associate Rotterdam Alexandrium</td><td>Alphen Aan Den Rijn</td><td>2026-08-11</td></tr>
+<tr><td>TK Maxx</td><td>Processing Room Associate</td><td>Alphen Aan Den Rijn</td><td>2026-08-11</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorparttimeamstelveen</td><td>Amsterdam</td><td>2026-08-11</td></tr>
+<tr><td>Primark</td><td>Retail Assistant</td><td>Utrecht</td><td>2026-08-11</td></tr>
 </table>
