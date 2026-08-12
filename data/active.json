@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-11",
- "count": 383,
+ "asOf": "2026-08-12",
+ "count": 391,
  "jobs": {
   "81660": {
    "id": "81660",
@@ -146,24 +146,6 @@
    "role": "Customer Success Internship - Growing Impact Scale Up",
    "location": "Amsterdam"
   },
-  "2699615": {
-   "id": "2699615",
-   "company": "Twenty Seven Amsterdam B.V",
-   "role": "Stagiair(e) Reserveringen",
-   "location": "Amsterdam"
-  },
-  "2699632": {
-   "id": "2699632",
-   "company": "Twenty Seven Amsterdam B.V",
-   "role": "Hr Stagiair(e)",
-   "location": "Amsterdam"
-  },
-  "2699634": {
-   "id": "2699634",
-   "company": "Twenty Seven Amsterdam B.V",
-   "role": "Stagiair(e) Butler",
-   "location": "Amsterdam"
-  },
   "2700015": {
    "id": "2700015",
    "company": "Den Hartogh Liquid Logistics",
@@ -180,6 +162,114 @@
    "id": "2703872",
    "company": "Futurewhiz B.V",
    "role": "Efficacy Lab Internship: Effective Multiple Choice Answers",
+   "location": "Amsterdam"
+  },
+  "2705198": {
+   "id": "2705198",
+   "company": "Medikamente Die Grenze",
+   "role": "Sales Employee Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "2705598": {
+   "id": "2705598",
+   "company": "Profuomo",
+   "role": "Sales Advisor - Den Haag",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "2705701": {
+   "id": "2705701",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Stagiair(e) Butler",
+   "location": "Amsterdam"
+  },
+  "2705705": {
+   "id": "2705705",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Hr Stagiair(e)",
+   "location": "Amsterdam"
+  },
+  "2705711": {
+   "id": "2705711",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Stagiair(e) Reserveringen",
+   "location": "Amsterdam"
+  },
+  "32bc05b07d70a55e5579e10fda7cd701": {
+   "id": "32bc05b07d70a55e5579e10fda7cd701",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Business Coordination Intern",
+   "location": "Amsterdam"
+  },
+  "cc24a3f89e4a0f86569c23685141c302": {
+   "id": "cc24a3f89e4a0f86569c23685141c302",
+   "company": "createyourowncareer",
+   "role": "Internship Facility Management",
+   "location": "Puttershoek"
+  },
+  "b618addb74b4b5b1da6ceb1cd1881b05": {
+   "id": "b618addb74b4b5b1da6ceb1cd1881b05",
+   "company": "createyourowncareer",
+   "role": "Internship Learning & Development",
+   "location": "Arnhem"
+  },
+  "ba06ae4631f91e3ba6be8c77d1965dc8": {
+   "id": "ba06ae4631f91e3ba6be8c77d1965dc8",
+   "company": "Stryker",
+   "role": "Human Resources Intern",
+   "location": "Amsterdam"
+  },
+  "4a72affbe899eb40c2af3675e355d3fd": {
+   "id": "4a72affbe899eb40c2af3675e355d3fd",
+   "company": "Corbion Group Netherlands B.V",
+   "role": "Intern Polymer Technology",
+   "location": "S Hertogenbosch"
+  },
+  "985f6b32d8460d0d05a66ba48b7d6d3f": {
+   "id": "985f6b32d8460d0d05a66ba48b7d6d3f",
+   "company": "Coty Inc.",
+   "role": "Intern Hr Global Functions",
+   "location": "Amsterdam"
+  },
+  "69a9675afc977a2b62a0769ad5b0da1f": {
+   "id": "69a9675afc977a2b62a0769ad5b0da1f",
+   "company": "Coty Inc.",
+   "role": "Tpm Color Cosmetics Procurement Intern",
+   "location": "Amsterdam-Zuid"
+  },
+  "9142cdb82aaf0bcbcdb3c715b8cdab76": {
+   "id": "9142cdb82aaf0bcbcdb3c715b8cdab76",
+   "company": "Coty Inc.",
+   "role": "Intern Merchandising",
+   "location": "Amsterdam"
+  },
+  "19836935999a3366d857f934e1929145": {
+   "id": "19836935999a3366d857f934e1929145",
+   "company": "Coty Inc.",
+   "role": "Procurement Intern - Raw Materials & Tpm",
+   "location": "Amsterdam"
+  },
+  "f41fa4e971b3e2cc39c6cc29c3144995": {
+   "id": "f41fa4e971b3e2cc39c6cc29c3144995",
+   "company": "OMRON",
+   "role": "Internal Auditor - Intern/trainee",
+   "location": "Amsterdam"
+  },
+  "d74293500e7f8dfc03843ea919ce7d72": {
+   "id": "d74293500e7f8dfc03843ea919ce7d72",
+   "company": "Bynder",
+   "role": "Video/motion Internship",
+   "location": "Amsterdam"
+  },
+  "50e8693dd42ef9b7e30df034e1067cca": {
+   "id": "50e8693dd42ef9b7e30df034e1067cca",
+   "company": "ING Group",
+   "role": "Internship - Customer Journey Expert",
+   "location": "Amsterdam"
+  },
+  "43da7590f3e0cb9dc1b5689439516343": {
+   "id": "43da7590f3e0cb9dc1b5689439516343",
+   "company": "The Hoxton",
+   "role": "People & Culture Intern - The Hoxton, Lloyd",
    "location": "Amsterdam"
   },
   "702302998b9e29897994346b5ccd4e7a": {
@@ -248,12 +338,6 @@
    "role": "Stage It",
    "location": "Breda"
   },
-  "e5da9f73d5a21a1654a48c2b8cb90c57": {
-   "id": "e5da9f73d5a21a1654a48c2b8cb90c57",
-   "company": "Coty Inc.",
-   "role": "Procurement Intern - Raw Materials & Tpm",
-   "location": "Amsterdam"
-  },
   "624a374464b0d4c45706a917c0e3d737": {
    "id": "624a374464b0d4c45706a917c0e3d737",
    "company": "Volvo Trucks",
@@ -281,6 +365,12 @@
   "3a99583a230f551bdab5d822123295ad": {
    "id": "3a99583a230f551bdab5d822123295ad",
    "company": "ING Group",
+   "role": "Intern For Market Risk Management For Ing’s Consolidated Trading Book",
+   "location": "Cedar"
+  },
+  "263030253bb3d610f21b9ce868d5aef4": {
+   "id": "263030253bb3d610f21b9ce868d5aef4",
+   "company": "ING",
    "role": "Intern For Market Risk Management For Ing’s Consolidated Trading Book",
    "location": "Cedar"
   },
@@ -494,12 +584,6 @@
    "role": "Intern",
    "location": "Amsterdam Office"
   },
-  "4a72affbe899eb40c2af3675e355d3fd": {
-   "id": "4a72affbe899eb40c2af3675e355d3fd",
-   "company": "Corbion Group Netherlands B.V",
-   "role": "Intern Polymer Technology",
-   "location": "S Hertogenbosch"
-  },
   "40b0740f1e311d809ea1d394ef152d6e": {
    "id": "40b0740f1e311d809ea1d394ef152d6e",
    "company": "jobdayuib.cat",
@@ -528,78 +612,6 @@
    "id": "3cb22a5ba8f823b9606142ef7dc9ad81",
    "company": "Tonny Media",
    "role": "Videostagiair [tonny Media]",
-   "location": "Amsterdam"
-  },
-  "808df15067a54b7f86a6b6d67e61c1c4": {
-   "id": "808df15067a54b7f86a6b6d67e61c1c4",
-   "company": "NN Group",
-   "role": "Hbo Meewerkstage Nn Pensioen",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "aadd055b5f7a9f8237fde1241cddbb63": {
-   "id": "aadd055b5f7a9f8237fde1241cddbb63",
-   "company": "Philips UK",
-   "role": "Internship: Philips Foundation - Impact Investing (master, Non-thesis)",
-   "location": "Eindhoven"
-  },
-  "ae89f5407aa4ff14dc1cbb4381ec775e": {
-   "id": "ae89f5407aa4ff14dc1cbb4381ec775e",
-   "company": "Philips Foundation",
-   "role": "Internship: Philips Foundation - Impact Investing (master, Non-thesis)",
-   "location": "Eindhoven"
-  },
-  "0fcf22aa25353c674130493d2f75fff5": {
-   "id": "0fcf22aa25353c674130493d2f75fff5",
-   "company": "Freshfields Bruckhaus Deringer",
-   "role": "Student-stage - Corporate",
-   "location": "Amsterdam"
-  },
-  "fed5dda81fd2e2a8b4d94b2651ecb69e": {
-   "id": "fed5dda81fd2e2a8b4d94b2651ecb69e",
-   "company": "Chanel (Australia) Pty Ltd",
-   "role": "Internship – Client Marketing Fashion – September 2026 - M/f/d",
-   "location": "Amsterdam"
-  },
-  "ebf132ed5216f7e64ee5e624f0f98d83": {
-   "id": "ebf132ed5216f7e64ee5e624f0f98d83",
-   "company": "Chanel",
-   "role": "Internship – Client Marketing Fashion – September 2026 - M/f/d",
-   "location": "Amsterdam"
-  },
-  "3244cdbd83f868815021b889a04b914b": {
-   "id": "3244cdbd83f868815021b889a04b914b",
-   "company": "G&F Châtelain",
-   "role": "Internship – Client Marketing Fashion – September 2026 - M/f/d",
-   "location": "Amsterdam"
-  },
-  "cc24a3f89e4a0f86569c23685141c302": {
-   "id": "cc24a3f89e4a0f86569c23685141c302",
-   "company": "createyourowncareer",
-   "role": "Internship Facility Management",
-   "location": "Puttershoek"
-  },
-  "c64acf6c0cd1da17b231cb9476b160c8": {
-   "id": "c64acf6c0cd1da17b231cb9476b160c8",
-   "company": "createyourowncareer",
-   "role": "Internship Procurement",
-   "location": "Arnhem"
-  },
-  "b618addb74b4b5b1da6ceb1cd1881b05": {
-   "id": "b618addb74b4b5b1da6ceb1cd1881b05",
-   "company": "createyourowncareer",
-   "role": "Internship Learning & Development",
-   "location": "Arnhem"
-  },
-  "129b660adfd5e5c795608a339a2ac918": {
-   "id": "129b660adfd5e5c795608a339a2ac918",
-   "company": "ICL ISRAEL Ltd",
-   "role": "Finance Intern",
-   "location": "Amsterdam"
-  },
-  "42d615a88261fcc3c93d252bdc8db19d": {
-   "id": "42d615a88261fcc3c93d252bdc8db19d",
-   "company": "Coty",
-   "role": "Procurement Intern - Raw Materials & Tpm",
    "location": "Amsterdam"
   },
   "f3fa62935938cfbc735d138bac5ebd80": {
@@ -914,6 +926,18 @@
    "role": "Internship: Climate Action Business Analyst (non-thesis)",
    "location": "Amsterdam"
   },
+  "a4922c03933a659312cfc38117a414e9": {
+   "id": "a4922c03933a659312cfc38117a414e9",
+   "company": "CEVA Logistics",
+   "role": "Inventory Control Analyst",
+   "location": "Born"
+  },
+  "a8b5a49313288004bc3e03e1cade2954": {
+   "id": "a8b5a49313288004bc3e03e1cade2954",
+   "company": "William Blair",
+   "role": "Investment Banking Analyst, Private Capital Markets",
+   "location": "Amsterdam"
+  },
   "b3c1370ab0209eeff5ff4b9076687042": {
    "id": "b3c1370ab0209eeff5ff4b9076687042",
    "company": "Commonwealth Bank of Australia (Europe) N.V.",
@@ -1069,6 +1093,36 @@
    "company": "ForFarmers",
    "role": "Business Analyst",
    "location": "Netherlands"
+  },
+  "627402065d771690eda63eaeead92d86": {
+   "id": "627402065d771690eda63eaeead92d86",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Field Maintenance Operator Painting",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "ad4691d7b3febf045dd7d03e62ba9c9f": {
+   "id": "ad4691d7b3febf045dd7d03e62ba9c9f",
+   "company": "De Jong Box B.V.",
+   "role": "Technisch Medewerker",
+   "location": "Den Hoorn"
+  },
+  "ff79b10b3003dbb062c5b7ae6ab459b1": {
+   "id": "ff79b10b3003dbb062c5b7ae6ab459b1",
+   "company": "Ingersoll Rand PLC",
+   "role": "Service Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "d118647e1f863da0ceef9d1c9f12e86c": {
+   "id": "d118647e1f863da0ceef9d1c9f12e86c",
+   "company": "Van Elewout Compressoren",
+   "role": "Compressor Technician",
+   "location": "Zoeterwoude"
+  },
+  "a060ca753717d32a1db50c4d62ae045f": {
+   "id": "a060ca753717d32a1db50c4d62ae045f",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Electrical Technician - Field Maintenance & Modification 1",
+   "location": "Alphen Aan Den Rijn"
   },
   "afa337bef496ad54c73d58b8846827e9": {
    "id": "afa337bef496ad54c73d58b8846827e9",
@@ -1394,18 +1448,6 @@
    "role": "Junior Service Monteur",
    "location": "Netherlands"
   },
-  "ff79b10b3003dbb062c5b7ae6ab459b1": {
-   "id": "ff79b10b3003dbb062c5b7ae6ab459b1",
-   "company": "Ingersoll Rand PLC",
-   "role": "Service Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "d118647e1f863da0ceef9d1c9f12e86c": {
-   "id": "d118647e1f863da0ceef9d1c9f12e86c",
-   "company": "Ingersoll Rand PLC",
-   "role": "Compressor Technician",
-   "location": "Zoeterwoude"
-  },
   "32a848f7734b7af5c92e24bf8c562147": {
    "id": "32a848f7734b7af5c92e24bf8c562147",
    "company": "Kone Corporation",
@@ -1423,6 +1465,12 @@
    "company": "KONE Romania",
    "role": "Onderhoudsmonteur Personendeuren",
    "location": "Utrecht"
+  },
+  "3bc95c9bff27a7a3a1a76319db6aee56": {
+   "id": "3bc95c9bff27a7a3a1a76319db6aee56",
+   "company": "Ingersoll Rand PLC",
+   "role": "Compressor Technician",
+   "location": "Zoeterwoude"
   },
   "b757736015afc9904bf788b3dfd308ec": {
    "id": "b757736015afc9904bf788b3dfd308ec",
@@ -1496,18 +1544,6 @@
    "role": "Technician - Global Marine En Navy",
    "location": "Gorinchem +7"
   },
-  "627402065d771690eda63eaeead92d86": {
-   "id": "627402065d771690eda63eaeead92d86",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Field Maintenance Operator Painting",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "a060ca753717d32a1db50c4d62ae045f": {
-   "id": "a060ca753717d32a1db50c4d62ae045f",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Electrical Technician - Field Maintenance & Modification 1",
-   "location": "Alphen Aan Den Rijn"
-  },
   "a09d3e6239e3ba27bd503eca094b6cfd": {
    "id": "a09d3e6239e3ba27bd503eca094b6cfd",
    "company": "Outokumpu Oyj",
@@ -1526,17 +1562,17 @@
    "role": "Field Service Engineer Laagspanning",
    "location": "Netherlands"
   },
-  "873ae2d995831a2f83a80b5cb053b770": {
-   "id": "873ae2d995831a2f83a80b5cb053b770",
-   "company": "ABB Ltd",
-   "role": "Field Service Engineer Laagspanning",
-   "location": "Netherlands"
+  "20fed45a7e9b0a590ce02f594dd4b0be": {
+   "id": "20fed45a7e9b0a590ce02f594dd4b0be",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Sales Associate 80%",
+   "location": "Amsterdam"
   },
-  "fa8b8d486e2def9749c640c816f1c938": {
-   "id": "fa8b8d486e2def9749c640c816f1c938",
-   "company": "Jdch",
-   "role": "Maintenance Technician",
-   "location": "Alphen Aan Den Rijn"
+  "c39ce8481d3e20ec5bea911ec5a30833": {
+   "id": "c39ce8481d3e20ec5bea911ec5a30833",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "E-boutique Sales Associate German Speaking",
+   "location": "Amsterdam"
   },
   "8816ee4cf85a540eb3f714e9a40221c4": {
    "id": "8816ee4cf85a540eb3f714e9a40221c4",
@@ -1548,6 +1584,12 @@
    "id": "ce0ab5432babfa68a3e2dd02d4581c63",
    "company": "H & M Hennes & Mauritz AB",
    "role": "Sales Advisor 21h",
+   "location": "Amsterdam"
+  },
+  "f9d6e3af7a4546193b363e7f1c975c30": {
+   "id": "f9d6e3af7a4546193b363e7f1c975c30",
+   "company": "ALO",
+   "role": "Sales Associate (part-time) - Pc Hoofstraat",
    "location": "Amsterdam"
   },
   "e3092f87d68a0aeeef2a013586210ff0": {
@@ -1572,6 +1614,12 @@
    "id": "0f17ecfbfcf70428aa667a145f205a8a",
    "company": "Nestle Ltd",
    "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
+   "location": "Amsterdam"
+  },
+  "2498a1a80f32ba0b493b0aa136f64710": {
+   "id": "2498a1a80f32ba0b493b0aa136f64710",
+   "company": "ALO / Australia",
+   "role": "Sales Associate (part-time) - Wolvenstraat 9 Streets",
    "location": "Amsterdam"
   },
   "f55685e99d9841c34a299169ab346e9d": {
@@ -1922,10 +1970,28 @@
    "role": "Student Parttime Verkoopmedewerker - Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
-  "22442c2ccc58d42ccdd893da12f3415a": {
-   "id": "22442c2ccc58d42ccdd893da12f3415a",
-   "company": "Pawllywood",
-   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam",
+  "1b3beb516b419c99b90fccc2196ae313": {
+   "id": "1b3beb516b419c99b90fccc2196ae313",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Boutique Assistant",
+   "location": "Amsterdam"
+  },
+  "d3a413700b5fd7df0af135501f98fe08": {
+   "id": "d3a413700b5fd7df0af135501f98fe08",
+   "company": "CMA CGM Group",
+   "role": "Assistant Warehouse Supervisor Outbound",
+   "location": "Amsterdam"
+  },
+  "6142bc231c7d1a9df65289377e7fa7ca": {
+   "id": "6142bc231c7d1a9df65289377e7fa7ca",
+   "company": "CEVA Logistics",
+   "role": "Assistant Warehouse Supervisor",
+   "location": "Utrecht"
+  },
+  "8e002c9ae2adb8f5f2ad862edede7646": {
+   "id": "8e002c9ae2adb8f5f2ad862edede7646",
+   "company": "PALFINGER AG",
+   "role": "Service Coordinator (m/f/d)",
    "location": "Alphen Aan Den Rijn"
   },
   "4f4ce001eef79a8f66298f7daf4a538d": {
@@ -1981,18 +2047,6 @@
    "company": "NORNORM",
    "role": "Customer Team Coordinator - Benelux &amp; France",
    "location": "Amsterdam"
-  },
-  "d3a413700b5fd7df0af135501f98fe08": {
-   "id": "d3a413700b5fd7df0af135501f98fe08",
-   "company": "CEVA Logistics",
-   "role": "Assistant Warehouse Supervisor Outbound",
-   "location": "Amsterdam"
-  },
-  "6142bc231c7d1a9df65289377e7fa7ca": {
-   "id": "6142bc231c7d1a9df65289377e7fa7ca",
-   "company": "CMA CGM Group",
-   "role": "Assistant Warehouse Supervisor",
-   "location": "Utrecht"
   },
   "9f0bc7f14dca68a52927410d9f0f3a2c": {
    "id": "9f0bc7f14dca68a52927410d9f0f3a2c",
@@ -2077,12 +2131,6 @@
    "company": "Capri",
    "role": "Safety Specialist",
    "location": "Venlo"
-  },
-  "8e002c9ae2adb8f5f2ad862edede7646": {
-   "id": "8e002c9ae2adb8f5f2ad862edede7646",
-   "company": "PALFINGER AG",
-   "role": "Service Coordinator (m/f/d)",
-   "location": "Alphen Aan Den Rijn"
   },
   "9ad358fea347d8daa2a7caf79021ddae": {
    "id": "9ad358fea347d8daa2a7caf79021ddae",

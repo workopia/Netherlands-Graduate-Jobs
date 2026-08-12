@@ -439,4 +439,21 @@
 <tr><td>TK Maxx</td><td>Processing Room Associate</td><td>Alphen Aan Den Rijn</td><td>2026-08-11</td></tr>
 <tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorparttimeamstelveen</td><td>Amsterdam</td><td>2026-08-11</td></tr>
 <tr><td>Primark</td><td>Retail Assistant</td><td>Utrecht</td><td>2026-08-11</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Stagiair(e) Reserveringen</td><td>Amsterdam</td><td>2026-08-12</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Hr Stagiair(e)</td><td>Amsterdam</td><td>2026-08-12</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Stagiair(e) Butler</td><td>Amsterdam</td><td>2026-08-12</td></tr>
+<tr><td>Coty Inc.</td><td>Procurement Intern - Raw Materials & Tpm</td><td>Amsterdam</td><td>2026-08-12</td></tr>
+<tr><td>NN Group</td><td>Hbo Meewerkstage Nn Pensioen</td><td>Alphen Aan Den Rijn</td><td>2026-08-12</td></tr>
+<tr><td>Philips UK</td><td>Internship: Philips Foundation - Impact Investing (master, Non-thesis)</td><td>Eindhoven</td><td>2026-08-12</td></tr>
+<tr><td>Philips Foundation</td><td>Internship: Philips Foundation - Impact Investing (master, Non-thesis)</td><td>Eindhoven</td><td>2026-08-12</td></tr>
+<tr><td>Freshfields Bruckhaus Deringer</td><td>Student-stage - Corporate</td><td>Amsterdam</td><td>2026-08-12</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Internship – Client Marketing Fashion – September 2026 - M/f/d</td><td>Amsterdam</td><td>2026-08-12</td></tr>
+<tr><td>Chanel</td><td>Internship – Client Marketing Fashion – September 2026 - M/f/d</td><td>Amsterdam</td><td>2026-08-12</td></tr>
+<tr><td>G&F Châtelain</td><td>Internship – Client Marketing Fashion – September 2026 - M/f/d</td><td>Amsterdam</td><td>2026-08-12</td></tr>
+<tr><td>createyourowncareer</td><td>Internship Procurement</td><td>Arnhem</td><td>2026-08-12</td></tr>
+<tr><td>ICL ISRAEL Ltd</td><td>Finance Intern</td><td>Amsterdam</td><td>2026-08-12</td></tr>
+<tr><td>Coty</td><td>Procurement Intern - Raw Materials & Tpm</td><td>Amsterdam</td><td>2026-08-12</td></tr>
+<tr><td>ABB Ltd</td><td>Field Service Engineer Laagspanning</td><td>Netherlands</td><td>2026-08-12</td></tr>
+<tr><td>Jdch</td><td>Maintenance Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-12</td></tr>
+<tr><td>Pawllywood</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-12</td></tr>
 </table>
