@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-12",
- "count": 391,
+ "asOf": "2026-08-13",
+ "count": 392,
  "jobs": {
   "81660": {
    "id": "81660",
@@ -122,12 +122,6 @@
    "role": "Administratief Medewerker Da",
    "location": "Alphen Aan Den Rijn"
   },
-  "2696124": {
-   "id": "2696124",
-   "company": "Younggroup",
-   "role": "Commerciële Stagiair(e) In Amsterdam!",
-   "location": "Amsterdam"
-  },
   "2697761": {
    "id": "2697761",
    "company": "collab-group.nl",
@@ -193,6 +187,18 @@
    "company": "Twenty Seven Amsterdam B.V",
    "role": "Stagiair(e) Reserveringen",
    "location": "Amsterdam"
+  },
+  "506cbfed4287c8454556833cb7f82645": {
+   "id": "506cbfed4287c8454556833cb7f82645",
+   "company": "bankcarriere.nl",
+   "role": "Internship Client Tax Services At Global Client Tax Services (cts)",
+   "location": "Treasury Center"
+  },
+  "308d3088685a7aa0d239e9248d63e170": {
+   "id": "308d3088685a7aa0d239e9248d63e170",
+   "company": "bankcarriere.nl",
+   "role": "Intern – Intelligent Automation",
+   "location": "Haarlerbergpark"
   },
   "32bc05b07d70a55e5579e10fda7cd701": {
    "id": "32bc05b07d70a55e5579e10fda7cd701",
@@ -606,12 +612,6 @@
    "id": "06d185702da8210b754d6ce81bb05d35",
    "company": "Tonny Media",
    "role": "Vormgevingstagiair [tonny Media]",
-   "location": "Amsterdam"
-  },
-  "3cb22a5ba8f823b9606142ef7dc9ad81": {
-   "id": "3cb22a5ba8f823b9606142ef7dc9ad81",
-   "company": "Tonny Media",
-   "role": "Videostagiair [tonny Media]",
    "location": "Amsterdam"
   },
   "f3fa62935938cfbc735d138bac5ebd80": {
@@ -1562,6 +1562,18 @@
    "role": "Field Service Engineer Laagspanning",
    "location": "Netherlands"
   },
+  "07860d454a218c4f286f6051dc74cfc2": {
+   "id": "07860d454a218c4f286f6051dc74cfc2",
+   "company": "Levis Media",
+   "role": "Sales Stylist 16h",
+   "location": "Amsterdam"
+  },
+  "6c9f437a09403e33e5eac16b5ff34f06": {
+   "id": "6c9f437a09403e33e5eac16b5ff34f06",
+   "company": "Capri Holdings Limited",
+   "role": "Part Time Sales Associate 12h",
+   "location": "Amsterdam"
+  },
   "20fed45a7e9b0a590ce02f594dd4b0be": {
    "id": "20fed45a7e9b0a590ce02f594dd4b0be",
    "company": "Richemont Australia Pty Ltd",
@@ -1898,12 +1910,6 @@
    "role": "Verkoopmedewerker Telecom &amp; Mobiel Beijerlandselaan",
    "location": "Alphen Aan Den Rijn"
   },
-  "d9ce53dfa60ab678b248733a89e0f6eb": {
-   "id": "d9ce53dfa60ab678b248733a89e0f6eb",
-   "company": "Levis Media",
-   "role": "Sales Stylist 16h",
-   "location": "Amsterdam"
-  },
   "0744197fd1262f1ea04f5ba18506ca05": {
    "id": "0744197fd1262f1ea04f5ba18506ca05",
    "company": "skechers.dk",
@@ -1964,11 +1970,11 @@
    "role": "Verkoopmedewerker Met Ambitie",
    "location": "Alphen Aan Den Rijn"
   },
-  "10afa4ababd03d8d78c7e4fc00b281d3": {
-   "id": "10afa4ababd03d8d78c7e4fc00b281d3",
-   "company": "Skechers",
-   "role": "Student Parttime Verkoopmedewerker - Rotterdam",
-   "location": "Alphen Aan Den Rijn"
+  "d55627d40fa28bb1d2561d4185b35ee8": {
+   "id": "d55627d40fa28bb1d2561d4185b35ee8",
+   "company": "Capri Holdings Limited",
+   "role": "Safety Specialist",
+   "location": "Venlo"
   },
   "1b3beb516b419c99b90fccc2196ae313": {
    "id": "1b3beb516b419c99b90fccc2196ae313",

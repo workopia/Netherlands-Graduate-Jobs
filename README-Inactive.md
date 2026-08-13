@@ -456,4 +456,8 @@
 <tr><td>ABB Ltd</td><td>Field Service Engineer Laagspanning</td><td>Netherlands</td><td>2026-08-12</td></tr>
 <tr><td>Jdch</td><td>Maintenance Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-12</td></tr>
 <tr><td>Pawllywood</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-12</td></tr>
+<tr><td>Younggroup</td><td>Commerciële Stagiair(e) In Amsterdam!</td><td>Amsterdam</td><td>2026-08-13</td></tr>
+<tr><td>Tonny Media</td><td>Videostagiair [tonny Media]</td><td>Amsterdam</td><td>2026-08-13</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 16h</td><td>Amsterdam</td><td>2026-08-13</td></tr>
+<tr><td>Skechers</td><td>Student Parttime Verkoopmedewerker - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-13</td></tr>
 </table>
