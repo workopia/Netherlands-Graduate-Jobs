@@ -460,4 +460,68 @@
 <tr><td>Tonny Media</td><td>Videostagiair [tonny Media]</td><td>Amsterdam</td><td>2026-08-13</td></tr>
 <tr><td>Levis Media</td><td>Sales Stylist 16h</td><td>Amsterdam</td><td>2026-08-13</td></tr>
 <tr><td>Skechers</td><td>Student Parttime Verkoopmedewerker - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-13</td></tr>
+<tr><td>Firmenich</td><td>Trainee / Apprentice</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>Dpg Media</td><td>Stagiair Online Redactie Margriet (september 2026)</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>HeuschenSchrouff</td><td>(junior) Order Coordinator Dach</td><td>Landgraaf</td><td>2026-08-14</td></tr>
+<tr><td>Feenstra</td><td>Servicemonteur</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>Youvia B.V</td><td>Junior Marketeer</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>AgriPlace B.V</td><td>Customer Success Internship - Growing Impact Scale Up</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>Simvia</td><td>Sales Stage Benelux (nederlandstalig) - Growing Impact Scale Up</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>Coty Inc.</td><td>Tpm Color Cosmetics Procurement Intern</td><td>Amsterdam-Zuid</td><td>2026-08-14</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Internship Display & Native Advertising</td><td>Amsterdam +1</td><td>2026-08-14</td></tr>
+<tr><td>Stora Enso Oyj</td><td>Stagiair Safety</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>Colgate-Palmolive</td><td>E-commerce Internship</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>itinfinance.nl</td><td>Intern Dcm Origination Fig</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>Ses Group</td><td>Intern, Europe, Middle East And Africa Regulatory And Legal</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>Philips</td><td>Internship: Hr People Activation Management (amsterdam, Non-thesis)</td><td>Eindhoven</td><td>2026-08-14</td></tr>
+<tr><td>Philips</td><td>Internship: Operational Material Management</td><td>Eindhoven</td><td>2026-08-14</td></tr>
+<tr><td>Careers Philips</td><td>Internship: Hr People Activation Management (eindhoven, Non-thesis)</td><td>Eindhoven</td><td>2026-08-14</td></tr>
+<tr><td>OMRON Corporation</td><td>Internal Auditor - Intern/trainee</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>Yunex Traffic</td><td>Hr Stage</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>Under Armour</td><td>Intern, Benelux Commercial - Rookie Program 2026</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Stagiair Finance</td><td>Breda</td><td>2026-08-14</td></tr>
+<tr><td>olam food ingredients (ofi)</td><td>Internship Supply Chain</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>olam food ingredients (ofi)</td><td>R&d Internship - Shelf Life & Nut Fillings</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>Nouryon</td><td>R&d Internship</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>Vetamc</td><td>Stagiair – Laboratorium Of Productietechniek – Visuele Inspectie</td><td>North Brabant</td><td>2026-08-14</td></tr>
+<tr><td>jobdayuib.cat</td><td>Hr Meewerkstage</td><td>S Hertogenbosch</td><td>2026-08-14</td></tr>
+<tr><td>santillana.cat</td><td>Hr Meewerkstage</td><td>S Hertogenbosch</td><td>2026-08-14</td></tr>
+<tr><td>Caterpillar UK</td><td>Hr Meewerkstage</td><td>S Hertogenbosch</td><td>2026-08-14</td></tr>
+<tr><td>Tonny Media</td><td>Vormgevingstagiair [tonny Media]</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>Yara International ASA</td><td>Hoofdmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Compressor Technician</td><td>Zoeterwoude</td><td>2026-08-14</td></tr>
+<tr><td>Otis</td><td>Service Monteur Amsterdam & Amstelveen</td><td>Utrecht</td><td>2026-08-14</td></tr>
+<tr><td>Bilfinger</td><td>Servicetechnicus (technicus E&i A)</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>Rocar-Tech</td><td>Service Monteur Garage Equipment</td><td>Netherlands</td><td>2026-08-14</td></tr>
+<tr><td>TRUMPF SE + Co. KG</td><td>Field Service Engineer 2d-laser</td><td>Netherlands</td><td>2026-08-14</td></tr>
+<tr><td>539</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-08-14</td></tr>
+<tr><td>Drugdiscovery</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-08-14</td></tr>
+<tr><td>Laboratory Animal Management Association</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-08-14</td></tr>
+<tr><td>microsatsystems.biz</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-08-14</td></tr>
+<tr><td>Chart Industries Inc</td><td>Maintenance/field Services Technician</td><td>Zuidland</td><td>2026-08-14</td></tr>
+<tr><td>Vistaprint</td><td>Maintenance Technician X3</td><td>Venlo</td><td>2026-08-14</td></tr>
+<tr><td>Applied Materials Inc</td><td>Technician</td><td>Nijmegen</td><td>2026-08-14</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Technician - Global Marine En Navy</td><td>Gorinchem +7</td><td>2026-08-14</td></tr>
+<tr><td>ABB Ltd</td><td>Field Service Engineer Marine & Ports Power</td><td>Singapore +2</td><td>2026-08-14</td></tr>
+<tr><td>ABB UK</td><td>Field Service Engineer Laagspanning</td><td>Netherlands</td><td>2026-08-14</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Retail Rotterdam The Corner</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopspecialist Retail Audio Rotterdam The Corner</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopspecialist Retail Gaming Rotterdam The Corner</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Retail Gaming &amp; Audio Rotterdam The Corner</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Huishoudelijke Apparaten Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Telecom &amp; Mobiel Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>skechers.dk</td><td>Parttime Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>COS</td><td>Verkoopmedewerker - Amstelveen (21/26 Uur)</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>Instabee</td><td>Locker Locations Sales Associate</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>Nestle SA</td><td>Verkoopmedewerker Nespresso Amsterdam</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>skechers.cl</td><td>Parttime Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 16h</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>Hoofprinting</td><td>Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf Den Haag (dutch Speaking)</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>376</td><td>Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf Den Haag (dutch Speaking)</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Student Parttime Verkoopmedewerker - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>why LLP</td><td>Administrative Assistant Corporate</td><td>Amsterdam</td><td>2026-08-14</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Management Assistant</td><td>Moerdijk</td><td>2026-08-14</td></tr>
+<tr><td>Primark</td><td>Weekend Retail Assistant Rotterdam Forum</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
 </table>
