@@ -524,4 +524,19 @@
 <tr><td>why LLP</td><td>Administrative Assistant Corporate</td><td>Amsterdam</td><td>2026-08-14</td></tr>
 <tr><td>DSV Panalpina AS</td><td>Management Assistant</td><td>Moerdijk</td><td>2026-08-14</td></tr>
 <tr><td>Primark</td><td>Weekend Retail Assistant Rotterdam Forum</td><td>Alphen Aan Den Rijn</td><td>2026-08-14</td></tr>
+<tr><td>Omnicom Public Relations Group</td><td>Stage Pr En Communicatie Consultant</td><td>Amsterdam</td><td>2026-08-15</td></tr>
+<tr><td>itinfinance.nl</td><td>Stagiair Marketing & Communicatie</td><td>Haarlerbergpark</td><td>2026-08-15</td></tr>
+<tr><td>224</td><td>Stagiair Marketing & Communicatie</td><td>Haarlerbergpark</td><td>2026-08-15</td></tr>
+<tr><td>bankcarriere.nl</td><td>Stagiair Marketing & Communicatie</td><td>Haarlerbergpark</td><td>2026-08-15</td></tr>
+<tr><td>Fromageries Bel</td><td>Marketing Assistant - Internship</td><td>Utrecht</td><td>2026-08-15</td></tr>
+<tr><td>Fromageries Bel</td><td>Internship Brand & Digital Marketing Assistant</td><td>Utrecht</td><td>2026-08-15</td></tr>
+<tr><td>Philips</td><td>Intern Operational Excellence Ventures</td><td>Amsterdam</td><td>2026-08-15</td></tr>
+<tr><td>Philips</td><td>Internship: Ai & Automation (non-thesis)</td><td>Eindhoven</td><td>2026-08-15</td></tr>
+<tr><td>Shell Energy UK</td><td>Category Mgmt Intern, Food Service</td><td>Alphen Aan Den Rijn</td><td>2026-08-15</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Internship Digital Video & Audio Advertising</td><td>Amsterdam</td><td>2026-08-15</td></tr>
+<tr><td>KONE Romania</td><td>Service Monteur Liften</td><td>Alphen Aan Den Rijn</td><td>2026-08-15</td></tr>
+<tr><td>KONE Romania</td><td>Onderhoudsmonteur Personendeuren</td><td>Utrecht</td><td>2026-08-15</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Gaming, Laptops &amp; Computers Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-08-15</td></tr>
+<tr><td>Primark</td><td>Weekend Retail Assistant Zuidplein</td><td>Alphen Aan Den Rijn</td><td>2026-08-15</td></tr>
+<tr><td>Perrigo Company</td><td>2nd Shift Packaging Specialist - Holland - $21.10/hr</td><td>Holland</td><td>2026-08-15</td></tr>
 </table>

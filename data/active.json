@@ -1,7 +1,13 @@
 {
- "asOf": "2026-08-14",
- "count": 413,
+ "asOf": "2026-08-15",
+ "count": 414,
  "jobs": {
+  "1804616": {
+   "id": "1804616",
+   "company": "FieldBuddy",
+   "role": "Content Marketing Internship",
+   "location": "Amsterdam"
+  },
   "2568638": {
    "id": "2568638",
    "company": "Olenex Group",
@@ -152,6 +158,48 @@
    "role": "Logistiek Administratief Medewerker",
    "location": "Veenendaal"
   },
+  "2709118": {
+   "id": "2709118",
+   "company": "FieldBuddy",
+   "role": "Ai Marketing Automation Internship",
+   "location": "Amsterdam"
+  },
+  "842a5022d378693831c05ef5619e0ecd": {
+   "id": "842a5022d378693831c05ef5619e0ecd",
+   "company": "Organon",
+   "role": "Stagiair",
+   "location": "S Hertogenbosch"
+  },
+  "837abfb2b9c3680603bb53feb5b71aba": {
+   "id": "837abfb2b9c3680603bb53feb5b71aba",
+   "company": "Perfetti Van Melle ICT B.V",
+   "role": "Stagiair Packing Development",
+   "location": "Breda"
+  },
+  "01a631af0e5d4c2b8d951f1289de5187": {
+   "id": "01a631af0e5d4c2b8d951f1289de5187",
+   "company": "Cell",
+   "role": "Researcher Academy Intern",
+   "location": "Amsterdam"
+  },
+  "ef68ea6a23b8a2e0af57f7f31fd3bd02": {
+   "id": "ef68ea6a23b8a2e0af57f7f31fd3bd02",
+   "company": "ING",
+   "role": "Internship - Trainee Management Team",
+   "location": "Cedar"
+  },
+  "46871f6beaffe79a2607312b14b7a187": {
+   "id": "46871f6beaffe79a2607312b14b7a187",
+   "company": "RELX (LexisNexis)",
+   "role": "Researcher Academy Intern",
+   "location": "Amsterdam"
+  },
+  "0dd803f5f52d4a3e4bf885d98c3e538e": {
+   "id": "0dd803f5f52d4a3e4bf885d98c3e538e",
+   "company": "Flix",
+   "role": "Stagiair – Operations Benelux (m/f/d)",
+   "location": "Amsterdam"
+  },
   "c465fedd5a760c5d58eeb0303accb36c": {
    "id": "c465fedd5a760c5d58eeb0303accb36c",
    "company": "Boots apotheek De Esdoorn",
@@ -221,6 +269,18 @@
   "b895d214279efbf536485a0c0395cb36": {
    "id": "b895d214279efbf536485a0c0395cb36",
    "company": "ING Group",
+   "role": "Intern – Intelligent Automation",
+   "location": "Haarlerbergpark"
+  },
+  "1c8ccc0d594f1a77db4f3fe16880bada": {
+   "id": "1c8ccc0d594f1a77db4f3fe16880bada",
+   "company": "Global Client Tax Services (cts)",
+   "role": "Internship Client Tax Services At Global Client Tax Services (cts)",
+   "location": "Treasury Center)"
+  },
+  "76e66ea556072cb99e603eaa4cc14633": {
+   "id": "76e66ea556072cb99e603eaa4cc14633",
+   "company": "ING",
    "role": "Intern – Intelligent Automation",
    "location": "Haarlerbergpark"
   },
@@ -547,66 +607,6 @@
    "company": "ING Private Banking",
    "role": "Meewerkstage Marketing Ing Private Banking",
    "location": "Acanthus"
-  },
-  "4e56573d8d1fd4c54bad5cee74723219": {
-   "id": "4e56573d8d1fd4c54bad5cee74723219",
-   "company": "Omnicom Public Relations Group",
-   "role": "Stage Pr En Communicatie Consultant",
-   "location": "Amsterdam"
-  },
-  "7ee58e9a5fda4f5655c411b44d662bdc": {
-   "id": "7ee58e9a5fda4f5655c411b44d662bdc",
-   "company": "itinfinance.nl",
-   "role": "Stagiair Marketing & Communicatie",
-   "location": "Haarlerbergpark"
-  },
-  "ec92e219f271e47da9d5f46af6eacfd2": {
-   "id": "ec92e219f271e47da9d5f46af6eacfd2",
-   "company": "224",
-   "role": "Stagiair Marketing & Communicatie",
-   "location": "Haarlerbergpark"
-  },
-  "fffe90119f6f2d7b8a21d41809f9b647": {
-   "id": "fffe90119f6f2d7b8a21d41809f9b647",
-   "company": "bankcarriere.nl",
-   "role": "Stagiair Marketing & Communicatie",
-   "location": "Haarlerbergpark"
-  },
-  "e9e64b12414ec48687b839ed5434f0a0": {
-   "id": "e9e64b12414ec48687b839ed5434f0a0",
-   "company": "Fromageries Bel",
-   "role": "Marketing Assistant - Internship",
-   "location": "Utrecht"
-  },
-  "391e4a9c1c5d8f10bd45953ecb28e2f6": {
-   "id": "391e4a9c1c5d8f10bd45953ecb28e2f6",
-   "company": "Fromageries Bel",
-   "role": "Internship Brand & Digital Marketing Assistant",
-   "location": "Utrecht"
-  },
-  "a39fc3a2da2246fec1ddbbac8b9273e4": {
-   "id": "a39fc3a2da2246fec1ddbbac8b9273e4",
-   "company": "Philips",
-   "role": "Intern Operational Excellence Ventures",
-   "location": "Amsterdam"
-  },
-  "fd18f4e676e6c24fdddeb2d18f1de9b4": {
-   "id": "fd18f4e676e6c24fdddeb2d18f1de9b4",
-   "company": "Philips",
-   "role": "Internship: Ai & Automation (non-thesis)",
-   "location": "Eindhoven"
-  },
-  "56409a7fa3937687e8834d4d2a17a74d": {
-   "id": "56409a7fa3937687e8834d4d2a17a74d",
-   "company": "Shell Energy UK",
-   "role": "Category Mgmt Intern, Food Service",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "2059f415bf658da93320bd5edab996c2": {
-   "id": "2059f415bf658da93320bd5edab996c2",
-   "company": "WPP Media Australia & New Zealand",
-   "role": "Internship Digital Video & Audio Advertising",
-   "location": "Amsterdam"
   },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
@@ -956,6 +956,12 @@
    "role": "Internship: Climate Action Business Analyst (non-thesis)",
    "location": "Amsterdam"
   },
+  "e6aed354d6e398747f52d6212bd75e33": {
+   "id": "e6aed354d6e398747f52d6212bd75e33",
+   "company": "Jobgether",
+   "role": "Transactional Revenue Intelligence & Systems Analyst",
+   "location": "Netherlands"
+  },
   "636e4cc2c6e8cd7397869aa6b7c28a4b": {
    "id": "636e4cc2c6e8cd7397869aa6b7c28a4b",
    "company": "URW (Unibail-Rodamco-Westfield)",
@@ -1130,6 +1136,48 @@
    "role": "Business Analyst",
    "location": "Netherlands"
   },
+  "d3af288591199e4d6b47348b4581a681": {
+   "id": "d3af288591199e4d6b47348b4581a681",
+   "company": "Schindler Group",
+   "role": "Reparatie Monteur Zuid",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "a341ea7b8e2fdc4e68e74838ba7648c7": {
+   "id": "a341ea7b8e2fdc4e68e74838ba7648c7",
+   "company": "Schindler Group",
+   "role": "Service Technician Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "1f8218c29cccc96d7c4dfc3e8b57b5b6": {
+   "id": "1f8218c29cccc96d7c4dfc3e8b57b5b6",
+   "company": "Schindler Group",
+   "role": "Service Technician Utrecht",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "6a4c9cb7bd9d896c6c6c773492a32207": {
+   "id": "6a4c9cb7bd9d896c6c6c773492a32207",
+   "company": "Schindler Group",
+   "role": "Service Technician Regio Leiden",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "e1e763a5fa3e969e47c700978e464d1e": {
+   "id": "e1e763a5fa3e969e47c700978e464d1e",
+   "company": "Schindler Group",
+   "role": "Service Technician Roltrappen",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "e842f3247e125586761d5a322e400e18": {
+   "id": "e842f3247e125586761d5a322e400e18",
+   "company": "Schindler Group",
+   "role": "Servicemonteur Roltrappen - Regio Amsterdam",
+   "location": "Amsterdam"
+  },
+  "c8e4db9ee764d7164bf4246d617a2938": {
+   "id": "c8e4db9ee764d7164bf4246d617a2938",
+   "company": "Schindler Group",
+   "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
+   "location": "Alphen Aan Den Rijn"
+  },
   "5ecccc1569ac0e2c6c334c21700f1bd8": {
    "id": "5ecccc1569ac0e2c6c334c21700f1bd8",
    "company": "Ardagh Group",
@@ -1217,6 +1265,12 @@
   "192b584f26340b6cb72ad8d353784277": {
    "id": "192b584f26340b6cb72ad8d353784277",
    "company": "microsatsystems.biz",
+   "role": "Maintenance Monteur - Storing & Onderhoud",
+   "location": "Venlo"
+  },
+  "2dbae0abeb1e92af99b365884ed5234e": {
+   "id": "2dbae0abeb1e92af99b365884ed5234e",
+   "company": "Merck Sharp & Dohme Corp",
    "role": "Maintenance Monteur - Storing & Onderhoud",
    "location": "Venlo"
   },
@@ -1394,42 +1448,6 @@
    "role": "E/i Craftsperson Maintenance",
    "location": "Alphen Aan Den Rijn"
   },
-  "c8e4db9ee764d7164bf4246d617a2938": {
-   "id": "c8e4db9ee764d7164bf4246d617a2938",
-   "company": "Schindler Group",
-   "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "d3af288591199e4d6b47348b4581a681": {
-   "id": "d3af288591199e4d6b47348b4581a681",
-   "company": "Schindler Group",
-   "role": "Reparatie Monteur Zuid",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "a341ea7b8e2fdc4e68e74838ba7648c7": {
-   "id": "a341ea7b8e2fdc4e68e74838ba7648c7",
-   "company": "Schindler Group",
-   "role": "Service Technician Rotterdam",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1f8218c29cccc96d7c4dfc3e8b57b5b6": {
-   "id": "1f8218c29cccc96d7c4dfc3e8b57b5b6",
-   "company": "Schindler Group",
-   "role": "Service Technician Utrecht",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "6a4c9cb7bd9d896c6c6c773492a32207": {
-   "id": "6a4c9cb7bd9d896c6c6c773492a32207",
-   "company": "Schindler Group",
-   "role": "Service Technician Regio Leiden",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "e1e763a5fa3e969e47c700978e464d1e": {
-   "id": "e1e763a5fa3e969e47c700978e464d1e",
-   "company": "Schindler Group",
-   "role": "Service Technician Roltrappen",
-   "location": "Alphen Aan Den Rijn"
-  },
   "60d463102796c625eb5575e6962790a7": {
    "id": "60d463102796c625eb5575e6962790a7",
    "company": "ABB UK",
@@ -1592,17 +1610,11 @@
    "role": "Service Monteur Liften",
    "location": "Alphen Aan Den Rijn"
   },
-  "24fe5f1cb35cc7938992324251e5c6f2": {
-   "id": "24fe5f1cb35cc7938992324251e5c6f2",
-   "company": "KONE Romania",
-   "role": "Service Monteur Liften",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "3ddd1d04f794cfbdeae960ba2889df24": {
-   "id": "3ddd1d04f794cfbdeae960ba2889df24",
-   "company": "KONE Romania",
-   "role": "Onderhoudsmonteur Personendeuren",
-   "location": "Utrecht"
+  "ef38266853dc49a6aa1b5657bd5bdfa3": {
+   "id": "ef38266853dc49a6aa1b5657bd5bdfa3",
+   "company": "JYSK",
+   "role": "Verkoopmedewerker Met Ambitie",
+   "location": "Amsterdam"
   },
   "13e50a883e6b8e14a1056b8303f8fafd": {
    "id": "13e50a883e6b8e14a1056b8303f8fafd",
@@ -2060,11 +2072,17 @@
    "role": "Verkoopmedewerker Retail Den Haag",
    "location": "Alphen Aan Den Rijn"
   },
-  "f64b543fec97598b7996b4797468a2ed": {
-   "id": "f64b543fec97598b7996b4797468a2ed",
-   "company": "MediaMarktSaturn",
-   "role": "Verkoopmedewerker Gaming, Laptops &amp; Computers Den Haag",
-   "location": "Alphen Aan Den Rijn"
+  "8901ea7124f0062bf395b0d481306575": {
+   "id": "8901ea7124f0062bf395b0d481306575",
+   "company": "Primark",
+   "role": "Verkoopmedewerker / Sales Assistant Weekend Eindhoven",
+   "location": "Eindhoven"
+  },
+  "3d2ed220d4a5762ee2b6316658050a12": {
+   "id": "3d2ed220d4a5762ee2b6316658050a12",
+   "company": "Primark",
+   "role": "Verkoopmedewerker / Sales Assistant Parttime Eindhoven",
+   "location": "Eindhoven"
   },
   "8fad68b49b65759e76d5b79ab43997b7": {
    "id": "8fad68b49b65759e76d5b79ab43997b7",
@@ -2467,18 +2485,6 @@
    "company": "kone.kz",
    "role": "Commercieel Administratief Medewerker",
    "location": "Alphen Aan Den Rijn"
-  },
-  "d04d70ac885646de5ed18cc79e238424": {
-   "id": "d04d70ac885646de5ed18cc79e238424",
-   "company": "Primark",
-   "role": "Weekend Retail Assistant Zuidplein",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "49cf2f173d2cb8017cc323bbc511dd9e": {
-   "id": "49cf2f173d2cb8017cc323bbc511dd9e",
-   "company": "Perrigo Company",
-   "role": "2nd Shift Packaging Specialist - Holland - $21.10/hr",
-   "location": "Holland"
   }
  }
 }
