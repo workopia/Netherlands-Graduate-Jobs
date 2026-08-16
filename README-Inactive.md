@@ -539,4 +539,90 @@
 <tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Gaming, Laptops &amp; Computers Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-08-15</td></tr>
 <tr><td>Primark</td><td>Weekend Retail Assistant Zuidplein</td><td>Alphen Aan Den Rijn</td><td>2026-08-15</td></tr>
 <tr><td>Perrigo Company</td><td>2nd Shift Packaging Specialist - Holland - $21.10/hr</td><td>Holland</td><td>2026-08-15</td></tr>
+<tr><td>Profuomo</td><td>Sales Advisor - Bijenkorf Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Futurewhiz B.V</td><td>Efficacy Lab Internship: Effective Multiple Choice Answers</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Stagiair(e) Butler</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Hr Stagiair(e)</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Stagiair(e) Reserveringen</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Stryker</td><td>Human Resources Intern</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Coty Inc.</td><td>People Analytics & Total Rewards Intern</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>bankcarriere.nl</td><td>Internship - Customer Journey Expert</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>The Hoxton</td><td>People & Culture Intern - The Hoxton, Lloyd</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>flatexDEGIRO AG</td><td>Internship - Internal Audit</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>flatexDEGIRO AG</td><td>Internship Learning & Development (m/f/d)</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>VistaCreate</td><td>Global Capex Procurement Intern - Venlo, Nl</td><td>Venlo</td><td>2026-08-16</td></tr>
+<tr><td>VistaCreate</td><td>Raw Materials Procurement Intern - Venlo, Nl</td><td>Venlo</td><td>2026-08-16</td></tr>
+<tr><td>afa'afea</td><td>Stagiair Laadinfra Elektrische Trucks</td><td>Beesd</td><td>2026-08-16</td></tr>
+<tr><td>afa'afea</td><td>Stagiair Continuous Improvement</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Philips</td><td>Internship: Brand & Marketing Communication (sonicare)</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Philips UK</td><td>Internship: Brand & Marketing Communication (sonicare)</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Ses Group</td><td>Intern, Spectrum Management And Strategy</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Ses Group</td><td>Intern Corporate Marketing</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Perfetti Van Melle ICT B.V</td><td>Internship Digital Content Marketing - Amsterdam Location</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Perfetti Van Melle ICT B.V</td><td>Stage It</td><td>Breda</td><td>2026-08-16</td></tr>
+<tr><td>Action</td><td>Recruitment Intern - Internship</td><td>North Holland</td><td>2026-08-16</td></tr>
+<tr><td>Coty</td><td>E-commerce Intern Europe</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Volvo Trucks</td><td>Stagiair Laadinfra Elektrische Trucks</td><td>Beesd</td><td>2026-08-16</td></tr>
+<tr><td>Volvo Group Truck Center B.V.</td><td>Stagiair Continuous Improvement</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>224</td><td>Intern For Market Risk Management For Ing’s Consolidated Trading Book</td><td>Cedar</td><td>2026-08-16</td></tr>
+<tr><td>bankcarriere.nl</td><td>Intern For Market Risk Management For Ing’s Consolidated Trading Book</td><td>Cedar</td><td>2026-08-16</td></tr>
+<tr><td>ING Group</td><td>Intern For Market Risk Management For Ing’s Consolidated Trading Book</td><td>Cedar</td><td>2026-08-16</td></tr>
+<tr><td>ING</td><td>Intern For Market Risk Management For Ing’s Consolidated Trading Book</td><td>Cedar</td><td>2026-08-16</td></tr>
+<tr><td>ING Group</td><td>Internship - Market Risk Stress Testing Project</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>224</td><td>Internship - Market Risk Stress Testing Project</td><td>Maple</td><td>2026-08-16</td></tr>
+<tr><td>ING</td><td>Internship - Market Risk Stress Testing Project</td><td>Maple</td><td>2026-08-16</td></tr>
+<tr><td>100</td><td>Category Management Intern - Food Service</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Unilever</td><td>Internship 26' - Customer Development – Category Management</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Cencora</td><td>Intern, Data</td><td>S Hertogenbosch</td><td>2026-08-16</td></tr>
+<tr><td>Stora Enso Oyj</td><td>Hr Stagiair (met Focus Op Recruitment)</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>224</td><td>Meewerkstage Marketing Ing Private Banking</td><td>Acanthus</td><td>2026-08-16</td></tr>
+<tr><td>ING Private Banking</td><td>Meewerkstage Marketing Ing Private Banking</td><td>Acanthus</td><td>2026-08-16</td></tr>
+<tr><td>Adyen</td><td>Staff Engineer (java) - Merchant Fraud Prevention</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Adyen</td><td>Software Engineer - Postgressql</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Adyen Payments</td><td>Software Engineer - Postgressql</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Avanade</td><td>Afstudeerstage Data & Ai / Functional / Data Analyst / Visualization</td><td>Netherlands</td><td>2026-08-16</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Oliver Wyman - Internship, Analyst - Data & Analytics - Amsterdam</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Booking Holdings</td><td>Data Scientist Ii - Finance</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Dentsu B2B APAC</td><td>Data Scientist</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship – Business Analyst</td><td>Netherlands</td><td>2026-08-16</td></tr>
+<tr><td>Philips UK</td><td>Internship: Climate Action Business Analyst (non-thesis)</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>RELX (LexisNexis)</td><td>Business & Data Analyst</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>techfreshers</td><td>Payroll Analyst</td><td>Netherlands</td><td>2026-08-16</td></tr>
+<tr><td>Greystar</td><td>Investment Analyst</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>ING</td><td>Customer Due Diligence - Business Analyst</td><td>Netherlands</td><td>2026-08-16</td></tr>
+<tr><td>ING</td><td>Business Analyst - Statutory And Regulatory Reporting (data Modelling)</td><td>Netherlands</td><td>2026-08-16</td></tr>
+<tr><td>ForFarmers</td><td>Business Analyst</td><td>Netherlands</td><td>2026-08-16</td></tr>
+<tr><td>Vistaprint</td><td>Maintenance Technician X3</td><td>Venlo</td><td>2026-08-16</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Monteur Facility & Technische Dienst</td><td>Venlo</td><td>2026-08-16</td></tr>
+<tr><td>Alstom</td><td>Electrical Technician - Field Maintenance & Modification 1</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Reparatie Monteur Zuid</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Service Technician Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicemonteur Roltrappen - Regio Midden Nederland</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>57</td><td>Reparatie Monteur Roltrappen</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>KONE Bulgaria</td><td>Reparatie Monteur Roltrappen</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Kone Corporation</td><td>Reparatie Monteur Roltrappen</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Kone Corporation</td><td>Service Monteur Liften</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorfulltime / Parttimeden Haag Frederik Hendriklaan</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Tommy Hilfiger/calvin Klein - De Bijenkorf</td><td>Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Amsterdam(dutch Speaking)</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Pfh</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Pvhcc</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Butternut Box / B Corp</td><td>Field Sales Associate</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Service Assistantparttimeamsterdam Osdorpplein</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>sportsconnection.dk</td><td>Student Parttime Verkoopmedewerker - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Deckers</td><td>Full Time Sales Associate - Ugg</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Pfh</td><td>Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf Den Haag (dutch Speaking)</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>sportsconnection.dk</td><td>Parttime Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Retail Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Primark</td><td>People & Culture (hr) Assistant Rotterdam Forum</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>afa'afea</td><td>Service Coordinator</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>ASMODEE</td><td>Content Specialist</td><td>Netherlands</td><td>2026-08-16</td></tr>
+<tr><td>Royal Terberg Group</td><td>Management Assistant</td><td>Utrecht</td><td>2026-08-16</td></tr>
+<tr><td>The Church of Jesus Christ of Latter-day Saints</td><td>Administrative Assistant I The Hague (netherlands) I Permanent (part-time, 14 Hours/week)</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>why LLP</td><td>Administrative Assistant</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>ERIKS Industrial Services Ltd</td><td>Service Coordinator</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Enza Zaden</td><td>Recruitment Coordinator (24 Uur Per Week)</td><td>Netherlands</td><td>2026-08-16</td></tr>
+<tr><td>944game Inc</td><td>Administrator Assistant (part-time) – Facilities Support</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>Wärtsilä Corporation</td><td>Service Coordinator</td><td>Drunen</td><td>2026-08-16</td></tr>
+<tr><td>Linklaters</td><td>Administrative Assistant Corporate</td><td>Amsterdam</td><td>2026-08-16</td></tr>
+<tr><td>kone.kz</td><td>Commercieel Administratief Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
 </table>
