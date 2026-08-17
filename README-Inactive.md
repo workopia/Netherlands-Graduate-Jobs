@@ -625,4 +625,19 @@
 <tr><td>Wärtsilä Corporation</td><td>Service Coordinator</td><td>Drunen</td><td>2026-08-16</td></tr>
 <tr><td>Linklaters</td><td>Administrative Assistant Corporate</td><td>Amsterdam</td><td>2026-08-16</td></tr>
 <tr><td>kone.kz</td><td>Commercieel Administratief Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-08-16</td></tr>
+<tr><td>Lankhof Beveiliging Beheer B.V</td><td>Medewerker Administratie & Gegevensverwerking</td><td>Alphen Aan Den Rijn</td><td>2026-08-17</td></tr>
+<tr><td>Feenstra</td><td>Servicemonteur</td><td>Amsterdam</td><td>2026-08-17</td></tr>
+<tr><td>Coty Inc.</td><td>Europe Performance & Analytics Intern</td><td>Amsterdam</td><td>2026-08-17</td></tr>
+<tr><td>Coty Inc.</td><td>Merchandising Intern</td><td>Amsterdam</td><td>2026-08-17</td></tr>
+<tr><td>Coty Inc.</td><td>Intern Merchandising</td><td>Amsterdam</td><td>2026-08-17</td></tr>
+<tr><td>Coty Inc.</td><td>Procurement Intern - Raw Materials & Tpm</td><td>Amsterdam</td><td>2026-08-17</td></tr>
+<tr><td>Coty Inc.</td><td>E-commerce Intern Europe</td><td>Amsterdam</td><td>2026-08-17</td></tr>
+<tr><td>OMRON</td><td>Internal Auditor - Intern/trainee</td><td>Amsterdam</td><td>2026-08-17</td></tr>
+<tr><td>Bynder</td><td>Video/motion Internship</td><td>Amsterdam</td><td>2026-08-17</td></tr>
+<tr><td>NXP USA INC.</td><td>Internship – Business/data Analyst (commercial Marketing - Business Operations)</td><td>Arnhem</td><td>2026-08-17</td></tr>
+<tr><td>ING Group</td><td>Internship - Customer Journey Expert</td><td>Amsterdam</td><td>2026-08-17</td></tr>
+<tr><td>Insify</td><td>Data Analyst / Analytics Engineer</td><td>Amsterdam</td><td>2026-08-17</td></tr>
+<tr><td>539</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-08-17</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Student Parttime Verkoopmedewerker - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-17</td></tr>
+<tr><td>Primark</td><td>Weekend Retail Assistant Zuidplein</td><td>Alphen Aan Den Rijn</td><td>2026-08-17</td></tr>
 </table>

@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-16",
+ "asOf": "2026-08-17",
  "count": 385,
  "jobs": {
   "41337": {
@@ -31,12 +31,6 @@
    "company": "Dpg Media",
    "role": "Software Engineer Broadcast Systems (qmusic, Joe, Willy)",
    "location": "Amsterdam"
-  },
-  "2644564": {
-   "id": "2644564",
-   "company": "Lankhof Beveiliging Beheer B.V",
-   "role": "Medewerker Administratie & Gegevensverwerking",
-   "location": "Alphen Aan Den Rijn"
   },
   "2654409": {
    "id": "2654409",
@@ -78,12 +72,6 @@
    "id": "2673527",
    "company": "Pacmed B.V",
    "role": "Data Scientist (ml & Statistical Modelling)",
-   "location": "Amsterdam"
-  },
-  "2677446": {
-   "id": "2677446",
-   "company": "Feenstra",
-   "role": "Servicemonteur",
    "location": "Amsterdam"
   },
   "2680765": {
@@ -152,6 +140,12 @@
    "role": "Ai Marketing Automation Internship",
    "location": "Amsterdam"
   },
+  "1dda4a93ca9dcc1606b9c2b685c5d5ce": {
+   "id": "1dda4a93ca9dcc1606b9c2b685c5d5ce",
+   "company": "C.H. Robinson Worldwide",
+   "role": "Internship - Fresh Produce Supply Chain",
+   "location": "Alphen Aan Den Rijn"
+  },
   "b691f832a77e2a297957892584889726": {
    "id": "b691f832a77e2a297957892584889726",
    "company": "Accenture Australia",
@@ -162,6 +156,18 @@
    "id": "e1b66d3602ac0561c30ec589fc41d8ec",
    "company": "Accenture Australia",
    "role": "Strategy & Consulting - Talent & Organization Thesis Internship",
+   "location": "Amsterdam"
+  },
+  "bd317bb4124d179d119e5d3c0c07b3a0": {
+   "id": "bd317bb4124d179d119e5d3c0c07b3a0",
+   "company": "Halfspace ApS",
+   "role": "Strategy & Consulting - Talent & Organization Thesis Internship",
+   "location": "Amsterdam"
+  },
+  "c7f47a2b589380109da4e864a21cdb04": {
+   "id": "c7f47a2b589380109da4e864a21cdb04",
+   "company": "Halfspace ApS",
+   "role": "Talent & Organization Working Internship - Strategy & Consulting",
    "location": "Amsterdam"
   },
   "b4de5c0844ccf561c77de8fa79a9426e": {
@@ -185,6 +191,12 @@
   "3ee5c594040550ee52487687024ecf18": {
    "id": "3ee5c594040550ee52487687024ecf18",
    "company": "Greystar",
+   "role": "Intern Property Operations",
+   "location": "Amsterdam"
+  },
+  "da891161cbe58b0c3b7e88a23edbc155": {
+   "id": "da891161cbe58b0c3b7e88a23edbc155",
+   "company": "Greystar Australia Pty Ltd",
    "role": "Intern Property Operations",
    "location": "Amsterdam"
   },
@@ -230,9 +242,27 @@
    "role": "Internship Credit Risk Policies & Frameworks",
    "location": "Amsterdam"
   },
+  "2c8d1ce4833850d5886aff87aa923f9e": {
+   "id": "2c8d1ce4833850d5886aff87aa923f9e",
+   "company": "Valmont Industries, Inc",
+   "role": "Internship Credit Risk Policies & Frameworks",
+   "location": "Amsterdam"
+  },
+  "5b46b49cd404ffaf54be7e4fed0c17f6": {
+   "id": "5b46b49cd404ffaf54be7e4fed0c17f6",
+   "company": "ING",
+   "role": "Talent, Learning Leadership & Dib Intern-1",
+   "location": "Amsterdam"
+  },
   "3d33811b6757ebd3e48eb7709bb1f732": {
    "id": "3d33811b6757ebd3e48eb7709bb1f732",
    "company": "ING Group",
+   "role": "Stagiair Adviseur Vermogen Regio Nijmegen",
+   "location": "Arnhem"
+  },
+  "69f95d01fc461c32619100938162a261": {
+   "id": "69f95d01fc461c32619100938162a261",
+   "company": "Valmont Industries, Inc",
    "role": "Stagiair Adviseur Vermogen Regio Nijmegen",
    "location": "Arnhem"
   },
@@ -266,9 +296,21 @@
    "role": "Intern: Credit Risk Data Llm Research & Implementation",
    "location": "Haarlerbergpark"
   },
+  "e19066f8d29066f758fd9eb0e2d9f9cf": {
+   "id": "e19066f8d29066f758fd9eb0e2d9f9cf",
+   "company": "Valmont Industries, Inc",
+   "role": "Intern: Credit Risk Data Llm Research & Implementation",
+   "location": "Haarlerbergpark"
+  },
   "6376e7bc4e4516c535fc4d3fe97ba578": {
    "id": "6376e7bc4e4516c535fc4d3fe97ba578",
    "company": "Unilever",
+   "role": "Internship 26' - Supply Chain Management And Operations",
+   "location": "Air Office"
+  },
+  "a88d9c1cee90a93d66b3854c4b48fc14": {
+   "id": "a88d9c1cee90a93d66b3854c4b48fc14",
+   "company": "unilever.es",
    "role": "Internship 26' - Supply Chain Management And Operations",
    "location": "Air Office"
   },
@@ -554,60 +596,6 @@
    "role": "Corporate Communications And Ai Activations Intern",
    "location": "Amsterdam"
   },
-  "6e6b7401988890cdb7b53c0743db4efb": {
-   "id": "6e6b7401988890cdb7b53c0743db4efb",
-   "company": "Coty Inc.",
-   "role": "Europe Performance & Analytics Intern",
-   "location": "Amsterdam"
-  },
-  "a17655d9ba03c723034ba1a9e8963ddf": {
-   "id": "a17655d9ba03c723034ba1a9e8963ddf",
-   "company": "Coty Inc.",
-   "role": "Merchandising Intern",
-   "location": "Amsterdam"
-  },
-  "9142cdb82aaf0bcbcdb3c715b8cdab76": {
-   "id": "9142cdb82aaf0bcbcdb3c715b8cdab76",
-   "company": "Coty Inc.",
-   "role": "Intern Merchandising",
-   "location": "Amsterdam"
-  },
-  "19836935999a3366d857f934e1929145": {
-   "id": "19836935999a3366d857f934e1929145",
-   "company": "Coty Inc.",
-   "role": "Procurement Intern - Raw Materials & Tpm",
-   "location": "Amsterdam"
-  },
-  "78fb2beefbc9d5b5c224bff7534d2995": {
-   "id": "78fb2beefbc9d5b5c224bff7534d2995",
-   "company": "Coty Inc.",
-   "role": "E-commerce Intern Europe",
-   "location": "Amsterdam"
-  },
-  "f41fa4e971b3e2cc39c6cc29c3144995": {
-   "id": "f41fa4e971b3e2cc39c6cc29c3144995",
-   "company": "OMRON",
-   "role": "Internal Auditor - Intern/trainee",
-   "location": "Amsterdam"
-  },
-  "d74293500e7f8dfc03843ea919ce7d72": {
-   "id": "d74293500e7f8dfc03843ea919ce7d72",
-   "company": "Bynder",
-   "role": "Video/motion Internship",
-   "location": "Amsterdam"
-  },
-  "b80554151581354a90c972c344d455c9": {
-   "id": "b80554151581354a90c972c344d455c9",
-   "company": "NXP USA INC.",
-   "role": "Internship – Business/data Analyst (commercial Marketing - Business Operations)",
-   "location": "Arnhem"
-  },
-  "50e8693dd42ef9b7e30df034e1067cca": {
-   "id": "50e8693dd42ef9b7e30df034e1067cca",
-   "company": "ING Group",
-   "role": "Internship - Customer Journey Expert",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -872,12 +860,6 @@
    "role": "Data Scientist",
    "location": "Amsterdam"
   },
-  "56d838603643e0c06c5ed0780f0b3b11": {
-   "id": "56d838603643e0c06c5ed0780f0b3b11",
-   "company": "Insify",
-   "role": "Data Analyst / Analytics Engineer",
-   "location": "Amsterdam"
-  },
   "49ffce9540e4f2494ccb1fc9935b8245": {
    "id": "49ffce9540e4f2494ccb1fc9935b8245",
    "company": "39med",
@@ -1057,6 +1039,24 @@
    "company": "Valmont Industries, Inc",
    "role": "Bmg Business Analyst Payments",
    "location": "Amsterdam"
+  },
+  "6f35bac61e072b4da4d24e039d3519a5": {
+   "id": "6f35bac61e072b4da4d24e039d3519a5",
+   "company": "Chart Industries Inc",
+   "role": "Maintenance/field Services Technician",
+   "location": "Zuidland"
+  },
+  "ac43cc434c31cf5ab7d317c958c3fd45": {
+   "id": "ac43cc434c31cf5ab7d317c958c3fd45",
+   "company": "Colgate-Palmolive",
+   "role": "Maintenance Bbl",
+   "location": "Etten-Leur"
+  },
+  "6e066c3524f9364e03e08c26a31bb2dd": {
+   "id": "6e066c3524f9364e03e08c26a31bb2dd",
+   "company": "Damen Marine Components",
+   "role": "Field Service Engineer",
+   "location": "Hardinxveld"
   },
   "34948f1cb75ac0e77c04364cbe7a6ded": {
    "id": "34948f1cb75ac0e77c04364cbe7a6ded",
@@ -1286,12 +1286,6 @@
    "role": "Service Monteur Liften",
    "location": "Alphen Aan Den Rijn"
   },
-  "ac43cc434c31cf5ab7d317c958c3fd45": {
-   "id": "ac43cc434c31cf5ab7d317c958c3fd45",
-   "company": "Colgate-Palmolive",
-   "role": "Maintenance Bbl",
-   "location": "Etten-Leur"
-  },
   "2c10a9b4a81713a8ff8a5be7fb8cb9ec": {
    "id": "2c10a9b4a81713a8ff8a5be7fb8cb9ec",
    "company": "Bilfinger",
@@ -1520,15 +1514,15 @@
    "role": "Field Service Engineer 2d-laser",
    "location": "Netherlands"
   },
-  "17e59ccd55bb20ea10e51b0270abd588": {
-   "id": "17e59ccd55bb20ea10e51b0270abd588",
-   "company": "539",
-   "role": "Maintenance Monteur - Storing & Onderhoud",
-   "location": "Venlo"
-  },
   "f747b3a43de82dfe544abf55e24a1840": {
    "id": "f747b3a43de82dfe544abf55e24a1840",
    "company": "TK Maxx",
+   "role": "Sales Associate",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "6053dc9aaf9e0cb953e370ae92da7d28": {
+   "id": "6053dc9aaf9e0cb953e370ae92da7d28",
+   "company": "The TJX Companies, Inc",
    "role": "Sales Associate",
    "location": "Alphen Aan Den Rijn"
   },
@@ -1634,6 +1628,12 @@
    "role": "Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)",
    "location": "Alphen Aan Den Rijn"
   },
+  "4d89ea3abee7621455e23005781ea61f": {
+   "id": "4d89ea3abee7621455e23005781ea61f",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)",
+   "location": "Alphen Aan Den Rijn"
+  },
   "20fed45a7e9b0a590ce02f594dd4b0be": {
    "id": "20fed45a7e9b0a590ce02f594dd4b0be",
    "company": "Richemont Australia Pty Ltd",
@@ -1694,6 +1694,12 @@
    "role": "Sales Advisor 31h",
    "location": "Alphen Aan Den Rijn"
   },
+  "816b247129f942bda93f8f1f3db23983": {
+   "id": "816b247129f942bda93f8f1f3db23983",
+   "company": "H&M",
+   "role": "Sales Advisor 31h",
+   "location": "Alphen Aan Den Rijn"
+  },
   "31f4b030b828336d69019c5141864810": {
    "id": "31f4b030b828336d69019c5141864810",
    "company": "H & M Hennes & Mauritz AB",
@@ -1727,6 +1733,12 @@
   "69241ff2c30fe8b59bed4d4bf432b631": {
    "id": "69241ff2c30fe8b59bed4d4bf432b631",
    "company": "H & M Hennes & Mauritz AB",
+   "role": "Verkoopmedewerker - Purmerend (21/26 Uur)",
+   "location": "Amsterdam"
+  },
+  "5a21c2dcdf3cc9a9b4c89fa87afb218f": {
+   "id": "5a21c2dcdf3cc9a9b4c89fa87afb218f",
+   "company": "H&M",
    "role": "Verkoopmedewerker - Purmerend (21/26 Uur)",
    "location": "Amsterdam"
   },
@@ -1952,11 +1964,11 @@
    "role": "Verkoopmedewerker Telecom &amp; Mobiel Beijerlandselaan",
    "location": "Alphen Aan Den Rijn"
   },
-  "2a2a649c220565f76d6707f79d66f38a": {
-   "id": "2a2a649c220565f76d6707f79d66f38a",
-   "company": "SKECHERS USA Inc",
-   "role": "Student Parttime Verkoopmedewerker - Rotterdam",
-   "location": "Alphen Aan Den Rijn"
+  "71c4e2f4e814f5d3b1265076b6fa9470": {
+   "id": "71c4e2f4e814f5d3b1265076b6fa9470",
+   "company": "Primark",
+   "role": "Parttime Retail Assistant Zaandam",
+   "location": "Amsterdam"
   },
   "e633d0a421ede0e5d83416e3d40945f0": {
    "id": "e633d0a421ede0e5d83416e3d40945f0",
@@ -2059,12 +2071,6 @@
    "company": "Primark",
    "role": "Parttime Retail Assistant Eindhoven",
    "location": "Eindhoven"
-  },
-  "71c4e2f4e814f5d3b1265076b6fa9470": {
-   "id": "71c4e2f4e814f5d3b1265076b6fa9470",
-   "company": "Primark",
-   "role": "Parttime Retail Assistant Zaandam",
-   "location": "Amsterdam"
   },
   "366c627eac365918532d44f075fd16a0": {
    "id": "366c627eac365918532d44f075fd16a0",
@@ -2305,12 +2311,6 @@
    "company": "Hogan Lovells",
    "role": "Personal Assistant Data, Privacy & Cybersecurity",
    "location": "Amsterdam"
-  },
-  "d04d70ac885646de5ed18cc79e238424": {
-   "id": "d04d70ac885646de5ed18cc79e238424",
-   "company": "Primark",
-   "role": "Weekend Retail Assistant Zuidplein",
-   "location": "Alphen Aan Den Rijn"
   }
  }
 }
