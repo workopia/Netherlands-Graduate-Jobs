@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-17",
+ "asOf": "2026-08-18",
  "count": 385,
  "jobs": {
   "41337": {
@@ -138,6 +138,12 @@
    "id": "2709118",
    "company": "FieldBuddy",
    "role": "Ai Marketing Automation Internship",
+   "location": "Amsterdam"
+  },
+  "b7faf79d11aad92049b278fe2d967e54": {
+   "id": "b7faf79d11aad92049b278fe2d967e54",
+   "company": "avoltaworld",
+   "role": "Intern",
    "location": "Amsterdam"
   },
   "1dda4a93ca9dcc1606b9c2b685c5d5ce": {
@@ -590,12 +596,6 @@
    "role": "E-commerce Intern",
    "location": "Amsterdam"
   },
-  "d13956a72065732957748c62ba188810": {
-   "id": "d13956a72065732957748c62ba188810",
-   "company": "Coty Inc.",
-   "role": "Corporate Communications And Ai Activations Intern",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -890,12 +890,6 @@
    "role": "Afstudeerstage Business Applications Erp Nederland Van Ai-hype Naar Erp-realiteit",
    "location": "Netherlands"
   },
-  "92cf4dcc5316e27cbc80b4b60fd66262": {
-   "id": "92cf4dcc5316e27cbc80b4b60fd66262",
-   "company": "Philips",
-   "role": "Internship: Climate Action Business Analyst (non-thesis)",
-   "location": "Amsterdam"
-  },
   "e6aed354d6e398747f52d6212bd75e33": {
    "id": "e6aed354d6e398747f52d6212bd75e33",
    "company": "Jobgether",
@@ -1040,6 +1034,24 @@
    "role": "Bmg Business Analyst Payments",
    "location": "Amsterdam"
   },
+  "0d713f3dcbc74711f70fced743019bba": {
+   "id": "0d713f3dcbc74711f70fced743019bba",
+   "company": "Bilfinger SE",
+   "role": "Werkvoorbereider Elektrotechniek",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "545fabf87befdb4a445b092d5f4d6a57": {
+   "id": "545fabf87befdb4a445b092d5f4d6a57",
+   "company": "Bilfinger SE",
+   "role": "Servicetechnicus (technicus E&i A)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "3bc95c9bff27a7a3a1a76319db6aee56": {
+   "id": "3bc95c9bff27a7a3a1a76319db6aee56",
+   "company": "Ingersoll Rand PLC",
+   "role": "Compressor Technician",
+   "location": "Zoeterwoude"
+  },
   "6f35bac61e072b4da4d24e039d3519a5": {
    "id": "6f35bac61e072b4da4d24e039d3519a5",
    "company": "Chart Industries Inc",
@@ -1129,12 +1141,6 @@
    "company": "Bilfinger SE",
    "role": "Monteur E&i",
    "location": "Netherlands"
-  },
-  "eee4de4ed0dd499598b8b1f5df2b5312": {
-   "id": "eee4de4ed0dd499598b8b1f5df2b5312",
-   "company": "Bilfinger SE",
-   "role": "Werkvoorbereider Elektrotechniek",
-   "location": "Alphen Aan Den Rijn"
   },
   "6a781be0b5b9bf05e05b8f06831bc3d6": {
    "id": "6a781be0b5b9bf05e05b8f06831bc3d6",
@@ -1484,12 +1490,6 @@
    "role": "Onderhoudsmonteur Personendeuren",
    "location": "Utrecht"
   },
-  "3bc95c9bff27a7a3a1a76319db6aee56": {
-   "id": "3bc95c9bff27a7a3a1a76319db6aee56",
-   "company": "Ingersoll Rand PLC",
-   "role": "Compressor Technician",
-   "location": "Zoeterwoude"
-  },
   "b757736015afc9904bf788b3dfd308ec": {
    "id": "b757736015afc9904bf788b3dfd308ec",
    "company": "Otis",
@@ -1508,11 +1508,11 @@
    "role": "Service Monteur Garage Equipment",
    "location": "Netherlands"
   },
-  "5483b9e1a8e6f2e1635862ea624e4def": {
-   "id": "5483b9e1a8e6f2e1635862ea624e4def",
-   "company": "TRUMPF SE + Co. KG",
-   "role": "Field Service Engineer 2d-laser",
-   "location": "Netherlands"
+  "734a3e1c075f40e09f2844085f84650b": {
+   "id": "734a3e1c075f40e09f2844085f84650b",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Sales Associate",
+   "location": "Alphen Aan Den Rijn"
   },
   "f747b3a43de82dfe544abf55e24a1840": {
    "id": "f747b3a43de82dfe544abf55e24a1840",

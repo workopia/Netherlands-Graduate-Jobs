@@ -640,4 +640,8 @@
 <tr><td>539</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-08-17</td></tr>
 <tr><td>SKECHERS USA Inc</td><td>Student Parttime Verkoopmedewerker - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-17</td></tr>
 <tr><td>Primark</td><td>Weekend Retail Assistant Zuidplein</td><td>Alphen Aan Den Rijn</td><td>2026-08-17</td></tr>
+<tr><td>Coty Inc.</td><td>Corporate Communications And Ai Activations Intern</td><td>Amsterdam</td><td>2026-08-18</td></tr>
+<tr><td>Philips</td><td>Internship: Climate Action Business Analyst (non-thesis)</td><td>Amsterdam</td><td>2026-08-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-08-18</td></tr>
+<tr><td>TRUMPF SE + Co. KG</td><td>Field Service Engineer 2d-laser</td><td>Netherlands</td><td>2026-08-18</td></tr>
 </table>
