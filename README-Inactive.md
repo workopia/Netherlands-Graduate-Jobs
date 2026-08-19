@@ -644,4 +644,15 @@
 <tr><td>Philips</td><td>Internship: Climate Action Business Analyst (non-thesis)</td><td>Amsterdam</td><td>2026-08-18</td></tr>
 <tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-08-18</td></tr>
 <tr><td>TRUMPF SE + Co. KG</td><td>Field Service Engineer 2d-laser</td><td>Netherlands</td><td>2026-08-18</td></tr>
+<tr><td>createyourowncareer</td><td>Internship Learning & Development</td><td>Arnhem</td><td>2026-08-19</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship: Human Resources</td><td>Alphen Aan Den Rijn</td><td>2026-08-19</td></tr>
+<tr><td>Stryker</td><td>Human Resources Intern</td><td>Amsterdam</td><td>2026-08-19</td></tr>
+<tr><td>Corbion Group Netherlands B.V</td><td>Intern Polymer Technology</td><td>S Hertogenbosch</td><td>2026-08-19</td></tr>
+<tr><td>vetshired.us</td><td>Intern - Applied Statistics - Innovation & Engineering</td><td>North Brabant</td><td>2026-08-19</td></tr>
+<tr><td>microsatsystems.biz</td><td>Intern - Applied Statistics - Innovation & Engineering</td><td>North Brabant</td><td>2026-08-19</td></tr>
+<tr><td>Coty Inc.</td><td>Intern Hr Global Functions</td><td>Amsterdam</td><td>2026-08-19</td></tr>
+<tr><td>Coty Inc.</td><td>Intern - Global Category Packaging</td><td>Amsterdam</td><td>2026-08-19</td></tr>
+<tr><td>Coty Inc.</td><td>E-commerce Intern</td><td>Amsterdam</td><td>2026-08-19</td></tr>
+<tr><td>Rocar-Tech</td><td>Service Monteur Garage Equipment</td><td>Netherlands</td><td>2026-08-19</td></tr>
+<tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Amsterdam</td><td>2026-08-19</td></tr>
 </table>

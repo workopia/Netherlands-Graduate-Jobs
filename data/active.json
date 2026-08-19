@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-18",
- "count": 385,
+ "asOf": "2026-08-19",
+ "count": 386,
  "jobs": {
   "41337": {
    "id": "41337",
@@ -138,6 +138,60 @@
    "id": "2709118",
    "company": "FieldBuddy",
    "role": "Ai Marketing Automation Internship",
+   "location": "Amsterdam"
+  },
+  "2712567": {
+   "id": "2712567",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Stagiair(e) Reserveringen",
+   "location": "Amsterdam"
+  },
+  "2712585": {
+   "id": "2712585",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Hr Stagiair(e)",
+   "location": "Amsterdam"
+  },
+  "2712598": {
+   "id": "2712598",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Stagiair(e) Butler",
+   "location": "Amsterdam"
+  },
+  "d5e71e85034d434b98de1cdbca3800ec": {
+   "id": "d5e71e85034d434b98de1cdbca3800ec",
+   "company": "ABB UK",
+   "role": "Product Magement Intern Nl",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "1780dfa92b17a705bc2917a963b84b08": {
+   "id": "1780dfa92b17a705bc2917a963b84b08",
+   "company": "Action",
+   "role": "Recruitment Intern - Internship",
+   "location": "North Holland"
+  },
+  "5d7819b96a1c7ad439b89b714abb6586": {
+   "id": "5d7819b96a1c7ad439b89b714abb6586",
+   "company": "Action",
+   "role": "Stagiaire Sourcing",
+   "location": "Nl"
+  },
+  "9bf9682ad21aa8e58feee972981662f2": {
+   "id": "9bf9682ad21aa8e58feee972981662f2",
+   "company": "Philips",
+   "role": "Internship: Esg/csrd Reporting (hr, Non-thesis)",
+   "location": "Amsterdam"
+  },
+  "481db3a51669fe76b178698f92943ab3": {
+   "id": "481db3a51669fe76b178698f92943ab3",
+   "company": "Philips",
+   "role": "Internship: Audit, Risk & Compliance Operations Analyst (non-thesis)",
+   "location": "Amsterdam"
+  },
+  "3f371c4ca2d0d67a56f49bc05bd2a20b": {
+   "id": "3f371c4ca2d0d67a56f49bc05bd2a20b",
+   "company": "Chanel",
+   "role": "Sales & Operations Support Intern - Internship/meewerktstage",
    "location": "Amsterdam"
   },
   "b7faf79d11aad92049b278fe2d967e54": {
@@ -542,60 +596,6 @@
    "role": "Internship Facility Management",
    "location": "Puttershoek"
   },
-  "b618addb74b4b5b1da6ceb1cd1881b05": {
-   "id": "b618addb74b4b5b1da6ceb1cd1881b05",
-   "company": "createyourowncareer",
-   "role": "Internship Learning & Development",
-   "location": "Arnhem"
-  },
-  "4a074085ef701976ec72a1a927579909": {
-   "id": "4a074085ef701976ec72a1a927579909",
-   "company": "CMA CGM Group",
-   "role": "Internship: Human Resources",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "185bd83e002a2ffbffbfb8af5121eb06": {
-   "id": "185bd83e002a2ffbffbfb8af5121eb06",
-   "company": "Stryker",
-   "role": "Human Resources Intern",
-   "location": "Amsterdam"
-  },
-  "4a72affbe899eb40c2af3675e355d3fd": {
-   "id": "4a72affbe899eb40c2af3675e355d3fd",
-   "company": "Corbion Group Netherlands B.V",
-   "role": "Intern Polymer Technology",
-   "location": "S Hertogenbosch"
-  },
-  "b86086554fcb7bfad0fb48f34ab1c51a": {
-   "id": "b86086554fcb7bfad0fb48f34ab1c51a",
-   "company": "vetshired.us",
-   "role": "Intern - Applied Statistics - Innovation & Engineering",
-   "location": "North Brabant"
-  },
-  "3a51289d90d73429748ad6b62ab2e08d": {
-   "id": "3a51289d90d73429748ad6b62ab2e08d",
-   "company": "microsatsystems.biz",
-   "role": "Intern - Applied Statistics - Innovation & Engineering",
-   "location": "North Brabant"
-  },
-  "985f6b32d8460d0d05a66ba48b7d6d3f": {
-   "id": "985f6b32d8460d0d05a66ba48b7d6d3f",
-   "company": "Coty Inc.",
-   "role": "Intern Hr Global Functions",
-   "location": "Amsterdam"
-  },
-  "8f36fcb2e438175a662af9b0276d3229": {
-   "id": "8f36fcb2e438175a662af9b0276d3229",
-   "company": "Coty Inc.",
-   "role": "Intern - Global Category Packaging",
-   "location": "Amsterdam"
-  },
-  "fecc401d3835b2e1c9a3cdb9d0196461": {
-   "id": "fecc401d3835b2e1c9a3cdb9d0196461",
-   "company": "Coty Inc.",
-   "role": "E-commerce Intern",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -722,17 +722,17 @@
    "role": "Data Analyst Intern",
    "location": "Amsterdam"
   },
-  "a683a506b0e11ea75f3eb4faf5373d54": {
-   "id": "a683a506b0e11ea75f3eb4faf5373d54",
-   "company": "Jobgether",
-   "role": "Data Analyst",
-   "location": "Netherlands"
-  },
   "8ef23112a7277bf794d892eeca649d4e": {
    "id": "8ef23112a7277bf794d892eeca649d4e",
    "company": "CRH plc",
    "role": "Sap Data Analyst",
    "location": "Amsterdam"
+  },
+  "a683a506b0e11ea75f3eb4faf5373d54": {
+   "id": "a683a506b0e11ea75f3eb4faf5373d54",
+   "company": "Jobgether",
+   "role": "Data Analyst",
+   "location": "Netherlands"
   },
   "e8f971ab84ed8f5d5b67ab81b9331a4d": {
    "id": "e8f971ab84ed8f5d5b67ab81b9331a4d",
@@ -1032,6 +1032,12 @@
    "id": "1df13aeb5ad16e62250dde0fed5d9f12",
    "company": "Valmont Industries, Inc",
    "role": "Bmg Business Analyst Payments",
+   "location": "Amsterdam"
+  },
+  "254a0a55bbc56651636749ce01cad899": {
+   "id": "254a0a55bbc56651636749ce01cad899",
+   "company": "Suitsupply",
+   "role": "Regional Facilities Service Technician",
    "location": "Amsterdam"
   },
   "0d713f3dcbc74711f70fced743019bba": {
@@ -1502,16 +1508,22 @@
    "role": "Monteur E&i",
    "location": "Europoort"
   },
-  "3acbb07fb6476d60ba332257fed2362c": {
-   "id": "3acbb07fb6476d60ba332257fed2362c",
-   "company": "Rocar-Tech",
-   "role": "Service Monteur Garage Equipment",
-   "location": "Netherlands"
+  "4a0a009d17a5e34eb32415f526700d17": {
+   "id": "4a0a009d17a5e34eb32415f526700d17",
+   "company": "H&M",
+   "role": "Sales Advisor 21h",
+   "location": "Amsterdam"
   },
   "734a3e1c075f40e09f2844085f84650b": {
    "id": "734a3e1c075f40e09f2844085f84650b",
    "company": "Coach (Tapestry, Inc.)",
    "role": "Sales Associate",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "be9fd4fba1be6d9e23ad60b2648262bd": {
+   "id": "be9fd4fba1be6d9e23ad60b2648262bd",
+   "company": "JYSK",
+   "role": "Verkoopmedewerker Met Ambitie",
    "location": "Alphen Aan Den Rijn"
   },
   "f747b3a43de82dfe544abf55e24a1840": {
@@ -1530,12 +1542,6 @@
    "id": "2b64efd4a0a6eca02194477a3a350a5f",
    "company": "Nestle Ltd",
    "role": "Fulltime Verkoopmedewerker Nespresso Amsterdam",
-   "location": "Amsterdam"
-  },
-  "ef38266853dc49a6aa1b5657bd5bdfa3": {
-   "id": "ef38266853dc49a6aa1b5657bd5bdfa3",
-   "company": "JYSK",
-   "role": "Verkoopmedewerker Met Ambitie",
    "location": "Amsterdam"
   },
   "13e50a883e6b8e14a1056b8303f8fafd": {
