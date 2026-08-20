@@ -655,4 +655,15 @@
 <tr><td>Coty Inc.</td><td>E-commerce Intern</td><td>Amsterdam</td><td>2026-08-19</td></tr>
 <tr><td>Rocar-Tech</td><td>Service Monteur Garage Equipment</td><td>Netherlands</td><td>2026-08-19</td></tr>
 <tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Amsterdam</td><td>2026-08-19</td></tr>
+<tr><td>Coty Inc</td><td>Tpm Color Cosmetics Procurement Intern</td><td>Amsterdam</td><td>2026-08-20</td></tr>
+<tr><td>Coty Inc.</td><td>People Analytics & Total Rewards Intern</td><td>Amsterdam</td><td>2026-08-20</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Intern – Intelligent Automation</td><td>Haarlerbergpark</td><td>2026-08-20</td></tr>
+<tr><td>International Flavors & Fragrances Inc</td><td>Intern</td><td>Alphen Aan Den Rijn</td><td>2026-08-20</td></tr>
+<tr><td>Dyson</td><td>Intern</td><td>Amsterdam Office</td><td>2026-08-20</td></tr>
+<tr><td>Agrifirm Group</td><td>Stage Mest En Mineralen Oss</td><td>S Hertogenbosch</td><td>2026-08-20</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Business Coordination Intern</td><td>Amsterdam</td><td>2026-08-20</td></tr>
+<tr><td>createyourowncareer</td><td>Hse Internship</td><td>Arnhem</td><td>2026-08-20</td></tr>
+<tr><td>createyourowncareer</td><td>Influencer Marketing En Account Support Intern (m/v/o)</td><td>Amsterdam</td><td>2026-08-20</td></tr>
+<tr><td>createyourowncareer</td><td>Internship Facility Management</td><td>Puttershoek</td><td>2026-08-20</td></tr>
+<tr><td>Hogan Lovells</td><td>Personal Assistant Data, Privacy & Cybersecurity</td><td>Amsterdam</td><td>2026-08-20</td></tr>
 </table>

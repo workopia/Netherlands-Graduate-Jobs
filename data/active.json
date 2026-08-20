@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-19",
+ "asOf": "2026-08-20",
  "count": 386,
  "jobs": {
   "41337": {
@@ -157,6 +157,84 @@
    "company": "Twenty Seven Amsterdam B.V",
    "role": "Stagiair(e) Butler",
    "location": "Amsterdam"
+  },
+  "d13956a72065732957748c62ba188810": {
+   "id": "d13956a72065732957748c62ba188810",
+   "company": "Coty Inc.",
+   "role": "Corporate Communications And Ai Activations Intern",
+   "location": "Amsterdam"
+  },
+  "6e6b7401988890cdb7b53c0743db4efb": {
+   "id": "6e6b7401988890cdb7b53c0743db4efb",
+   "company": "Coty Inc.",
+   "role": "Europe Performance & Analytics Intern",
+   "location": "Amsterdam"
+  },
+  "02e00bf037ebfb24e67b111cc7373a3a": {
+   "id": "02e00bf037ebfb24e67b111cc7373a3a",
+   "company": "Coty Inc.",
+   "role": "People Analytics & Total Rewards Intern",
+   "location": "Amsterdam"
+  },
+  "8f36fcb2e438175a662af9b0276d3229": {
+   "id": "8f36fcb2e438175a662af9b0276d3229",
+   "company": "Coty Inc.",
+   "role": "Intern - Global Category Packaging",
+   "location": "Amsterdam"
+  },
+  "a17655d9ba03c723034ba1a9e8963ddf": {
+   "id": "a17655d9ba03c723034ba1a9e8963ddf",
+   "company": "Coty Inc.",
+   "role": "Merchandising Intern",
+   "location": "Amsterdam"
+  },
+  "9142cdb82aaf0bcbcdb3c715b8cdab76": {
+   "id": "9142cdb82aaf0bcbcdb3c715b8cdab76",
+   "company": "Coty Inc.",
+   "role": "Intern Merchandising",
+   "location": "Amsterdam"
+  },
+  "19836935999a3366d857f934e1929145": {
+   "id": "19836935999a3366d857f934e1929145",
+   "company": "Coty Inc.",
+   "role": "Procurement Intern - Raw Materials & Tpm",
+   "location": "Amsterdam"
+  },
+  "69a9675afc977a2b62a0769ad5b0da1f": {
+   "id": "69a9675afc977a2b62a0769ad5b0da1f",
+   "company": "Coty Inc.",
+   "role": "Tpm Color Cosmetics Procurement Intern",
+   "location": "Amsterdam-Zuid"
+  },
+  "6b64b46345ee44236a1edccf1492d76e": {
+   "id": "6b64b46345ee44236a1edccf1492d76e",
+   "company": "GXO Logistics",
+   "role": "Internship - Bbl Leerling Logistiek Medewerker (niveau 2 Of 3)",
+   "location": "Eindhoven"
+  },
+  "6e588a9e56d58c6e5a1e30e4ae0021ad": {
+   "id": "6e588a9e56d58c6e5a1e30e4ae0021ad",
+   "company": "GXO Logistics",
+   "role": "Internship - Employee Journey & Workforce Management",
+   "location": "Eindhoven"
+  },
+  "d331a515e64b7c06d753846b1be49b82": {
+   "id": "d331a515e64b7c06d753846b1be49b82",
+   "company": "GXO Logistics",
+   "role": "Internship - Ai Enablement For Solutions Design",
+   "location": "Eindhoven"
+  },
+  "cc929aa56418d7a2ec94bdd0cafc8f96": {
+   "id": "cc929aa56418d7a2ec94bdd0cafc8f96",
+   "company": "Stichting Doen",
+   "role": "Impact Investment Stagiairfulltimebeethovenstraat 200, Amsterdam",
+   "location": "Amsterdam"
+  },
+  "4a72affbe899eb40c2af3675e355d3fd": {
+   "id": "4a72affbe899eb40c2af3675e355d3fd",
+   "company": "Corbion Group Netherlands B.V",
+   "role": "Intern Polymer Technology",
+   "location": "S Hertogenbosch"
   },
   "d5e71e85034d434b98de1cdbca3800ec": {
    "id": "d5e71e85034d434b98de1cdbca3800ec",
@@ -458,24 +536,6 @@
    "role": "Bol-stagiair",
    "location": "Maaswijk"
   },
-  "6b64b46345ee44236a1edccf1492d76e": {
-   "id": "6b64b46345ee44236a1edccf1492d76e",
-   "company": "GXO Logistics",
-   "role": "Internship - Bbl Leerling Logistiek Medewerker (niveau 2 Of 3)",
-   "location": "Eindhoven"
-  },
-  "6e588a9e56d58c6e5a1e30e4ae0021ad": {
-   "id": "6e588a9e56d58c6e5a1e30e4ae0021ad",
-   "company": "GXO Logistics",
-   "role": "Internship - Employee Journey & Workforce Management",
-   "location": "Eindhoven"
-  },
-  "d331a515e64b7c06d753846b1be49b82": {
-   "id": "d331a515e64b7c06d753846b1be49b82",
-   "company": "GXO Logistics",
-   "role": "Internship - Ai Enablement For Solutions Design",
-   "location": "Eindhoven"
-  },
   "0a8bb7a9e13bd6b2a048140a03e29a3b": {
    "id": "0a8bb7a9e13bd6b2a048140a03e29a3b",
    "company": "AkzoNobel N.V.",
@@ -488,22 +548,10 @@
    "role": "Internship Cro",
    "location": "Alphen Aan Den Rijn"
   },
-  "692ce64c57b21dd8e6dc24617e5f02a6": {
-   "id": "692ce64c57b21dd8e6dc24617e5f02a6",
-   "company": "Coty Inc",
-   "role": "Tpm Color Cosmetics Procurement Intern",
-   "location": "Amsterdam"
-  },
   "8c0100c8585cfe7543d287ac0b8d9e7a": {
    "id": "8c0100c8585cfe7543d287ac0b8d9e7a",
    "company": "Coty",
    "role": "Intern - Global Category Packaging",
-   "location": "Amsterdam"
-  },
-  "a234d0a8962b4d1fa55e6b951dad726b": {
-   "id": "a234d0a8962b4d1fa55e6b951dad726b",
-   "company": "Coty Inc.",
-   "role": "People Analytics & Total Rewards Intern",
    "location": "Amsterdam"
   },
   "506cbfed4287c8454556833cb7f82645": {
@@ -547,54 +595,6 @@
    "company": "Valmont Industries, Inc",
    "role": "Internship Client Tax Services At Global Client Tax Services (cts)",
    "location": "Treasury Center"
-  },
-  "b8c673cbe23dc5355e051f072e84e1ae": {
-   "id": "b8c673cbe23dc5355e051f072e84e1ae",
-   "company": "Valmont Industries, Inc",
-   "role": "Intern – Intelligent Automation",
-   "location": "Haarlerbergpark"
-  },
-  "b1ae9269ede3ca39399b8200bef37bc3": {
-   "id": "b1ae9269ede3ca39399b8200bef37bc3",
-   "company": "International Flavors & Fragrances Inc",
-   "role": "Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "3c25bb50425eeed1d1d0e648d92de715": {
-   "id": "3c25bb50425eeed1d1d0e648d92de715",
-   "company": "Dyson",
-   "role": "Intern",
-   "location": "Amsterdam Office"
-  },
-  "36a88f32e3fb2f4a2e370ffda30f17d3": {
-   "id": "36a88f32e3fb2f4a2e370ffda30f17d3",
-   "company": "Agrifirm Group",
-   "role": "Stage Mest En Mineralen Oss",
-   "location": "S Hertogenbosch"
-  },
-  "32bc05b07d70a55e5579e10fda7cd701": {
-   "id": "32bc05b07d70a55e5579e10fda7cd701",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Business Coordination Intern",
-   "location": "Amsterdam"
-  },
-  "df1fc0eb42e9a2e0ced13f79f160cf35": {
-   "id": "df1fc0eb42e9a2e0ced13f79f160cf35",
-   "company": "createyourowncareer",
-   "role": "Hse Internship",
-   "location": "Arnhem"
-  },
-  "00ca9f79917a7eb0ee2471bd0d223d8e": {
-   "id": "00ca9f79917a7eb0ee2471bd0d223d8e",
-   "company": "createyourowncareer",
-   "role": "Influencer Marketing En Account Support Intern (m/v/o)",
-   "location": "Amsterdam"
-  },
-  "cc24a3f89e4a0f86569c23685141c302": {
-   "id": "cc24a3f89e4a0f86569c23685141c302",
-   "company": "createyourowncareer",
-   "role": "Internship Facility Management",
-   "location": "Puttershoek"
   },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
@@ -1508,6 +1508,12 @@
    "role": "Monteur E&i",
    "location": "Europoort"
   },
+  "bb94c4213f91b66fb76f1fb3d599be09": {
+   "id": "bb94c4213f91b66fb76f1fb3d599be09",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Rotterdam Alexandrium (26 Uur)",
+   "location": "Alphen Aan Den Rijn"
+  },
   "4a0a009d17a5e34eb32415f526700d17": {
    "id": "4a0a009d17a5e34eb32415f526700d17",
    "company": "H&M",
@@ -1970,6 +1976,12 @@
    "role": "Verkoopmedewerker Telecom &amp; Mobiel Beijerlandselaan",
    "location": "Alphen Aan Den Rijn"
   },
+  "8fad68b49b65759e76d5b79ab43997b7": {
+   "id": "8fad68b49b65759e76d5b79ab43997b7",
+   "company": "GXO Logistics",
+   "role": "Hr Administrative",
+   "location": "Alphen Aan Den Rijn"
+  },
   "71c4e2f4e814f5d3b1265076b6fa9470": {
    "id": "71c4e2f4e814f5d3b1265076b6fa9470",
    "company": "Primark",
@@ -1993,12 +2005,6 @@
    "company": "Primark",
    "role": "Verkoopmedewerker / Sales Assistant Parttime Eindhoven",
    "location": "Eindhoven"
-  },
-  "8fad68b49b65759e76d5b79ab43997b7": {
-   "id": "8fad68b49b65759e76d5b79ab43997b7",
-   "company": "GXO Logistics",
-   "role": "Hr Administrative",
-   "location": "Alphen Aan Den Rijn"
   },
   "d55627d40fa28bb1d2561d4185b35ee8": {
    "id": "d55627d40fa28bb1d2561d4185b35ee8",
@@ -2310,12 +2316,6 @@
    "id": "eea483e8c42a2a33b8b8eb6979f2df42",
    "company": "Juditechsono",
    "role": "Facility Admin (part-time; Fixed-term)",
-   "location": "Amsterdam"
-  },
-  "c208e3862042d1a269a728cb6af6ef56": {
-   "id": "c208e3862042d1a269a728cb6af6ef56",
-   "company": "Hogan Lovells",
-   "role": "Personal Assistant Data, Privacy & Cybersecurity",
    "location": "Amsterdam"
   }
  }
