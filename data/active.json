@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-20",
+ "asOf": "2026-08-21",
  "count": 386,
  "jobs": {
   "41337": {
@@ -158,6 +158,36 @@
    "role": "Stagiair(e) Butler",
    "location": "Amsterdam"
   },
+  "2715764": {
+   "id": "2715764",
+   "company": "De Piergroep",
+   "role": "Stagiaire Afdeling Communicatie",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "3d8b65d82ba7d0e93acfded52248c5bd": {
+   "id": "3d8b65d82ba7d0e93acfded52248c5bd",
+   "company": "Abbott",
+   "role": "Kom Stage Lopen Bij Abbott Olst Vanaf Februari 2027",
+   "location": "Olst"
+  },
+  "9b8e419e5c2fa7fb06da59492417c0aa": {
+   "id": "9b8e419e5c2fa7fb06da59492417c0aa",
+   "company": "Signify",
+   "role": "Internship Tu/e Company Tour",
+   "location": "Eindhoven"
+  },
+  "3c25bb50425eeed1d1d0e648d92de715": {
+   "id": "3c25bb50425eeed1d1d0e648d92de715",
+   "company": "Dyson",
+   "role": "Intern",
+   "location": "Amsterdam Office"
+  },
+  "55414e05b68a413b44725c72560666ad": {
+   "id": "55414e05b68a413b44725c72560666ad",
+   "company": "Philips",
+   "role": "Sustainability Internship: Sustainability Analyst (non-thesis)",
+   "location": "Amsterdam"
+  },
   "d13956a72065732957748c62ba188810": {
    "id": "d13956a72065732957748c62ba188810",
    "company": "Coty Inc.",
@@ -236,9 +266,27 @@
    "role": "Intern Polymer Technology",
    "location": "S Hertogenbosch"
   },
+  "3a46e37f2b46509e73365976d2bc4454": {
+   "id": "3a46e37f2b46509e73365976d2bc4454",
+   "company": "ING Group",
+   "role": "Internship - Global Finance Retail Banking ( Private Banking & Wealth Management)",
+   "location": "Cedar"
+  },
+  "793b66e0da8aa9b09e7b0ed30b4a38f2": {
+   "id": "793b66e0da8aa9b09e7b0ed30b4a38f2",
+   "company": "ING Group",
+   "role": "Intern Ux / Design & Communication",
+   "location": "Haarlerbergpark"
+  },
   "d5e71e85034d434b98de1cdbca3800ec": {
    "id": "d5e71e85034d434b98de1cdbca3800ec",
    "company": "ABB UK",
+   "role": "Product Magement Intern Nl",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "e461cad30926f313022b7bae15625d2f": {
+   "id": "e461cad30926f313022b7bae15625d2f",
+   "company": "ABB Ltd",
    "role": "Product Magement Intern Nl",
    "location": "Alphen Aan Den Rijn"
   },
@@ -548,54 +596,6 @@
    "role": "Internship Cro",
    "location": "Alphen Aan Den Rijn"
   },
-  "8c0100c8585cfe7543d287ac0b8d9e7a": {
-   "id": "8c0100c8585cfe7543d287ac0b8d9e7a",
-   "company": "Coty",
-   "role": "Intern - Global Category Packaging",
-   "location": "Amsterdam"
-  },
-  "506cbfed4287c8454556833cb7f82645": {
-   "id": "506cbfed4287c8454556833cb7f82645",
-   "company": "bankcarriere.nl",
-   "role": "Internship Client Tax Services At Global Client Tax Services (cts)",
-   "location": "Treasury Center"
-  },
-  "308d3088685a7aa0d239e9248d63e170": {
-   "id": "308d3088685a7aa0d239e9248d63e170",
-   "company": "bankcarriere.nl",
-   "role": "Intern – Intelligent Automation",
-   "location": "Haarlerbergpark"
-  },
-  "809e984ba4ce0194ff9c9f7e7095c046": {
-   "id": "809e984ba4ce0194ff9c9f7e7095c046",
-   "company": "ING Group",
-   "role": "Internship Client Tax Services At Global Client Tax Services (cts)",
-   "location": "Treasury Center"
-  },
-  "b895d214279efbf536485a0c0395cb36": {
-   "id": "b895d214279efbf536485a0c0395cb36",
-   "company": "ING Group",
-   "role": "Intern – Intelligent Automation",
-   "location": "Haarlerbergpark"
-  },
-  "1c8ccc0d594f1a77db4f3fe16880bada": {
-   "id": "1c8ccc0d594f1a77db4f3fe16880bada",
-   "company": "Global Client Tax Services (cts)",
-   "role": "Internship Client Tax Services At Global Client Tax Services (cts)",
-   "location": "Treasury Center)"
-  },
-  "76e66ea556072cb99e603eaa4cc14633": {
-   "id": "76e66ea556072cb99e603eaa4cc14633",
-   "company": "ING",
-   "role": "Intern – Intelligent Automation",
-   "location": "Haarlerbergpark"
-  },
-  "bc2b0fdbb9e353be2368a0414717f2a1": {
-   "id": "bc2b0fdbb9e353be2368a0414717f2a1",
-   "company": "Valmont Industries, Inc",
-   "role": "Internship Client Tax Services At Global Client Tax Services (cts)",
-   "location": "Treasury Center"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -612,6 +612,18 @@
    "id": "f7a8ce428d938fe30dd54faf8527182a",
    "company": "IMC Trading",
    "role": "Graduate Software Engineer (2027)",
+   "location": "Amsterdam"
+  },
+  "d30e0c17389854bc3b646fb459bba626": {
+   "id": "d30e0c17389854bc3b646fb459bba626",
+   "company": "Warnermedia",
+   "role": "Software Engineer Ii",
+   "location": "Amsterdam"
+  },
+  "4bd45ee81e56b35d9ca1b7483e0ae6e8": {
+   "id": "4bd45ee81e56b35d9ca1b7483e0ae6e8",
+   "company": "Togetherai",
+   "role": "Staff Software Engineer, Inference / Compute Infrastructure Engineering",
    "location": "Amsterdam"
   },
   "0a5572a3b37910ec434eed10d01bd56a": {
@@ -714,12 +726,6 @@
    "id": "2310d11e49e097151514613193b9166f",
    "company": "ING Bank",
    "role": "Intern - Data Scientist - Genai Chatbot",
-   "location": "Amsterdam"
-  },
-  "23ceb0286e85402ff32df0dd2dc94bc1": {
-   "id": "23ceb0286e85402ff32df0dd2dc94bc1",
-   "company": "Traineekraftheinz",
-   "role": "Data Analyst Intern",
    "location": "Amsterdam"
   },
   "8ef23112a7277bf794d892eeca649d4e": {
@@ -1034,6 +1040,12 @@
    "role": "Bmg Business Analyst Payments",
    "location": "Amsterdam"
   },
+  "627402065d771690eda63eaeead92d86": {
+   "id": "627402065d771690eda63eaeead92d86",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Field Maintenance Operator Painting",
+   "location": "Alphen Aan Den Rijn"
+  },
   "254a0a55bbc56651636749ce01cad899": {
    "id": "254a0a55bbc56651636749ce01cad899",
    "company": "Suitsupply",
@@ -1142,6 +1154,12 @@
    "role": "Hoofdmonteur",
    "location": "Alphen Aan Den Rijn"
   },
+  "190aceefa7beb56a703a1c7d483de79f": {
+   "id": "190aceefa7beb56a703a1c7d483de79f",
+   "company": "Yara International",
+   "role": "Hoofdmonteur",
+   "location": "Alphen Aan Den Rijn"
+  },
   "cc1025aa96e428591a0f6fa2a9f7f778": {
    "id": "cc1025aa96e428591a0f6fa2a9f7f778",
    "company": "Bilfinger SE",
@@ -1214,12 +1232,6 @@
    "role": "Maintenance Monteur - Storing & Onderhoud",
    "location": "Venlo"
   },
-  "627402065d771690eda63eaeead92d86": {
-   "id": "627402065d771690eda63eaeead92d86",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Field Maintenance Operator Painting",
-   "location": "Alphen Aan Den Rijn"
-  },
   "ad4691d7b3febf045dd7d03e62ba9c9f": {
    "id": "ad4691d7b3febf045dd7d03e62ba9c9f",
    "company": "De Jong Box B.V.",
@@ -1255,12 +1267,6 @@
    "company": "ENGIE",
    "role": "Technicus Turbines (ems)",
    "location": "Eemshaven"
-  },
-  "190aceefa7beb56a703a1c7d483de79f": {
-   "id": "190aceefa7beb56a703a1c7d483de79f",
-   "company": "Yara International",
-   "role": "Hoofdmonteur",
-   "location": "Alphen Aan Den Rijn"
   },
   "170d68a057f9615710e0bbfc9c5ac965": {
    "id": "170d68a057f9615710e0bbfc9c5ac965",
@@ -1507,6 +1513,24 @@
    "company": "Bilfinger",
    "role": "Monteur E&i",
    "location": "Europoort"
+  },
+  "0d66b8749f275bc513e08423cbd5354e": {
+   "id": "0d66b8749f275bc513e08423cbd5354e",
+   "company": "Levis Media",
+   "role": "Sales Stylist 8 Hours P/w",
+   "location": "Amsterdam"
+  },
+  "f8c90fd84a6134f0dff86bb7aa9fda8b": {
+   "id": "f8c90fd84a6134f0dff86bb7aa9fda8b",
+   "company": "H&M",
+   "role": "Sales Advisor 5-12h",
+   "location": "Amsterdam"
+  },
+  "0297bdbb70ffe2aa143d8dfe8a2efee7": {
+   "id": "0297bdbb70ffe2aa143d8dfe8a2efee7",
+   "company": "H&M",
+   "role": "Sales Advisor 21-31h",
+   "location": "Amsterdam"
   },
   "bb94c4213f91b66fb76f1fb3d599be09": {
    "id": "bb94c4213f91b66fb76f1fb3d599be09",
@@ -1958,24 +1982,6 @@
    "role": "Verkoopmedewerker Huishoudelijke Apparaten Rotterdam The Corner",
    "location": "Alphen Aan Den Rijn"
   },
-  "f64b543fec97598b7996b4797468a2ed": {
-   "id": "f64b543fec97598b7996b4797468a2ed",
-   "company": "MediaMarktSaturn",
-   "role": "Verkoopmedewerker Gaming, Laptops &amp; Computers Den Haag",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "5706437b8eb8de604f30dde3e2b19403": {
-   "id": "5706437b8eb8de604f30dde3e2b19403",
-   "company": "MediaMarktSaturn",
-   "role": "Verkoopmedewerker Huishoudelijke Apparaten Beijerlandselaan",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "0e8e0dc68b65bc1585af6674f42eec2b": {
-   "id": "0e8e0dc68b65bc1585af6674f42eec2b",
-   "company": "MediaMarktSaturn",
-   "role": "Verkoopmedewerker Telecom &amp; Mobiel Beijerlandselaan",
-   "location": "Alphen Aan Den Rijn"
-  },
   "8fad68b49b65759e76d5b79ab43997b7": {
    "id": "8fad68b49b65759e76d5b79ab43997b7",
    "company": "GXO Logistics",
@@ -2311,12 +2317,6 @@
    "company": "Primark",
    "role": "Weekend Retail Assistant Venlo",
    "location": "Venlo"
-  },
-  "eea483e8c42a2a33b8b8eb6979f2df42": {
-   "id": "eea483e8c42a2a33b8b8eb6979f2df42",
-   "company": "Juditechsono",
-   "role": "Facility Admin (part-time; Fixed-term)",
-   "location": "Amsterdam"
   }
  }
 }

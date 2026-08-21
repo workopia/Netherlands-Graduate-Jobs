@@ -666,4 +666,17 @@
 <tr><td>createyourowncareer</td><td>Influencer Marketing En Account Support Intern (m/v/o)</td><td>Amsterdam</td><td>2026-08-20</td></tr>
 <tr><td>createyourowncareer</td><td>Internship Facility Management</td><td>Puttershoek</td><td>2026-08-20</td></tr>
 <tr><td>Hogan Lovells</td><td>Personal Assistant Data, Privacy & Cybersecurity</td><td>Amsterdam</td><td>2026-08-20</td></tr>
+<tr><td>Coty</td><td>Intern - Global Category Packaging</td><td>Amsterdam</td><td>2026-08-21</td></tr>
+<tr><td>bankcarriere.nl</td><td>Internship Client Tax Services At Global Client Tax Services (cts)</td><td>Treasury Center</td><td>2026-08-21</td></tr>
+<tr><td>bankcarriere.nl</td><td>Intern – Intelligent Automation</td><td>Haarlerbergpark</td><td>2026-08-21</td></tr>
+<tr><td>ING Group</td><td>Internship Client Tax Services At Global Client Tax Services (cts)</td><td>Treasury Center</td><td>2026-08-21</td></tr>
+<tr><td>ING Group</td><td>Intern – Intelligent Automation</td><td>Haarlerbergpark</td><td>2026-08-21</td></tr>
+<tr><td>Global Client Tax Services (cts)</td><td>Internship Client Tax Services At Global Client Tax Services (cts)</td><td>Treasury Center)</td><td>2026-08-21</td></tr>
+<tr><td>ING</td><td>Intern – Intelligent Automation</td><td>Haarlerbergpark</td><td>2026-08-21</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Internship Client Tax Services At Global Client Tax Services (cts)</td><td>Treasury Center</td><td>2026-08-21</td></tr>
+<tr><td>Traineekraftheinz</td><td>Data Analyst Intern</td><td>Amsterdam</td><td>2026-08-21</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Gaming, Laptops &amp; Computers Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-08-21</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Huishoudelijke Apparaten Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-08-21</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Telecom &amp; Mobiel Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-08-21</td></tr>
+<tr><td>Juditechsono</td><td>Facility Admin (part-time; Fixed-term)</td><td>Amsterdam</td><td>2026-08-21</td></tr>
 </table>
