@@ -679,4 +679,14 @@
 <tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Huishoudelijke Apparaten Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-08-21</td></tr>
 <tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Telecom &amp; Mobiel Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-08-21</td></tr>
 <tr><td>Juditechsono</td><td>Facility Admin (part-time; Fixed-term)</td><td>Amsterdam</td><td>2026-08-21</td></tr>
+<tr><td>FieldBuddy</td><td>Content Marketing Internship</td><td>Amsterdam</td><td>2026-08-22</td></tr>
+<tr><td>FieldBuddy</td><td>Ai Marketing Automation Internship</td><td>Amsterdam</td><td>2026-08-22</td></tr>
+<tr><td>RELX</td><td>Researcher Academy Intern</td><td>Amsterdam</td><td>2026-08-22</td></tr>
+<tr><td>RELX (LexisNexis)</td><td>Researcher Academy Intern</td><td>Amsterdam</td><td>2026-08-22</td></tr>
+<tr><td>Flix</td><td>Stagiair – Operations Benelux (m/f/d)</td><td>Amsterdam</td><td>2026-08-22</td></tr>
+<tr><td>Boots apotheek De Esdoorn</td><td>Intern, Pharmacy</td><td>Netherlands</td><td>2026-08-22</td></tr>
+<tr><td>Boots apotheek</td><td>Bol-stagiair</td><td>Maaswijk</td><td>2026-08-22</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>R&d Internship</td><td>Alphen Aan Den Rijn</td><td>2026-08-22</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Internship Cro</td><td>Alphen Aan Den Rijn</td><td>2026-08-22</td></tr>
+<tr><td>Avanade</td><td>Afstudeerstage Business Applications Erp Nederland Van Ai-hype Naar Erp-realiteit</td><td>Netherlands</td><td>2026-08-22</td></tr>
 </table>

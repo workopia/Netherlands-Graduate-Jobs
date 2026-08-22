@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-21",
- "count": 386,
+ "asOf": "2026-08-22",
+ "count": 385,
  "jobs": {
   "41337": {
    "id": "41337",
@@ -12,12 +12,6 @@
    "id": "42954",
    "company": "Arcadis",
    "role": "Business Process & Transformation Internship",
-   "location": "Amsterdam"
-  },
-  "1804616": {
-   "id": "1804616",
-   "company": "FieldBuddy",
-   "role": "Content Marketing Internship",
    "location": "Amsterdam"
   },
   "2568638": {
@@ -134,12 +128,6 @@
    "role": "Logistiek Administratief Medewerker",
    "location": "Veenendaal"
   },
-  "2709118": {
-   "id": "2709118",
-   "company": "FieldBuddy",
-   "role": "Ai Marketing Automation Internship",
-   "location": "Amsterdam"
-  },
   "2712567": {
    "id": "2712567",
    "company": "Twenty Seven Amsterdam B.V",
@@ -164,9 +152,39 @@
    "role": "Stagiaire Afdeling Communicatie",
    "location": "Alphen Aan Den Rijn"
   },
+  "a7713ba3538870fd13701f5fbec8dca5": {
+   "id": "a7713ba3538870fd13701f5fbec8dca5",
+   "company": "itinfinance.nl",
+   "role": "Internship - Artificial Intelligence Agent Developer",
+   "location": "Amsterdam"
+  },
+  "1dcf5941ce535aff0b51d33090946247": {
+   "id": "1dcf5941ce535aff0b51d33090946247",
+   "company": "bankcarriere.nl",
+   "role": "Finance Control Intern",
+   "location": "Amsterdam"
+  },
+  "d40e9829982b10c08c3423c7c2620e75": {
+   "id": "d40e9829982b10c08c3423c7c2620e75",
+   "company": "itinfinance.nl",
+   "role": "Internships - Software Engineering",
+   "location": "Haarlerbergpark"
+  },
+  "7ecee80d0bae24622ed79014fb0a799c": {
+   "id": "7ecee80d0bae24622ed79014fb0a799c",
+   "company": "itinfinance.nl",
+   "role": "Internship Change Execution Financial Markets / Group Treasury",
+   "location": "Cedar"
+  },
   "3d8b65d82ba7d0e93acfded52248c5bd": {
    "id": "3d8b65d82ba7d0e93acfded52248c5bd",
    "company": "Abbott",
+   "role": "Kom Stage Lopen Bij Abbott Olst Vanaf Februari 2027",
+   "location": "Olst"
+  },
+  "feec28dbc91b045a69864bd76ff98934": {
+   "id": "feec28dbc91b045a69864bd76ff98934",
+   "company": "jobs.abbott",
    "role": "Kom Stage Lopen Bij Abbott Olst Vanaf Februari 2027",
    "location": "Olst"
   },
@@ -277,6 +295,30 @@
    "company": "ING Group",
    "role": "Intern Ux / Design & Communication",
    "location": "Haarlerbergpark"
+  },
+  "412d6d8e1f45cf8c8e952acc94fefe4e": {
+   "id": "412d6d8e1f45cf8c8e952acc94fefe4e",
+   "company": "Valmont Industries, Inc",
+   "role": "Internship - Global Finance Retail Banking ( Private Banking & Wealth Management)",
+   "location": "Cedar"
+  },
+  "33186b6bc26b782102d2302be487c74e": {
+   "id": "33186b6bc26b782102d2302be487c74e",
+   "company": "Valmont Industries, Inc",
+   "role": "Intern Ux / Design & Communication",
+   "location": "Haarlerbergpark"
+  },
+  "e7817f43c7efea437f9b1544cbfdc3c2": {
+   "id": "e7817f43c7efea437f9b1544cbfdc3c2",
+   "company": "bankcarriere.nl",
+   "role": "Intern Ux / Design & Communication",
+   "location": "Haarlerbergpark"
+  },
+  "151e0b3fa7124869d630d314193e7d79": {
+   "id": "151e0b3fa7124869d630d314193e7d79",
+   "company": "bankcarriere.nl",
+   "role": "Internship - Global Finance Retail Banking ( Private Banking & Wealth Management)",
+   "location": "Cedar"
   },
   "d5e71e85034d434b98de1cdbca3800ec": {
    "id": "d5e71e85034d434b98de1cdbca3800ec",
@@ -553,48 +595,6 @@
    "company": "ING Group",
    "role": "Internship - Trainee Management Team",
    "location": "Cedar"
-  },
-  "5993a34912d88e437786e9ba0c59f21b": {
-   "id": "5993a34912d88e437786e9ba0c59f21b",
-   "company": "RELX",
-   "role": "Researcher Academy Intern",
-   "location": "Amsterdam"
-  },
-  "46871f6beaffe79a2607312b14b7a187": {
-   "id": "46871f6beaffe79a2607312b14b7a187",
-   "company": "RELX (LexisNexis)",
-   "role": "Researcher Academy Intern",
-   "location": "Amsterdam"
-  },
-  "0dd803f5f52d4a3e4bf885d98c3e538e": {
-   "id": "0dd803f5f52d4a3e4bf885d98c3e538e",
-   "company": "Flix",
-   "role": "Stagiair – Operations Benelux (m/f/d)",
-   "location": "Amsterdam"
-  },
-  "c465fedd5a760c5d58eeb0303accb36c": {
-   "id": "c465fedd5a760c5d58eeb0303accb36c",
-   "company": "Boots apotheek De Esdoorn",
-   "role": "Intern, Pharmacy",
-   "location": "Netherlands"
-  },
-  "a0172e8c87b59c03a97f1fd00cc66cda": {
-   "id": "a0172e8c87b59c03a97f1fd00cc66cda",
-   "company": "Boots apotheek",
-   "role": "Bol-stagiair",
-   "location": "Maaswijk"
-  },
-  "0a8bb7a9e13bd6b2a048140a03e29a3b": {
-   "id": "0a8bb7a9e13bd6b2a048140a03e29a3b",
-   "company": "AkzoNobel N.V.",
-   "role": "R&d Internship",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "9286210049be41068f99acd767671604": {
-   "id": "9286210049be41068f99acd767671604",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Internship Cro",
-   "location": "Alphen Aan Den Rijn"
   },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
@@ -889,12 +889,6 @@
    "company": "KRAFT HEINZ",
    "role": "Global Finance Analyst Capex Intern",
    "location": "Amsterdam"
-  },
-  "80f3f9280a8cb3f360abece5394202ac": {
-   "id": "80f3f9280a8cb3f360abece5394202ac",
-   "company": "Avanade",
-   "role": "Afstudeerstage Business Applications Erp Nederland Van Ai-hype Naar Erp-realiteit",
-   "location": "Netherlands"
   },
   "e6aed354d6e398747f52d6212bd75e33": {
    "id": "e6aed354d6e398747f52d6212bd75e33",
