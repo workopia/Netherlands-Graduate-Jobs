@@ -1,6 +1,6 @@
 {
  "asOf": "2026-08-23",
- "count": 382,
+ "count": 381,
  "jobs": {
   "2568638": {
    "id": "2568638",
@@ -158,6 +158,12 @@
    "role": "Marketing Intern",
    "location": "Amsterdam"
   },
+  "3f5c4879afc1d39efbf180d37d4abe35": {
+   "id": "3f5c4879afc1d39efbf180d37d4abe35",
+   "company": "Coty",
+   "role": "Europe Performance & Analytics Intern",
+   "location": "Amsterdam"
+  },
   "c739043d23c8382f54d5b3aeb8234f68": {
    "id": "c739043d23c8382f54d5b3aeb8234f68",
    "company": "Philjobs",
@@ -176,6 +182,24 @@
    "role": "Internship: Sales And Business Development",
    "location": "Amsterdam"
   },
+  "7564dddc09e5876b2b757b6f437fbe6e": {
+   "id": "7564dddc09e5876b2b757b6f437fbe6e",
+   "company": "Philips",
+   "role": "Internship: Sales And Business Development",
+   "location": "Amsterdam"
+  },
+  "e677aa5f460e20074e8aa2374ebd19d8": {
+   "id": "e677aa5f460e20074e8aa2374ebd19d8",
+   "company": "Careers Philips",
+   "role": "Internship: Finance & Accounting - Group Consolidation & Reporting (gc&r)",
+   "location": "Amsterdam"
+  },
+  "9a85a9460a8db8c5c1af05ce4c9e07d8": {
+   "id": "9a85a9460a8db8c5c1af05ce4c9e07d8",
+   "company": "Philips",
+   "role": "Internship: Group Accounting & Reporting (non-thesis)",
+   "location": "Amsterdam"
+  },
   "d90e5397e41ccdc0d3afc53156cf1d28": {
    "id": "d90e5397e41ccdc0d3afc53156cf1d28",
    "company": "Bilfinger SE",
@@ -185,6 +209,12 @@
   "2125b10c15bb2f160bc5a7ddf81557c8": {
    "id": "2125b10c15bb2f160bc5a7ddf81557c8",
    "company": "Fugroacademy",
+   "role": "Data & Analytics Internship",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "9de2f2b31801ed6b5559683d0b328236": {
+   "id": "9de2f2b31801ed6b5559683d0b328236",
+   "company": "fugroacademy.co.uk",
    "role": "Data & Analytics Internship",
    "location": "Alphen Aan Den Rijn"
   },
@@ -218,9 +248,27 @@
    "role": "E-commerce Intern",
    "location": "Eindhoven"
   },
+  "b53281b26f1ac9bd4fe0a09ca280cc36": {
+   "id": "b53281b26f1ac9bd4fe0a09ca280cc36",
+   "company": "Avery Dennison Smartrac",
+   "role": "Internship: Procurement Finance",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f948964f409059c5f81b15a62f03f0bf": {
+   "id": "f948964f409059c5f81b15a62f03f0bf",
+   "company": "Avery Dennison Corp",
+   "role": "Internship: Procurement Finance",
+   "location": "Alphen Aan Den Rijn"
+  },
   "9d06f8331f5f05c5c1a8290ce3ba7e1c": {
    "id": "9d06f8331f5f05c5c1a8290ce3ba7e1c",
    "company": "Orthopedicjobs",
+   "role": "Brand Marketing Intern",
+   "location": "Amsterdam"
+  },
+  "60a40789c67650d117152eb8d9ed8739": {
+   "id": "60a40789c67650d117152eb8d9ed8739",
+   "company": "Stryker",
    "role": "Brand Marketing Intern",
    "location": "Amsterdam"
   },
@@ -239,6 +287,12 @@
   "96f3509d18fe055c9b7236e19b83f079": {
    "id": "96f3509d18fe055c9b7236e19b83f079",
    "company": "Investmentbankinginternships",
+   "role": "Internship - Artificial Intelligence Agent Developer",
+   "location": "Amsterdam"
+  },
+  "152c91e135e5c12f0e0ad0fdb4ecd5d5": {
+   "id": "152c91e135e5c12f0e0ad0fdb4ecd5d5",
+   "company": "Valmont Industries, Inc",
    "role": "Internship - Artificial Intelligence Agent Developer",
    "location": "Amsterdam"
   },
@@ -265,6 +319,12 @@
    "company": "ING Group",
    "role": "Internship Change Execution Financial Markets / Group Treasury",
    "location": "Cedar)"
+  },
+  "4ef907e108db9b7304ffdb781b9b0272": {
+   "id": "4ef907e108db9b7304ffdb781b9b0272",
+   "company": "Valmont Industries, Inc",
+   "role": "Internships - Software Engineering",
+   "location": "Haarlemerpark"
   },
   "3d8b65d82ba7d0e93acfded52248c5bd": {
    "id": "3d8b65d82ba7d0e93acfded52248c5bd",
@@ -536,66 +596,6 @@
    "role": "Business Control Intern",
    "location": "Alphen Aan Den Rijn"
   },
-  "9bd6eb6bf7c44d1e81b9a1db1ef36838": {
-   "id": "9bd6eb6bf7c44d1e81b9a1db1ef36838",
-   "company": "Caldic B.V",
-   "role": "Global Communications Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "d4397b89e4912ffd6884c470867247f6": {
-   "id": "d4397b89e4912ffd6884c470867247f6",
-   "company": "itinfinance.nl",
-   "role": "Talent, Learning Leadership & Dib Intern-1",
-   "location": "Amsterdam"
-  },
-  "5e9ed76659a5c9e8822d0d07bda07a41": {
-   "id": "5e9ed76659a5c9e8822d0d07bda07a41",
-   "company": "ING Group",
-   "role": "Talent, Learning Leadership & Dib Intern-1",
-   "location": "Amsterdam"
-  },
-  "e1b860704981c77d00452bad13ef996d": {
-   "id": "e1b860704981c77d00452bad13ef996d",
-   "company": "ING Group",
-   "role": "Internship Credit Risk Policies & Frameworks",
-   "location": "Amsterdam"
-  },
-  "2c8d1ce4833850d5886aff87aa923f9e": {
-   "id": "2c8d1ce4833850d5886aff87aa923f9e",
-   "company": "Valmont Industries, Inc",
-   "role": "Internship Credit Risk Policies & Frameworks",
-   "location": "Amsterdam"
-  },
-  "5b46b49cd404ffaf54be7e4fed0c17f6": {
-   "id": "5b46b49cd404ffaf54be7e4fed0c17f6",
-   "company": "ING",
-   "role": "Talent, Learning Leadership & Dib Intern-1",
-   "location": "Amsterdam"
-  },
-  "3d33811b6757ebd3e48eb7709bb1f732": {
-   "id": "3d33811b6757ebd3e48eb7709bb1f732",
-   "company": "ING Group",
-   "role": "Stagiair Adviseur Vermogen Regio Nijmegen",
-   "location": "Arnhem"
-  },
-  "69f95d01fc461c32619100938162a261": {
-   "id": "69f95d01fc461c32619100938162a261",
-   "company": "Valmont Industries, Inc",
-   "role": "Stagiair Adviseur Vermogen Regio Nijmegen",
-   "location": "Arnhem"
-  },
-  "5eaeb519768db630ed5413f6bc473b09": {
-   "id": "5eaeb519768db630ed5413f6bc473b09",
-   "company": "itinfinance.nl",
-   "role": "Stagiair Adviseur Vermogen Regio Utrecht",
-   "location": "Lange Viestraat"
-  },
-  "e6d895f61c524e47a95721b59153b5a8": {
-   "id": "e6d895f61c524e47a95721b59153b5a8",
-   "company": "itinfinance.nl",
-   "role": "Internship Credit Risk Policies & Frameworks",
-   "location": "Cedar"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -860,12 +860,6 @@
    "role": "Data Visualization Specialist ( Part - Time)",
    "location": "Netherlands"
   },
-  "4b145439b9470b691e9bb2651db5d2cd": {
-   "id": "4b145439b9470b691e9bb2651db5d2cd",
-   "company": "Jobgether",
-   "role": "Decision Intelligence Analyst",
-   "location": "Netherlands"
-  },
   "49ffce9540e4f2494ccb1fc9935b8245": {
    "id": "49ffce9540e4f2494ccb1fc9935b8245",
    "company": "39med",
@@ -1106,6 +1100,12 @@
    "role": "Maintenance Technician",
    "location": "Alphen Aan Den Rijn"
   },
+  "40026b03e08a966f939f25ad081bcf62": {
+   "id": "40026b03e08a966f939f25ad081bcf62",
+   "company": "Johnson & Johnson",
+   "role": "Maintenance Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
   "2c10a9b4a81713a8ff8a5be7fb8cb9ec": {
    "id": "2c10a9b4a81713a8ff8a5be7fb8cb9ec",
    "company": "Bilfinger",
@@ -1127,6 +1127,12 @@
   "9daafeec388ff421d2a9b7c38b854c29": {
    "id": "9daafeec388ff421d2a9b7c38b854c29",
    "company": "KONE International",
+   "role": "Service Monteur Roltrappen",
+   "location": "Utrecht"
+  },
+  "1081b84f0c25a002684e8c87d0ecc49b": {
+   "id": "1081b84f0c25a002684e8c87d0ecc49b",
+   "company": "Kone Corporation",
    "role": "Service Monteur Roltrappen",
    "location": "Utrecht"
   },
@@ -1501,18 +1507,6 @@
    "company": "Technogym SPA",
    "role": "Services Engineers (diverse Regio's)",
    "location": "Noord-Holland"
-  },
-  "a5eed17604cef6c36e7082926308fd00": {
-   "id": "a5eed17604cef6c36e7082926308fd00",
-   "company": "ENGIE ENERGIE SERVICES",
-   "role": "Technicus Turbines (ems)",
-   "location": "Eemshaven"
-  },
-  "5ad91c18ec845335ac353bd32379c971": {
-   "id": "5ad91c18ec845335ac353bd32379c971",
-   "company": "57",
-   "role": "Junior Service Monteur",
-   "location": "Netherlands"
   },
   "20c6e60122cf21e3d0edadc8d6606010": {
    "id": "20c6e60122cf21e3d0edadc8d6606010",

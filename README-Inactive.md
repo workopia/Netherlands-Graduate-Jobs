@@ -723,4 +723,17 @@
 <tr><td>Enza Zaden Beheer B.V</td><td>Recruitment Coordinator (24 Uur Per Week)</td><td>Netherlands</td><td>2026-08-23</td></tr>
 <tr><td>ERIKS Industrial Services Ltd</td><td>Supply Coordinator</td><td>Netherlands</td><td>2026-08-23</td></tr>
 <tr><td>Primark</td><td>Weekend Retail Assistant Venlo</td><td>Venlo</td><td>2026-08-23</td></tr>
+<tr><td>Caldic B.V</td><td>Global Communications Intern</td><td>Alphen Aan Den Rijn</td><td>2026-08-23</td></tr>
+<tr><td>itinfinance.nl</td><td>Talent, Learning Leadership & Dib Intern-1</td><td>Amsterdam</td><td>2026-08-23</td></tr>
+<tr><td>ING Group</td><td>Talent, Learning Leadership & Dib Intern-1</td><td>Amsterdam</td><td>2026-08-23</td></tr>
+<tr><td>ING Group</td><td>Internship Credit Risk Policies & Frameworks</td><td>Amsterdam</td><td>2026-08-23</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Internship Credit Risk Policies & Frameworks</td><td>Amsterdam</td><td>2026-08-23</td></tr>
+<tr><td>ING</td><td>Talent, Learning Leadership & Dib Intern-1</td><td>Amsterdam</td><td>2026-08-23</td></tr>
+<tr><td>ING Group</td><td>Stagiair Adviseur Vermogen Regio Nijmegen</td><td>Arnhem</td><td>2026-08-23</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Stagiair Adviseur Vermogen Regio Nijmegen</td><td>Arnhem</td><td>2026-08-23</td></tr>
+<tr><td>itinfinance.nl</td><td>Stagiair Adviseur Vermogen Regio Utrecht</td><td>Lange Viestraat</td><td>2026-08-23</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship Credit Risk Policies & Frameworks</td><td>Cedar</td><td>2026-08-23</td></tr>
+<tr><td>Jobgether</td><td>Decision Intelligence Analyst</td><td>Netherlands</td><td>2026-08-23</td></tr>
+<tr><td>ENGIE ENERGIE SERVICES</td><td>Technicus Turbines (ems)</td><td>Eemshaven</td><td>2026-08-23</td></tr>
+<tr><td>57</td><td>Junior Service Monteur</td><td>Netherlands</td><td>2026-08-23</td></tr>
 </table>
