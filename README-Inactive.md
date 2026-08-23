@@ -689,4 +689,38 @@
 <tr><td>AkzoNobel N.V.</td><td>R&d Internship</td><td>Alphen Aan Den Rijn</td><td>2026-08-22</td></tr>
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Internship Cro</td><td>Alphen Aan Den Rijn</td><td>2026-08-22</td></tr>
 <tr><td>Avanade</td><td>Afstudeerstage Business Applications Erp Nederland Van Ai-hype Naar Erp-realiteit</td><td>Netherlands</td><td>2026-08-22</td></tr>
+<tr><td>Arcadis</td><td>Internship - Modellering Technische Vispassages</td><td>Netherlands</td><td>2026-08-23</td></tr>
+<tr><td>Arcadis</td><td>Business Process & Transformation Internship</td><td>Amsterdam</td><td>2026-08-23</td></tr>
+<tr><td>Stichting Geestelijke Gezondheidszorg Oost Brabant</td><td>Administratief Medewerker Zorgproces Helmond</td><td>Eindhoven</td><td>2026-08-23</td></tr>
+<tr><td>itinfinance.nl</td><td>Stagiair Adviseur Vermogen Regio Nijmegen</td><td>Molenstraat 7</td><td>2026-08-23</td></tr>
+<tr><td>itinfinance.nl</td><td>Intern: Credit Risk Data Llm Research & Implementation</td><td>Haarlerbergpark</td><td>2026-08-23</td></tr>
+<tr><td>ING Group</td><td>Intern: Credit Risk Data Llm Research & Implementation</td><td>Haarlerbergpark</td><td>2026-08-23</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Intern: Credit Risk Data Llm Research & Implementation</td><td>Haarlerbergpark</td><td>2026-08-23</td></tr>
+<tr><td>Unilever</td><td>Internship 26' - Supply Chain Management And Operations</td><td>Air Office</td><td>2026-08-23</td></tr>
+<tr><td>unilever.es</td><td>Internship 26' - Supply Chain Management And Operations</td><td>Air Office</td><td>2026-08-23</td></tr>
+<tr><td>GKN Aerospace Services Ltd</td><td>Stagiair Finance</td><td>Breda</td><td>2026-08-23</td></tr>
+<tr><td>Ses Group</td><td>Intern, Spectrum Management And Strategy</td><td>Alphen Aan Den Rijn</td><td>2026-08-23</td></tr>
+<tr><td>Organon</td><td>Stagiair</td><td>S Hertogenbosch</td><td>2026-08-23</td></tr>
+<tr><td>Perfetti Van Melle ICT B.V</td><td>Stagiair Packing Development</td><td>Breda</td><td>2026-08-23</td></tr>
+<tr><td>Cell</td><td>Researcher Academy Intern</td><td>Amsterdam</td><td>2026-08-23</td></tr>
+<tr><td>ING</td><td>Internship - Trainee Management Team</td><td>Cedar</td><td>2026-08-23</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship - Trainee Management Team</td><td>Cedar</td><td>2026-08-23</td></tr>
+<tr><td>ING Group</td><td>Internship - Trainee Management Team</td><td>Cedar</td><td>2026-08-23</td></tr>
+<tr><td>Elsevier</td><td>Data Scientist</td><td>Amsterdam</td><td>2026-08-23</td></tr>
+<tr><td>CEVA Logistics</td><td>Inventory Control Analyst</td><td>Born</td><td>2026-08-23</td></tr>
+<tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-08-23</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicetechnicus (technicus E&i A)</td><td>Alphen Aan Den Rijn</td><td>2026-08-23</td></tr>
+<tr><td>Yara International ASA</td><td>Hoofdmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-08-23</td></tr>
+<tr><td>Jll Com Sg</td><td>Facility Technician</td><td>Leiden</td><td>2026-08-23</td></tr>
+<tr><td>jll.co.in</td><td>Facility Technician</td><td>Leiden</td><td>2026-08-23</td></tr>
+<tr><td>JLL</td><td>Facility Technician</td><td>Leiden</td><td>2026-08-23</td></tr>
+<tr><td>KONE Romania</td><td>Onderhoudsmonteur Personendeuren</td><td>Utrecht</td><td>2026-08-23</td></tr>
+<tr><td>Otis</td><td>Service Monteur Amsterdam & Amstelveen</td><td>Utrecht</td><td>2026-08-23</td></tr>
+<tr><td>Bilfinger</td><td>Monteur E&i</td><td>Europoort</td><td>2026-08-23</td></tr>
+<tr><td>MediaMarktSaturn</td><td>Verkoopmedewerker Huishoudelijke Apparaten Rotterdam The Corner</td><td>Alphen Aan Den Rijn</td><td>2026-08-23</td></tr>
+<tr><td>Freshfields Bruckhaus Deringer</td><td>Personal Assistant</td><td>Amsterdam</td><td>2026-08-23</td></tr>
+<tr><td>Freshfields Bruckhaus Deringer</td><td>Float Assistant</td><td>Amsterdam</td><td>2026-08-23</td></tr>
+<tr><td>Enza Zaden Beheer B.V</td><td>Recruitment Coordinator (24 Uur Per Week)</td><td>Netherlands</td><td>2026-08-23</td></tr>
+<tr><td>ERIKS Industrial Services Ltd</td><td>Supply Coordinator</td><td>Netherlands</td><td>2026-08-23</td></tr>
+<tr><td>Primark</td><td>Weekend Retail Assistant Venlo</td><td>Venlo</td><td>2026-08-23</td></tr>
 </table>
