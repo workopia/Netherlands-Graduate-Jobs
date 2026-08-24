@@ -736,4 +736,14 @@
 <tr><td>Jobgether</td><td>Decision Intelligence Analyst</td><td>Netherlands</td><td>2026-08-23</td></tr>
 <tr><td>ENGIE ENERGIE SERVICES</td><td>Technicus Turbines (ems)</td><td>Eemshaven</td><td>2026-08-23</td></tr>
 <tr><td>57</td><td>Junior Service Monteur</td><td>Netherlands</td><td>2026-08-23</td></tr>
+<tr><td>CYBEX GmbH</td><td>Intern Marketing Netherlands (m/f/d)</td><td>Amsterdam</td><td>2026-08-24</td></tr>
+<tr><td>Greystar</td><td>Intern Property Operations</td><td>Amsterdam</td><td>2026-08-24</td></tr>
+<tr><td>Greystar Australia Pty Ltd</td><td>Intern Property Operations</td><td>Amsterdam</td><td>2026-08-24</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Boutique Assistant Intern</td><td>Amsterdam</td><td>2026-08-24</td></tr>
+<tr><td>Under Armour</td><td>Intern, Retail Facilities - Rookie Program 2026</td><td>Amsterdam</td><td>2026-08-24</td></tr>
+<tr><td>Caldic B.V</td><td>Business Control Intern</td><td>Alphen Aan Den Rijn</td><td>2026-08-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Reparatie & Servicemedewerker Elektronica Amsterdam Arena</td><td>Amsterdam</td><td>2026-08-24</td></tr>
+<tr><td>Technogym SPA</td><td>Services Engineers (diverse Regio's)</td><td>Noord-Holland</td><td>2026-08-24</td></tr>
+<tr><td>Nestle Ltd</td><td>Verkoopmedewerker Nespresso Amsterdam</td><td>Amsterdam</td><td>2026-08-24</td></tr>
+<tr><td>Pfh</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-24</td></tr>
 </table>

@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-23",
+ "asOf": "2026-08-24",
  "count": 381,
  "jobs": {
   "2568638": {
@@ -140,6 +140,36 @@
    "role": "Administratief Medewerker Zorgproces Helmond",
    "location": "Eindhoven"
   },
+  "661fbd56b58b3d01206c46f8b5919354": {
+   "id": "661fbd56b58b3d01206c46f8b5919354",
+   "company": "Canon Production Printing Netherlands B.V",
+   "role": "Bsc/msc: Internship Applied Physics/mechatronics - Build The Foundation For Printing Systems",
+   "location": "Venlo"
+  },
+  "3b7dc92e342c61f65363bc93ebfa7b3c": {
+   "id": "3b7dc92e342c61f65363bc93ebfa7b3c",
+   "company": "Ses Group",
+   "role": "Intern Corporate Marketing",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "d2869ab0f65fc80f26e4d8b358dcae9b": {
+   "id": "d2869ab0f65fc80f26e4d8b358dcae9b",
+   "company": "Ses Group",
+   "role": "Intern, Spectrum Management And Strategy",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "ac4dcf6d2991f49385d58aeae3fe80ba": {
+   "id": "ac4dcf6d2991f49385d58aeae3fe80ba",
+   "company": "VistaCreate",
+   "role": "Global Capex Procurement Intern - Venlo, Nl",
+   "location": "Venlo"
+  },
+  "e19eb2bbbd71532aeb984528d719e335": {
+   "id": "e19eb2bbbd71532aeb984528d719e335",
+   "company": "VistaCreate",
+   "role": "Raw Materials Procurement Intern - Venlo, Nl",
+   "location": "Venlo"
+  },
   "d16c4c370564cfefd9fd0249a5768724": {
    "id": "d16c4c370564cfefd9fd0249a5768724",
    "company": "SBM Offshore",
@@ -215,6 +245,12 @@
   "9de2f2b31801ed6b5559683d0b328236": {
    "id": "9de2f2b31801ed6b5559683d0b328236",
    "company": "fugroacademy.co.uk",
+   "role": "Data & Analytics Internship",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "7c75ff47e288bf47cff647db0b6a128c": {
+   "id": "7c75ff47e288bf47cff647db0b6a128c",
+   "company": "Fugro",
    "role": "Data & Analytics Internship",
    "location": "Alphen Aan Den Rijn"
   },
@@ -559,42 +595,6 @@
    "company": "Vistaprint",
    "role": "Raw Materials Procurement Intern - Venlo, Nl",
    "location": "Venlo"
-  },
-  "224495574654daacfefa87d6e2cc1859": {
-   "id": "224495574654daacfefa87d6e2cc1859",
-   "company": "CYBEX GmbH",
-   "role": "Intern Marketing Netherlands (m/f/d)",
-   "location": "Amsterdam"
-  },
-  "3ee5c594040550ee52487687024ecf18": {
-   "id": "3ee5c594040550ee52487687024ecf18",
-   "company": "Greystar",
-   "role": "Intern Property Operations",
-   "location": "Amsterdam"
-  },
-  "da891161cbe58b0c3b7e88a23edbc155": {
-   "id": "da891161cbe58b0c3b7e88a23edbc155",
-   "company": "Greystar Australia Pty Ltd",
-   "role": "Intern Property Operations",
-   "location": "Amsterdam"
-  },
-  "590656879d69df171677296b990a35dc": {
-   "id": "590656879d69df171677296b990a35dc",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Boutique Assistant Intern",
-   "location": "Amsterdam"
-  },
-  "16840c09369b16a5cd5ced307a14f0c4": {
-   "id": "16840c09369b16a5cd5ced307a14f0c4",
-   "company": "Under Armour",
-   "role": "Intern, Retail Facilities - Rookie Program 2026",
-   "location": "Amsterdam"
-  },
-  "bd388e99e63a83d09a0612106c165095": {
-   "id": "bd388e99e63a83d09a0612106c165095",
-   "company": "Caldic B.V",
-   "role": "Business Control Intern",
-   "location": "Alphen Aan Den Rijn"
   },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
@@ -1034,6 +1034,12 @@
    "role": "Bmg Business Analyst Payments",
    "location": "Amsterdam"
   },
+  "afa337bef496ad54c73d58b8846827e9": {
+   "id": "afa337bef496ad54c73d58b8846827e9",
+   "company": "VistaCreate",
+   "role": "Maintenance Technician X3",
+   "location": "Venlo"
+  },
   "e03cff1f0bcee2bedbdb1ef568d50d77": {
    "id": "e03cff1f0bcee2bedbdb1ef568d50d77",
    "company": "Schindler Elevator Ltd",
@@ -1106,6 +1112,12 @@
    "role": "Maintenance Technician",
    "location": "Alphen Aan Den Rijn"
   },
+  "f17644bf8947ba9e6020779d027330b1": {
+   "id": "f17644bf8947ba9e6020779d027330b1",
+   "company": "Johnson & Johnson UK",
+   "role": "Maintenance Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
   "2c10a9b4a81713a8ff8a5be7fb8cb9ec": {
    "id": "2c10a9b4a81713a8ff8a5be7fb8cb9ec",
    "company": "Bilfinger",
@@ -1133,6 +1145,12 @@
   "1081b84f0c25a002684e8c87d0ecc49b": {
    "id": "1081b84f0c25a002684e8c87d0ecc49b",
    "company": "Kone Corporation",
+   "role": "Service Monteur Roltrappen",
+   "location": "Utrecht"
+  },
+  "cd07fb328d359bfc313443899047c832": {
+   "id": "cd07fb328d359bfc313443899047c832",
+   "company": "KONE Bahrain",
    "role": "Service Monteur Roltrappen",
    "location": "Utrecht"
   },
@@ -1316,12 +1334,6 @@
    "role": "Electrical Technician - Field Maintenance & Modification 1",
    "location": "Alphen Aan Den Rijn"
   },
-  "afa337bef496ad54c73d58b8846827e9": {
-   "id": "afa337bef496ad54c73d58b8846827e9",
-   "company": "VistaCreate",
-   "role": "Maintenance Technician X3",
-   "location": "Venlo"
-  },
   "2d6048f81743d0f340988e53144088b3": {
    "id": "2d6048f81743d0f340988e53144088b3",
    "company": "afa'afea",
@@ -1496,17 +1508,17 @@
    "role": "Reparatie & Servicemedewerker Elektronica Amsterdam Centrum",
    "location": "Amsterdam"
   },
-  "2f781638fe98b7a8c80853425e208cbe": {
-   "id": "2f781638fe98b7a8c80853425e208cbe",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Reparatie & Servicemedewerker Elektronica Amsterdam Arena",
+  "0f17ecfbfcf70428aa667a145f205a8a": {
+   "id": "0f17ecfbfcf70428aa667a145f205a8a",
+   "company": "Nestle Ltd",
+   "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
    "location": "Amsterdam"
   },
-  "5b84c2195809439ca87f36a3a29d80c9": {
-   "id": "5b84c2195809439ca87f36a3a29d80c9",
-   "company": "Technogym SPA",
-   "role": "Services Engineers (diverse Regio's)",
-   "location": "Noord-Holland"
+  "4f9cc7eb029acdbdf7c3b8e5875222fb": {
+   "id": "4f9cc7eb029acdbdf7c3b8e5875222fb",
+   "company": "Nestle Ltd",
+   "role": "Verkoopmedewerker Nespresso Amsterdam",
+   "location": "Amsterdam"
   },
   "20c6e60122cf21e3d0edadc8d6606010": {
    "id": "20c6e60122cf21e3d0edadc8d6606010",
@@ -1736,12 +1748,6 @@
    "role": "Sales Advisor 5-12h",
    "location": "Amsterdam"
   },
-  "0f17ecfbfcf70428aa667a145f205a8a": {
-   "id": "0f17ecfbfcf70428aa667a145f205a8a",
-   "company": "Nestle Ltd",
-   "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
-   "location": "Amsterdam"
-  },
   "2498a1a80f32ba0b493b0aa136f64710": {
    "id": "2498a1a80f32ba0b493b0aa136f64710",
    "company": "ALO / Australia",
@@ -1801,12 +1807,6 @@
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Verkoopmedewerker Huishoudelijke Apparaten Beijerlandselaan",
    "location": "Alphen Aan Den Rijn"
-  },
-  "daff421aa410732340fb69841fee9193": {
-   "id": "daff421aa410732340fb69841fee9193",
-   "company": "Nestle Ltd",
-   "role": "Verkoopmedewerker Nespresso Amsterdam",
-   "location": "Amsterdam"
   },
   "753ffaa52124f1522b38dba6270ee035": {
    "id": "753ffaa52124f1522b38dba6270ee035",
@@ -1928,6 +1928,12 @@
    "role": "Winkelmedewerker (oproep) – Loods 5 Zaandamparttimezaandam",
    "location": "Amsterdam"
   },
+  "68740cabfc7cb7a4c292ab5e4350ef4f": {
+   "id": "68740cabfc7cb7a4c292ab5e4350ef4f",
+   "company": "Parfumerie Douglas Nederland",
+   "role": "Beauty Advisor Met Specialisatie In Visagiefulltime / Parttimeden Haag Frederik Hendriklaan",
+   "location": "Alphen Aan Den Rijn"
+  },
   "b2a523173d98c76bc8fa54ad0d7d2ffd": {
    "id": "b2a523173d98c76bc8fa54ad0d7d2ffd",
    "company": "Parfumerie Douglas Nederland",
@@ -1970,11 +1976,11 @@
    "role": "Sales Advisor (oproep), Tommy Hilfiger Den Haag",
    "location": "Alphen Aan Den Rijn"
   },
-  "ebe39106c58a767de9e90b1268c164a8": {
-   "id": "ebe39106c58a767de9e90b1268c164a8",
-   "company": "Pfh",
-   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam",
-   "location": "Alphen Aan Den Rijn"
+  "e9b0721c8ab045e576020c7515c570dc": {
+   "id": "e9b0721c8ab045e576020c7515c570dc",
+   "company": "Cementbouw",
+   "role": "Logistiek Administratief Medewerker",
+   "location": "Wanssum"
   },
   "8e002c9ae2adb8f5f2ad862edede7646": {
    "id": "8e002c9ae2adb8f5f2ad862edede7646",
@@ -2023,12 +2029,6 @@
    "company": "Capri Holdings Limited",
    "role": "Safety Specialist",
    "location": "Venlo"
-  },
-  "e9b0721c8ab045e576020c7515c570dc": {
-   "id": "e9b0721c8ab045e576020c7515c570dc",
-   "company": "CRH plc",
-   "role": "Logistiek Administratief Medewerker",
-   "location": "Wanssum"
   },
   "a7161ee589189a35875ee4dd33d199f0": {
    "id": "a7161ee589189a35875ee4dd33d199f0",
