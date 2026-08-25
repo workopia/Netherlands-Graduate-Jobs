@@ -746,4 +746,16 @@
 <tr><td>Technogym SPA</td><td>Services Engineers (diverse Regio's)</td><td>Noord-Holland</td><td>2026-08-24</td></tr>
 <tr><td>Nestle Ltd</td><td>Verkoopmedewerker Nespresso Amsterdam</td><td>Amsterdam</td><td>2026-08-24</td></tr>
 <tr><td>Pfh</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-24</td></tr>
+<tr><td>Stichting Geestelijke Gezondheidszorg Oost Brabant</td><td>Administratief Medewerker Zorgproces Boekel</td><td>Eindhoven</td><td>2026-08-25</td></tr>
+<tr><td>Coty</td><td>Europe Performance & Analytics Intern</td><td>Amsterdam</td><td>2026-08-25</td></tr>
+<tr><td>C.H. Robinson Worldwide</td><td>Internship - Fresh Produce Supply Chain</td><td>Alphen Aan Den Rijn</td><td>2026-08-25</td></tr>
+<tr><td>Accenture Australia</td><td>Talent & Organization Working Internship - Strategy & Consulting</td><td>Amsterdam</td><td>2026-08-25</td></tr>
+<tr><td>Accenture Australia</td><td>Strategy & Consulting - Talent & Organization Thesis Internship</td><td>Amsterdam</td><td>2026-08-25</td></tr>
+<tr><td>Halfspace ApS</td><td>Strategy & Consulting - Talent & Organization Thesis Internship</td><td>Amsterdam</td><td>2026-08-25</td></tr>
+<tr><td>Halfspace ApS</td><td>Talent & Organization Working Internship - Strategy & Consulting</td><td>Amsterdam</td><td>2026-08-25</td></tr>
+<tr><td>Vistaprint</td><td>Global Capex Procurement Intern - Venlo, Nl</td><td>Venlo</td><td>2026-08-25</td></tr>
+<tr><td>Vistaprint</td><td>Raw Materials Procurement Intern - Venlo, Nl</td><td>Venlo</td><td>2026-08-25</td></tr>
+<tr><td>Jobgether</td><td>Data Visualization Specialist ( Part - Time)</td><td>Netherlands</td><td>2026-08-25</td></tr>
+<tr><td>skechers.dk</td><td>Student Parttime Verkoopmedewerker - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-25</td></tr>
+<tr><td>Pfh</td><td>Sales Advisor (oproep), Tommy Hilfiger Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-08-25</td></tr>
 </table>
