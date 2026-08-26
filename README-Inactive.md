@@ -758,4 +758,13 @@
 <tr><td>Jobgether</td><td>Data Visualization Specialist ( Part - Time)</td><td>Netherlands</td><td>2026-08-25</td></tr>
 <tr><td>skechers.dk</td><td>Student Parttime Verkoopmedewerker - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-08-25</td></tr>
 <tr><td>Pfh</td><td>Sales Advisor (oproep), Tommy Hilfiger Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-08-25</td></tr>
+<tr><td>Mobiel</td><td>Bijbaan Administratief Medewerker (16 Tot 24 Uur) - Flexibel Naast Je Studie</td><td>Leidschendam</td><td>2026-08-26</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Stagiair(e) Reserveringen</td><td>Amsterdam</td><td>2026-08-26</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Hr Stagiair(e)</td><td>Amsterdam</td><td>2026-08-26</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Stagiair(e) Butler</td><td>Amsterdam</td><td>2026-08-26</td></tr>
+<tr><td>CMA CGM Group</td><td>*internship* Customer Service</td><td>Alphen Aan Den Rijn</td><td>2026-08-26</td></tr>
+<tr><td>Coty Inc.</td><td>Europe Performance & Analytics Intern</td><td>Amsterdam</td><td>2026-08-26</td></tr>
+<tr><td>Philips</td><td>Internship: Audit, Risk & Compliance Operations Analyst (non-thesis)</td><td>Amsterdam</td><td>2026-08-26</td></tr>
+<tr><td>Chanel</td><td>Sales & Operations Support Intern - Internship/meewerktstage</td><td>Amsterdam</td><td>2026-08-26</td></tr>
+<tr><td>avoltaworld</td><td>Intern</td><td>Amsterdam</td><td>2026-08-26</td></tr>
 </table>
