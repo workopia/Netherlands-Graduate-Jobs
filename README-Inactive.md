@@ -767,4 +767,24 @@
 <tr><td>Philips</td><td>Internship: Audit, Risk & Compliance Operations Analyst (non-thesis)</td><td>Amsterdam</td><td>2026-08-26</td></tr>
 <tr><td>Chanel</td><td>Sales & Operations Support Intern - Internship/meewerktstage</td><td>Amsterdam</td><td>2026-08-26</td></tr>
 <tr><td>avoltaworld</td><td>Intern</td><td>Amsterdam</td><td>2026-08-26</td></tr>
+<tr><td>Bilfinger SE</td><td>Mbo Stage Tandwielkasten En Aandrijftechniek</td><td>Alphen Aan Den Rijn</td><td>2026-08-27</td></tr>
+<tr><td>ING Group</td><td>Internship - Global Finance Retail Banking ( Private Banking & Wealth Management)</td><td>Cedar</td><td>2026-08-27</td></tr>
+<tr><td>ING Group</td><td>Intern Ux / Design & Communication</td><td>Haarlerbergpark</td><td>2026-08-27</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Internship - Global Finance Retail Banking ( Private Banking & Wealth Management)</td><td>Cedar</td><td>2026-08-27</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Intern Ux / Design & Communication</td><td>Haarlerbergpark</td><td>2026-08-27</td></tr>
+<tr><td>bankcarriere.nl</td><td>Intern Ux / Design & Communication</td><td>Haarlerbergpark</td><td>2026-08-27</td></tr>
+<tr><td>bankcarriere.nl</td><td>Internship - Global Finance Retail Banking ( Private Banking & Wealth Management)</td><td>Cedar</td><td>2026-08-27</td></tr>
+<tr><td>ABB UK</td><td>Product Magement Intern Nl</td><td>Alphen Aan Den Rijn</td><td>2026-08-27</td></tr>
+<tr><td>ABB Ltd</td><td>Product Magement Intern Nl</td><td>Alphen Aan Den Rijn</td><td>2026-08-27</td></tr>
+<tr><td>Action</td><td>Recruitment Intern - Internship</td><td>North Holland</td><td>2026-08-27</td></tr>
+<tr><td>Action</td><td>Stagiaire Sourcing</td><td>Nl</td><td>2026-08-27</td></tr>
+<tr><td>Philips</td><td>Internship: Esg/csrd Reporting (hr, Non-thesis)</td><td>Amsterdam</td><td>2026-08-27</td></tr>
+<tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-08-27</td></tr>
+<tr><td>247</td><td>Service Technicus</td><td>Alphen Aan Den Rijn</td><td>2026-08-27</td></tr>
+<tr><td>Henry Schein</td><td>Service Technicus</td><td>Alphen Aan Den Rijn</td><td>2026-08-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Reparatie & Servicemedewerker Elektronica Amsterdam Centrum</td><td>Amsterdam</td><td>2026-08-27</td></tr>
+<tr><td>Nestle Ltd</td><td>Verkoopmedewerker Nespresso Amstelveen Stadshart</td><td>Amsterdam</td><td>2026-08-27</td></tr>
+<tr><td>Nestle Ltd</td><td>Verkoopmedewerker Nespresso Amsterdam</td><td>Amsterdam</td><td>2026-08-27</td></tr>
+<tr><td>Hempel</td><td>Dutch And English-speaking Office Assistant (part Time)</td><td>Alphen Aan Den Rijn</td><td>2026-08-27</td></tr>
+<tr><td>Mango</td><td>Sales Assistant - Rotterdam Alexandrium</td><td>Alphen Aan Den Rijn</td><td>2026-08-27</td></tr>
 </table>

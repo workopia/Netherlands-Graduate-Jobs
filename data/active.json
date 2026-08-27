@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-26",
- "count": 379,
+ "asOf": "2026-08-27",
+ "count": 377,
  "jobs": {
   "2568638": {
    "id": "2568638",
@@ -110,6 +110,42 @@
    "role": "Administratief Medewerker Zorgproces Helmond",
    "location": "Eindhoven"
   },
+  "d5fbeb3d36aa35592149546a3c50e424": {
+   "id": "d5fbeb3d36aa35592149546a3c50e424",
+   "company": "bankcarriere.nl",
+   "role": "Internship – Hr Talent & Learning - International Talent Programme",
+   "location": "Cedar)"
+  },
+  "acbf87a0b577e6b5f40d27db2ad1a018": {
+   "id": "acbf87a0b577e6b5f40d27db2ad1a018",
+   "company": "ING Wholesale Banking",
+   "role": "Internship – Capital Analyst",
+   "location": "Cedar)"
+  },
+  "ce424782b53f506f5256b1d3d11ae346": {
+   "id": "ce424782b53f506f5256b1d3d11ae346",
+   "company": "Sanrafaelvet",
+   "role": "Digital Innovative Solutions Intern",
+   "location": "Amsterdam"
+  },
+  "dacdfcc5d0a2705cf70b47726a2efac9": {
+   "id": "dacdfcc5d0a2705cf70b47726a2efac9",
+   "company": "Bilfinger SE",
+   "role": "Mbo Stage Tandwielkasten En Aandrijftechniek",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "dd660ca11eaea8f3a52f874541c18f7b": {
+   "id": "dd660ca11eaea8f3a52f874541c18f7b",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: Campus Recruitment",
+   "location": "S Hertogenbosch"
+  },
+  "114d4d1b91e94c32e18af7178cb384d2": {
+   "id": "114d4d1b91e94c32e18af7178cb384d2",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: Health Interventions In The Workplace",
+   "location": "S Hertogenbosch"
+  },
   "1e3cac661aea57941ee8e8291b2ae470": {
    "id": "1e3cac661aea57941ee8e8291b2ae470",
    "company": "flatexDEGIRO AG",
@@ -128,15 +164,51 @@
    "role": "Intern For The Eventbus Team",
    "location": "Haarlemerpark"
   },
+  "aab81db81084b816acab67aeaba94195": {
+   "id": "aab81db81084b816acab67aeaba94195",
+   "company": "39med",
+   "role": "Stagiair - Mbo Microbiologie/biochemie/procestechnologie - Tissue Culture Boxmeer",
+   "location": "Venlo"
+  },
+  "9c8c8513cb7e1f6c7f3ec3db038a1b10": {
+   "id": "9c8c8513cb7e1f6c7f3ec3db038a1b10",
+   "company": "RELX (LexisNexis)",
+   "role": "Researcher Academy Intern",
+   "location": "Amsterdam"
+  },
+  "fd1f5b8b1890e2f7a89677f4bf7042f2": {
+   "id": "fd1f5b8b1890e2f7a89677f4bf7042f2",
+   "company": "Parfumerie Douglas Nederland",
+   "role": "Stagiair(e) Social Commercestagedouglas Hoofdkantoor - Nijmegen",
+   "location": "Arnhem"
+  },
+  "87305068b48473f4b7b82b200044d24a": {
+   "id": "87305068b48473f4b7b82b200044d24a",
+   "company": "Irdeto",
+   "role": "Legal Admin - Intern",
+   "location": "Amsterdam"
+  },
   "636232fa2ef3ce342e1391b6f95380e6": {
    "id": "636232fa2ef3ce342e1391b6f95380e6",
    "company": "ING",
    "role": "Intern Asset Securitisation",
    "location": "Amsterdam"
   },
+  "e95753475cf826473d7ee60b55b5c0f7": {
+   "id": "e95753475cf826473d7ee60b55b5c0f7",
+   "company": "282",
+   "role": "Intern Asset Securitisation",
+   "location": "Amsterdam"
+  },
   "8dd9f5d1aeb5f9c62aaacea01d2337ea": {
    "id": "8dd9f5d1aeb5f9c62aaacea01d2337ea",
    "company": "bankcarriere.nl",
+   "role": "Internship - Supervisory Affairs & Public And Regulatory Affairs",
+   "location": "Cedar)"
+  },
+  "fb0a97e11cb8d62c485d37d066070394": {
+   "id": "fb0a97e11cb8d62c485d37d066070394",
+   "company": "282",
    "role": "Internship - Supervisory Affairs & Public And Regulatory Affairs",
    "location": "Cedar)"
   },
@@ -289,12 +361,6 @@
    "company": "Philips",
    "role": "Internship: Group Accounting & Reporting (non-thesis)",
    "location": "Amsterdam"
-  },
-  "d90e5397e41ccdc0d3afc53156cf1d28": {
-   "id": "d90e5397e41ccdc0d3afc53156cf1d28",
-   "company": "Bilfinger SE",
-   "role": "Mbo Stage Tandwielkasten En Aandrijftechniek",
-   "location": "Alphen Aan Den Rijn"
   },
   "2125b10c15bb2f160bc5a7ddf81557c8": {
    "id": "2125b10c15bb2f160bc5a7ddf81557c8",
@@ -517,72 +583,6 @@
    "company": "Corbion Group Netherlands B.V",
    "role": "Intern Polymer Technology",
    "location": "S Hertogenbosch"
-  },
-  "3a46e37f2b46509e73365976d2bc4454": {
-   "id": "3a46e37f2b46509e73365976d2bc4454",
-   "company": "ING Group",
-   "role": "Internship - Global Finance Retail Banking ( Private Banking & Wealth Management)",
-   "location": "Cedar"
-  },
-  "793b66e0da8aa9b09e7b0ed30b4a38f2": {
-   "id": "793b66e0da8aa9b09e7b0ed30b4a38f2",
-   "company": "ING Group",
-   "role": "Intern Ux / Design & Communication",
-   "location": "Haarlerbergpark"
-  },
-  "412d6d8e1f45cf8c8e952acc94fefe4e": {
-   "id": "412d6d8e1f45cf8c8e952acc94fefe4e",
-   "company": "Valmont Industries, Inc",
-   "role": "Internship - Global Finance Retail Banking ( Private Banking & Wealth Management)",
-   "location": "Cedar"
-  },
-  "33186b6bc26b782102d2302be487c74e": {
-   "id": "33186b6bc26b782102d2302be487c74e",
-   "company": "Valmont Industries, Inc",
-   "role": "Intern Ux / Design & Communication",
-   "location": "Haarlerbergpark"
-  },
-  "e7817f43c7efea437f9b1544cbfdc3c2": {
-   "id": "e7817f43c7efea437f9b1544cbfdc3c2",
-   "company": "bankcarriere.nl",
-   "role": "Intern Ux / Design & Communication",
-   "location": "Haarlerbergpark"
-  },
-  "151e0b3fa7124869d630d314193e7d79": {
-   "id": "151e0b3fa7124869d630d314193e7d79",
-   "company": "bankcarriere.nl",
-   "role": "Internship - Global Finance Retail Banking ( Private Banking & Wealth Management)",
-   "location": "Cedar"
-  },
-  "d5e71e85034d434b98de1cdbca3800ec": {
-   "id": "d5e71e85034d434b98de1cdbca3800ec",
-   "company": "ABB UK",
-   "role": "Product Magement Intern Nl",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "e461cad30926f313022b7bae15625d2f": {
-   "id": "e461cad30926f313022b7bae15625d2f",
-   "company": "ABB Ltd",
-   "role": "Product Magement Intern Nl",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1780dfa92b17a705bc2917a963b84b08": {
-   "id": "1780dfa92b17a705bc2917a963b84b08",
-   "company": "Action",
-   "role": "Recruitment Intern - Internship",
-   "location": "North Holland"
-  },
-  "5d7819b96a1c7ad439b89b714abb6586": {
-   "id": "5d7819b96a1c7ad439b89b714abb6586",
-   "company": "Action",
-   "role": "Stagiaire Sourcing",
-   "location": "Nl"
-  },
-  "9bf9682ad21aa8e58feee972981662f2": {
-   "id": "9bf9682ad21aa8e58feee972981662f2",
-   "company": "Philips",
-   "role": "Internship: Esg/csrd Reporting (hr, Non-thesis)",
-   "location": "Amsterdam"
   },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
@@ -1022,6 +1022,66 @@
    "role": "Bmg Business Analyst Payments",
    "location": "Amsterdam"
   },
+  "0d713f3dcbc74711f70fced743019bba": {
+   "id": "0d713f3dcbc74711f70fced743019bba",
+   "company": "Bilfinger SE",
+   "role": "Werkvoorbereider Elektrotechniek",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "545fabf87befdb4a445b092d5f4d6a57": {
+   "id": "545fabf87befdb4a445b092d5f4d6a57",
+   "company": "Istimewa Elektro BV",
+   "role": "Servicetechnicus (technicus E&i A)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "31d7ea15cde2b85df15e52a0d07876aa": {
+   "id": "31d7ea15cde2b85df15e52a0d07876aa",
+   "company": "JLL",
+   "role": "Facility Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "9305312c58f339e7bd41e31527998818": {
+   "id": "9305312c58f339e7bd41e31527998818",
+   "company": "workday.gea",
+   "role": "Field Service Monteur",
+   "location": "Tynaarlo"
+  },
+  "c8e4db9ee764d7164bf4246d617a2938": {
+   "id": "c8e4db9ee764d7164bf4246d617a2938",
+   "company": "Schindler Group",
+   "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "d3af288591199e4d6b47348b4581a681": {
+   "id": "d3af288591199e4d6b47348b4581a681",
+   "company": "Schindler Group",
+   "role": "Reparatie Monteur Zuid",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "a341ea7b8e2fdc4e68e74838ba7648c7": {
+   "id": "a341ea7b8e2fdc4e68e74838ba7648c7",
+   "company": "Schindler Group",
+   "role": "Service Technician Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "1f8218c29cccc96d7c4dfc3e8b57b5b6": {
+   "id": "1f8218c29cccc96d7c4dfc3e8b57b5b6",
+   "company": "Schindler Group",
+   "role": "Service Technician Utrecht",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "e1e763a5fa3e969e47c700978e464d1e": {
+   "id": "e1e763a5fa3e969e47c700978e464d1e",
+   "company": "Schindler Group",
+   "role": "Service Technician Roltrappen",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "6a4c9cb7bd9d896c6c6c773492a32207": {
+   "id": "6a4c9cb7bd9d896c6c6c773492a32207",
+   "company": "Schindler Group",
+   "role": "Service Technician Regio Leiden",
+   "location": "Alphen Aan Den Rijn"
+  },
   "3ad3b8c2741e55c23ac99a409e428744": {
    "id": "3ad3b8c2741e55c23ac99a409e428744",
    "company": "AkzoNobel N.V.",
@@ -1087,12 +1147,6 @@
    "company": "Outokumpu Oyj",
    "role": "Mechanical Technician",
    "location": "Westdorpe"
-  },
-  "eee4de4ed0dd499598b8b1f5df2b5312": {
-   "id": "eee4de4ed0dd499598b8b1f5df2b5312",
-   "company": "Bilfinger SE",
-   "role": "Werkvoorbereider Elektrotechniek",
-   "location": "Alphen Aan Den Rijn"
   },
   "42d0ec42ab17a6dd8283ea88f6c10896": {
    "id": "42d0ec42ab17a6dd8283ea88f6c10896",
@@ -1214,47 +1268,11 @@
    "role": "Monteur Facility & Technische Dienst",
    "location": "Venlo"
   },
-  "d3af288591199e4d6b47348b4581a681": {
-   "id": "d3af288591199e4d6b47348b4581a681",
-   "company": "Schindler Group",
-   "role": "Reparatie Monteur Zuid",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "a341ea7b8e2fdc4e68e74838ba7648c7": {
-   "id": "a341ea7b8e2fdc4e68e74838ba7648c7",
-   "company": "Schindler Group",
-   "role": "Service Technician Rotterdam",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1f8218c29cccc96d7c4dfc3e8b57b5b6": {
-   "id": "1f8218c29cccc96d7c4dfc3e8b57b5b6",
-   "company": "Schindler Group",
-   "role": "Service Technician Utrecht",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "e1e763a5fa3e969e47c700978e464d1e": {
-   "id": "e1e763a5fa3e969e47c700978e464d1e",
-   "company": "Schindler Group",
-   "role": "Service Technician Roltrappen",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "6a4c9cb7bd9d896c6c6c773492a32207": {
-   "id": "6a4c9cb7bd9d896c6c6c773492a32207",
-   "company": "Schindler Group",
-   "role": "Service Technician Regio Leiden",
-   "location": "Alphen Aan Den Rijn"
-  },
   "e842f3247e125586761d5a322e400e18": {
    "id": "e842f3247e125586761d5a322e400e18",
    "company": "Schindler Group",
    "role": "Servicemonteur Roltrappen - Regio Amsterdam",
    "location": "Amsterdam"
-  },
-  "c8e4db9ee764d7164bf4246d617a2938": {
-   "id": "c8e4db9ee764d7164bf4246d617a2938",
-   "company": "Schindler Group",
-   "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
-   "location": "Alphen Aan Den Rijn"
   },
   "5ecccc1569ac0e2c6c334c21700f1bd8": {
    "id": "5ecccc1569ac0e2c6c334c21700f1bd8",
@@ -1478,23 +1496,23 @@
    "role": "Troubleshooter",
    "location": "Moerdijk +1"
   },
-  "4912b133b5ffeebeed944427e4a59cb0": {
-   "id": "4912b133b5ffeebeed944427e4a59cb0",
-   "company": "247",
-   "role": "Service Technicus",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "eaf2fb97fdff05a5ff8e0affdf428ee6": {
-   "id": "eaf2fb97fdff05a5ff8e0affdf428ee6",
-   "company": "Henry Schein",
-   "role": "Service Technicus",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "6187c97d1ad33950e1e715a168da4772": {
-   "id": "6187c97d1ad33950e1e715a168da4772",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Reparatie & Servicemedewerker Elektronica Amsterdam Centrum",
+  "936261ce2d29cd85fcc424018a3c60f9": {
+   "id": "936261ce2d29cd85fcc424018a3c60f9",
+   "company": "Nestle Ltd",
+   "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
    "location": "Amsterdam"
+  },
+  "daff421aa410732340fb69841fee9193": {
+   "id": "daff421aa410732340fb69841fee9193",
+   "company": "Nestle Ltd",
+   "role": "Verkoopmedewerker Nespresso Amsterdam",
+   "location": "Amsterdam"
+  },
+  "7d3b74f16baf57ef3428bae73d42cd2f": {
+   "id": "7d3b74f16baf57ef3428bae73d42cd2f",
+   "company": "Mango",
+   "role": "Sales Assistant (16 Hours - Den Haag)",
+   "location": "Alphen Aan Den Rijn"
   },
   "7ff2bdcca57df6a6059b0d695433e1f3": {
    "id": "7ff2bdcca57df6a6059b0d695433e1f3",
@@ -1506,18 +1524,6 @@
    "id": "67ee8d47e20eab68256346ecb6f015e5",
    "company": "Tommy Hilfiger & Calvin Klein - De Bijenkorf",
    "role": "Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)",
-   "location": "Amsterdam"
-  },
-  "0f17ecfbfcf70428aa667a145f205a8a": {
-   "id": "0f17ecfbfcf70428aa667a145f205a8a",
-   "company": "Nestle Ltd",
-   "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
-   "location": "Amsterdam"
-  },
-  "4f9cc7eb029acdbdf7c3b8e5875222fb": {
-   "id": "4f9cc7eb029acdbdf7c3b8e5875222fb",
-   "company": "Nestle Ltd",
-   "role": "Verkoopmedewerker Nespresso Amsterdam",
    "location": "Amsterdam"
   },
   "20c6e60122cf21e3d0edadc8d6606010": {
@@ -1789,12 +1795,6 @@
    "company": "H & M Hennes & Mauritz AB",
    "role": "Verkoopmedewerker - Amsterdam Buikslotermeerplein (21 Uur)",
    "location": "Amsterdam"
-  },
-  "7d3b74f16baf57ef3428bae73d42cd2f": {
-   "id": "7d3b74f16baf57ef3428bae73d42cd2f",
-   "company": "Mango",
-   "role": "Sales Assistant (16 Hours - Den Haag)",
-   "location": "Alphen Aan Den Rijn"
   },
   "246910a3a19e23590321ab672553902a": {
    "id": "246910a3a19e23590321ab672553902a",
@@ -2262,18 +2262,6 @@
    "id": "0158e1406f5d4ba80ab773242a307f1a",
    "company": "KONE ELEVATORS PTY",
    "role": "Commercieel Administratief Medewerker",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "b6c0c003b516f60513145be86512fa30": {
-   "id": "b6c0c003b516f60513145be86512fa30",
-   "company": "Hempel",
-   "role": "Dutch And English-speaking Office Assistant (part Time)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "533140f3cf37adb4dc71dd756a5d08b6": {
-   "id": "533140f3cf37adb4dc71dd756a5d08b6",
-   "company": "Mango",
-   "role": "Sales Assistant - Rotterdam Alexandrium",
    "location": "Alphen Aan Den Rijn"
   }
  }
