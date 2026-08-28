@@ -787,4 +787,32 @@
 <tr><td>Nestle Ltd</td><td>Verkoopmedewerker Nespresso Amsterdam</td><td>Amsterdam</td><td>2026-08-27</td></tr>
 <tr><td>Hempel</td><td>Dutch And English-speaking Office Assistant (part Time)</td><td>Alphen Aan Den Rijn</td><td>2026-08-27</td></tr>
 <tr><td>Mango</td><td>Sales Assistant - Rotterdam Alexandrium</td><td>Alphen Aan Den Rijn</td><td>2026-08-27</td></tr>
+<tr><td>Ses Group</td><td>Intern Corporate Marketing</td><td>Alphen Aan Den Rijn</td><td>2026-08-28</td></tr>
+<tr><td>Ses Group</td><td>Intern, Spectrum Management And Strategy</td><td>Alphen Aan Den Rijn</td><td>2026-08-28</td></tr>
+<tr><td>Coty Inc.</td><td>Corporate Communications And Ai Activations Intern</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>Coty Inc.</td><td>People Analytics & Total Rewards Intern</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>Coty Inc.</td><td>Intern - Global Category Packaging</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>Coty Inc.</td><td>Merchandising Intern</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>Coty Inc.</td><td>Intern Merchandising</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>Coty Inc.</td><td>Procurement Intern - Raw Materials & Tpm</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>Coty Inc.</td><td>Tpm Color Cosmetics Procurement Intern</td><td>Amsterdam-Zuid</td><td>2026-08-28</td></tr>
+<tr><td>GXO Logistics</td><td>Internship - Bbl Leerling Logistiek Medewerker (niveau 2 Of 3)</td><td>Eindhoven</td><td>2026-08-28</td></tr>
+<tr><td>GXO Logistics</td><td>Internship - Employee Journey & Workforce Management</td><td>Eindhoven</td><td>2026-08-28</td></tr>
+<tr><td>GXO Logistics</td><td>Internship - Ai Enablement For Solutions Design</td><td>Eindhoven</td><td>2026-08-28</td></tr>
+<tr><td>Stichting Doen</td><td>Impact Investment Stagiairfulltimebeethovenstraat 200, Amsterdam</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>Corbion Group Netherlands B.V</td><td>Intern Polymer Technology</td><td>S Hertogenbosch</td><td>2026-08-28</td></tr>
+<tr><td>Dentsu</td><td>Data Scientist</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>Armaokchapter</td><td>Data Analyst (credit Risk)</td><td>Netherlands</td><td>2026-08-28</td></tr>
+<tr><td>KRAFT HEINZ</td><td>Global Finance Analyst Capex Intern</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-08-28</td></tr>
+<tr><td>Ardagh Group</td><td>E&i Maintenance Engineer</td><td>Moerdijk</td><td>2026-08-28</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Troubleshooter</td><td>Moerdijk +1</td><td>2026-08-28</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorfulltime / Parttimeamsterdam Kalverstraat</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorfulltime / Parttimeamsterdam Ferdinand Bolstraat</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Parttime Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>Pawllywood</td><td>Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Amsterdam(dutch Speaking)</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkoopmedewerker - Amstelveen (21/26 Uur)</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Logistiek Administratief Medewerker</td><td>Moerdijk</td><td>2026-08-28</td></tr>
+<tr><td>Sedgwick</td><td>Administratief Medewerker</td><td>Amsterdam</td><td>2026-08-28</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Commercieel Administratief Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-08-28</td></tr>
 </table>
