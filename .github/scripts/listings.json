@@ -12,8 +12,8 @@
   "as_of": "2026-08-28",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 2729,
-  "generated_at": "2026-08-28T02:03:08.481Z"
+  "country_live_total": 2730,
+  "generated_at": "2026-08-28T02:59:52.013Z"
  },
  "categories": [
   {
@@ -156,6 +156,23 @@
    "date_posted": "2026-08-27T11:55:46.965Z",
    "active": true,
    "url": "https://workopia.io/jobs/df1fc0eb42e9a2e0ced13f79f160cf35",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "3b29465a111d37edf016eef012abd048",
+   "source": "Workopia",
+   "company_name": "Usmedia",
+   "company_hi_slug": null,
+   "title": "Afstudeeropdrachtstageamsterdam",
+   "location": "Amsterdam",
+   "skills": "Agentic AI Development, CreditsApp as living l",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-27T06:43:45.802Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/3b29465a111d37edf016eef012abd048",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1419,23 +1436,6 @@
   },
   {
    "salary_display": null,
-   "id": "9b8e419e5c2fa7fb06da59492417c0aa",
-   "source": "Workopia",
-   "company_name": "Signify",
-   "company_hi_slug": "signify",
-   "title": "Internship Tu/e Company Tour",
-   "location": "Eindhoven",
-   "skills": "Bachelor or Master deg, Excellent listening an",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-20T05:56:25.636Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/9b8e419e5c2fa7fb06da59492417c0aa",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "source": "Workopia",
    "company_name": "Drweng",
@@ -2317,6 +2317,23 @@
    "url": "https://workopia.io/jobs/61a125be370951d7f4b775543ccc2304",
    "category": "finance",
    "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "cd8c11d01fa6dd9a4ae1b4b1582c31a8",
+   "source": "Workopia",
+   "company_name": "Statkraft",
+   "company_hi_slug": "statkraft",
+   "title": "Murex Subject Matter Expert (m/f/d)",
+   "location": "Amsterdam",
+   "skills": "Murex system functiona, Murex operational proc",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-26T12:04:17.208Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/cd8c11d01fa6dd9a4ae1b4b1582c31a8",
+   "category": "finance",
+   "tier": "Entry-level"
   },
   {
    "salary_display": null,

@@ -1,6 +1,6 @@
 {
  "asOf": "2026-08-28",
- "count": 376,
+ "count": 377,
  "jobs": {
   "2568638": {
    "id": "2568638",
@@ -139,6 +139,12 @@
    "company": "createyourowncareer",
    "role": "Hse Internship",
    "location": "Arnhem"
+  },
+  "3b29465a111d37edf016eef012abd048": {
+   "id": "3b29465a111d37edf016eef012abd048",
+   "company": "Usmedia",
+   "role": "Afstudeeropdrachtstageamsterdam",
+   "location": "Amsterdam"
   },
   "d5fbeb3d36aa35592149546a3c50e424": {
    "id": "d5fbeb3d36aa35592149546a3c50e424",
@@ -584,12 +590,6 @@
    "role": "Kom Stage Lopen Bij Abbott Olst Vanaf Februari 2027",
    "location": "Olst"
   },
-  "9b8e419e5c2fa7fb06da59492417c0aa": {
-   "id": "9b8e419e5c2fa7fb06da59492417c0aa",
-   "company": "Signify",
-   "role": "Internship Tu/e Company Tour",
-   "location": "Eindhoven"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -870,6 +870,12 @@
    "id": "61a125be370951d7f4b775543ccc2304",
    "company": "Philips",
    "role": "Ai Deployment And Business Analyst Internship – Climate Action (non-thesis)",
+   "location": "Amsterdam"
+  },
+  "cd8c11d01fa6dd9a4ae1b4b1582c31a8": {
+   "id": "cd8c11d01fa6dd9a4ae1b4b1582c31a8",
+   "company": "Statkraft",
+   "role": "Murex Subject Matter Expert (m/f/d)",
    "location": "Amsterdam"
   },
   "68a9efaa55c652ea32e4eb1cd15d6990": {
