@@ -815,4 +815,7 @@
 <tr><td>DSV Panalpina AS</td><td>Logistiek Administratief Medewerker</td><td>Moerdijk</td><td>2026-08-28</td></tr>
 <tr><td>Sedgwick</td><td>Administratief Medewerker</td><td>Amsterdam</td><td>2026-08-28</td></tr>
 <tr><td>KONE ELEVATORS PTY</td><td>Commercieel Administratief Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-08-28</td></tr>
+<tr><td>De Piergroep</td><td>Stagiaire Afdeling Communicatie</td><td>Alphen Aan Den Rijn</td><td>2026-08-28</td></tr>
+<tr><td>Dyson</td><td>Intern</td><td>Amsterdam Office</td><td>2026-08-28</td></tr>
+<tr><td>Philips</td><td>Sustainability Internship: Sustainability Analyst (non-thesis)</td><td>Amsterdam</td><td>2026-08-28</td></tr>
 </table>
