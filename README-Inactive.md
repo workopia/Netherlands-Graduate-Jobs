@@ -819,4 +819,36 @@
 <tr><td>Dyson</td><td>Intern</td><td>Amsterdam Office</td><td>2026-08-28</td></tr>
 <tr><td>Philips</td><td>Sustainability Internship: Sustainability Analyst (non-thesis)</td><td>Amsterdam</td><td>2026-08-28</td></tr>
 <tr><td>Signify</td><td>Internship Tu/e Company Tour</td><td>Eindhoven</td><td>2026-08-28</td></tr>
+<tr><td>Royal Philips</td><td>Internship: Finance & Accounting - Group Consolidation & Reporting (gc&r)</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Philjobs</td><td>Internship: Sales And Business Development</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Philips</td><td>Internship: Sales And Business Development</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Careers Philips</td><td>Internship: Finance & Accounting - Group Consolidation & Reporting (gc&r)</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Philips</td><td>Internship: Group Accounting & Reporting (non-thesis)</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Fugroacademy</td><td>Data & Analytics Internship</td><td>Alphen Aan Den Rijn</td><td>2026-08-29</td></tr>
+<tr><td>fugroacademy.co.uk</td><td>Data & Analytics Internship</td><td>Alphen Aan Den Rijn</td><td>2026-08-29</td></tr>
+<tr><td>Fugro</td><td>Data & Analytics Internship</td><td>Alphen Aan Den Rijn</td><td>2026-08-29</td></tr>
+<tr><td>itjobber.de</td><td>Internship – Regulatory Horizon Scanning</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Under Armour</td><td>Intern, Benelux Commercial - Rookie Program 2026</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Procurement Finance</td><td>Alphen Aan Den Rijn</td><td>2026-08-29</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Procurement Finance</td><td>Alphen Aan Den Rijn</td><td>2026-08-29</td></tr>
+<tr><td>Orthopedicjobs</td><td>Brand Marketing Intern</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Stryker</td><td>Brand Marketing Intern</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship - Artificial Intelligence Agent Developer</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>bankcarriere.nl</td><td>Finance Control Intern</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Internship - Artificial Intelligence Agent Developer</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Internship - Artificial Intelligence Agent Developer</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>itinfinance.nl</td><td>Internships - Software Engineering</td><td>Haarlerbergpark</td><td>2026-08-29</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship Change Execution Financial Markets / Group Treasury</td><td>Cedar</td><td>2026-08-29</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Internships - Software Engineering</td><td>Haarlemmermeer</td><td>2026-08-29</td></tr>
+<tr><td>ING Group</td><td>Internship Change Execution Financial Markets / Group Treasury</td><td>Cedar)</td><td>2026-08-29</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Internships - Software Engineering</td><td>Haarlemerpark</td><td>2026-08-29</td></tr>
+<tr><td>Abbott</td><td>Kom Stage Lopen Bij Abbott Olst Vanaf Februari 2027</td><td>Olst</td><td>2026-08-29</td></tr>
+<tr><td>jobs.abbott</td><td>Kom Stage Lopen Bij Abbott Olst Vanaf Februari 2027</td><td>Olst</td><td>2026-08-29</td></tr>
+<tr><td>Levis Media</td><td>Stylist Sale Person</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorfulltime / Parttimeden Haag Frederik Hendriklaan</td><td>Alphen Aan Den Rijn</td><td>2026-08-29</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Expertparttimeamsterdam Kalverstraat</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 26h</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Werken bij Loods 5</td><td>Winkelmedewerker (oproep) – Loods 5 Zaandamparttimezaandam</td><td>Amsterdam</td><td>2026-08-29</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisor Met Specialisatie In Visagiefulltime / Parttimeden Haag Frederik Hendriklaan</td><td>Alphen Aan Den Rijn</td><td>2026-08-29</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Commercial Assistant</td><td>Utrecht</td><td>2026-08-29</td></tr>
 </table>
