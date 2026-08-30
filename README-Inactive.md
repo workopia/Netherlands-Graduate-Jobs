@@ -851,4 +851,23 @@
 <tr><td>Werken bij Loods 5</td><td>Winkelmedewerker (oproep) – Loods 5 Zaandamparttimezaandam</td><td>Amsterdam</td><td>2026-08-29</td></tr>
 <tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisor Met Specialisatie In Visagiefulltime / Parttimeden Haag Frederik Hendriklaan</td><td>Alphen Aan Den Rijn</td><td>2026-08-29</td></tr>
 <tr><td>Cushman & Wakefield</td><td>Commercial Assistant</td><td>Utrecht</td><td>2026-08-29</td></tr>
+<tr><td>collab-group.nl</td><td>Hoofd Servicemonteur</td><td>Utrecht</td><td>2026-08-30</td></tr>
+<tr><td>Bilfinger SE</td><td>Mbo Stage Tandwielkasten En Aandrijftechniek</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
+<tr><td>CMA CGM Group</td><td>*internship* Customer Service</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
+<tr><td>Volvo Group Truck Center</td><td>Stagiair Continuous Improvement</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
+<tr><td>Coty Inc.</td><td>Europe Performance & Analytics Intern</td><td>Amsterdam</td><td>2026-08-30</td></tr>
+<tr><td>Canon Production Printing Netherlands B.V</td><td>Bsc/msc: Internship Applied Physics/mechatronics - Build The Foundation For Printing Systems</td><td>Venlo</td><td>2026-08-30</td></tr>
+<tr><td>VistaCreate</td><td>Global Capex Procurement Intern - Venlo, Nl</td><td>Venlo</td><td>2026-08-30</td></tr>
+<tr><td>VistaCreate</td><td>Raw Materials Procurement Intern - Venlo, Nl</td><td>Venlo</td><td>2026-08-30</td></tr>
+<tr><td>SBM Offshore</td><td>Internship Program - Engineering</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
+<tr><td>HAVI</td><td>Hr Stagiair</td><td>Amersfoort</td><td>2026-08-30</td></tr>
+<tr><td>Irdeto</td><td>Marketing Intern</td><td>Amsterdam</td><td>2026-08-30</td></tr>
+<tr><td>Philjobs</td><td>Internship: Group Accounting & Reporting (non-thesis)</td><td>Amsterdam</td><td>2026-08-30</td></tr>
+<tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
+<tr><td>airproducts.fr</td><td>Maintenance Engineer Instrumentation</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
+<tr><td>Cabot Corporation</td><td>E/i Craftsperson Maintenance</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
+<tr><td>ABB UK</td><td>Service Engineer Marine & Ports Drives</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
+<tr><td>ABB Ltd</td><td>Service Engineer Marine & Ports Drives</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
+<tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkoopmedewerker - Amsterdam Maison De Bonneterie (31 Uur)</td><td>Amsterdam</td><td>2026-08-30</td></tr>
 </table>
