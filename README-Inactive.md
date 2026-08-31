@@ -870,4 +870,12 @@
 <tr><td>ABB Ltd</td><td>Service Engineer Marine & Ports Drives</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
 <tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Alphen Aan Den Rijn</td><td>2026-08-30</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Verkoopmedewerker - Amsterdam Maison De Bonneterie (31 Uur)</td><td>Amsterdam</td><td>2026-08-30</td></tr>
+<tr><td>Coty</td><td>Europe Performance & Analytics Intern</td><td>Amsterdam</td><td>2026-08-31</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>R&d Internship</td><td>Alphen Aan Den Rijn</td><td>2026-08-31</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Color Intern</td><td>Alphen Aan Den Rijn</td><td>2026-08-31</td></tr>
+<tr><td>Jobgether</td><td>Reporting Analyst</td><td>Netherlands</td><td>2026-08-31</td></tr>
+<tr><td>jobs.abbott</td><td>Qc Analyst A</td><td>Amsterdam</td><td>2026-08-31</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Bmg Business Analyst Payments</td><td>Amsterdam</td><td>2026-08-31</td></tr>
+<tr><td>airproducts.ca</td><td>Maintenance Engineer Instrumentation</td><td>Alphen Aan Den Rijn</td><td>2026-08-31</td></tr>
+<tr><td>airproducts.hu</td><td>Maintenance Engineer Instrumentation</td><td>Alphen Aan Den Rijn</td><td>2026-08-31</td></tr>
 </table>
