@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-31",
- "count": 379,
+ "asOf": "2026-09-01",
+ "count": 373,
  "jobs": {
   "41290": {
    "id": "41290",
@@ -140,6 +140,18 @@
    "role": "Influencer Marketing Intern",
    "location": "Amsterdam"
   },
+  "2442ccfa6ffd63ea0aba1faf42d025a7": {
+   "id": "2442ccfa6ffd63ea0aba1faf42d025a7",
+   "company": "282",
+   "role": "Internship – Non-financial Risk Ai Agent Developer",
+   "location": "Amsterdam"
+  },
+  "225be422612a65228185006d62e9e5d2": {
+   "id": "225be422612a65228185006d62e9e5d2",
+   "company": "Perfetti Van Melle ICT B.V",
+   "role": "Internship Digital Content Marketing - Amsterdam Location",
+   "location": "Amsterdam"
+  },
   "224495574654daacfefa87d6e2cc1859": {
    "id": "224495574654daacfefa87d6e2cc1859",
    "company": "CYBEX GmbH",
@@ -185,6 +197,12 @@
   "5c29f81742a29f7e5697be51792f69c3": {
    "id": "5c29f81742a29f7e5697be51792f69c3",
    "company": "Careers Philips",
+   "role": "Internship: Content And Engagement (bachelor, Non-thesis)",
+   "location": "Eindhoven"
+  },
+  "1f0415d7afbb4522d42acb3db3ee26ef": {
+   "id": "1f0415d7afbb4522d42acb3db3ee26ef",
+   "company": "Philips UK",
    "role": "Internship: Content And Engagement (bachelor, Non-thesis)",
    "location": "Eindhoven"
   },
@@ -572,24 +590,6 @@
    "role": "Merchandising Intern",
    "location": "Amsterdam"
   },
-  "42d615a88261fcc3c93d252bdc8db19d": {
-   "id": "42d615a88261fcc3c93d252bdc8db19d",
-   "company": "Coty",
-   "role": "Procurement Intern - Raw Materials & Tpm",
-   "location": "Amsterdam"
-  },
-  "10eeeae06e2c40269e69103d82a05f70": {
-   "id": "10eeeae06e2c40269e69103d82a05f70",
-   "company": "Coty",
-   "role": "People Analytics & Total Rewards Intern",
-   "location": "Amsterdam"
-  },
-  "13d173af54e2914b39b47eaf21889d4f": {
-   "id": "13d173af54e2914b39b47eaf21889d4f",
-   "company": "Coty",
-   "role": "Tpm Color Cosmetics Procurement Intern",
-   "location": "Amsterdam-Zuid"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -722,12 +722,6 @@
    "role": "Oliver Wyman - Internship, Analyst - Data & Analytics - Amsterdam",
    "location": "Amsterdam"
   },
-  "2310d11e49e097151514613193b9166f": {
-   "id": "2310d11e49e097151514613193b9166f",
-   "company": "ING Bank",
-   "role": "Intern - Data Scientist - Genai Chatbot",
-   "location": "Amsterdam"
-  },
   "8a6228fd6b5bda34eb30febdce3989b7": {
    "id": "8a6228fd6b5bda34eb30febdce3989b7",
    "company": "Accenture Australia",
@@ -847,12 +841,6 @@
    "company": "Jobgether",
    "role": "Edd Analyst",
    "location": "Netherlands"
-  },
-  "7117f317c62658946aae5431012ded74": {
-   "id": "7117f317c62658946aae5431012ded74",
-   "company": "Cell",
-   "role": "Data Scientist Ii",
-   "location": "Amsterdam"
   },
   "49ffce9540e4f2494ccb1fc9935b8245": {
    "id": "49ffce9540e4f2494ccb1fc9935b8245",
@@ -1051,6 +1039,12 @@
    "company": "LNRS DATA SERVICES",
    "role": "Business & Data Analyst",
    "location": "Amsterdam"
+  },
+  "f4087b23484eb367aa03082e549393ed": {
+   "id": "f4087b23484eb367aa03082e549393ed",
+   "company": "Fortive Corporation",
+   "role": "Mechanical Tools/electrical Calibration Technician",
+   "location": "Netherlands"
   },
   "76b95fd6113c0ec87f15f4c2fb20ccc8": {
    "id": "76b95fd6113c0ec87f15f4c2fb20ccc8",
@@ -1520,11 +1514,11 @@
    "role": "Field Service Engineer",
    "location": "De Rijp"
   },
-  "77e3db78b1fea0bfc5350ffe14b289a3": {
-   "id": "77e3db78b1fea0bfc5350ffe14b289a3",
-   "company": "GEA",
-   "role": "Field Service Engineer",
-   "location": "De Rijp"
+  "6e60e1b93122f4b9a684d7d0602ef336": {
+   "id": "6e60e1b93122f4b9a684d7d0602ef336",
+   "company": "Breitling SA",
+   "role": "Sales Associate Boutique Amsterdam (f/m/x) - Part-time (60%)",
+   "location": "Amsterdam"
   },
   "526c98eea23f3db6efc8a0f5a7b0111a": {
    "id": "526c98eea23f3db6efc8a0f5a7b0111a",
@@ -1988,12 +1982,6 @@
    "role": "Business Development Associate",
    "location": "Amsterdam"
   },
-  "64c566dad44be246f606a7cf08d5f2da": {
-   "id": "64c566dad44be246f606a7cf08d5f2da",
-   "company": "Circle K",
-   "role": "Bakery Verkoopmedewerker Tankstation (24-32 Uur P/w)",
-   "location": "Alphen Aan Den Rijn"
-  },
   "8fad68b49b65759e76d5b79ab43997b7": {
    "id": "8fad68b49b65759e76d5b79ab43997b7",
    "company": "GXO Logistics",
@@ -2251,30 +2239,6 @@
    "company": "GE HealthCare",
    "role": "Clinical Education Specialist",
    "location": "Nordics"
-  },
-  "91e6f8203992fa6e583fcae7c37a7163": {
-   "id": "91e6f8203992fa6e583fcae7c37a7163",
-   "company": "Church of Jesus Christ",
-   "role": "Administrative Assistant I The Hague (netherlands) I Permanent (part-time, 14 Hours/week)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "19ebb53f7d7455e7313ae09c3e82c9e6": {
-   "id": "19ebb53f7d7455e7313ae09c3e82c9e6",
-   "company": "Linklaters",
-   "role": "Administrative Assistant",
-   "location": "Amsterdam"
-  },
-  "99936b9e6d0968f6871eebcbe9da9783": {
-   "id": "99936b9e6d0968f6871eebcbe9da9783",
-   "company": "724",
-   "role": "Service Coordinator",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "c2850ebbe33363d892d240a6c22e9d71": {
-   "id": "c2850ebbe33363d892d240a6c22e9d71",
-   "company": "Primark",
-   "role": "Parttime Retail Assistant (20 Uur)",
-   "location": "Venlo"
   }
  }
 }

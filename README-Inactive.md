@@ -878,4 +878,15 @@
 <tr><td>Valmont Industries, Inc</td><td>Bmg Business Analyst Payments</td><td>Amsterdam</td><td>2026-08-31</td></tr>
 <tr><td>airproducts.ca</td><td>Maintenance Engineer Instrumentation</td><td>Alphen Aan Den Rijn</td><td>2026-08-31</td></tr>
 <tr><td>airproducts.hu</td><td>Maintenance Engineer Instrumentation</td><td>Alphen Aan Den Rijn</td><td>2026-08-31</td></tr>
+<tr><td>Coty</td><td>Procurement Intern - Raw Materials & Tpm</td><td>Amsterdam</td><td>2026-09-01</td></tr>
+<tr><td>Coty</td><td>People Analytics & Total Rewards Intern</td><td>Amsterdam</td><td>2026-09-01</td></tr>
+<tr><td>Coty</td><td>Tpm Color Cosmetics Procurement Intern</td><td>Amsterdam-Zuid</td><td>2026-09-01</td></tr>
+<tr><td>ING Bank</td><td>Intern - Data Scientist - Genai Chatbot</td><td>Amsterdam</td><td>2026-09-01</td></tr>
+<tr><td>Cell</td><td>Data Scientist Ii</td><td>Amsterdam</td><td>2026-09-01</td></tr>
+<tr><td>GEA</td><td>Field Service Engineer</td><td>De Rijp</td><td>2026-09-01</td></tr>
+<tr><td>Circle K</td><td>Bakery Verkoopmedewerker Tankstation (24-32 Uur P/w)</td><td>Alphen Aan Den Rijn</td><td>2026-09-01</td></tr>
+<tr><td>Church of Jesus Christ</td><td>Administrative Assistant I The Hague (netherlands) I Permanent (part-time, 14 Hours/week)</td><td>Alphen Aan Den Rijn</td><td>2026-09-01</td></tr>
+<tr><td>Linklaters</td><td>Administrative Assistant</td><td>Amsterdam</td><td>2026-09-01</td></tr>
+<tr><td>724</td><td>Service Coordinator</td><td>Alphen Aan Den Rijn</td><td>2026-09-01</td></tr>
+<tr><td>Primark</td><td>Parttime Retail Assistant (20 Uur)</td><td>Venlo</td><td>2026-09-01</td></tr>
 </table>
