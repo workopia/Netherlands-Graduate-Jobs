@@ -889,4 +889,12 @@
 <tr><td>Linklaters</td><td>Administrative Assistant</td><td>Amsterdam</td><td>2026-09-01</td></tr>
 <tr><td>724</td><td>Service Coordinator</td><td>Alphen Aan Den Rijn</td><td>2026-09-01</td></tr>
 <tr><td>Primark</td><td>Parttime Retail Assistant (20 Uur)</td><td>Venlo</td><td>2026-09-01</td></tr>
+<tr><td>circet-benelux.eu</td><td>Administratief Medewerker</td><td>Veenendaal</td><td>2026-09-02</td></tr>
+<tr><td>Nexton - Building the smart</td><td>Project Data Analist</td><td>Nederland</td><td>2026-09-02</td></tr>
+<tr><td>Coty</td><td>Merchandising Intern</td><td>Amsterdam</td><td>2026-09-02</td></tr>
+<tr><td>Yara International ASA</td><td>Hoofdmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-02</td></tr>
+<tr><td>Outokumpu Oyj</td><td>Mechanical Technician</td><td>Westdorpe</td><td>2026-09-02</td></tr>
+<tr><td>Otis</td><td>Service Monteur Liften Zuid-holland</td><td>Utrecht</td><td>2026-09-02</td></tr>
+<tr><td>OTIS ELEVATOR COMPANY</td><td>Service Monteur Liften Zuid-holland</td><td>Utrecht</td><td>2026-09-02</td></tr>
+<tr><td>workday.gea</td><td>Field Service Engineer</td><td>De Rijp</td><td>2026-09-02</td></tr>
 </table>
