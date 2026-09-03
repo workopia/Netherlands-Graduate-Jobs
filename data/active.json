@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-02",
- "count": 372,
+ "asOf": "2026-09-03",
+ "count": 375,
  "jobs": {
   "41290": {
    "id": "41290",
@@ -128,9 +128,69 @@
    "role": "Influencer Marketing Intern",
    "location": "Amsterdam"
   },
+  "8fcab668b32153098c9587aeecf19662": {
+   "id": "8fcab668b32153098c9587aeecf19662",
+   "company": "ING",
+   "role": "Internship At The Transaction Services/trade Finance Services Team Of Financial Institutions",
+   "location": "Amsterdam"
+  },
+  "ec12f7f3cf1d6705bd0be3253e2879d6": {
+   "id": "ec12f7f3cf1d6705bd0be3253e2879d6",
+   "company": "ING",
+   "role": "Internship - Communications Intern",
+   "location": "Haarlemerpark"
+  },
+  "035d044b3382509f57513b65edb22f6a": {
+   "id": "035d044b3382509f57513b65edb22f6a",
+   "company": "ING",
+   "role": "Internship - Tech Marketing & Communication Intern For Corporate Technology",
+   "location": "Haarlemerbergpark"
+  },
+  "ac4cd938428171089c040c3f1144c359": {
+   "id": "ac4cd938428171089c040c3f1144c359",
+   "company": "ING",
+   "role": "Wo Meewerk Ing Real Estate Finance (ref) – Marketing En Change",
+   "location": "Acanthus"
+  },
+  "cff102f5470f92b2e30bbe24b7692fe6": {
+   "id": "cff102f5470f92b2e30bbe24b7692fe6",
+   "company": "Fremantle",
+   "role": "Communicatiestagefulltimeamsterdam",
+   "location": "Amsterdam"
+  },
+  "97ac21940257e92a0577620b08c42988": {
+   "id": "97ac21940257e92a0577620b08c42988",
+   "company": "GXO Logistics, Inc.",
+   "role": "Internship - Employee Journey & Workforce Management",
+   "location": "Eindhoven"
+  },
+  "4265d02874099e285cc4a942e86706a4": {
+   "id": "4265d02874099e285cc4a942e86706a4",
+   "company": "GXO Logistics, Inc.",
+   "role": "Internship - Ai Enablement For Solutions Design",
+   "location": "Eindhoven"
+  },
+  "a4da57a9c33720e49ceb2f1bb14b9880": {
+   "id": "a4da57a9c33720e49ceb2f1bb14b9880",
+   "company": "GXO Logistics, Inc.",
+   "role": "Internship - Bbl Leerling Logistiek Medewerker (niveau 2 Of 3)",
+   "location": "Eindhoven"
+  },
+  "27f06e0d7473d27e17e5f6e40353e984": {
+   "id": "27f06e0d7473d27e17e5f6e40353e984",
+   "company": "C.H. Robinson Worldwide",
+   "role": "Internship - Fresh Produce Supply Chain",
+   "location": "Alphen Aan Den Rijn"
+  },
   "2442ccfa6ffd63ea0aba1faf42d025a7": {
    "id": "2442ccfa6ffd63ea0aba1faf42d025a7",
    "company": "282",
+   "role": "Internship – Non-financial Risk Ai Agent Developer",
+   "location": "Amsterdam"
+  },
+  "af61c7e6261cc90d66063fd3cbcf0d33": {
+   "id": "af61c7e6261cc90d66063fd3cbcf0d33",
+   "company": "bankcarriere.nl",
    "role": "Internship – Non-financial Risk Ai Agent Developer",
    "location": "Amsterdam"
   },
@@ -518,66 +578,6 @@
    "role": "Researcher Academy Intern",
    "location": "Amsterdam"
   },
-  "fd1f5b8b1890e2f7a89677f4bf7042f2": {
-   "id": "fd1f5b8b1890e2f7a89677f4bf7042f2",
-   "company": "Parfumerie Douglas Nederland",
-   "role": "Stagiair(e) Social Commercestagedouglas Hoofdkantoor - Nijmegen",
-   "location": "Arnhem"
-  },
-  "87305068b48473f4b7b82b200044d24a": {
-   "id": "87305068b48473f4b7b82b200044d24a",
-   "company": "Irdeto",
-   "role": "Legal Admin - Intern",
-   "location": "Amsterdam"
-  },
-  "aba8ec47a148cbe7c1a3ae0a47403c2c": {
-   "id": "aba8ec47a148cbe7c1a3ae0a47403c2c",
-   "company": "Kao",
-   "role": "E-commerce Intern",
-   "location": "Amersfoort"
-  },
-  "636232fa2ef3ce342e1391b6f95380e6": {
-   "id": "636232fa2ef3ce342e1391b6f95380e6",
-   "company": "ING",
-   "role": "Intern Asset Securitisation",
-   "location": "Amsterdam"
-  },
-  "e95753475cf826473d7ee60b55b5c0f7": {
-   "id": "e95753475cf826473d7ee60b55b5c0f7",
-   "company": "282",
-   "role": "Intern Asset Securitisation",
-   "location": "Amsterdam"
-  },
-  "8dd9f5d1aeb5f9c62aaacea01d2337ea": {
-   "id": "8dd9f5d1aeb5f9c62aaacea01d2337ea",
-   "company": "bankcarriere.nl",
-   "role": "Internship - Supervisory Affairs & Public And Regulatory Affairs",
-   "location": "Cedar)"
-  },
-  "fb0a97e11cb8d62c485d37d066070394": {
-   "id": "fb0a97e11cb8d62c485d37d066070394",
-   "company": "282",
-   "role": "Internship - Supervisory Affairs & Public And Regulatory Affairs",
-   "location": "Cedar)"
-  },
-  "953174a46835b7f808abdfde05e35e4a": {
-   "id": "953174a46835b7f808abdfde05e35e4a",
-   "company": "Valmont Industries, Inc",
-   "role": "Internship - Supervisory Affairs & Public And Regulatory Affairs",
-   "location": "Cedar"
-  },
-  "73e7922e04c3b273ada52bedd479e3fd": {
-   "id": "73e7922e04c3b273ada52bedd479e3fd",
-   "company": "Valmont Industries, Inc",
-   "role": "Intern Asset Securitisation",
-   "location": "Maple"
-  },
-  "807f83a0148ca7408a2fe4909c61acbc": {
-   "id": "807f83a0148ca7408a2fe4909c61acbc",
-   "company": "Coty",
-   "role": "Intern Merchandising",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -594,6 +594,18 @@
    "id": "f7a8ce428d938fe30dd54faf8527182a",
    "company": "IMC Trading",
    "role": "Graduate Software Engineer (2027)",
+   "location": "Amsterdam"
+  },
+  "b937ad0778289385fb9a45ebafe88c90": {
+   "id": "b937ad0778289385fb9a45ebafe88c90",
+   "company": "Q42 B.V",
+   "role": "Allround Back-end Developerfulltimeamsterdam En/of Rotterdam",
+   "location": "Amsterdam"
+  },
+  "107efe5d30b4c9b37bbd6a23d2aed1f1": {
+   "id": "107efe5d30b4c9b37bbd6a23d2aed1f1",
+   "company": "Q42 B.V",
+   "role": "Ervaren Python / Django Developerfulltimeamsterdam En/of Rotterdam",
    "location": "Amsterdam"
   },
   "d30e0c17389854bc3b646fb459bba626": {
@@ -636,18 +648,6 @@
    "id": "1a0812d0a6715e54c31b0c9cbcd754d1",
    "company": "RELX (LexisNexis)",
    "role": "Software Engineer Iii",
-   "location": "Amsterdam"
-  },
-  "b937ad0778289385fb9a45ebafe88c90": {
-   "id": "b937ad0778289385fb9a45ebafe88c90",
-   "company": "Q42 B.V",
-   "role": "Allround Back-end Developerfulltimeamsterdam En/of Rotterdam",
-   "location": "Amsterdam"
-  },
-  "107efe5d30b4c9b37bbd6a23d2aed1f1": {
-   "id": "107efe5d30b4c9b37bbd6a23d2aed1f1",
-   "company": "Q42 B.V",
-   "role": "Ervaren Python / Django Developerfulltimeamsterdam En/of Rotterdam",
    "location": "Amsterdam"
   },
   "303f61db5c4a4be32d5b446009a5408a": {
@@ -770,6 +770,12 @@
    "role": "Masterdata Analyst",
    "location": "Amsterdam"
   },
+  "df5a9f8efa1159ed2f769758b5c5af12": {
+   "id": "df5a9f8efa1159ed2f769758b5c5af12",
+   "company": "Avanade",
+   "role": "Analyst, Data & Ai",
+   "location": "Amsterdam"
+  },
   "184910780351de7a3b1fce88127db675": {
    "id": "184910780351de7a3b1fce88127db675",
    "company": "220",
@@ -852,6 +858,18 @@
    "id": "61a125be370951d7f4b775543ccc2304",
    "company": "Philips",
    "role": "Ai Deployment And Business Analyst Internship – Climate Action (non-thesis)",
+   "location": "Amsterdam"
+  },
+  "ed31237b1ad8c7e36dcc88f9622fb1bc": {
+   "id": "ed31237b1ad8c7e36dcc88f9622fb1bc",
+   "company": "ING",
+   "role": "Customer Journey Expert – Business Insurance",
+   "location": "Acanthus"
+  },
+  "474095b4b4acb19812de138b0087994d": {
+   "id": "474095b4b4acb19812de138b0087994d",
+   "company": "itjobber.de",
+   "role": "Projects & Optimisation Analyst (dutch Speaker)",
    "location": "Amsterdam"
   },
   "b016b9a8dd31588ff9c3af8f7e9b7a92": {
@@ -1034,6 +1052,12 @@
    "role": "Business & Data Analyst",
    "location": "Amsterdam"
   },
+  "ac43cc434c31cf5ab7d317c958c3fd45": {
+   "id": "ac43cc434c31cf5ab7d317c958c3fd45",
+   "company": "Colgate-Palmolive",
+   "role": "Maintenance Bbl",
+   "location": "Etten-Leur"
+  },
   "09d1b22a0d0f49387d89ec237a81b11b": {
    "id": "09d1b22a0d0f49387d89ec237a81b11b",
    "company": "Ardagh Group",
@@ -1058,11 +1082,23 @@
    "role": "Hoofdmonteur",
    "location": "Alphen Aan Den Rijn"
   },
+  "60d463102796c625eb5575e6962790a7": {
+   "id": "60d463102796c625eb5575e6962790a7",
+   "company": "ABB UK",
+   "role": "Service Engineer Marine & Ports Drives",
+   "location": "Alphen Aan Den Rijn"
+  },
   "a6f946f70e9666058e61845272cc9bed": {
    "id": "a6f946f70e9666058e61845272cc9bed",
    "company": "ABB Ltd",
    "role": "Service Engineer Marine & Ports Drives",
    "location": "Alphen Aan Den Rijn"
+  },
+  "ee09fd24e7b02f22d2eba3114d5c99df": {
+   "id": "ee09fd24e7b02f22d2eba3114d5c99df",
+   "company": "Jobgether",
+   "role": "Field Service Engineer",
+   "location": "Netherlands"
   },
   "f4087b23484eb367aa03082e549393ed": {
    "id": "f4087b23484eb367aa03082e549393ed",
@@ -1370,12 +1406,6 @@
    "role": "Compressor Technician",
    "location": "Zoeterwoude"
   },
-  "ac43cc434c31cf5ab7d317c958c3fd45": {
-   "id": "ac43cc434c31cf5ab7d317c958c3fd45",
-   "company": "Colgate-Palmolive",
-   "role": "Maintenance Bbl",
-   "location": "Etten-Leur"
-  },
   "6e066c3524f9364e03e08c26a31bb2dd": {
    "id": "6e066c3524f9364e03e08c26a31bb2dd",
    "company": "Damen Marine Components",
@@ -1496,17 +1526,11 @@
    "role": "Service Technician - Surveying Technology",
    "location": "Alphen Aan Den Rijn"
   },
-  "ea2c57df1564a7172aa500b0b828b9cd": {
-   "id": "ea2c57df1564a7172aa500b0b828b9cd",
-   "company": "Topcon Corporation",
-   "role": "Service Technician - Surveying Technology",
+  "8778b2408f1d65a56165b542394dd6b4": {
+   "id": "8778b2408f1d65a56165b542394dd6b4",
+   "company": "H&M",
+   "role": "Sales Advisor 5-12h",
    "location": "Alphen Aan Den Rijn"
-  },
-  "45468810b950a842ba2081a806ca9f66": {
-   "id": "45468810b950a842ba2081a806ca9f66",
-   "company": "Otisjob",
-   "role": "Service Monteur Liften Zuid-holland",
-   "location": "Utrecht"
   },
   "6e60e1b93122f4b9a684d7d0602ef336": {
    "id": "6e60e1b93122f4b9a684d7d0602ef336",
@@ -1650,12 +1674,6 @@
    "id": "daff421aa410732340fb69841fee9193",
    "company": "Nestle Ltd",
    "role": "Verkoopmedewerker Nespresso Amsterdam",
-   "location": "Amsterdam"
-  },
-  "f8c90fd84a6134f0dff86bb7aa9fda8b": {
-   "id": "f8c90fd84a6134f0dff86bb7aa9fda8b",
-   "company": "H&M",
-   "role": "Sales Advisor 5-12h",
    "location": "Amsterdam"
   },
   "6161f6e7b00f748bb0cea9a1ddd98f47": {
@@ -1976,6 +1994,12 @@
    "role": "Business Development Associate",
    "location": "Amsterdam"
   },
+  "5ee5ed8efa8193dc68c93ead637d4d80": {
+   "id": "5ee5ed8efa8193dc68c93ead637d4d80",
+   "company": "GXO Logistics, Inc.",
+   "role": "Hr Administrative",
+   "location": "Alphen Aan Den Rijn"
+  },
   "8fad68b49b65759e76d5b79ab43997b7": {
    "id": "8fad68b49b65759e76d5b79ab43997b7",
    "company": "GXO Logistics",
@@ -2227,12 +2251,6 @@
    "company": "HITACHI ENERGY THE NETHERLANDS B.V.",
    "role": "Team Assistant (f/m/d)",
    "location": "Alphen Aan Den Rijn"
-  },
-  "0a08b84afaeb0c95103666f3e5484391": {
-   "id": "0a08b84afaeb0c95103666f3e5484391",
-   "company": "GE HealthCare",
-   "role": "Clinical Education Specialist",
-   "location": "Nordics"
   }
  }
 }
