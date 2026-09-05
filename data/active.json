@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-04",
- "count": 377,
+ "asOf": "2026-09-05",
+ "count": 379,
  "jobs": {
   "41290": {
    "id": "41290",
@@ -152,9 +152,87 @@
    "role": "Internship: Hydrogen Leak Detection Requirements In A Hydrogen-powered Aircraft",
    "location": "Amsterdam"
   },
+  "3a673f20525ba7d3017c200be1f405c2": {
+   "id": "3a673f20525ba7d3017c200be1f405c2",
+   "company": "Koninklijke Philips",
+   "role": "Internship: Philips Communications & Brand",
+   "location": "Amsterdam"
+  },
+  "df61d3402f106c49cd2c37135d2a7e33": {
+   "id": "df61d3402f106c49cd2c37135d2a7e33",
+   "company": "Koninklijke Philips",
+   "role": "Internship: Marketing & Marketing Communication",
+   "location": "Amsterdam"
+  },
+  "8b0f7702b7b3b62024e51b0ed2f379ce": {
+   "id": "8b0f7702b7b3b62024e51b0ed2f379ce",
+   "company": "Koninklijke Philips",
+   "role": "Internship: Commercial Strategy & Sales (dutch Speaking)",
+   "location": "Eindhoven"
+  },
+  "02b56a2af18f11c4b443ea61fd5e5cd3": {
+   "id": "02b56a2af18f11c4b443ea61fd5e5cd3",
+   "company": "Koninklijke Philips",
+   "role": "Product Innovation & Ai-powered Video Creation Internship – Philips Avent Experience Innovation",
+   "location": "Eindhoven"
+  },
+  "1238d932deb8612ac45c047c8e06201f": {
+   "id": "1238d932deb8612ac45c047c8e06201f",
+   "company": "Koninklijke Philips",
+   "role": "Sustainability Internship: Sustainability Analyst (non-thesis)",
+   "location": "Amsterdam"
+  },
+  "f08954f360ea3dd396cb6d17d2f9fa7b": {
+   "id": "f08954f360ea3dd396cb6d17d2f9fa7b",
+   "company": "Koninklijke Philips",
+   "role": "Internship: Group Accounting & Reporting (non-thesis)",
+   "location": "Amsterdam"
+  },
+  "5f3fa4c026c62e6cfed3a98ca8fbeca8": {
+   "id": "5f3fa4c026c62e6cfed3a98ca8fbeca8",
+   "company": "Koninklijke Philips",
+   "role": "Internship: Philips Foundation - Impact Investing (master, Non-thesis)",
+   "location": "Eindhoven"
+  },
+  "43e165f5c71ff19a2e4c15cd38d30230": {
+   "id": "43e165f5c71ff19a2e4c15cd38d30230",
+   "company": "Koninklijke Philips",
+   "role": "Internship: Content And Engagement (bachelor, Non-thesis)",
+   "location": "Eindhoven"
+  },
+  "e47696f5b34ae101ebe2053815e96134": {
+   "id": "e47696f5b34ae101ebe2053815e96134",
+   "company": "Ses Group",
+   "role": "Intern, Spectrum Management And Strategy",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "19b9e73c57cc59428a0851259c699cd4": {
+   "id": "19b9e73c57cc59428a0851259c699cd4",
+   "company": "Ses Group",
+   "role": "Intern Corporate Marketing",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "ddb45a4900e0d49c9d83620e2ba1b172": {
+   "id": "ddb45a4900e0d49c9d83620e2ba1b172",
+   "company": "Koninklijke Philips",
+   "role": "Internship: Service Parts Procurement",
+   "location": "Eindhoven"
+  },
+  "2a1e64f424cb90e946d9e5327a78127f": {
+   "id": "2a1e64f424cb90e946d9e5327a78127f",
+   "company": "PPG Industries",
+   "role": "Stagiair",
+   "location": "Alphen Aan Den Rijn"
+  },
   "3c4cfc3f603152e05a8b6ac9c86ca1b4": {
    "id": "3c4cfc3f603152e05a8b6ac9c86ca1b4",
    "company": "Sohohouseco",
+   "role": "Human Resources Intern - Soho House Amsterdam",
+   "location": "Amsterdam"
+  },
+  "e54dc979bfe179c7ec16dcf2ffb1a3c4": {
+   "id": "e54dc979bfe179c7ec16dcf2ffb1a3c4",
+   "company": "Soho House & Co Inc.",
    "role": "Human Resources Intern - Soho House Amsterdam",
    "location": "Amsterdam"
   },
@@ -176,6 +254,12 @@
    "role": "Stagiair – Laboratorium Of Productietechniek – Visuele Inspectie",
    "location": "North Brabant"
   },
+  "de96c8ae3be4a2d237e785d0611528fa": {
+   "id": "de96c8ae3be4a2d237e785d0611528fa",
+   "company": "MSD (Merck)",
+   "role": "Stagiair – Laboratorium Of Productietechniek – Visuele Inspectie",
+   "location": "North Brabant"
+  },
   "88ede38b9b01a4c760515e3e5fe90aac": {
    "id": "88ede38b9b01a4c760515e3e5fe90aac",
    "company": "Philips UK",
@@ -188,11 +272,17 @@
    "role": "Internship At The Transaction Services/trade Finance Services Team Of Financial Institutions",
    "location": "Amsterdam"
   },
-  "ec12f7f3cf1d6705bd0be3253e2879d6": {
-   "id": "ec12f7f3cf1d6705bd0be3253e2879d6",
+  "0bfc3cf890bd7ede25f81278151d30bc": {
+   "id": "0bfc3cf890bd7ede25f81278151d30bc",
    "company": "ING",
    "role": "Internship - Communications Intern",
-   "location": "Haarlemerpark"
+   "location": "Amsterdam"
+  },
+  "074c2f6a5a9e4c3d56c936771c733187": {
+   "id": "074c2f6a5a9e4c3d56c936771c733187",
+   "company": "ING Bank Netherlands",
+   "role": "Internship - Tech Marketing & Communication Intern For Corporate Technology",
+   "location": "Amsterdam"
   },
   "035d044b3382509f57513b65edb22f6a": {
    "id": "035d044b3382509f57513b65edb22f6a",
@@ -203,6 +293,12 @@
   "ac4cd938428171089c040c3f1144c359": {
    "id": "ac4cd938428171089c040c3f1144c359",
    "company": "ING",
+   "role": "Wo Meewerk Ing Real Estate Finance (ref) – Marketing En Change",
+   "location": "Acanthus"
+  },
+  "b3906669ea2ec5360cd24076ae34ad5b": {
+   "id": "b3906669ea2ec5360cd24076ae34ad5b",
+   "company": "ING REF",
    "role": "Wo Meewerk Ing Real Estate Finance (ref) – Marketing En Change",
    "location": "Acanthus"
   },
@@ -482,102 +578,6 @@
    "role": "Internship - Bbl Leerling Logistiek Medewerker (niveau 2 Of 3)",
    "location": "Eindhoven"
   },
-  "d5fbeb3d36aa35592149546a3c50e424": {
-   "id": "d5fbeb3d36aa35592149546a3c50e424",
-   "company": "bankcarriere.nl",
-   "role": "Internship – Hr Talent & Learning - International Talent Programme",
-   "location": "Cedar)"
-  },
-  "acbf87a0b577e6b5f40d27db2ad1a018": {
-   "id": "acbf87a0b577e6b5f40d27db2ad1a018",
-   "company": "ING Wholesale Banking",
-   "role": "Internship – Capital Analyst",
-   "location": "Cedar)"
-  },
-  "7eab4c576b48e1e919a528f00c3ded29": {
-   "id": "7eab4c576b48e1e919a528f00c3ded29",
-   "company": "282",
-   "role": "Internship – Hr Talent & Learning - International Talent Programme",
-   "location": "Netherlands"
-  },
-  "773b35a6d5f90ab03f4842f4af50a43f": {
-   "id": "773b35a6d5f90ab03f4842f4af50a43f",
-   "company": "ING Group",
-   "role": "Internship – Capital Analyst",
-   "location": "Cedar)"
-  },
-  "1dbd9a24100a41b49c9e028bde3d2b45": {
-   "id": "1dbd9a24100a41b49c9e028bde3d2b45",
-   "company": "224",
-   "role": "Internship – Hr Talent & Learning - International Talent Programme",
-   "location": "Cedar"
-  },
-  "d66914e32fc630b227e5e5ca483dd905": {
-   "id": "d66914e32fc630b227e5e5ca483dd905",
-   "company": "Valmont Industries, Inc",
-   "role": "Internship – Hr Talent & Learning - International Talent Programme",
-   "location": "Cedar"
-  },
-  "ce424782b53f506f5256b1d3d11ae346": {
-   "id": "ce424782b53f506f5256b1d3d11ae346",
-   "company": "Sanrafaelvet",
-   "role": "Digital Innovative Solutions Intern",
-   "location": "Amsterdam"
-  },
-  "68523f644f512789ccb2940318aef0e6": {
-   "id": "68523f644f512789ccb2940318aef0e6",
-   "company": "Sanofi UK",
-   "role": "Digital Innovative Solutions Intern",
-   "location": "Amsterdam"
-  },
-  "4e76de48473c9a08b98c011b40b7392b": {
-   "id": "4e76de48473c9a08b98c011b40b7392b",
-   "company": "Bilfinger",
-   "role": "Mbo Stage Tandwielkasten En Aandrijftechniek",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "dd660ca11eaea8f3a52f874541c18f7b": {
-   "id": "dd660ca11eaea8f3a52f874541c18f7b",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Campus Recruitment",
-   "location": "S Hertogenbosch"
-  },
-  "114d4d1b91e94c32e18af7178cb384d2": {
-   "id": "114d4d1b91e94c32e18af7178cb384d2",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Health Interventions In The Workplace",
-   "location": "S Hertogenbosch"
-  },
-  "a4cb9eb400d442be83320d5e9f90a915": {
-   "id": "a4cb9eb400d442be83320d5e9f90a915",
-   "company": "Vanderlande UK",
-   "role": "Internship: Health Interventions In The Workplace",
-   "location": "S Hertogenbosch"
-  },
-  "600e70f5c9fea60cdc27d220ca5b201b": {
-   "id": "600e70f5c9fea60cdc27d220ca5b201b",
-   "company": "Vanderlande UK",
-   "role": "Internship: Campus Recruitment",
-   "location": "S Hertogenbosch"
-  },
-  "804efa45667e06a66acab841ceec146a": {
-   "id": "804efa45667e06a66acab841ceec146a",
-   "company": "IMC Trading",
-   "role": "Trader Intern",
-   "location": "Amsterdam"
-  },
-  "ed5497e0ab0977a88406c61564735b06": {
-   "id": "ed5497e0ab0977a88406c61564735b06",
-   "company": "IMC Trading",
-   "role": "Quantitative Trader Intern",
-   "location": "Amsterdam"
-  },
-  "ba866894a0a1a82e32434d32a6353ffc": {
-   "id": "ba866894a0a1a82e32434d32a6353ffc",
-   "company": "IMC Trading",
-   "role": "Macro Analyst Intern",
-   "location": "Amsterdam"
-  },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
    "company": "Drweng",
@@ -648,6 +648,12 @@
    "id": "1a0812d0a6715e54c31b0c9cbcd754d1",
    "company": "RELX (LexisNexis)",
    "role": "Software Engineer Iii",
+   "location": "Amsterdam"
+  },
+  "9ca8835d60da6f61f4652c6ca37e5da9": {
+   "id": "9ca8835d60da6f61f4652c6ca37e5da9",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
    "location": "Amsterdam"
   },
   "303f61db5c4a4be32d5b446009a5408a": {
@@ -1058,11 +1064,41 @@
    "role": "Business & Data Analyst",
    "location": "Amsterdam"
   },
+  "4a1b093d77aa57ae94ffbf8d0b80f74f": {
+   "id": "4a1b093d77aa57ae94ffbf8d0b80f74f",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Mechatronica Monteur",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "a3022596a6c08a595fe7d5ac1bc36650": {
+   "id": "a3022596a6c08a595fe7d5ac1bc36650",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Mechanisch Monteur",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "536baa72cb3fdb6425022c9db6dbba23": {
+   "id": "536baa72cb3fdb6425022c9db6dbba23",
+   "company": "DSV Panalpina AS",
+   "role": "Monteur Facility & Technische Dienst",
+   "location": "Venlo"
+  },
+  "0b212e2a130a4dbf445077945e9ce750": {
+   "id": "0b212e2a130a4dbf445077945e9ce750",
+   "company": "VistaCreate",
+   "role": "Maintenance Technician X3",
+   "location": "Venlo"
+  },
   "9daafeec388ff421d2a9b7c38b854c29": {
    "id": "9daafeec388ff421d2a9b7c38b854c29",
    "company": "KONE International",
    "role": "Service Monteur Roltrappen",
    "location": "Utrecht"
+  },
+  "8ff302424fc30328a6336d18c4d487c2": {
+   "id": "8ff302424fc30328a6336d18c4d487c2",
+   "company": "Yara International ASA",
+   "role": "Hoofdmonteur",
+   "location": "Alphen Aan Den Rijn"
   },
   "debe8cce2a90f0f2e09a8425e789b11e": {
    "id": "debe8cce2a90f0f2e09a8425e789b11e",
@@ -1076,6 +1112,18 @@
    "role": "Facility Technician",
    "location": "Alphen Aan Den Rijn"
   },
+  "71d010d67c350099dc3a695c6b7519db": {
+   "id": "71d010d67c350099dc3a695c6b7519db",
+   "company": "42",
+   "role": "Facility Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "09c1c9052da9ad24359e8f6474732395": {
+   "id": "09c1c9052da9ad24359e8f6474732395",
+   "company": "JLL UK",
+   "role": "Facility Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
   "3b4c8e93cb9e960e004032eca5def45e": {
    "id": "3b4c8e93cb9e960e004032eca5def45e",
    "company": "Inotiv",
@@ -1085,6 +1133,12 @@
   "835e2742816194d3cef61b5c1377f765": {
    "id": "835e2742816194d3cef61b5c1377f765",
    "company": "Carrier Transicold Netherlands",
+   "role": "Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "3f90c90b6fc04f99786ff25eaf546103": {
+   "id": "3f90c90b6fc04f99786ff25eaf546103",
+   "company": "Carrier Transicold",
    "role": "Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
@@ -1111,12 +1165,6 @@
    "company": "Outokumpu Oyj",
    "role": "Mechanical Technician",
    "location": "Westdorpe"
-  },
-  "1bae85173015ce454f07361e25aaecdf": {
-   "id": "1bae85173015ce454f07361e25aaecdf",
-   "company": "Yara International ASA",
-   "role": "Hoofdmonteur",
-   "location": "Alphen Aan Den Rijn"
   },
   "60d463102796c625eb5575e6962790a7": {
    "id": "60d463102796c625eb5575e6962790a7",
@@ -1262,12 +1310,6 @@
    "role": "Junior Technician Facilities & Technical Services",
    "location": "Venlo"
   },
-  "71d010d67c350099dc3a695c6b7519db": {
-   "id": "71d010d67c350099dc3a695c6b7519db",
-   "company": "42",
-   "role": "Facility Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
   "9305312c58f339e7bd41e31527998818": {
    "id": "9305312c58f339e7bd41e31527998818",
    "company": "workday.gea",
@@ -1333,12 +1375,6 @@
    "company": "Volvo Group Truck Center",
    "role": "Apk & Tachograaf Keurmeester",
    "location": "Alphen Aan Den Rijn"
-  },
-  "afa337bef496ad54c73d58b8846827e9": {
-   "id": "afa337bef496ad54c73d58b8846827e9",
-   "company": "VistaCreate",
-   "role": "Maintenance Technician X3",
-   "location": "Venlo"
   },
   "e03cff1f0bcee2bedbdb1ef568d50d77": {
    "id": "e03cff1f0bcee2bedbdb1ef568d50d77",
@@ -1436,12 +1472,6 @@
    "role": "Field Service Engineer",
    "location": "Hardinxveld"
   },
-  "536baa72cb3fdb6425022c9db6dbba23": {
-   "id": "536baa72cb3fdb6425022c9db6dbba23",
-   "company": "DSV Panalpina AS",
-   "role": "Monteur Facility & Technische Dienst",
-   "location": "Venlo"
-  },
   "e842f3247e125586761d5a322e400e18": {
    "id": "e842f3247e125586761d5a322e400e18",
    "company": "Schindler Group",
@@ -1507,30 +1537,6 @@
    "company": "De Jong Box B.V.",
    "role": "Technisch Medewerker",
    "location": "Den Hoorn"
-  },
-  "a060ca753717d32a1db50c4d62ae045f": {
-   "id": "a060ca753717d32a1db50c4d62ae045f",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Electrical Technician - Field Maintenance & Modification 1",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "c4ae1ba4e369f864f4374c672f3d38aa": {
-   "id": "c4ae1ba4e369f864f4374c672f3d38aa",
-   "company": "ENGIE",
-   "role": "Technicus Turbines (ems)",
-   "location": "Eemshaven"
-  },
-  "583e1b75ef6056bc3d822f7909e6a398": {
-   "id": "583e1b75ef6056bc3d822f7909e6a398",
-   "company": "DSV Panalpina AS",
-   "role": "Technician Facilities & Technical Services",
-   "location": "Venlo"
-  },
-  "9009b59a70a8e1a0d8fabb21f0ab6d78": {
-   "id": "9009b59a70a8e1a0d8fabb21f0ab6d78",
-   "company": "KONE International",
-   "role": "Service Monteur Liften",
-   "location": "Alphen Aan Den Rijn"
   },
   "abafbdf78281b26fb7f057a04227dda3": {
    "id": "abafbdf78281b26fb7f057a04227dda3",
@@ -1999,6 +2005,12 @@
    "company": "Breitling SA",
    "role": "Sales Associate (m/f/x) - Den Haag - Part-time (60%)",
    "location": "Alphen Aan Den Rijn"
+  },
+  "9c6475067c492e19760a57f9601574d4": {
+   "id": "9c6475067c492e19760a57f9601574d4",
+   "company": "Malvern Panalytical Inc",
+   "role": "Customer Service Coordinator",
+   "location": "Eindhoven"
   },
   "5ee5ed8efa8193dc68c93ead637d4d80": {
    "id": "5ee5ed8efa8193dc68c93ead637d4d80",

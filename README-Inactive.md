@@ -935,4 +935,27 @@
 <tr><td>Pfh</td><td>Sales Advisor (12 Hours), Tommy Hilfiger/calvin Klein - Den Haag (dutch Speaking)</td><td>Alphen Aan Den Rijn</td><td>2026-09-04</td></tr>
 <tr><td>Pvhcc</td><td>Sales Advisor (12 Hours), Tommy Hilfiger/calvin Klein - Den Haag (dutch Speaking)</td><td>Alphen Aan Den Rijn</td><td>2026-09-04</td></tr>
 <tr><td>The smarter corporate payments company</td><td>Business Development Associate</td><td>Amsterdam</td><td>2026-09-04</td></tr>
+<tr><td>ING</td><td>Internship - Communications Intern</td><td>Haarlemerpark</td><td>2026-09-05</td></tr>
+<tr><td>bankcarriere.nl</td><td>Internship – Hr Talent & Learning - International Talent Programme</td><td>Cedar)</td><td>2026-09-05</td></tr>
+<tr><td>ING Wholesale Banking</td><td>Internship – Capital Analyst</td><td>Cedar)</td><td>2026-09-05</td></tr>
+<tr><td>282</td><td>Internship – Hr Talent & Learning - International Talent Programme</td><td>Netherlands</td><td>2026-09-05</td></tr>
+<tr><td>ING Group</td><td>Internship – Capital Analyst</td><td>Cedar)</td><td>2026-09-05</td></tr>
+<tr><td>224</td><td>Internship – Hr Talent & Learning - International Talent Programme</td><td>Cedar</td><td>2026-09-05</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Internship – Hr Talent & Learning - International Talent Programme</td><td>Cedar</td><td>2026-09-05</td></tr>
+<tr><td>Sanrafaelvet</td><td>Digital Innovative Solutions Intern</td><td>Amsterdam</td><td>2026-09-05</td></tr>
+<tr><td>Sanofi UK</td><td>Digital Innovative Solutions Intern</td><td>Amsterdam</td><td>2026-09-05</td></tr>
+<tr><td>Bilfinger</td><td>Mbo Stage Tandwielkasten En Aandrijftechniek</td><td>Alphen Aan Den Rijn</td><td>2026-09-05</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Campus Recruitment</td><td>S Hertogenbosch</td><td>2026-09-05</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Health Interventions In The Workplace</td><td>S Hertogenbosch</td><td>2026-09-05</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Health Interventions In The Workplace</td><td>S Hertogenbosch</td><td>2026-09-05</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Campus Recruitment</td><td>S Hertogenbosch</td><td>2026-09-05</td></tr>
+<tr><td>IMC Trading</td><td>Trader Intern</td><td>Amsterdam</td><td>2026-09-05</td></tr>
+<tr><td>IMC Trading</td><td>Quantitative Trader Intern</td><td>Amsterdam</td><td>2026-09-05</td></tr>
+<tr><td>IMC Trading</td><td>Macro Analyst Intern</td><td>Amsterdam</td><td>2026-09-05</td></tr>
+<tr><td>Yara International ASA</td><td>Hoofdmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-05</td></tr>
+<tr><td>VistaCreate</td><td>Maintenance Technician X3</td><td>Venlo</td><td>2026-09-05</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Electrical Technician - Field Maintenance & Modification 1</td><td>Alphen Aan Den Rijn</td><td>2026-09-05</td></tr>
+<tr><td>ENGIE</td><td>Technicus Turbines (ems)</td><td>Eemshaven</td><td>2026-09-05</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Technician Facilities & Technical Services</td><td>Venlo</td><td>2026-09-05</td></tr>
+<tr><td>KONE International</td><td>Service Monteur Liften</td><td>Alphen Aan Den Rijn</td><td>2026-09-05</td></tr>
 </table>
