@@ -958,4 +958,34 @@
 <tr><td>ENGIE</td><td>Technicus Turbines (ems)</td><td>Eemshaven</td><td>2026-09-05</td></tr>
 <tr><td>DSV Panalpina AS</td><td>Technician Facilities & Technical Services</td><td>Venlo</td><td>2026-09-05</td></tr>
 <tr><td>KONE International</td><td>Service Monteur Liften</td><td>Alphen Aan Den Rijn</td><td>2026-09-05</td></tr>
+<tr><td>Arcadis</td><td>Internship - Energie En Omgeving</td><td>Amersfoort</td><td>2026-09-06</td></tr>
+<tr><td>Arcadis</td><td>Meewerkstage Bodem, Conditionering, Cultuurtechniek</td><td>Amersfoort</td><td>2026-09-06</td></tr>
+<tr><td>Eichholtz B.V</td><td>Stagiair(e) Hr</td><td>Alphen Aan Den Rijn</td><td>2026-09-06</td></tr>
+<tr><td>Parfumado</td><td>Influencer Marketing Intern</td><td>Amsterdam</td><td>2026-09-06</td></tr>
+<tr><td>C.H. Robinson Worldwide</td><td>Internship - Fresh Produce Supply Chain</td><td>Alphen Aan Den Rijn</td><td>2026-09-06</td></tr>
+<tr><td>olam food ingredients (ofi)</td><td>R&d Internship - Shelf Life & Nut Fillings</td><td>Amsterdam</td><td>2026-09-06</td></tr>
+<tr><td>Core Lab</td><td>Intern Chemical Analyst</td><td>Alphen Aan Den Rijn</td><td>2026-09-06</td></tr>
+<tr><td>Euronext</td><td>Event & Communication Intern (dutch Speaker)</td><td>Amsterdam</td><td>2026-09-06</td></tr>
+<tr><td>Euronext Amsterdam</td><td>Event & Communication Intern (dutch Speaker)</td><td>Amsterdam</td><td>2026-09-06</td></tr>
+<tr><td>Accenture Australia</td><td>Industrial Design Internship</td><td>Eindhoven</td><td>2026-09-06</td></tr>
+<tr><td>ANZ</td><td>Industrial Design Internship</td><td>Eindhoven</td><td>2026-09-06</td></tr>
+<tr><td>Halfspace ApS</td><td>Industrial Design Internship</td><td>Eindhoven</td><td>2026-09-06</td></tr>
+<tr><td>Prysmian Australia</td><td>Intern</td><td>Eindhoven</td><td>2026-09-06</td></tr>
+<tr><td>Prysmian</td><td>Intern</td><td>Eindhoven</td><td>2026-09-06</td></tr>
+<tr><td>createyourowncareer</td><td>Internship Learning & Development</td><td>Arnhem</td><td>2026-09-06</td></tr>
+<tr><td>createyourowncareer</td><td>Hse Internship</td><td>Arnhem</td><td>2026-09-06</td></tr>
+<tr><td>SentinelOne</td><td>Marketing Intern</td><td>Amsterdam</td><td>2026-09-06</td></tr>
+<tr><td>Comics Jobs</td><td>Office Management Intern</td><td>Amsterdam</td><td>2026-09-06</td></tr>
+<tr><td>Usmedia</td><td>Afstudeeropdrachtstageamsterdam</td><td>Amsterdam</td><td>2026-09-06</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Stagiair(e) Facilitair/vastgoedstagedouglas Hoofdkantoor - Nijmegen</td><td>Arnhem</td><td>2026-09-06</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Stage Retailmanager Niveau 4 (bol)stagestores</td><td>Alphen Aan Den Rijn</td><td>2026-09-06</td></tr>
+<tr><td>GXO Logistics</td><td>Internship - Employee Journey & Workforce Management</td><td>Eindhoven</td><td>2026-09-06</td></tr>
+<tr><td>GXO Logistics</td><td>Internship - Bbl Leerling Logistiek Medewerker (niveau 2 Of 3)</td><td>Eindhoven</td><td>2026-09-06</td></tr>
+<tr><td>Merck Sharp & Dohme Corp</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-09-06</td></tr>
+<tr><td>De Jong Box B.V.</td><td>Technisch Medewerker</td><td>Den Hoorn</td><td>2026-09-06</td></tr>
+<tr><td>Nestle Ltd</td><td>Verkoopmedewerker Nespresso Amsterdam</td><td>Amsterdam</td><td>2026-09-06</td></tr>
+<tr><td>sligrofoodgroup</td><td>Bijbaan Non-food / Sligro / Amsterdam</td><td>Amsterdam</td><td>2026-09-06</td></tr>
+<tr><td>Sixt</td><td>Parttime Rental Sales Agent (m/v/d)</td><td>Alphen Aan Den Rijn</td><td>2026-09-06</td></tr>
+<tr><td>Breitling SA</td><td>Sales Associate (m/f/x) - Den Haag - Part-time (60%)</td><td>Alphen Aan Den Rijn</td><td>2026-09-06</td></tr>
+<tr><td>HITACHI ENERGY THE NETHERLANDS B.V.</td><td>Team Assistant (f/m/d)</td><td>Alphen Aan Den Rijn</td><td>2026-09-06</td></tr>
 </table>
