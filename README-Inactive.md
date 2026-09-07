@@ -988,4 +988,10 @@
 <tr><td>Sixt</td><td>Parttime Rental Sales Agent (m/v/d)</td><td>Alphen Aan Den Rijn</td><td>2026-09-06</td></tr>
 <tr><td>Breitling SA</td><td>Sales Associate (m/f/x) - Den Haag - Part-time (60%)</td><td>Alphen Aan Den Rijn</td><td>2026-09-06</td></tr>
 <tr><td>HITACHI ENERGY THE NETHERLANDS B.V.</td><td>Team Assistant (f/m/d)</td><td>Alphen Aan Den Rijn</td><td>2026-09-06</td></tr>
+<tr><td>Dpg Media</td><td>Software Engineer Broadcast Systems (qmusic, Joe, Willy)</td><td>Amsterdam</td><td>2026-09-07</td></tr>
+<tr><td>Bilfinger SE</td><td>Mbo Stage Tandwielkasten En Aandrijftechniek</td><td>Alphen Aan Den Rijn</td><td>2026-09-07</td></tr>
+<tr><td>Nouryon</td><td>Intern Project Management Office</td><td>Amsterdam</td><td>2026-09-07</td></tr>
+<tr><td>LNRS DATA SERVICES</td><td>Business & Data Analyst</td><td>Amsterdam</td><td>2026-09-07</td></tr>
+<tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-09-07</td></tr>
+<tr><td>tamigo</td><td>Customer Support Specialist (dutch Speaker)</td><td>Houten</td><td>2026-09-07</td></tr>
 </table>

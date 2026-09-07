@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-06",
- "count": 383,
+ "asOf": "2026-09-07",
+ "count": 380,
  "jobs": {
   "2197503": {
    "id": "2197503",
@@ -19,12 +19,6 @@
    "company": "Olenex Group",
    "role": "Customer Service Admin Support",
    "location": "Alphen Aan Den Rijn"
-  },
-  "2571488": {
-   "id": "2571488",
-   "company": "Dpg Media",
-   "role": "Software Engineer Broadcast Systems (qmusic, Joe, Willy)",
-   "location": "Amsterdam"
   },
   "2625677": {
    "id": "2625677",
@@ -132,6 +126,18 @@
    "id": "2733773",
    "company": "fridayrecruitment.nl",
    "role": "Stage Of Afstudeerstage Ict Development",
+   "location": "Amersfoort"
+  },
+  "dacdfcc5d0a2705cf70b47726a2efac9": {
+   "id": "dacdfcc5d0a2705cf70b47726a2efac9",
+   "company": "Bilfinger SE",
+   "role": "Mbo Stage Tandwielkasten En Aandrijftechniek",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "5c634e3cca8bb6affb0b7c0c65f94f84": {
+   "id": "5c634e3cca8bb6affb0b7c0c65f94f84",
+   "company": "HAVI",
+   "role": "Hr Stagiair",
    "location": "Amersfoort"
   },
   "d331a515e64b7c06d753846b1be49b82": {
@@ -518,12 +524,6 @@
    "role": "Intern Marketing Netherlands (m/f/d)",
    "location": "Amsterdam"
   },
-  "d90e5397e41ccdc0d3afc53156cf1d28": {
-   "id": "d90e5397e41ccdc0d3afc53156cf1d28",
-   "company": "Bilfinger SE",
-   "role": "Mbo Stage Tandwielkasten En Aandrijftechniek",
-   "location": "Alphen Aan Den Rijn"
-  },
   "aa108bef87416f9a0619f234e922e485": {
    "id": "aa108bef87416f9a0619f234e922e485",
    "company": "Thermo Fisher Scientific UK",
@@ -571,12 +571,6 @@
    "company": "Nouryon",
    "role": "R&d Internship",
    "location": "Alphen Aan Den Rijn"
-  },
-  "b80ffd7a281ae3e23d8376c89ece423e": {
-   "id": "b80ffd7a281ae3e23d8376c89ece423e",
-   "company": "Nouryon",
-   "role": "Intern Project Management Office",
-   "location": "Amsterdam"
   },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
@@ -1082,11 +1076,11 @@
    "role": "Business & Data Analyst",
    "location": "Amsterdam"
   },
-  "f1dbd9b6a9575f2aadcdf3fcbbfae302": {
-   "id": "f1dbd9b6a9575f2aadcdf3fcbbfae302",
-   "company": "LNRS DATA SERVICES",
-   "role": "Business & Data Analyst",
-   "location": "Amsterdam"
+  "0d713f3dcbc74711f70fced743019bba": {
+   "id": "0d713f3dcbc74711f70fced743019bba",
+   "company": "Bilfinger SE",
+   "role": "Werkvoorbereider Elektrotechniek",
+   "location": "Alphen Aan Den Rijn"
   },
   "ff79b10b3003dbb062c5b7ae6ab459b1": {
    "id": "ff79b10b3003dbb062c5b7ae6ab459b1",
@@ -1255,12 +1249,6 @@
    "company": "Vistaprint",
    "role": "Maintenance Technician X3",
    "location": "Venlo"
-  },
-  "eee4de4ed0dd499598b8b1f5df2b5312": {
-   "id": "eee4de4ed0dd499598b8b1f5df2b5312",
-   "company": "Bilfinger SE",
-   "role": "Werkvoorbereider Elektrotechniek",
-   "location": "Alphen Aan Den Rijn"
   },
   "42d0ec42ab17a6dd8283ea88f6c10896": {
    "id": "42d0ec42ab17a6dd8283ea88f6c10896",
@@ -2293,12 +2281,6 @@
    "company": "CUSHMAN & WAKEFIELD",
    "role": "Commercial Assistant - Project & Development Services",
    "location": "Utrecht"
-  },
-  "159d07c147bcc6618fe049e6525899bc": {
-   "id": "159d07c147bcc6618fe049e6525899bc",
-   "company": "tamigo",
-   "role": "Customer Support Specialist (dutch Speaker)",
-   "location": "Houten"
   }
  }
 }
