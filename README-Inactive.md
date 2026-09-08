@@ -994,4 +994,26 @@
 <tr><td>LNRS DATA SERVICES</td><td>Business & Data Analyst</td><td>Amsterdam</td><td>2026-09-07</td></tr>
 <tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-09-07</td></tr>
 <tr><td>tamigo</td><td>Customer Support Specialist (dutch Speaker)</td><td>Houten</td><td>2026-09-07</td></tr>
+<tr><td>Olenex Group</td><td>Customer Service Admin Support</td><td>Alphen Aan Den Rijn</td><td>2026-09-08</td></tr>
+<tr><td>AIMMS</td><td>Marketing & Revops Intern</td><td>Amsterdam</td><td>2026-09-08</td></tr>
+<tr><td>Budget Thuis</td><td>Data Analist</td><td>Amsterdam</td><td>2026-09-08</td></tr>
+<tr><td>282</td><td>Internship – Non-financial Risk Ai Agent Developer</td><td>Amsterdam</td><td>2026-09-08</td></tr>
+<tr><td>bankcarriere.nl</td><td>Internship – Non-financial Risk Ai Agent Developer</td><td>Amsterdam</td><td>2026-09-08</td></tr>
+<tr><td>ING Group</td><td>Internship – Non-financial Risk Ai Agent Developer</td><td>Amsterdam</td><td>2026-09-08</td></tr>
+<tr><td>Coty Inc.</td><td>Procurement Intern - Raw Materials & Tpm</td><td>Amsterdam</td><td>2026-09-08</td></tr>
+<tr><td>Perfetti Van Melle ICT B.V</td><td>Internship Digital Content Marketing - Amsterdam Location</td><td>Amsterdam</td><td>2026-09-08</td></tr>
+<tr><td>CYBEX GmbH</td><td>Intern Marketing Netherlands (m/f/d)</td><td>Amsterdam</td><td>2026-09-08</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Mechanical Engineering R&d Internship</td><td>Eindhoven</td><td>2026-09-08</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Intern - Integrating Genai Into Tem Life-science Applications</td><td>Eindhoven</td><td>2026-09-08</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Intern - Integrating Genai Into Tem Life-science Applications</td><td>Eindhoven</td><td>2026-09-08</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Mechanical Engineering R&d Internship</td><td>Eindhoven</td><td>2026-09-08</td></tr>
+<tr><td>Careers Philips</td><td>Internship: Content And Engagement (bachelor, Non-thesis)</td><td>Eindhoven</td><td>2026-09-08</td></tr>
+<tr><td>Philips UK</td><td>Internship: Content And Engagement (bachelor, Non-thesis)</td><td>Eindhoven</td><td>2026-09-08</td></tr>
+<tr><td>JYSK</td><td>Stage Retail</td><td>Alphen Aan Den Rijn</td><td>2026-09-08</td></tr>
+<tr><td>Nouryon</td><td>R&d Internship</td><td>Alphen Aan Den Rijn</td><td>2026-09-08</td></tr>
+<tr><td>RELX</td><td>Business & Data Analyst</td><td>Amsterdam</td><td>2026-09-08</td></tr>
+<tr><td>Agrifirm Group</td><td>Allround Onderhoudsmonteur</td><td>Wanssum</td><td>2026-09-08</td></tr>
+<tr><td>microsatsystems.biz</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-09-08</td></tr>
+<tr><td>Tommy Jeans</td><td>Supervisor (32 Hours), Tommy Jeans - Kalverstraat Amsterdam</td><td>Amsterdam</td><td>2026-09-08</td></tr>
+<tr><td>Pfh</td><td>Supervisor (32 Hours), Tommy Jeans - Kalverstraat Amsterdam</td><td>Amsterdam</td><td>2026-09-08</td></tr>
 </table>

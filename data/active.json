@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-07",
- "count": 380,
+ "asOf": "2026-09-08",
+ "count": 377,
  "jobs": {
   "2197503": {
    "id": "2197503",
@@ -13,24 +13,6 @@
    "company": "Amarosa",
    "role": "Medewerker Technische Dienst (38 Uur)",
    "location": "Alphen Aan Den Rijn"
-  },
-  "2568638": {
-   "id": "2568638",
-   "company": "Olenex Group",
-   "role": "Customer Service Admin Support",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "2625677": {
-   "id": "2625677",
-   "company": "AIMMS",
-   "role": "Marketing & Revops Intern",
-   "location": "Amsterdam"
-  },
-  "2672765": {
-   "id": "2672765",
-   "company": "Budget Thuis",
-   "role": "Data Analist",
-   "location": "Amsterdam"
   },
   "2673527": {
    "id": "2673527",
@@ -128,6 +110,24 @@
    "role": "Stage Of Afstudeerstage Ict Development",
    "location": "Amersfoort"
   },
+  "fc8c8bf4bfe2598bb913752d166b260e": {
+   "id": "fc8c8bf4bfe2598bb913752d166b260e",
+   "company": "pladis Global",
+   "role": "Marketing Stagiair",
+   "location": "Amsterdam"
+  },
+  "30e90f1d14666f90d64b4ae9c275c5ca": {
+   "id": "30e90f1d14666f90d64b4ae9c275c5ca",
+   "company": "pladis Global",
+   "role": "Trade Marketing Stagair",
+   "location": "Amsterdam"
+  },
+  "c376844e85189b422440b922f0f19272": {
+   "id": "c376844e85189b422440b922f0f19272",
+   "company": "pladis Global",
+   "role": "Regulatory Affairs Intern",
+   "location": "Amsterdam"
+  },
   "dacdfcc5d0a2705cf70b47726a2efac9": {
    "id": "dacdfcc5d0a2705cf70b47726a2efac9",
    "company": "Bilfinger SE",
@@ -139,6 +139,24 @@
    "company": "HAVI",
    "role": "Hr Stagiair",
    "location": "Amersfoort"
+  },
+  "a17cbeb608732f0e0128f0a0e44459c6": {
+   "id": "a17cbeb608732f0e0128f0a0e44459c6",
+   "company": "Procter & Gamble (SK-II)",
+   "role": "Strategic Finance Internship",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "035645c51686e281d26aaebe85bdf368": {
+   "id": "035645c51686e281d26aaebe85bdf368",
+   "company": "Procter & Gamble (SK-II)",
+   "role": "Supply Chain Internship",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "9f3ebfda667e278d9d405b3dd9b3994c": {
+   "id": "9f3ebfda667e278d9d405b3dd9b3994c",
+   "company": "Procter & Gamble (SK-II)",
+   "role": "Brand Management Internship",
+   "location": "Alphen Aan Den Rijn"
   },
   "d331a515e64b7c06d753846b1be49b82": {
    "id": "d331a515e64b7c06d753846b1be49b82",
@@ -155,6 +173,12 @@
   "f7ca9600c13ef7f2bbe2b23662685a27": {
    "id": "f7ca9600c13ef7f2bbe2b23662685a27",
    "company": "Philips",
+   "role": "Internship: Audit, Risk & Compliance Operations Analyst (non-thesis)",
+   "location": "Amsterdam"
+  },
+  "eb2609588daf545256def323ba238952": {
+   "id": "eb2609588daf545256def323ba238952",
+   "company": "Koninklijke Philips",
    "role": "Internship: Audit, Risk & Compliance Operations Analyst (non-thesis)",
    "location": "Amsterdam"
   },
@@ -182,6 +206,18 @@
    "role": "Internship Sustainable Capital Markets",
    "location": "Amsterdam"
   },
+  "3da1f8716259f6f84f11db9a59273580": {
+   "id": "3da1f8716259f6f84f11db9a59273580",
+   "company": "ING Group",
+   "role": "Internship In Legal",
+   "location": "Amsterdam"
+  },
+  "a1cc7c41dec11451339d6f5014d17cfa": {
+   "id": "a1cc7c41dec11451339d6f5014d17cfa",
+   "company": "ING Group",
+   "role": "Internship Sustainable Capital Markets",
+   "location": "Amsterdam"
+  },
   "1d7705ac54af422be0e02966a9b8d495": {
    "id": "1d7705ac54af422be0e02966a9b8d495",
    "company": "ING",
@@ -200,6 +236,24 @@
    "role": "Internship Quantitative Risk Management (interest Rate Risk & Alm)",
    "location": "Cedar)"
   },
+  "06a0a9598c39c1ce5629adea8d02c5b0": {
+   "id": "06a0a9598c39c1ce5629adea8d02c5b0",
+   "company": "ING Group",
+   "role": "Internship Legal Wholesale Banking",
+   "location": "Cedar)"
+  },
+  "76085681a3c4e20a27a50481a4ea3c38": {
+   "id": "76085681a3c4e20a27a50481a4ea3c38",
+   "company": "ING Group",
+   "role": "Internship Quantitative Risk Management (interest Rate Risk & Alm)",
+   "location": "Cedar)"
+  },
+  "16b8d6446923fbfcd5547d7a179aca31": {
+   "id": "16b8d6446923fbfcd5547d7a179aca31",
+   "company": "ING Group",
+   "role": "Internship – Financial Risk (customer Behaviour)",
+   "location": "Cedar)"
+  },
   "d382268babd2b681e83b29926a343fab": {
    "id": "d382268babd2b681e83b29926a343fab",
    "company": "CMA CGM Group",
@@ -209,6 +263,12 @@
   "5afeb5e87949f7fe3172efb60441160b": {
    "id": "5afeb5e87949f7fe3172efb60441160b",
    "company": "NXP USA INC.",
+   "role": "Internship - Understanding The Reliability Of Advanced Laminate-based Electronic Packages At Nxp",
+   "location": "Arnhem"
+  },
+  "2e4782c48100167d4e3d401e6a453913": {
+   "id": "2e4782c48100167d4e3d401e6a453913",
+   "company": "NXP",
    "role": "Internship - Understanding The Reliability Of Advanced Laminate-based Electronic Packages At Nxp",
    "location": "Arnhem"
   },
@@ -239,6 +299,12 @@
   "11291869be6ba1494249d86d8446d273": {
    "id": "11291869be6ba1494249d86d8446d273",
    "company": "39med",
+   "role": "Intern - Applied Statistics - Innovation & Engineering",
+   "location": "North Brabant"
+  },
+  "681c703002bcc66b1068d062e0a9ddeb": {
+   "id": "681c703002bcc66b1068d062e0a9ddeb",
+   "company": "MSD (Merck)",
    "role": "Intern - Applied Statistics - Innovation & Engineering",
    "location": "North Brabant"
   },
@@ -323,6 +389,12 @@
   "90d32879eb87b34b59e7a6689a7a2c7a": {
    "id": "90d32879eb87b34b59e7a6689a7a2c7a",
    "company": "Philips",
+   "role": "Internship: Service Parts Procurement",
+   "location": "Eindhoven"
+  },
+  "cc75e94e8ab07adb52e3690bfc590f2c": {
+   "id": "cc75e94e8ab07adb52e3690bfc590f2c",
+   "company": "Philips UK",
    "role": "Internship: Service Parts Procurement",
    "location": "Eindhoven"
   },
@@ -487,90 +559,6 @@
    "company": "GXO Logistics, Inc.",
    "role": "Internship - Bbl Leerling Logistiek Medewerker (niveau 2 Of 3)",
    "location": "Eindhoven"
-  },
-  "2442ccfa6ffd63ea0aba1faf42d025a7": {
-   "id": "2442ccfa6ffd63ea0aba1faf42d025a7",
-   "company": "282",
-   "role": "Internship – Non-financial Risk Ai Agent Developer",
-   "location": "Amsterdam"
-  },
-  "af61c7e6261cc90d66063fd3cbcf0d33": {
-   "id": "af61c7e6261cc90d66063fd3cbcf0d33",
-   "company": "bankcarriere.nl",
-   "role": "Internship – Non-financial Risk Ai Agent Developer",
-   "location": "Amsterdam"
-  },
-  "10a685bff8173ccd495a02f8a7b9b73c": {
-   "id": "10a685bff8173ccd495a02f8a7b9b73c",
-   "company": "ING Group",
-   "role": "Internship – Non-financial Risk Ai Agent Developer",
-   "location": "Amsterdam"
-  },
-  "19836935999a3366d857f934e1929145": {
-   "id": "19836935999a3366d857f934e1929145",
-   "company": "Coty Inc.",
-   "role": "Procurement Intern - Raw Materials & Tpm",
-   "location": "Amsterdam"
-  },
-  "225be422612a65228185006d62e9e5d2": {
-   "id": "225be422612a65228185006d62e9e5d2",
-   "company": "Perfetti Van Melle ICT B.V",
-   "role": "Internship Digital Content Marketing - Amsterdam Location",
-   "location": "Amsterdam"
-  },
-  "224495574654daacfefa87d6e2cc1859": {
-   "id": "224495574654daacfefa87d6e2cc1859",
-   "company": "CYBEX GmbH",
-   "role": "Intern Marketing Netherlands (m/f/d)",
-   "location": "Amsterdam"
-  },
-  "aa108bef87416f9a0619f234e922e485": {
-   "id": "aa108bef87416f9a0619f234e922e485",
-   "company": "Thermo Fisher Scientific UK",
-   "role": "Mechanical Engineering R&d Internship",
-   "location": "Eindhoven"
-  },
-  "cc3b58f412c2dd1c70cc12e98f2b92c6": {
-   "id": "cc3b58f412c2dd1c70cc12e98f2b92c6",
-   "company": "Thermo Fisher Scientific UK",
-   "role": "Intern - Integrating Genai Into Tem Life-science Applications",
-   "location": "Eindhoven"
-  },
-  "6f840ea8fb1469d164d40ca6da1d8bea": {
-   "id": "6f840ea8fb1469d164d40ca6da1d8bea",
-   "company": "PPD (Thermo Fisher) UK",
-   "role": "Intern - Integrating Genai Into Tem Life-science Applications",
-   "location": "Eindhoven"
-  },
-  "c2c5aff18d5492317dbfffbd641cd568": {
-   "id": "c2c5aff18d5492317dbfffbd641cd568",
-   "company": "PPD (Thermo Fisher) UK",
-   "role": "Mechanical Engineering R&d Internship",
-   "location": "Eindhoven"
-  },
-  "5c29f81742a29f7e5697be51792f69c3": {
-   "id": "5c29f81742a29f7e5697be51792f69c3",
-   "company": "Careers Philips",
-   "role": "Internship: Content And Engagement (bachelor, Non-thesis)",
-   "location": "Eindhoven"
-  },
-  "1f0415d7afbb4522d42acb3db3ee26ef": {
-   "id": "1f0415d7afbb4522d42acb3db3ee26ef",
-   "company": "Philips UK",
-   "role": "Internship: Content And Engagement (bachelor, Non-thesis)",
-   "location": "Eindhoven"
-  },
-  "5e81477c9897fbaaec72d0214aeedae3": {
-   "id": "5e81477c9897fbaaec72d0214aeedae3",
-   "company": "JYSK",
-   "role": "Stage Retail",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "52ce54372cccaa7f8f077cb9e73dbb2f": {
-   "id": "52ce54372cccaa7f8f077cb9e73dbb2f",
-   "company": "Nouryon",
-   "role": "R&d Internship",
-   "location": "Alphen Aan Den Rijn"
   },
   "f3fa62935938cfbc735d138bac5ebd80": {
    "id": "f3fa62935938cfbc735d138bac5ebd80",
@@ -1070,11 +1058,17 @@
    "role": "Business Analyst Data-driven Journey Managementfulltimeessense - Eidra",
    "location": "Amsterdam"
   },
-  "67e5a89efd4e8b381afa8ff9f2e4da0f": {
-   "id": "67e5a89efd4e8b381afa8ff9f2e4da0f",
-   "company": "RELX",
-   "role": "Business & Data Analyst",
-   "location": "Amsterdam"
+  "39c29b4745a47c2a1eb75f001723e20e": {
+   "id": "39c29b4745a47c2a1eb75f001723e20e",
+   "company": "miele.kz",
+   "role": "Service Technicus - Regio Den Haag",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "23ba3a668e6d157075d664a840050559": {
+   "id": "23ba3a668e6d157075d664a840050559",
+   "company": "miele.kz",
+   "role": "Service Technicus - Regio Apeldoorn",
+   "location": "Utrecht"
   },
   "0d713f3dcbc74711f70fced743019bba": {
    "id": "0d713f3dcbc74711f70fced743019bba",
@@ -1538,21 +1532,15 @@
    "role": "Stage Reparatie & Service Rotterdam Beijerlandselaan",
    "location": "Alphen Aan Den Rijn"
   },
-  "9ebb9ba0738331f120175a065ac762ac": {
-   "id": "9ebb9ba0738331f120175a065ac762ac",
-   "company": "Agrifirm Group",
-   "role": "Allround Onderhoudsmonteur",
-   "location": "Wanssum"
-  },
-  "192b584f26340b6cb72ad8d353784277": {
-   "id": "192b584f26340b6cb72ad8d353784277",
-   "company": "microsatsystems.biz",
-   "role": "Maintenance Monteur - Storing & Onderhoud",
-   "location": "Venlo"
-  },
   "ea4fdf4af02ba9415f8ab96345074236": {
    "id": "ea4fdf4af02ba9415f8ab96345074236",
    "company": "TOMMY HILFIGER",
+   "role": "Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - Den Haag (dutch Speaking)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "55ccb8a52a9fdc8359d4455d44dcff71": {
+   "id": "55ccb8a52a9fdc8359d4455d44dcff71",
+   "company": "Dmhvh",
    "role": "Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - Den Haag (dutch Speaking)",
    "location": "Alphen Aan Den Rijn"
   },
@@ -1565,6 +1553,12 @@
   "2eba8b63bf136a073ba35dcc502580fb": {
    "id": "2eba8b63bf136a073ba35dcc502580fb",
    "company": "The North Face",
+   "role": "Sales Associate",
+   "location": "Amsterdam"
+  },
+  "21f2fa5e7f1fb1c3233cdeec3efd9853": {
+   "id": "21f2fa5e7f1fb1c3233cdeec3efd9853",
+   "company": "VF Corporation",
    "role": "Sales Associate",
    "location": "Amsterdam"
   },
@@ -2003,18 +1997,6 @@
   "e59fecc2f1b657f07aa079a2c7c219e1": {
    "id": "e59fecc2f1b657f07aa079a2c7c219e1",
    "company": "Pvhcc",
-   "role": "Supervisor (32 Hours), Tommy Jeans - Kalverstraat Amsterdam",
-   "location": "Amsterdam"
-  },
-  "4e3dabb52f0a4b41f5f0695c34fe8f3c": {
-   "id": "4e3dabb52f0a4b41f5f0695c34fe8f3c",
-   "company": "Tommy Jeans",
-   "role": "Supervisor (32 Hours), Tommy Jeans - Kalverstraat Amsterdam",
-   "location": "Amsterdam"
-  },
-  "4a404e02a41bba28c9e353389cc5abac": {
-   "id": "4a404e02a41bba28c9e353389cc5abac",
-   "company": "Pfh",
    "role": "Supervisor (32 Hours), Tommy Jeans - Kalverstraat Amsterdam",
    "location": "Amsterdam"
   },
