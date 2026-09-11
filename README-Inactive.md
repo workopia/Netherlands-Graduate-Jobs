@@ -1103,4 +1103,55 @@
 <tr><td>Applied Materials Inc</td><td>Administrator Assistant (part-time) – Facilities Support</td><td>Amsterdam</td><td>2026-09-10</td></tr>
 <tr><td>Reckitt</td><td>Wf Receptionist And Administrator</td><td>Schiphol</td><td>2026-09-10</td></tr>
 <tr><td>CUSHMAN & WAKEFIELD</td><td>Commercial Assistant - Project & Development Services</td><td>Utrecht</td><td>2026-09-10</td></tr>
+<tr><td>Vilosa</td><td>Stage Data-gestuurd Telen Richting De Toekomststage's Gravenzande</td><td>'S Gravezande</td><td>2026-09-11</td></tr>
+<tr><td>McDermott International</td><td>Ict Internship For The Hague Office</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>pladis Global</td><td>Marketing Stagiair</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>pladis Global</td><td>Trade Marketing Stagair</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>pladis Global</td><td>Regulatory Affairs Intern</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>Stora Enso Oyj</td><td>Hr Stagiair (met Focus Op Recruitment)</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>Workwize</td><td>Finance Intern / Amsterdam Hybrid</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>Volvo Group Truck Center</td><td>Stagiair Continuous Improvement</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>Bilfinger SE</td><td>Mbo Stage Tandwielkasten En Aandrijftechniek</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>HAVI</td><td>Hr Stagiair</td><td>Amersfoort</td><td>2026-09-11</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>Strategic Finance Internship</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>Supply Chain Internship</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>P D G</td><td>Supply Chain Internship</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>P D G</td><td>Strategic Finance Internship</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>Brand Management Internship</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>P D G</td><td>Brand Management Internship</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>C.H. Robinson Worldwide</td><td>Internship - Fresh Produce Supply Chain</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>Philips</td><td>Internship: Audit, Risk & Compliance Operations Analyst (non-thesis)</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>Koninklijke Philips</td><td>Internship: Audit, Risk & Compliance Operations Analyst (non-thesis)</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>Corbion Group Netherlands B.V</td><td>Intern Polymer Technology</td><td>S Hertogenbosch</td><td>2026-09-11</td></tr>
+<tr><td>Frencken Group</td><td>Internship: Sub-micron Positioning For Analytical Market</td><td>Eindhoven</td><td>2026-09-11</td></tr>
+<tr><td>ING</td><td>Internship In Legal</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>ING Wholesale Banking</td><td>Internship Sustainable Capital Markets</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>ING Group</td><td>Internship In Legal</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>ING Group</td><td>Internship Sustainable Capital Markets</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>ING</td><td>Internship Legal Wholesale Banking</td><td>Cedar</td><td>2026-09-11</td></tr>
+<tr><td>ING</td><td>Internship – Financial Risk (customer Behaviour)</td><td>Cedar)</td><td>2026-09-11</td></tr>
+<tr><td>ING</td><td>Internship Quantitative Risk Management (interest Rate Risk & Alm)</td><td>Cedar)</td><td>2026-09-11</td></tr>
+<tr><td>ING Group</td><td>Internship Legal Wholesale Banking</td><td>Cedar)</td><td>2026-09-11</td></tr>
+<tr><td>ING Group</td><td>Internship Quantitative Risk Management (interest Rate Risk & Alm)</td><td>Cedar)</td><td>2026-09-11</td></tr>
+<tr><td>ING Group</td><td>Internship – Financial Risk (customer Behaviour)</td><td>Cedar)</td><td>2026-09-11</td></tr>
+<tr><td>CMA CGM Group</td><td>*internship* Customer Service</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>NXP USA INC.</td><td>Internship - Understanding The Reliability Of Advanced Laminate-based Electronic Packages At Nxp</td><td>Arnhem</td><td>2026-09-11</td></tr>
+<tr><td>NXP</td><td>Internship - Understanding The Reliability Of Advanced Laminate-based Electronic Packages At Nxp</td><td>Arnhem</td><td>2026-09-11</td></tr>
+<tr><td>Online Department</td><td>Ux (afstudeer)stagerotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>Netvlies V.O.F</td><td>Stage En Afstuderen</td><td>Breda</td><td>2026-09-11</td></tr>
+<tr><td>Boots apotheek</td><td>Intern, Pharmacy</td><td>Houten</td><td>2026-09-11</td></tr>
+<tr><td>microsatsystems.biz</td><td>Intern - Applied Statistics - Innovation & Engineering</td><td>North Brabant</td><td>2026-09-11</td></tr>
+<tr><td>ING</td><td>Customer Journey Expert – Business Insurance</td><td>Acanthus</td><td>2026-09-11</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Mechanic Allround</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>Alstom</td><td>Field Maintenance Operator Painting</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>Volvo Group Truck Center</td><td>Apk & Tachograaf Keurmeester</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>PVH</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amstelveen</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>Tommy Hilfiger & Calvin Klein - De Bijenkorf</td><td>Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>Capri</td><td>Part Time Sales Associate 12h</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 31h</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 31h</td><td>Alphen Aan Den Rijn</td><td>2026-09-11</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 5-12h</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>ALO / Australia</td><td>Sales Associate (part-time) - Wolvenstraat 9 Streets</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>PPG Industries</td><td>Allround Filiaalmedewerker</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorfulltimehoofddorp</td><td>Amsterdam</td><td>2026-09-11</td></tr>
 </table>
