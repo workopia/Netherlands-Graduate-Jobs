@@ -1154,4 +1154,44 @@
 <tr><td>ALO / Australia</td><td>Sales Associate (part-time) - Wolvenstraat 9 Streets</td><td>Amsterdam</td><td>2026-09-11</td></tr>
 <tr><td>PPG Industries</td><td>Allround Filiaalmedewerker</td><td>Amsterdam</td><td>2026-09-11</td></tr>
 <tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorfulltimehoofddorp</td><td>Amsterdam</td><td>2026-09-11</td></tr>
+<tr><td>Medikamente Die Grenze</td><td>Sales Employee Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Labs/shelf Life Intern</td><td>Arnhem</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Product Development - Salt & Sugar Intern</td><td>Arnhem</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Supply Chain & Logistics Intern</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Away From Home - Sales/marketing Intern</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Finance Intern</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Marketing Intern</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Digital Marketing</td><td>Alphen Aan Den Rijn</td><td>2026-09-12</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Digital Marketing</td><td>Alphen Aan Den Rijn</td><td>2026-09-12</td></tr>
+<tr><td>Stryker</td><td>Intern - Asset Finance</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>KRAFT HEINZ</td><td>Global Afh Intern</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>Dyson</td><td>Intern</td><td>Amsterdam Office</td><td>2026-09-12</td></tr>
+<tr><td>Dyson</td><td>Retail Activation And Operations Intern</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>HOK</td><td>Global Recruitment Intern</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>Edelman</td><td>Intern Communications</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>Baker Hughes</td><td>Intern - Sales And Commercial - Delft, Netherlands - 2026 (m/f/d)</td><td>Alphen Aan Den Rijn</td><td>2026-09-12</td></tr>
+<tr><td>Medtronic</td><td>Nextgen Academy Intern: Sales</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>techfreshers</td><td>Nextgen Academy Intern: Field Support</td><td>Eindhoven</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>R&d Technologist Intern</td><td>Arnhem</td><td>2026-09-12</td></tr>
+<tr><td>Kraft Heinz</td><td>Packaging Development & Technology intern</td><td>Arnhem</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Global Supply Chain Finance Intern</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Food Safety & Quality Intern</td><td>Arnhem</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Procurement Finance Intern</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Fsq External Manufacturing Intern</td><td>Arnhem</td><td>2026-09-12</td></tr>
+<tr><td>KraftHeinz</td><td>Marketing & Portfolio Afh Growth Intern</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>Drweng</td><td>Software Developer Intern</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-09-12</td></tr>
+<tr><td>Istimewa Elektro BV</td><td>Servicetechnicus (technicus E&i A)</td><td>Alphen Aan Den Rijn</td><td>2026-09-12</td></tr>
+<tr><td>Bilfinger</td><td>Servicetechnicus (technicus E&i A)</td><td>Alphen Aan Den Rijn</td><td>2026-09-12</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Reparatie Specialist The Wall</td><td>Utrecht</td><td>2026-09-12</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Junior Monteur Facility & Technische Dienst</td><td>Venlo</td><td>2026-09-12</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Junior Technician Facilities & Technical Services</td><td>Venlo</td><td>2026-09-12</td></tr>
+<tr><td>workday.gea</td><td>Field Service Monteur</td><td>Tynaarlo</td><td>2026-09-12</td></tr>
+<tr><td>GEA</td><td>Field Service Monteur</td><td>Tynaarlo</td><td>2026-09-12</td></tr>
+<tr><td>JYSK</td><td>Bijbaan Verkoopmedewerker</td><td>Alphen Aan Den Rijn</td><td>2026-09-12</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 21h</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Office Administrator</td><td>Venlo</td><td>2026-09-12</td></tr>
+<tr><td>Ameriprise Financial Services, LLC</td><td>Team Assistant Based In Amsterdam</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>Hotelschool The Hague</td><td>Placement Coordinator (0.7 Fte, Temporary 6 Months)</td><td>Amsterdam</td><td>2026-09-12</td></tr>
+<tr><td>Capri</td><td>Safety Specialist</td><td>Venlo</td><td>2026-09-12</td></tr>
 </table>
