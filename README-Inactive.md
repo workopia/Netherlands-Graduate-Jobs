@@ -1194,4 +1194,49 @@
 <tr><td>Ameriprise Financial Services, LLC</td><td>Team Assistant Based In Amsterdam</td><td>Amsterdam</td><td>2026-09-12</td></tr>
 <tr><td>Hotelschool The Hague</td><td>Placement Coordinator (0.7 Fte, Temporary 6 Months)</td><td>Amsterdam</td><td>2026-09-12</td></tr>
 <tr><td>Capri</td><td>Safety Specialist</td><td>Venlo</td><td>2026-09-12</td></tr>
+<tr><td>Amarosa</td><td>Medewerker Technische Dienst (38 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-09-13</td></tr>
+<tr><td>Profuomo</td><td>Sales Advisor - Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-09-13</td></tr>
+<tr><td>Kraft Heinz</td><td>Supply Chain & Logistics Intern</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>Philips UK</td><td>Product Innovation & Ai-powered Video Creation Internship – Philips Avent Experience Innovation</td><td>Eindhoven</td><td>2026-09-13</td></tr>
+<tr><td>Philips UK</td><td>Ai & Cyber Threat Intelligence Intern</td><td>Eindhoven</td><td>2026-09-13</td></tr>
+<tr><td>Sanrafaelvet</td><td>Digital Innovative Solutions Intern</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>ING</td><td>Stagiair Marketing & Communicatie</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>ING</td><td>Internship - Trainee Management Team</td><td>Cedar)</td><td>2026-09-13</td></tr>
+<tr><td>ING</td><td>Stagiair Adviseur Vermogen Regio Nijmegen</td><td>Arnhem</td><td>2026-09-13</td></tr>
+<tr><td>ING</td><td>Stagiair Adviseur Vermogen Regio Utrecht</td><td>Netherlands</td><td>2026-09-13</td></tr>
+<tr><td>ING</td><td>Internship Sustainable Finance Business Banking</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>Ingalcivil Com Au</td><td>Stagiair Hydrocarbon & New Energies</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>Ingalcivil Com Au</td><td>Internship – Non-financial Risk Ai Agent Developer</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship – Hr Talent & Learning - International Talent Programme</td><td>Cedar)</td><td>2026-09-13</td></tr>
+<tr><td>ING Bank Netherlands</td><td>Internship - Tech Marketing & Communication Intern For Corporate Technology</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>ING</td><td>Internship - Communications Intern</td><td>Haarlerbergpark</td><td>2026-09-13</td></tr>
+<tr><td>Ingalcivil Com Au</td><td>Internship Portfolio Management & Distribution (pmd)</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>ING Grootzakelijk</td><td>Wo Meewerkstage Acquisition Finance & Structured Lending (af&sl) Bij Ing Grootzakelijk</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>Ingalcivil Com Au</td><td>Internship Global Communications - Global Communications</td><td>Cedar</td><td>2026-09-13</td></tr>
+<tr><td>CMA CGM Group</td><td>*internship* Customer Service</td><td>Alphen Aan Den Rijn</td><td>2026-09-13</td></tr>
+<tr><td>Signify</td><td>Digital Communications & Community Management Intern</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>Signify</td><td>Internship Tu/e Company Tour</td><td>Eindhoven</td><td>2026-09-13</td></tr>
+<tr><td>Mars Australia</td><td>Thesis Internship – Forecast Analytics</td><td>S Hertogenbosch</td><td>2026-09-13</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Strategy & Operations Optimization</td><td>S Hertogenbosch</td><td>2026-09-13</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Strategy & Operations Optimization</td><td>S Hertogenbosch</td><td>2026-09-13</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Campus Recruitment</td><td>S Hertogenbosch</td><td>2026-09-13</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Health Interventions In The Workplace</td><td>S Hertogenbosch</td><td>2026-09-13</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Health Interventions In The Workplace</td><td>S Hertogenbosch</td><td>2026-09-13</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Campus Recruitment</td><td>S Hertogenbosch</td><td>2026-09-13</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Ict Service Centre Support Engineer</td><td>S Hertogenbosch</td><td>2026-09-13</td></tr>
+<tr><td>Wolters Kluwer</td><td>External Communications And Press Office Intern (starting Sept)</td><td>Netherlands</td><td>2026-09-13</td></tr>
+<tr><td>Wolters Kluwer</td><td>Global Branding, Talent Brand & Creative Intern (start Per Sept)</td><td>Netherlands</td><td>2026-09-13</td></tr>
+<tr><td>KraftHeinz</td><td>Law Internship (stage)</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>Essense</td><td>Business Analyst Data-driven Journey Managementfulltimeessense - Eidra</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>Trouw Nutrition</td><td>Allround Monteur Td</td><td>Sloten</td><td>2026-09-13</td></tr>
+<tr><td>AkzoNobel</td><td>Mechanic Allround</td><td>Alphen Aan Den Rijn</td><td>2026-09-13</td></tr>
+<tr><td>Chart Industries Inc</td><td>Maintenance/field Services Technician</td><td>Zuidland</td><td>2026-09-13</td></tr>
+<tr><td>Valspar</td><td>Maintenance- Technician</td><td>Netherlands</td><td>2026-09-13</td></tr>
+<tr><td>Sherwin-Williams 2</td><td>Maintenance- Technician</td><td>Netherlands</td><td>2026-09-13</td></tr>
+<tr><td>Sherwin-Williams</td><td>Maintenance- Technician</td><td>Netherlands</td><td>2026-09-13</td></tr>
+<tr><td>Bilfinger</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-09-13</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 5-12h</td><td>Alphen Aan Den Rijn</td><td>2026-09-13</td></tr>
+<tr><td>Flix</td><td>Shop Employee (m/f/d)</td><td>Amsterdam</td><td>2026-09-13</td></tr>
+<tr><td>Primark</td><td>Fulltime Retail Assistant Utrecht</td><td>Utrecht</td><td>2026-09-13</td></tr>
 </table>

@@ -1,12 +1,12 @@
 {
- "asOf": "2026-09-12",
- "count": 377,
+ "asOf": "2026-09-13",
+ "count": 380,
  "jobs": {
-  "2372004": {
-   "id": "2372004",
-   "company": "Amarosa",
-   "role": "Medewerker Technische Dienst (38 Uur)",
-   "location": "Alphen Aan Den Rijn"
+  "2545324": {
+   "id": "2545324",
+   "company": "Deleurope",
+   "role": "Reservations Agent Intern",
+   "location": "Amsterdam"
   },
   "2632449": {
    "id": "2632449",
@@ -50,11 +50,11 @@
    "role": "Customer Service Coordinator Global",
    "location": "Alphen Aan Den Rijn"
   },
-  "2705598": {
-   "id": "2705598",
-   "company": "Profuomo",
-   "role": "Sales Advisor - Den Haag",
-   "location": "Alphen Aan Den Rijn"
+  "2702025": {
+   "id": "2702025",
+   "company": "Budget Thuis",
+   "role": "Kwaliteitsanalist",
+   "location": "Amsterdam"
   },
   "2708586": {
    "id": "2708586",
@@ -74,6 +74,174 @@
    "role": "Sales Specialist In Amsterdam",
    "location": "Amsterdam"
   },
+  "2743667": {
+   "id": "2743667",
+   "company": "Hotel TwentySeven",
+   "role": "Stagiair(e) Butler",
+   "location": "Amsterdam"
+  },
+  "2743672": {
+   "id": "2743672",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Hr Stagiair(e)",
+   "location": "Amsterdam"
+  },
+  "2743705": {
+   "id": "2743705",
+   "company": "Hotel TwentySeven",
+   "role": "Stagiair(e) Reserveringen",
+   "location": "Amsterdam"
+  },
+  "e28f31b1653876a96139e1629a923722": {
+   "id": "e28f31b1653876a96139e1629a923722",
+   "company": "RWE AG",
+   "role": "Afstudeerstage: It/ot Security - Veilige Filetransfer Via Datadiode",
+   "location": "Breda"
+  },
+  "ef4ab0edaafea68922e66733e50431fc": {
+   "id": "ef4ab0edaafea68922e66733e50431fc",
+   "company": "RWE AG",
+   "role": "Afstudeerstage: It/ot Security - Restlevensduur Van Energie-installaties",
+   "location": "Breda"
+  },
+  "10eeeae06e2c40269e69103d82a05f70": {
+   "id": "10eeeae06e2c40269e69103d82a05f70",
+   "company": "Coty",
+   "role": "People Analytics & Total Rewards Intern",
+   "location": "Amsterdam"
+  },
+  "c5c0e72e6f59f7aae3a84f4ecf2db1d2": {
+   "id": "c5c0e72e6f59f7aae3a84f4ecf2db1d2",
+   "company": "Housing Anywhere B.V.",
+   "role": "Internship / Finance Operations",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "1f953dcb6bebd451db58c4ba9523a382": {
+   "id": "1f953dcb6bebd451db58c4ba9523a382",
+   "company": "DEPT",
+   "role": "Social Producer Intern",
+   "location": "Amsterdam"
+  },
+  "e8510da45b05adddfc3e042bd114a3a1": {
+   "id": "e8510da45b05adddfc3e042bd114a3a1",
+   "company": "Avery Dennison Corporation",
+   "role": "Internship: Treasury/finance (bank & Cash Management)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "e8ccf56f6fe6f7dafda8fb18d925ca6f": {
+   "id": "e8ccf56f6fe6f7dafda8fb18d925ca6f",
+   "company": "Avery Dennison Smartrac",
+   "role": "Internship: Treasury/finance (bank & Cash Management)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "214e40d4053d7b38677f82f4016cc5ce": {
+   "id": "214e40d4053d7b38677f82f4016cc5ce",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Food & Beverage Stagiaire - Jouw Stageplek Is Beschikbaar!",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "36c1a137006984c5206305770b1b38f9": {
+   "id": "36c1a137006984c5206305770b1b38f9",
+   "company": "IHC Merwede Holding B.V",
+   "role": "Stage Commerciële Economie",
+   "location": "Kinderdijk"
+  },
+  "038db216e78726e5500fd5e52e83f625": {
+   "id": "038db216e78726e5500fd5e52e83f625",
+   "company": "IHC Merwede Holding B.V",
+   "role": "Intern Communication & Change Management – Aida Program",
+   "location": "Kinderdijk"
+  },
+  "f977d314ebc6e1c65dac3490e55b3c27": {
+   "id": "f977d314ebc6e1c65dac3490e55b3c27",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman - Recruiting Intern (30-40 Hours Per Week, Up To 12 Months) - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "e785c96ef774cb6c3588a86368168e42": {
+   "id": "e785c96ef774cb6c3588a86368168e42",
+   "company": "Marsh & McLennan Companies Inc",
+   "role": "Meewerk Stage Fiduciary (m/v/x)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f23187f1c5636662e099cf22839df4ed": {
+   "id": "f23187f1c5636662e099cf22839df4ed",
+   "company": "Cencora",
+   "role": "Intern, Data",
+   "location": "S Hertogenbosch"
+  },
+  "b63001e69847e1e921775c032fe05db8": {
+   "id": "b63001e69847e1e921775c032fe05db8",
+   "company": "Boots apotheek",
+   "role": "Intern, Pharmacy",
+   "location": "Houten"
+  },
+  "19d9299fa189c891450c2afe7950802d": {
+   "id": "19d9299fa189c891450c2afe7950802d",
+   "company": "JBT Marel",
+   "role": "Internship Business Administration -- Facilities And Mro Procurement",
+   "location": "Venlo"
+  },
+  "5f3c471655c7e951ff4b7a2bd482fb74": {
+   "id": "5f3c471655c7e951ff4b7a2bd482fb74",
+   "company": "Exclusive Networks Group",
+   "role": "Hr / Facilitair Stagiair(e)",
+   "location": "Son"
+  },
+  "86bac84fc920011ad4d8280036397f1b": {
+   "id": "86bac84fc920011ad4d8280036397f1b",
+   "company": "Exclusive Networks",
+   "role": "Marketing & Communicatie Stagiair(e)",
+   "location": "Son"
+  },
+  "9a3b9a9fcf03afd57e068c2da4e407ea": {
+   "id": "9a3b9a9fcf03afd57e068c2da4e407ea",
+   "company": "Vanderlande UK",
+   "role": "Internship: Ict Service Centre Support Engineer",
+   "location": "S Hertogenbosch"
+  },
+  "cc929aa56418d7a2ec94bdd0cafc8f96": {
+   "id": "cc929aa56418d7a2ec94bdd0cafc8f96",
+   "company": "Stichting Doen",
+   "role": "Impact Investment Stagiairfulltimebeethovenstraat 200, Amsterdam",
+   "location": "Amsterdam"
+  },
+  "a4e60a83040eaa7d6105f9adc0e615b7": {
+   "id": "a4e60a83040eaa7d6105f9adc0e615b7",
+   "company": "100",
+   "role": "Shell Assessed Internship Programme 2027 - Netherlands",
+   "location": "Amsterdam"
+  },
+  "a3aa24604897f5f53455fb3bd8274cb3": {
+   "id": "a3aa24604897f5f53455fb3bd8274cb3",
+   "company": "Kraft Heinz",
+   "role": "Law Internship (stage)",
+   "location": "Amsterdam"
+  },
+  "bf64df04becdecae4641a3f184b38513": {
+   "id": "bf64df04becdecae4641a3f184b38513",
+   "company": "kaiserkraft.pt",
+   "role": "Product Development - Salt & Sugar Intern",
+   "location": "Arnhem"
+  },
+  "800ced03fc1e6f7c8651ad79fba558b7": {
+   "id": "800ced03fc1e6f7c8651ad79fba558b7",
+   "company": "Kraft Heinz",
+   "role": "Supply Chain & Logistics Intern",
+   "location": "Amsterdam"
+  },
+  "00f9035c8d4cb5db17fefb501b578ec5": {
+   "id": "00f9035c8d4cb5db17fefb501b578ec5",
+   "company": "Kraft Heinz",
+   "role": "Away From Home - Sales/marketing Intern",
+   "location": "Amsterdam"
+  },
+  "d822d8444c0d37cd893e0e8f4befb85b": {
+   "id": "d822d8444c0d37cd893e0e8f4befb85b",
+   "company": "kaiserkraft.pt",
+   "role": "Marketing Intern",
+   "location": "Amsterdam"
+  },
   "e6506aa32efc007d9ca4816637b9d871": {
    "id": "e6506aa32efc007d9ca4816637b9d871",
    "company": "Kraft Heinz",
@@ -85,12 +253,6 @@
    "company": "Kraft Heinz",
    "role": "Labs/shelf Life Intern",
    "location": "Arnhem"
-  },
-  "11c0a4bf2cf325b87e85d658d1c1f2d1": {
-   "id": "11c0a4bf2cf325b87e85d658d1c1f2d1",
-   "company": "Kraft Heinz",
-   "role": "Supply Chain & Logistics Intern",
-   "location": "Amsterdam"
   },
   "1948c132a0623674d223046928f3ab5b": {
    "id": "1948c132a0623674d223046928f3ab5b",
@@ -194,6 +356,12 @@
    "role": "Nwe Business Management Intern (defense Industry Europe)",
    "location": "Amsterdam"
   },
+  "3f9b693f84ca518c1290082baee4c9d0": {
+   "id": "3f9b693f84ca518c1290082baee4c9d0",
+   "company": "HelloFresh",
+   "role": "Logistics Operational Excellence Intern (f/m/x)",
+   "location": "Amsterdam"
+  },
   "ade13cfc4d7a0e3515b429fc7557997b": {
    "id": "ade13cfc4d7a0e3515b429fc7557997b",
    "company": "Baker Hughes",
@@ -240,6 +408,12 @@
    "id": "0df6671ffe14570e2a5d19dbdc3ae797",
    "company": "Greenberg Traurig",
    "role": "Student-stagiair",
+   "location": "Amsterdam"
+  },
+  "bcda1a9373340adb5ee31b96f77b2de3": {
+   "id": "bcda1a9373340adb5ee31b96f77b2de3",
+   "company": "EssenceMediacom Holdings Limited",
+   "role": "Stage Influencer Marketing",
    "location": "Amsterdam"
   },
   "5ef3b30f91da677c03b7e6078b123314": {
@@ -374,186 +548,6 @@
    "role": "Internship Sustainability And Compliance Intern (non-thesis)",
    "location": "Amsterdam"
   },
-  "da4699ef1de459aa3e33e12ce7f6865c": {
-   "id": "da4699ef1de459aa3e33e12ce7f6865c",
-   "company": "Philips UK",
-   "role": "Product Innovation & Ai-powered Video Creation Internship – Philips Avent Experience Innovation",
-   "location": "Eindhoven"
-  },
-  "cc3518af2816c5099751c67a0fcd0d75": {
-   "id": "cc3518af2816c5099751c67a0fcd0d75",
-   "company": "Philips UK",
-   "role": "Ai & Cyber Threat Intelligence Intern",
-   "location": "Eindhoven"
-  },
-  "ce424782b53f506f5256b1d3d11ae346": {
-   "id": "ce424782b53f506f5256b1d3d11ae346",
-   "company": "Sanrafaelvet",
-   "role": "Digital Innovative Solutions Intern",
-   "location": "Amsterdam"
-  },
-  "b2cc2c4b36c0a42bedfcad253fe077fc": {
-   "id": "b2cc2c4b36c0a42bedfcad253fe077fc",
-   "company": "ING",
-   "role": "Stagiair Marketing & Communicatie",
-   "location": "Amsterdam"
-  },
-  "85f94cef45e8a6a16dfc2c92b784aff1": {
-   "id": "85f94cef45e8a6a16dfc2c92b784aff1",
-   "company": "ING",
-   "role": "Internship - Trainee Management Team",
-   "location": "Cedar)"
-  },
-  "4a4267327d19d2dc38b811ee1a32d460": {
-   "id": "4a4267327d19d2dc38b811ee1a32d460",
-   "company": "ING",
-   "role": "Stagiair Adviseur Vermogen Regio Nijmegen",
-   "location": "Arnhem"
-  },
-  "34f45560bbf4b5c4d04468e58fddc6a2": {
-   "id": "34f45560bbf4b5c4d04468e58fddc6a2",
-   "company": "ING",
-   "role": "Stagiair Adviseur Vermogen Regio Utrecht",
-   "location": "Netherlands"
-  },
-  "2f41432ffa31270ef07d3fdfe9ad94e4": {
-   "id": "2f41432ffa31270ef07d3fdfe9ad94e4",
-   "company": "ING",
-   "role": "Internship Sustainable Finance Business Banking",
-   "location": "Amsterdam"
-  },
-  "67fa7c72b43c1f78d9d1ed7d750824fc": {
-   "id": "67fa7c72b43c1f78d9d1ed7d750824fc",
-   "company": "Ingalcivil Com Au",
-   "role": "Stagiair Hydrocarbon & New Energies",
-   "location": "Amsterdam"
-  },
-  "e968afa1057376dd2122e70971a16d3e": {
-   "id": "e968afa1057376dd2122e70971a16d3e",
-   "company": "Ingalcivil Com Au",
-   "role": "Internship – Non-financial Risk Ai Agent Developer",
-   "location": "Amsterdam"
-  },
-  "5e0e6a5021395bdc98aed1ac4afc1c3d": {
-   "id": "5e0e6a5021395bdc98aed1ac4afc1c3d",
-   "company": "itinfinance.nl",
-   "role": "Internship – Hr Talent & Learning - International Talent Programme",
-   "location": "Cedar)"
-  },
-  "9de43949a0743b8d1d05dc6bb7bc9f54": {
-   "id": "9de43949a0743b8d1d05dc6bb7bc9f54",
-   "company": "ING Bank Netherlands",
-   "role": "Internship - Tech Marketing & Communication Intern For Corporate Technology",
-   "location": "Amsterdam"
-  },
-  "4726ef095c6866cf1a72c36587d69a99": {
-   "id": "4726ef095c6866cf1a72c36587d69a99",
-   "company": "ING",
-   "role": "Internship - Communications Intern",
-   "location": "Haarlerbergpark"
-  },
-  "f2a18ee70ee9e608d618792649a261f4": {
-   "id": "f2a18ee70ee9e608d618792649a261f4",
-   "company": "Ingalcivil Com Au",
-   "role": "Internship Portfolio Management & Distribution (pmd)",
-   "location": "Amsterdam"
-  },
-  "954c69ca89ca67a850c5b348efb5783a": {
-   "id": "954c69ca89ca67a850c5b348efb5783a",
-   "company": "ING Grootzakelijk",
-   "role": "Wo Meewerkstage Acquisition Finance & Structured Lending (af&sl) Bij Ing Grootzakelijk",
-   "location": "Amsterdam"
-  },
-  "c4294b405f294908720dccbe83100d58": {
-   "id": "c4294b405f294908720dccbe83100d58",
-   "company": "Ingalcivil Com Au",
-   "role": "Internship Global Communications - Global Communications",
-   "location": "Cedar"
-  },
-  "66eb54180d097e6997ab3d586965cb5d": {
-   "id": "66eb54180d097e6997ab3d586965cb5d",
-   "company": "CMA CGM Group",
-   "role": "*internship* Customer Service",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "0be9a94c55ba1520a9ee457acf0da1a5": {
-   "id": "0be9a94c55ba1520a9ee457acf0da1a5",
-   "company": "Signify",
-   "role": "Digital Communications & Community Management Intern",
-   "location": "Amsterdam"
-  },
-  "9b8e419e5c2fa7fb06da59492417c0aa": {
-   "id": "9b8e419e5c2fa7fb06da59492417c0aa",
-   "company": "Signify",
-   "role": "Internship Tu/e Company Tour",
-   "location": "Eindhoven"
-  },
-  "e4f330ddf3a7e3526b34dde4039a8b89": {
-   "id": "e4f330ddf3a7e3526b34dde4039a8b89",
-   "company": "Mars Australia",
-   "role": "Thesis Internship – Forecast Analytics",
-   "location": "S Hertogenbosch"
-  },
-  "9d13e6061f9128d06793bdd8ba193972": {
-   "id": "9d13e6061f9128d06793bdd8ba193972",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Strategy & Operations Optimization",
-   "location": "S Hertogenbosch"
-  },
-  "d2050f4f505c2c7bd35f23701d913862": {
-   "id": "d2050f4f505c2c7bd35f23701d913862",
-   "company": "Vanderlande UK",
-   "role": "Internship: Strategy & Operations Optimization",
-   "location": "S Hertogenbosch"
-  },
-  "dd660ca11eaea8f3a52f874541c18f7b": {
-   "id": "dd660ca11eaea8f3a52f874541c18f7b",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Campus Recruitment",
-   "location": "S Hertogenbosch"
-  },
-  "114d4d1b91e94c32e18af7178cb384d2": {
-   "id": "114d4d1b91e94c32e18af7178cb384d2",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Health Interventions In The Workplace",
-   "location": "S Hertogenbosch"
-  },
-  "a4cb9eb400d442be83320d5e9f90a915": {
-   "id": "a4cb9eb400d442be83320d5e9f90a915",
-   "company": "Vanderlande UK",
-   "role": "Internship: Health Interventions In The Workplace",
-   "location": "S Hertogenbosch"
-  },
-  "600e70f5c9fea60cdc27d220ca5b201b": {
-   "id": "600e70f5c9fea60cdc27d220ca5b201b",
-   "company": "Vanderlande UK",
-   "role": "Internship: Campus Recruitment",
-   "location": "S Hertogenbosch"
-  },
-  "d73cf3fcc054c9116a96f05c4f602152": {
-   "id": "d73cf3fcc054c9116a96f05c4f602152",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Ict Service Centre Support Engineer",
-   "location": "S Hertogenbosch"
-  },
-  "1d83f07456d892b609e83c0c76123ae1": {
-   "id": "1d83f07456d892b609e83c0c76123ae1",
-   "company": "Wolters Kluwer",
-   "role": "External Communications And Press Office Intern (starting Sept)",
-   "location": "Netherlands"
-  },
-  "2440da3fac8a902911fa5bdf25f0d361": {
-   "id": "2440da3fac8a902911fa5bdf25f0d361",
-   "company": "Wolters Kluwer",
-   "role": "Global Branding, Talent Brand & Creative Intern (start Per Sept)",
-   "location": "Netherlands"
-  },
-  "3cfa5b28be8bf8975d6bbcd42800b6e2": {
-   "id": "3cfa5b28be8bf8975d6bbcd42800b6e2",
-   "company": "KraftHeinz",
-   "role": "Law Internship (stage)",
-   "location": "Amsterdam"
-  },
   "40bfd8ea715f2c582c0e2ed49d6554b2": {
    "id": "40bfd8ea715f2c582c0e2ed49d6554b2",
    "company": "IMC Trading",
@@ -644,8 +638,8 @@
    "role": "Software Engineer Iii",
    "location": "Amsterdam"
   },
-  "9ca8835d60da6f61f4652c6ca37e5da9": {
-   "id": "9ca8835d60da6f61f4652c6ca37e5da9",
+  "5bd8b6e30b16f16b0ebef1fd90ef00df": {
+   "id": "5bd8b6e30b16f16b0ebef1fd90ef00df",
    "company": "Oliver Wyman",
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
    "location": "Amsterdam"
@@ -708,6 +702,12 @@
    "id": "d54782892adae674d2123a5ec973882b",
    "company": "Philips",
    "role": "Internship: Data & Ai Reporting Analyst (trade Data)",
+   "location": "Amsterdam"
+  },
+  "720b412a17a2d57d6c73685d934a2c46": {
+   "id": "720b412a17a2d57d6c73685d934a2c46",
+   "company": "Basic-Fit",
+   "role": "Club Data Analyst",
    "location": "Amsterdam"
   },
   "1f13b380cb58605f7d7897d5bdcd62ac": {
@@ -859,6 +859,12 @@
    "company": "Jobgether",
    "role": "Growth & Data (ic)",
    "location": "Netherlands"
+  },
+  "8226dd15f01925938305cf175eee9808": {
+   "id": "8226dd15f01925938305cf175eee9808",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman - Intern Consultant – 2026 – Netherlands",
+   "location": "Amsterdam"
   },
   "49ffce9540e4f2494ccb1fc9935b8245": {
    "id": "49ffce9540e4f2494ccb1fc9935b8245",
@@ -1094,11 +1100,53 @@
    "role": "Investment Banking Interninternshipamsterdam, Zuidas",
    "location": "Amsterdam"
   },
-  "331fa5d8e2a4f6cda60dd1523612bd2f": {
-   "id": "331fa5d8e2a4f6cda60dd1523612bd2f",
-   "company": "Essense",
-   "role": "Business Analyst Data-driven Journey Managementfulltimeessense - Eidra",
-   "location": "Amsterdam"
+  "dece2cbbc71cd25d5812d767092dccec": {
+   "id": "dece2cbbc71cd25d5812d767092dccec",
+   "company": "Yunex Traffic",
+   "role": "Service Engineer",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "87086aefd45f8dcd2a2bbc99f3b8c67e": {
+   "id": "87086aefd45f8dcd2a2bbc99f3b8c67e",
+   "company": "Trouw Nutrition",
+   "role": "Allround Monteur Td",
+   "location": "Sloten"
+  },
+  "173ed3e268e8e24511239a64fa7a5f07": {
+   "id": "173ed3e268e8e24511239a64fa7a5f07",
+   "company": "JBT Marel",
+   "role": "Field Service Engineer Skinning -- Benelux",
+   "location": "Netherlands"
+  },
+  "83abb115f7ac7d1f2168dea83e3242fb": {
+   "id": "83abb115f7ac7d1f2168dea83e3242fb",
+   "company": "JBT Marel",
+   "role": "Field Service Technician (controls)",
+   "location": "Netherlands"
+  },
+  "6a862b5d3a7ecf2bf4ad0f055f6957e9": {
+   "id": "6a862b5d3a7ecf2bf4ad0f055f6957e9",
+   "company": "JBT Marel",
+   "role": "Onderhoudsmonteur Td - Equipment Maintenance",
+   "location": "Venlo"
+  },
+  "62e4705d85e30a0f31a20e3ffcbb5757": {
+   "id": "62e4705d85e30a0f31a20e3ffcbb5757",
+   "company": "JBT Marel",
+   "role": "Field Service Engineer Automation",
+   "location": "Netherlands"
+  },
+  "7005d811871c076cdaca57fb07454ad8": {
+   "id": "7005d811871c076cdaca57fb07454ad8",
+   "company": "JBT Marel",
+   "role": "Field Service Engineer Evisceration",
+   "location": "Netherlands"
+  },
+  "9fcca822ac1dd75c3e73671572a15988": {
+   "id": "9fcca822ac1dd75c3e73671572a15988",
+   "company": "Otis",
+   "role": "Service Monteur Liften Amsterdam",
+   "location": "Badhoevedorp"
   },
   "3a00a87994829de7df4e34440e391c0a": {
    "id": "3a00a87994829de7df4e34440e391c0a",
@@ -1291,12 +1339,6 @@
    "company": "Alstom",
    "role": "Mechanisch Monteur",
    "location": "Alphen Aan Den Rijn"
-  },
-  "49190fa922e486e2475c5b06a9ae5b6e": {
-   "id": "49190fa922e486e2475c5b06a9ae5b6e",
-   "company": "Trouw Nutrition",
-   "role": "Allround Monteur Td",
-   "location": "Sloten"
   },
   "0eb85cacce62b8a637a66140cf2044e3": {
    "id": "0eb85cacce62b8a637a66140cf2044e3",
@@ -1532,40 +1574,22 @@
    "role": "Fire Suppression Service Technician",
    "location": "Alphen Aan Den Rijn"
   },
-  "f8564aecd097a7192bdc10e5434063bc": {
-   "id": "f8564aecd097a7192bdc10e5434063bc",
-   "company": "AkzoNobel",
-   "role": "Mechanic Allround",
+  "f8c90fd84a6134f0dff86bb7aa9fda8b": {
+   "id": "f8c90fd84a6134f0dff86bb7aa9fda8b",
+   "company": "H&M",
+   "role": "Sales Advisor 5-12h",
+   "location": "Amsterdam"
+  },
+  "c5c4b374e4df496b16d034c541710e8b": {
+   "id": "c5c4b374e4df496b16d034c541710e8b",
+   "company": "H&M",
+   "role": "Verkoopmedewerker – Leiden (flex Hulp)",
    "location": "Alphen Aan Den Rijn"
   },
-  "6f35bac61e072b4da4d24e039d3519a5": {
-   "id": "6f35bac61e072b4da4d24e039d3519a5",
-   "company": "Chart Industries Inc",
-   "role": "Maintenance/field Services Technician",
-   "location": "Zuidland"
-  },
-  "78bf6f6ec914b99e877249a45a8ba626": {
-   "id": "78bf6f6ec914b99e877249a45a8ba626",
-   "company": "Valspar",
-   "role": "Maintenance- Technician",
-   "location": "Netherlands"
-  },
-  "bc6c4cdf6bff04300a89116ba5ce078b": {
-   "id": "bc6c4cdf6bff04300a89116ba5ce078b",
-   "company": "Sherwin-Williams 2",
-   "role": "Maintenance- Technician",
-   "location": "Netherlands"
-  },
-  "f3e196794c699a4d983161b0489e60d8": {
-   "id": "f3e196794c699a4d983161b0489e60d8",
-   "company": "Sherwin-Williams",
-   "role": "Maintenance- Technician",
-   "location": "Netherlands"
-  },
-  "2c10a9b4a81713a8ff8a5be7fb8cb9ec": {
-   "id": "2c10a9b4a81713a8ff8a5be7fb8cb9ec",
-   "company": "Bilfinger",
-   "role": "Werkvoorbereider Elektrotechniek",
+  "8e92afb41c3ff0cb9a449bbcc3f147ed": {
+   "id": "8e92afb41c3ff0cb9a449bbcc3f147ed",
+   "company": "H&M",
+   "role": "Verkoopmedewerker – Delft (weekend/bijbaan)",
    "location": "Alphen Aan Den Rijn"
   },
   "2eba8b63bf136a073ba35dcc502580fb": {
@@ -1783,12 +1807,6 @@
    "company": "H&M",
    "role": "Verkoopmedewerker – Amsterdam Buikslotermeerplein (weekend/bijbaan)",
    "location": "Amsterdam"
-  },
-  "8778b2408f1d65a56165b542394dd6b4": {
-   "id": "8778b2408f1d65a56165b542394dd6b4",
-   "company": "H&M",
-   "role": "Sales Advisor 5-12h",
-   "location": "Alphen Aan Den Rijn"
   },
   "c7afdc587efc05dba839b091ba0d607a": {
    "id": "c7afdc587efc05dba839b091ba0d607a",
@@ -2036,11 +2054,17 @@
    "role": "Countermedewerker Kiosk 16",
    "location": "Alphen Aan Den Rijn"
   },
-  "96a4abbdb9af9ca1678361a5e51d2bdb": {
-   "id": "96a4abbdb9af9ca1678361a5e51d2bdb",
-   "company": "Flix",
-   "role": "Shop Employee (m/f/d)",
-   "location": "Amsterdam"
+  "bffab1b9a2e10fe15e6638a6c0efa8c4": {
+   "id": "bffab1b9a2e10fe15e6638a6c0efa8c4",
+   "company": "IHC Merwede Holding B.V",
+   "role": "Training Specialist",
+   "location": "Kinderdijk"
+  },
+  "455482d323754fb8747b68227fb81835": {
+   "id": "455482d323754fb8747b68227fb81835",
+   "company": "SciAps",
+   "role": "Customer Service Coordinator",
+   "location": "Eindhoven"
   },
   "1ea87d4f8b36f5f8c1c42749fc3b8d02": {
    "id": "1ea87d4f8b36f5f8c1c42749fc3b8d02",
@@ -2257,12 +2281,6 @@
    "company": "Jobgether",
    "role": "Accelerator Program - Content Specialist",
    "location": "Netherlands"
-  },
-  "709aa267397b487689164715b659d1e3": {
-   "id": "709aa267397b487689164715b659d1e3",
-   "company": "Primark",
-   "role": "Fulltime Retail Assistant Utrecht",
-   "location": "Utrecht"
   }
  }
 }
