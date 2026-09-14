@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-13",
- "count": 380,
+ "asOf": "2026-09-14",
+ "count": 378,
  "jobs": {
   "2545324": {
    "id": "2545324",
@@ -92,6 +92,42 @@
    "role": "Stagiair(e) Reserveringen",
    "location": "Amsterdam"
   },
+  "224495574654daacfefa87d6e2cc1859": {
+   "id": "224495574654daacfefa87d6e2cc1859",
+   "company": "CYBEX GmbH",
+   "role": "Intern Marketing Netherlands (m/f/d)",
+   "location": "Amsterdam"
+  },
+  "97ac21940257e92a0577620b08c42988": {
+   "id": "97ac21940257e92a0577620b08c42988",
+   "company": "GXO Logistics, Inc.",
+   "role": "Internship - Employee Journey & Workforce Management",
+   "location": "Eindhoven"
+  },
+  "4265d02874099e285cc4a942e86706a4": {
+   "id": "4265d02874099e285cc4a942e86706a4",
+   "company": "GXO Logistics, Inc.",
+   "role": "Internship - Ai Enablement For Solutions Design",
+   "location": "Eindhoven"
+  },
+  "e47696f5b34ae101ebe2053815e96134": {
+   "id": "e47696f5b34ae101ebe2053815e96134",
+   "company": "Ses Group",
+   "role": "Intern, Spectrum Management And Strategy",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "590656879d69df171677296b990a35dc": {
+   "id": "590656879d69df171677296b990a35dc",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Boutique Assistant Intern",
+   "location": "Amsterdam"
+  },
+  "32bc05b07d70a55e5579e10fda7cd701": {
+   "id": "32bc05b07d70a55e5579e10fda7cd701",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Business Coordination Intern",
+   "location": "Amsterdam"
+  },
   "e28f31b1653876a96139e1629a923722": {
    "id": "e28f31b1653876a96139e1629a923722",
    "company": "RWE AG",
@@ -103,6 +139,12 @@
    "company": "RWE AG",
    "role": "Afstudeerstage: It/ot Security - Restlevensduur Van Energie-installaties",
    "location": "Breda"
+  },
+  "a62133adb6521b4981f0c00ba71eb892": {
+   "id": "a62133adb6521b4981f0c00ba71eb892",
+   "company": "Prysmian Group",
+   "role": "Intern",
+   "location": "Alphen Aan Den Rijn"
   },
   "10eeeae06e2c40269e69103d82a05f70": {
    "id": "10eeeae06e2c40269e69103d82a05f70",
@@ -242,6 +284,18 @@
    "role": "Marketing Intern",
    "location": "Amsterdam"
   },
+  "17ce37904c91e22baa1ad71e433e09d2": {
+   "id": "17ce37904c91e22baa1ad71e433e09d2",
+   "company": "Freudenberg Home and Cleaning Solutions",
+   "role": "Intern",
+   "location": "Arnhem"
+  },
+  "1c58ea8386158008c3b417ee4d09c715": {
+   "id": "1c58ea8386158008c3b417ee4d09c715",
+   "company": "Chanel",
+   "role": "Internship – Digital Training Benelux & Scandinavia - December 2026 – M/f/d",
+   "location": "Amsterdam"
+  },
   "e6506aa32efc007d9ca4816637b9d871": {
    "id": "e6506aa32efc007d9ca4816637b9d871",
    "company": "Kraft Heinz",
@@ -251,6 +305,12 @@
   "b052e73a5504829b8bcdbaf6a466947b": {
    "id": "b052e73a5504829b8bcdbaf6a466947b",
    "company": "Kraft Heinz",
+   "role": "Labs/shelf Life Intern",
+   "location": "Arnhem"
+  },
+  "d4a8f5f7522a3753f62a1169205ec9b9": {
+   "id": "d4a8f5f7522a3753f62a1169205ec9b9",
+   "company": "kaiserkraft.pt",
    "role": "Labs/shelf Life Intern",
    "location": "Arnhem"
   },
@@ -272,6 +332,18 @@
    "role": "Packaging Development & Technology intern",
    "location": "Arnhem"
   },
+  "56f22bf146be1d86df480a5b3e3f6545": {
+   "id": "56f22bf146be1d86df480a5b3e3f6545",
+   "company": "kaiserkraft.pt",
+   "role": "R&d Technologist Intern",
+   "location": "Arnhem"
+  },
+  "6c0ab79f7cb0f2d717c54a09fe32a626": {
+   "id": "6c0ab79f7cb0f2d717c54a09fe32a626",
+   "company": "kaiserkraft.pt",
+   "role": "Packaging Development & Technology intern",
+   "location": "Arnhem"
+  },
   "6971b46193b8beaf1177aeb3c364f0d7": {
    "id": "6971b46193b8beaf1177aeb3c364f0d7",
    "company": "Kraft Heinz",
@@ -287,6 +359,18 @@
   "dd1a1c20f4b96fd494ada01610ef4708": {
    "id": "dd1a1c20f4b96fd494ada01610ef4708",
    "company": "Traineekraftheinz",
+   "role": "Fsq External Manufacturing Intern",
+   "location": "Arnhem"
+  },
+  "4f3ab1c639883c56641c2229f9ea981d": {
+   "id": "4f3ab1c639883c56641c2229f9ea981d",
+   "company": "k a i s e r k r a f t . p t",
+   "role": "Food Safety & Quality Intern",
+   "location": "Arnhem"
+  },
+  "247c526d624f3a3dbf42a1c38306c106": {
+   "id": "247c526d624f3a3dbf42a1c38306c106",
+   "company": "Kraft Heinz",
    "role": "Fsq External Manufacturing Intern",
    "location": "Arnhem"
   },
@@ -463,90 +547,6 @@
    "company": "Magna Electronics Inc.",
    "role": "Materials Intern - Summer 2026",
    "location": "Holland"
-  },
-  "fa18bc2bc4548cf905081d039503f272": {
-   "id": "fa18bc2bc4548cf905081d039503f272",
-   "company": "Case Law Reporter",
-   "role": "Researcher Academy Intern",
-   "location": "Amsterdam"
-  },
-  "f542ace126db8840023099abac8f4bee": {
-   "id": "f542ace126db8840023099abac8f4bee",
-   "company": "Boston Consulting Group",
-   "role": "Internship, Visiting Associate, Netherlands",
-   "location": "Amsterdam"
-  },
-  "1855cde7a9c0b590cd71ac8106ca55a6": {
-   "id": "1855cde7a9c0b590cd71ac8106ca55a6",
-   "company": "Hogan Lovells",
-   "role": "Werkstudent Corporate Horizon",
-   "location": "Amsterdam"
-  },
-  "957ddabd8a8641d526a4b279d29a4561": {
-   "id": "957ddabd8a8641d526a4b279d29a4561",
-   "company": "Hogan Lovells",
-   "role": "Werkstudent Ip",
-   "location": "Amsterdam"
-  },
-  "7e7045a0c2e3c199781bfc9793046b1a": {
-   "id": "7e7045a0c2e3c199781bfc9793046b1a",
-   "company": "Abbott Diabetes Care",
-   "role": "Kom Stage Lopen Bij Abbott Olst Vanaf Februari 2027",
-   "location": "Olst"
-  },
-  "a425877dde83f52cef33b376ef7d43a6": {
-   "id": "a425877dde83f52cef33b376ef7d43a6",
-   "company": "Philips UK",
-   "role": "Internship: Philips Communications & Brand",
-   "location": "Amsterdam"
-  },
-  "762c0ab7f402ec9f35f05d618a1a2206": {
-   "id": "762c0ab7f402ec9f35f05d618a1a2206",
-   "company": "Philips UK",
-   "role": "Internship: Marketing & Marketing Communication",
-   "location": "Amsterdam"
-  },
-  "0287b5249a02e03c2e028d5a321de80d": {
-   "id": "0287b5249a02e03c2e028d5a321de80d",
-   "company": "Philips UK",
-   "role": "Internship: Commercial Strategy & Sales (dutch Speaking)",
-   "location": "Eindhoven"
-  },
-  "aadd055b5f7a9f8237fde1241cddbb63": {
-   "id": "aadd055b5f7a9f8237fde1241cddbb63",
-   "company": "Philips UK",
-   "role": "Internship: Philips Foundation - Impact Investing (master, Non-thesis)",
-   "location": "Eindhoven"
-  },
-  "1f0415d7afbb4522d42acb3db3ee26ef": {
-   "id": "1f0415d7afbb4522d42acb3db3ee26ef",
-   "company": "Philips UK",
-   "role": "Internship: Content And Engagement (bachelor, Non-thesis)",
-   "location": "Eindhoven"
-  },
-  "c6eacb8177fa66862ad2fa103a917210": {
-   "id": "c6eacb8177fa66862ad2fa103a917210",
-   "company": "Philips UK",
-   "role": "Internship: Project Management Office (non-thesis)",
-   "location": "Amsterdam"
-  },
-  "6f56aec02512447736c319ae83f868d8": {
-   "id": "6f56aec02512447736c319ae83f868d8",
-   "company": "Philips UK",
-   "role": "Internship: Esg/csrd Reporting (hr, Non-thesis)",
-   "location": "Amsterdam"
-  },
-  "ee278e563302ad2b0a658ab47f6a5bf5": {
-   "id": "ee278e563302ad2b0a658ab47f6a5bf5",
-   "company": "Philips UK",
-   "role": "Internship: Group Accounting & Reporting (non-thesis)",
-   "location": "Amsterdam"
-  },
-  "a1f2b2d01ff820b50144aaf2ddad64f5": {
-   "id": "a1f2b2d01ff820b50144aaf2ddad64f5",
-   "company": "Philips UK",
-   "role": "Internship Sustainability And Compliance Intern (non-thesis)",
-   "location": "Amsterdam"
   },
   "40bfd8ea715f2c582c0e2ed49d6554b2": {
    "id": "40bfd8ea715f2c582c0e2ed49d6554b2",
@@ -854,12 +854,6 @@
    "role": "Data Analyst-operations & Cx",
    "location": "Netherlands"
   },
-  "262c6eb50184dcf5b8677e812a312c82": {
-   "id": "262c6eb50184dcf5b8677e812a312c82",
-   "company": "Jobgether",
-   "role": "Growth & Data (ic)",
-   "location": "Netherlands"
-  },
   "8226dd15f01925938305cf175eee9808": {
    "id": "8226dd15f01925938305cf175eee9808",
    "company": "Oliver Wyman",
@@ -1100,6 +1094,24 @@
    "role": "Investment Banking Interninternshipamsterdam, Zuidas",
    "location": "Amsterdam"
   },
+  "98212d78a3fe2807e19f5613d691de25": {
+   "id": "98212d78a3fe2807e19f5613d691de25",
+   "company": "Bostik",
+   "role": "Maintenance Technician Giessen",
+   "location": "Giessen"
+  },
+  "9ebb9ba0738331f120175a065ac762ac": {
+   "id": "9ebb9ba0738331f120175a065ac762ac",
+   "company": "Agrifirm Group",
+   "role": "Allround Onderhoudsmonteur",
+   "location": "Wanssum"
+  },
+  "8ff302424fc30328a6336d18c4d487c2": {
+   "id": "8ff302424fc30328a6336d18c4d487c2",
+   "company": "Yara International ASA",
+   "role": "Hoofdmonteur",
+   "location": "Alphen Aan Den Rijn"
+  },
   "dece2cbbc71cd25d5812d767092dccec": {
    "id": "dece2cbbc71cd25d5812d767092dccec",
    "company": "Yunex Traffic",
@@ -1160,10 +1172,28 @@
    "role": "Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
+  "3f90c90b6fc04f99786ff25eaf546103": {
+   "id": "3f90c90b6fc04f99786ff25eaf546103",
+   "company": "Carrier Transicold",
+   "role": "Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
   "748ff8f37cf4444f79449b1b42586ef0": {
    "id": "748ff8f37cf4444f79449b1b42586ef0",
    "company": "Carrier Global",
    "role": "Service Engineer In Eigen Regio In Nederland - Carrier Hvac",
+   "location": "Netherlands"
+  },
+  "4d0160ff899cafa044c5cf0f3cbeb30a": {
+   "id": "4d0160ff899cafa044c5cf0f3cbeb30a",
+   "company": "Carrier Corporation",
+   "role": "Service Engineer In Eigen Regio In Nederland - Carrier Hvac",
+   "location": "Netherlands"
+  },
+  "d8cc9b41d2aea292bcc29c04da7885da": {
+   "id": "d8cc9b41d2aea292bcc29c04da7885da",
+   "company": "Carrier Corporation",
+   "role": "Field Service Technician - Carrier Rental",
    "location": "Netherlands"
   },
   "8bd8a501557269dde40ee28f0bf7fa69": {
@@ -1171,12 +1201,6 @@
    "company": "Vopak",
    "role": "Onderhoudsmonteur Wtb",
    "location": "Alphen Aan Den Rijn"
-  },
-  "bf5c6add58d50acd3a7cc6d09eceb4d5": {
-   "id": "bf5c6add58d50acd3a7cc6d09eceb4d5",
-   "company": "Bostik",
-   "role": "Maintenance Technician Giessen",
-   "location": "Giessen"
   },
   "2d6048f81743d0f340988e53144088b3": {
    "id": "2d6048f81743d0f340988e53144088b3",
@@ -1262,12 +1286,6 @@
    "role": "Installatie- En Service Monteur Power (buitendienst, Randstad)",
    "location": "Netherlands"
   },
-  "0915529b5be18e09055c32c23874458e": {
-   "id": "0915529b5be18e09055c32c23874458e",
-   "company": "Agrifirm Group",
-   "role": "Allround Onderhoudsmonteur",
-   "location": "Wanssum"
-  },
   "9d2aa7057e3ea323a41d7dfa1b12867e": {
    "id": "9d2aa7057e3ea323a41d7dfa1b12867e",
    "company": "100",
@@ -1302,12 +1320,6 @@
    "id": "15e5364b1226957906afff5fefbf51e0",
    "company": "Johnson Controls Inc",
    "role": "Fire Suppression Service Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "a809e5c267cd0c3e8641f3918b121410": {
-   "id": "a809e5c267cd0c3e8641f3918b121410",
-   "company": "Carrier Transicold",
-   "role": "Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
   "49fe4543e72594fd35efc3fd4d716005": {
@@ -1472,12 +1484,6 @@
    "role": "Service Monteur Roltrappen",
    "location": "Utrecht"
   },
-  "8ff302424fc30328a6336d18c4d487c2": {
-   "id": "8ff302424fc30328a6336d18c4d487c2",
-   "company": "Yara International ASA",
-   "role": "Hoofdmonteur",
-   "location": "Alphen Aan Den Rijn"
-  },
   "31d7ea15cde2b85df15e52a0d07876aa": {
    "id": "31d7ea15cde2b85df15e52a0d07876aa",
    "company": "JLL",
@@ -1562,17 +1568,23 @@
    "role": "Maintenance Technician X3",
    "location": "Venlo"
   },
-  "42d0ec42ab17a6dd8283ea88f6c10896": {
-   "id": "42d0ec42ab17a6dd8283ea88f6c10896",
-   "company": "Bilfinger SE",
-   "role": "Servicetechnicus (technicus E&i A)",
-   "location": "Alphen Aan Den Rijn"
+  "20fed45a7e9b0a590ce02f594dd4b0be": {
+   "id": "20fed45a7e9b0a590ce02f594dd4b0be",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Sales Associate 80%",
+   "location": "Amsterdam"
   },
-  "6abda4c6bba38e434b1b7b4b5264cbba": {
-   "id": "6abda4c6bba38e434b1b7b4b5264cbba",
-   "company": "Johnson Controls OpenBlue",
-   "role": "Fire Suppression Service Technician",
-   "location": "Alphen Aan Den Rijn"
+  "abafbdf78281b26fb7f057a04227dda3": {
+   "id": "abafbdf78281b26fb7f057a04227dda3",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Sales Associate",
+   "location": "Amsterdam"
+  },
+  "38b13da4dc099296e318fb7cc0db1819": {
+   "id": "38b13da4dc099296e318fb7cc0db1819",
+   "company": "The LEGO Group",
+   "role": "Sales Associate",
+   "location": "Amsterdam"
   },
   "f8c90fd84a6134f0dff86bb7aa9fda8b": {
    "id": "f8c90fd84a6134f0dff86bb7aa9fda8b",
@@ -1794,12 +1806,6 @@
    "id": "4f9cc7eb029acdbdf7c3b8e5875222fb",
    "company": "Nestle Ltd",
    "role": "Verkoopmedewerker Nespresso Amsterdam",
-   "location": "Amsterdam"
-  },
-  "abafbdf78281b26fb7f057a04227dda3": {
-   "id": "abafbdf78281b26fb7f057a04227dda3",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Sales Associate",
    "location": "Amsterdam"
   },
   "4ff28b1fefb988d0635c18f7ff075b5e": {
@@ -2036,23 +2042,29 @@
    "role": "Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)",
    "location": "Alphen Aan Den Rijn"
   },
-  "20fed45a7e9b0a590ce02f594dd4b0be": {
-   "id": "20fed45a7e9b0a590ce02f594dd4b0be",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Sales Associate 80%",
-   "location": "Amsterdam"
-  },
   "c39ce8481d3e20ec5bea911ec5a30833": {
    "id": "c39ce8481d3e20ec5bea911ec5a30833",
    "company": "Richemont Australia Pty Ltd",
    "role": "E-boutique Sales Associate German Speaking",
    "location": "Amsterdam"
   },
-  "d96316f8882adebbac538792d5f54b2c": {
-   "id": "d96316f8882adebbac538792d5f54b2c",
-   "company": "avoltaworld",
-   "role": "Countermedewerker Kiosk 16",
+  "5ee5ed8efa8193dc68c93ead637d4d80": {
+   "id": "5ee5ed8efa8193dc68c93ead637d4d80",
+   "company": "GXO Logistics, Inc.",
+   "role": "Hr Administrative",
    "location": "Alphen Aan Den Rijn"
+  },
+  "dd10c510c4e717eb1e15a7f7d98d26f7": {
+   "id": "dd10c510c4e717eb1e15a7f7d98d26f7",
+   "company": "GXO Logistics",
+   "role": "Hr Administrative",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "1b3beb516b419c99b90fccc2196ae313": {
+   "id": "1b3beb516b419c99b90fccc2196ae313",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Boutique Assistant",
+   "location": "Amsterdam"
   },
   "bffab1b9a2e10fe15e6638a6c0efa8c4": {
    "id": "bffab1b9a2e10fe15e6638a6c0efa8c4",
@@ -2083,18 +2095,6 @@
    "company": "Malvern Panalytical Inc",
    "role": "Customer Service Coordinator",
    "location": "Eindhoven"
-  },
-  "5ee5ed8efa8193dc68c93ead637d4d80": {
-   "id": "5ee5ed8efa8193dc68c93ead637d4d80",
-   "company": "GXO Logistics, Inc.",
-   "role": "Hr Administrative",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "8fad68b49b65759e76d5b79ab43997b7": {
-   "id": "8fad68b49b65759e76d5b79ab43997b7",
-   "company": "GXO Logistics",
-   "role": "Hr Administrative",
-   "location": "Alphen Aan Den Rijn"
   },
   "8e002c9ae2adb8f5f2ad862edede7646": {
    "id": "8e002c9ae2adb8f5f2ad862edede7646",
@@ -2161,12 +2161,6 @@
    "company": "Jobgether",
    "role": "People And Culture Assistant",
    "location": "Netherlands"
-  },
-  "1b3beb516b419c99b90fccc2196ae313": {
-   "id": "1b3beb516b419c99b90fccc2196ae313",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Boutique Assistant",
-   "location": "Amsterdam"
   },
   "d3a413700b5fd7df0af135501f98fe08": {
    "id": "d3a413700b5fd7df0af135501f98fe08",
@@ -2275,12 +2269,6 @@
    "company": "Primark",
    "role": "Parttime Retail Assistant Weekend Zaandam",
    "location": "Amsterdam"
-  },
-  "dc5fc5d302a1f804a3078ec5a92ba7f7": {
-   "id": "dc5fc5d302a1f804a3078ec5a92ba7f7",
-   "company": "Jobgether",
-   "role": "Accelerator Program - Content Specialist",
-   "location": "Netherlands"
   }
  }
 }

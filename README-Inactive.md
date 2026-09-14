@@ -1239,4 +1239,27 @@
 <tr><td>H&M</td><td>Sales Advisor 5-12h</td><td>Alphen Aan Den Rijn</td><td>2026-09-13</td></tr>
 <tr><td>Flix</td><td>Shop Employee (m/f/d)</td><td>Amsterdam</td><td>2026-09-13</td></tr>
 <tr><td>Primark</td><td>Fulltime Retail Assistant Utrecht</td><td>Utrecht</td><td>2026-09-13</td></tr>
+<tr><td>Case Law Reporter</td><td>Researcher Academy Intern</td><td>Amsterdam</td><td>2026-09-14</td></tr>
+<tr><td>Boston Consulting Group</td><td>Internship, Visiting Associate, Netherlands</td><td>Amsterdam</td><td>2026-09-14</td></tr>
+<tr><td>Hogan Lovells</td><td>Werkstudent Corporate Horizon</td><td>Amsterdam</td><td>2026-09-14</td></tr>
+<tr><td>Hogan Lovells</td><td>Werkstudent Ip</td><td>Amsterdam</td><td>2026-09-14</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Kom Stage Lopen Bij Abbott Olst Vanaf Februari 2027</td><td>Olst</td><td>2026-09-14</td></tr>
+<tr><td>Philips UK</td><td>Internship: Philips Communications & Brand</td><td>Amsterdam</td><td>2026-09-14</td></tr>
+<tr><td>Philips UK</td><td>Internship: Marketing & Marketing Communication</td><td>Amsterdam</td><td>2026-09-14</td></tr>
+<tr><td>Philips UK</td><td>Internship: Commercial Strategy & Sales (dutch Speaking)</td><td>Eindhoven</td><td>2026-09-14</td></tr>
+<tr><td>Philips UK</td><td>Internship: Philips Foundation - Impact Investing (master, Non-thesis)</td><td>Eindhoven</td><td>2026-09-14</td></tr>
+<tr><td>Philips UK</td><td>Internship: Content And Engagement (bachelor, Non-thesis)</td><td>Eindhoven</td><td>2026-09-14</td></tr>
+<tr><td>Philips UK</td><td>Internship: Project Management Office (non-thesis)</td><td>Amsterdam</td><td>2026-09-14</td></tr>
+<tr><td>Philips UK</td><td>Internship: Esg/csrd Reporting (hr, Non-thesis)</td><td>Amsterdam</td><td>2026-09-14</td></tr>
+<tr><td>Philips UK</td><td>Internship: Group Accounting & Reporting (non-thesis)</td><td>Amsterdam</td><td>2026-09-14</td></tr>
+<tr><td>Philips UK</td><td>Internship Sustainability And Compliance Intern (non-thesis)</td><td>Amsterdam</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Growth & Data (ic)</td><td>Netherlands</td><td>2026-09-14</td></tr>
+<tr><td>Bostik</td><td>Maintenance Technician Giessen</td><td>Giessen</td><td>2026-09-14</td></tr>
+<tr><td>Agrifirm Group</td><td>Allround Onderhoudsmonteur</td><td>Wanssum</td><td>2026-09-14</td></tr>
+<tr><td>Carrier Transicold</td><td>Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-09-14</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicetechnicus (technicus E&i A)</td><td>Alphen Aan Den Rijn</td><td>2026-09-14</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Fire Suppression Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-09-14</td></tr>
+<tr><td>avoltaworld</td><td>Countermedewerker Kiosk 16</td><td>Alphen Aan Den Rijn</td><td>2026-09-14</td></tr>
+<tr><td>GXO Logistics</td><td>Hr Administrative</td><td>Alphen Aan Den Rijn</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Accelerator Program - Content Specialist</td><td>Netherlands</td><td>2026-09-14</td></tr>
 </table>
