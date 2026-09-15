@@ -1262,4 +1262,26 @@
 <tr><td>avoltaworld</td><td>Countermedewerker Kiosk 16</td><td>Alphen Aan Den Rijn</td><td>2026-09-14</td></tr>
 <tr><td>GXO Logistics</td><td>Hr Administrative</td><td>Alphen Aan Den Rijn</td><td>2026-09-14</td></tr>
 <tr><td>Jobgether</td><td>Accelerator Program - Content Specialist</td><td>Netherlands</td><td>2026-09-14</td></tr>
+<tr><td>Greenberg Traurig</td><td>Student-stagiair</td><td>Amsterdam</td><td>2026-09-15</td></tr>
+<tr><td>EssenceMediacom Holdings Limited</td><td>Stage Influencer Marketing</td><td>Amsterdam</td><td>2026-09-15</td></tr>
+<tr><td>Ingalcivil Com Au</td><td>Internships - Software Engineering</td><td>Haarlemmermeer</td><td>2026-09-15</td></tr>
+<tr><td>Armaokchapter</td><td>Internships - Software Engineering</td><td>Haarlerbergpark</td><td>2026-09-15</td></tr>
+<tr><td>NXP USA INC.</td><td>Internship People Operations Automation</td><td>Eindhoven</td><td>2026-09-15</td></tr>
+<tr><td>Linklaters LLP</td><td>Student-stagiair(e) Employment</td><td>Amsterdam</td><td>2026-09-15</td></tr>
+<tr><td>GXO Logistics</td><td>Internship - Employee Journey & Workforce Management</td><td>Eindhoven</td><td>2026-09-15</td></tr>
+<tr><td>GXO Logistics</td><td>Internship - Ai Enablement For Solutions Design</td><td>Eindhoven</td><td>2026-09-15</td></tr>
+<tr><td>Oshkosh Corp.</td><td>Marketing Intern – Social, Pr, Events & Content</td><td>Amsterdam</td><td>2026-09-15</td></tr>
+<tr><td>Magna Electronics Inc.</td><td>Materials Intern - Summer 2026</td><td>Holland</td><td>2026-09-15</td></tr>
+<tr><td>Philips</td><td>Internship: Data & Ai Reporting Analyst (trade Data)</td><td>Amsterdam</td><td>2026-09-15</td></tr>
+<tr><td>Philips</td><td>Ai Deployment And Business Analyst Internship – Climate Action (non-thesis)</td><td>Amsterdam</td><td>2026-09-15</td></tr>
+<tr><td>Oaklins International Inc</td><td>Investment Banking Interninternshipamsterdam, Zuidas</td><td>Amsterdam</td><td>2026-09-15</td></tr>
+<tr><td>Outokumpu Oyj</td><td>Mechanical Technician</td><td>Westdorpe</td><td>2026-09-15</td></tr>
+<tr><td>ABB UK</td><td>Service Engineer Marine & Ports Drives</td><td>Alphen Aan Den Rijn</td><td>2026-09-15</td></tr>
+<tr><td>ABB Ltd</td><td>Service Engineer Marine & Ports Drives</td><td>Alphen Aan Den Rijn</td><td>2026-09-15</td></tr>
+<tr><td>Jobgether</td><td>Field Service Engineer</td><td>Netherlands</td><td>2026-09-15</td></tr>
+<tr><td>Fortive Corporation</td><td>Mechanical Tools/electrical Calibration Technician</td><td>Netherlands</td><td>2026-09-15</td></tr>
+<tr><td>Daikin Europe NV</td><td>Servicemonteur Warmtepompen En Airconditioning</td><td>Nl</td><td>2026-09-15</td></tr>
+<tr><td>Vistaprint</td><td>Maintenance Technician X3</td><td>Venlo</td><td>2026-09-15</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>E-boutique Sales Associate German Speaking</td><td>Amsterdam</td><td>2026-09-15</td></tr>
+<tr><td>Primark</td><td>Parttime Retail Assistant Weekend Zaandam</td><td>Amsterdam</td><td>2026-09-15</td></tr>
 </table>
