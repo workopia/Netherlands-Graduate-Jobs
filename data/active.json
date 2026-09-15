@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-15",
- "count": 376,
+ "count": 378,
  "jobs": {
   "2545324": {
    "id": "2545324",
@@ -103,12 +103,6 @@
    "company": "Canon Production Printing Netherlands B.V",
    "role": "Bsc/msc: Internship Applied Physics/mechatronics - Build The Foundation For Printing Systems",
    "location": "Venlo"
-  },
-  "da0278eaa0e61fc2f42b4aca93cec40e": {
-   "id": "da0278eaa0e61fc2f42b4aca93cec40e",
-   "company": "Oclc Inc",
-   "role": "Internship Erasmus Program",
-   "location": "Alphen Aan Den Rijn"
   },
   "c1176a263fa921e1640a270e1ec4f704": {
    "id": "c1176a263fa921e1640a270e1ec4f704",
@@ -548,6 +542,12 @@
    "role": "Stagiair(e) Allround Assistant Business Services",
    "location": "S Hertogenbosch"
   },
+  "68b1d28b2dc7d9087748a550568358ce": {
+   "id": "68b1d28b2dc7d9087748a550568358ce",
+   "company": "adidas AG",
+   "role": "Intern - Digital Payment Operations",
+   "location": "Amsterdam"
+  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -871,6 +871,12 @@
    "company": "Vetamc",
    "role": "Stagiair – Hbo/wo - Asset Management & Improvement",
    "location": "North Brabant"
+  },
+  "0e111152d6d93c498fe8ae71686dd5f5": {
+   "id": "0e111152d6d93c498fe8ae71686dd5f5",
+   "company": "Equinix Inc.",
+   "role": "Corporate Development Analyst, Xscale",
+   "location": "Amsterdam"
   },
   "2787fac7b8eb4bdb2d326bcad659aad6": {
    "id": "2787fac7b8eb4bdb2d326bcad659aad6",
@@ -1304,6 +1310,12 @@
    "role": "Facility Technician",
    "location": "Alphen Aan Den Rijn"
   },
+  "0b212e2a130a4dbf445077945e9ce750": {
+   "id": "0b212e2a130a4dbf445077945e9ce750",
+   "company": "VistaCreate",
+   "role": "Maintenance Technician X3",
+   "location": "Venlo"
+  },
   "037d9300e8b85db3fd3e7a7367315b57": {
    "id": "037d9300e8b85db3fd3e7a7367315b57",
    "company": "AGGREKO",
@@ -1502,12 +1514,6 @@
    "role": "Monteur Facility & Technische Dienst",
    "location": "Venlo"
   },
-  "0b212e2a130a4dbf445077945e9ce750": {
-   "id": "0b212e2a130a4dbf445077945e9ce750",
-   "company": "VistaCreate",
-   "role": "Maintenance Technician X3",
-   "location": "Venlo"
-  },
   "9daafeec388ff421d2a9b7c38b854c29": {
    "id": "9daafeec388ff421d2a9b7c38b854c29",
    "company": "KONE International",
@@ -1638,6 +1644,12 @@
    "id": "1c82bd4d97bb53e77a839a6a93041051",
    "company": "Golden Goose",
    "role": "Sneaker Maker - Part Time - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "4fe86ad200169f202219e52956cfc292": {
+   "id": "4fe86ad200169f202219e52956cfc292",
+   "company": "VFC Corporation",
+   "role": "Sales Associate",
    "location": "Amsterdam"
   },
   "2865520c351947c9904b7655f07d1e58": {
@@ -2030,12 +2042,6 @@
    "role": "Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)",
    "location": "Alphen Aan Den Rijn"
   },
-  "4d89ea3abee7621455e23005781ea61f": {
-   "id": "4d89ea3abee7621455e23005781ea61f",
-   "company": "H&M",
-   "role": "Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)",
-   "location": "Alphen Aan Den Rijn"
-  },
   "5ee5ed8efa8193dc68c93ead637d4d80": {
    "id": "5ee5ed8efa8193dc68c93ead637d4d80",
    "company": "GXO Logistics, Inc.",
@@ -2072,17 +2078,23 @@
    "role": "Admin Support (chinese Speaking)",
    "location": "Limburg Province"
   },
+  "6bb4016f041aa7d5b6195d6b65a16c88": {
+   "id": "6bb4016f041aa7d5b6195d6b65a16c88",
+   "company": "INGRAM MICRO",
+   "role": "Sales Specialist Hpe Networking",
+   "location": "Utrecht"
+  },
   "1ea87d4f8b36f5f8c1c42749fc3b8d02": {
    "id": "1ea87d4f8b36f5f8c1c42749fc3b8d02",
    "company": "why LLP",
    "role": "Administrative Assistant",
    "location": "Amsterdam"
   },
-  "6bb4016f041aa7d5b6195d6b65a16c88": {
-   "id": "6bb4016f041aa7d5b6195d6b65a16c88",
-   "company": "Ingram Micro",
-   "role": "Sales Specialist Hpe Networking",
-   "location": "Utrecht"
+  "92d0119aec23a09d9bff8547dcfb529c": {
+   "id": "92d0119aec23a09d9bff8547dcfb529c",
+   "company": "Linklaters LLP",
+   "role": "Administrative Assistant",
+   "location": "Amsterdam"
   },
   "9c6475067c492e19760a57f9601574d4": {
    "id": "9c6475067c492e19760a57f9601574d4",

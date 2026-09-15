@@ -1284,4 +1284,6 @@
 <tr><td>Vistaprint</td><td>Maintenance Technician X3</td><td>Venlo</td><td>2026-09-15</td></tr>
 <tr><td>Richemont Australia Pty Ltd</td><td>E-boutique Sales Associate German Speaking</td><td>Amsterdam</td><td>2026-09-15</td></tr>
 <tr><td>Primark</td><td>Parttime Retail Assistant Weekend Zaandam</td><td>Amsterdam</td><td>2026-09-15</td></tr>
+<tr><td>Oclc Inc</td><td>Internship Erasmus Program</td><td>Alphen Aan Den Rijn</td><td>2026-09-15</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-09-15</td></tr>
 </table>
