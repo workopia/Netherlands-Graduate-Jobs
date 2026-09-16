@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-15",
- "count": 378,
+ "asOf": "2026-09-16",
+ "count": 380,
  "jobs": {
   "2545324": {
    "id": "2545324",
@@ -92,6 +92,24 @@
    "role": "Stagiair(e) Reserveringen",
    "location": "Amsterdam"
   },
+  "a3db07bbd7f94cce80b8333a6ae22f9f": {
+   "id": "a3db07bbd7f94cce80b8333a6ae22f9f",
+   "company": "Netvlies V.O.F",
+   "role": "Stage En Afstuderen",
+   "location": "Breda"
+  },
+  "9cfdb5816d138966107f6fbc35cadb36": {
+   "id": "9cfdb5816d138966107f6fbc35cadb36",
+   "company": "Volvo Group Truck Center",
+   "role": "Stagiair Continuous Improvement",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f0890941d7909780ff71b0577a73980e": {
+   "id": "f0890941d7909780ff71b0577a73980e",
+   "company": "Chanel",
+   "role": "Internship – Client Marketing Fashion – January 2027 - M/f/d",
+   "location": "Amsterdam"
+  },
   "f6cc2d1bfaca8ced9512f57c2935753b": {
    "id": "f6cc2d1bfaca8ced9512f57c2935753b",
    "company": "The Kraft Heinz Company",
@@ -104,6 +122,12 @@
    "role": "Bsc/msc: Internship Applied Physics/mechatronics - Build The Foundation For Printing Systems",
    "location": "Venlo"
   },
+  "b4e5abe93e5663f8073fcc9a0423b8ba": {
+   "id": "b4e5abe93e5663f8073fcc9a0423b8ba",
+   "company": "Bynder",
+   "role": "Legal Intern",
+   "location": "Amsterdam"
+  },
   "c1176a263fa921e1640a270e1ec4f704": {
    "id": "c1176a263fa921e1640a270e1ec4f704",
    "company": "Arvato",
@@ -115,6 +139,12 @@
    "company": "Arvato",
    "role": "Hse Internship",
    "location": "Heijen"
+  },
+  "115e0a826914e4d05851b95a7df4eec2": {
+   "id": "115e0a826914e4d05851b95a7df4eec2",
+   "company": "Technip Energies",
+   "role": "Process & Technology Intern",
+   "location": "Alphen Aan Den Rijn"
   },
   "224495574654daacfefa87d6e2cc1859": {
    "id": "224495574654daacfefa87d6e2cc1859",
@@ -518,36 +548,6 @@
    "role": "Mechanical Engineering R&d Internship",
    "location": "Eindhoven"
   },
-  "c2c5aff18d5492317dbfffbd641cd568": {
-   "id": "c2c5aff18d5492317dbfffbd641cd568",
-   "company": "Thermo Fisher Scientific Inc.",
-   "role": "Mechanical Engineering R&d Internship",
-   "location": "Eindhoven"
-  },
-  "8c4e15385ddddb7e6bf07dbe82fd7b6b": {
-   "id": "8c4e15385ddddb7e6bf07dbe82fd7b6b",
-   "company": "Thermofisher Scientific",
-   "role": "Mechanical Engineering R&d Internship",
-   "location": "Eindhoven"
-  },
-  "b60d8b08f96d96529b7bb753435810ef": {
-   "id": "b60d8b08f96d96529b7bb753435810ef",
-   "company": "De Jong Verpakking",
-   "role": "Hr Stagiair (met Focus Op Recruitment)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "44657b23fda4a06ed808c4626105b468": {
-   "id": "44657b23fda4a06ed808c4626105b468",
-   "company": "Stichd",
-   "role": "Stagiair(e) Allround Assistant Business Services",
-   "location": "S Hertogenbosch"
-  },
-  "68b1d28b2dc7d9087748a550568358ce": {
-   "id": "68b1d28b2dc7d9087748a550568358ce",
-   "company": "adidas AG",
-   "role": "Intern - Digital Payment Operations",
-   "location": "Amsterdam"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -854,6 +854,12 @@
    "role": "Data Analyst-operations & Cx",
    "location": "Netherlands"
   },
+  "262aa92cc43c579a2579184288367506": {
+   "id": "262aa92cc43c579a2579184288367506",
+   "company": "ING",
+   "role": "Internship Debt Capital Markets – Ig Corporate Origination",
+   "location": "Amsterdam"
+  },
   "8226dd15f01925938305cf175eee9808": {
    "id": "8226dd15f01925938305cf175eee9808",
    "company": "Oliver Wyman",
@@ -871,6 +877,12 @@
    "company": "Vetamc",
    "role": "Stagiair – Hbo/wo - Asset Management & Improvement",
    "location": "North Brabant"
+  },
+  "e42280c59ada5a4af891a9b1df3c4231": {
+   "id": "e42280c59ada5a4af891a9b1df3c4231",
+   "company": "Commonwealth Bank of Australia (Europe) N.V.",
+   "role": "Analyst Regulatory Reporting",
+   "location": "Amsterdam"
   },
   "0e111152d6d93c498fe8ae71686dd5f5": {
    "id": "0e111152d6d93c498fe8ae71686dd5f5",
@@ -998,12 +1010,6 @@
    "role": "Investment Banking Analyst, Private Capital Markets",
    "location": "Amsterdam"
   },
-  "b3c1370ab0209eeff5ff4b9076687042": {
-   "id": "b3c1370ab0209eeff5ff4b9076687042",
-   "company": "Commonwealth Bank of Australia (Europe) N.V.",
-   "role": "Analyst Regulatory Reporting",
-   "location": "Amsterdam"
-  },
   "532d33173ca26af55cb15cb6a8e4a42c": {
    "id": "532d33173ca26af55cb15cb6a8e4a42c",
    "company": "Burbankbank",
@@ -1087,6 +1093,24 @@
    "company": "AkzoNobel N.V.",
    "role": "Payroll Analyst",
    "location": "Amsterdam"
+  },
+  "004bd08158587b36a8553a5b8bf08443": {
+   "id": "004bd08158587b36a8553a5b8bf08443",
+   "company": "Vistaprint",
+   "role": "Maintenance Technician X3",
+   "location": "Venlo"
+  },
+  "f5af82d31aeba96e194e1c29d20e9627": {
+   "id": "f5af82d31aeba96e194e1c29d20e9627",
+   "company": "Johnson & Johnson UK",
+   "role": "Utility Operator (shifts, 24/7)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "75cdf40a922ddfe0077a6cf9033934bd": {
+   "id": "75cdf40a922ddfe0077a6cf9033934bd",
+   "company": "Volvo Group Truck Center",
+   "role": "Apk & Tachograaf Keurmeester",
+   "location": "Alphen Aan Den Rijn"
   },
   "40ac7fcd4cca8765c42e94d852f9188b": {
    "id": "40ac7fcd4cca8765c42e94d852f9188b",
@@ -1352,6 +1376,18 @@
    "role": "Service Technician Taski - Regio Randstad",
    "location": "Utrecht"
   },
+  "45b8056b8ac439a2e8da7d01e098bf12": {
+   "id": "45b8056b8ac439a2e8da7d01e098bf12",
+   "company": "TASKI",
+   "role": "Service Technician Taski - Regio Randstad",
+   "location": "Utrecht"
+  },
+  "f17644bf8947ba9e6020779d027330b1": {
+   "id": "f17644bf8947ba9e6020779d027330b1",
+   "company": "Johnson & Johnson UK",
+   "role": "Maintenance Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
   "74ad79fe1c2c3f745e4b121a8c3265c9": {
    "id": "74ad79fe1c2c3f745e4b121a8c3265c9",
    "company": "Johnson & Johnson",
@@ -1361,6 +1397,12 @@
   "15e5364b1226957906afff5fefbf51e0": {
    "id": "15e5364b1226957906afff5fefbf51e0",
    "company": "Johnson Controls Inc",
+   "role": "Fire Suppression Service Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "09821433b406374ebb0dad584e1cb866": {
+   "id": "09821433b406374ebb0dad584e1cb866",
+   "company": "JCI",
    "role": "Fire Suppression Service Technician",
    "location": "Alphen Aan Den Rijn"
   },
@@ -1526,41 +1568,17 @@
    "role": "Facility Technician",
    "location": "Alphen Aan Den Rijn"
   },
-  "71d010d67c350099dc3a695c6b7519db": {
-   "id": "71d010d67c350099dc3a695c6b7519db",
-   "company": "42",
-   "role": "Facility Technician",
+  "69241ff2c30fe8b59bed4d4bf432b631": {
+   "id": "69241ff2c30fe8b59bed4d4bf432b631",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Verkoopmedewerker - Purmerend (21/26 Uur)",
+   "location": "Amsterdam"
+  },
+  "d83d684e7d0d3b4944bf0e4181b8cd5a": {
+   "id": "d83d684e7d0d3b4944bf0e4181b8cd5a",
+   "company": "IKEA UK",
+   "role": "Verkoopmedewerker Cook & Eat, Ikea Delft Store, 12 Of 16 Uur/week",
    "location": "Alphen Aan Den Rijn"
-  },
-  "09c1c9052da9ad24359e8f6474732395": {
-   "id": "09c1c9052da9ad24359e8f6474732395",
-   "company": "JLL UK",
-   "role": "Facility Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "170eda97fd0f5e9ae26ef7bc83b98a94": {
-   "id": "170eda97fd0f5e9ae26ef7bc83b98a94",
-   "company": "Jll Com Sg",
-   "role": "Facility Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "ac43cc434c31cf5ab7d317c958c3fd45": {
-   "id": "ac43cc434c31cf5ab7d317c958c3fd45",
-   "company": "Colgate-Palmolive",
-   "role": "Maintenance Bbl",
-   "location": "Etten-Leur"
-  },
-  "09d1b22a0d0f49387d89ec237a81b11b": {
-   "id": "09d1b22a0d0f49387d89ec237a81b11b",
-   "company": "Ardagh Group",
-   "role": "E&i Maintenance Engineer",
-   "location": "Moerdijk"
-  },
-  "e1951882add210655cb6b568309684bc": {
-   "id": "e1951882add210655cb6b568309684bc",
-   "company": "AkzoNobel N.V.",
-   "role": "Onderhoudsmonteur (wtb/e) / Ammerzoden",
-   "location": "Ammerzoden"
   },
   "20fed45a7e9b0a590ce02f594dd4b0be": {
    "id": "20fed45a7e9b0a590ce02f594dd4b0be",
@@ -1706,15 +1724,33 @@
    "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
+  "8b035595683c4a890119fa43ad540c8a": {
+   "id": "8b035595683c4a890119fa43ad540c8a",
+   "company": "Dmhvh",
+   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
   "0cd7582cf790e660bbd909448947e07d": {
    "id": "0cd7582cf790e660bbd909448947e07d",
    "company": "Tommy Hilfiger/calvin Klein - De Bijenkorf",
    "role": "Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Amsterdam",
    "location": "Amsterdam"
   },
+  "3d6d80853e1d07686d1e1b236fee34ee": {
+   "id": "3d6d80853e1d07686d1e1b236fee34ee",
+   "company": "De Bijenkorf",
+   "role": "Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Amsterdam",
+   "location": "Amsterdam"
+  },
   "44f7cae9184041e6a8a5d64d2974b311": {
    "id": "44f7cae9184041e6a8a5d64d2974b311",
    "company": "Hoofprinting",
+   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)",
+   "location": "Amsterdam"
+  },
+  "ce37da5a935f57d3419fe36ca50f2f2f": {
+   "id": "ce37da5a935f57d3419fe36ca50f2f2f",
+   "company": "Dmhvh",
    "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)",
    "location": "Amsterdam"
   },
@@ -2012,35 +2048,17 @@
    "role": "Sales Associate",
    "location": "Alphen Aan Den Rijn"
   },
-  "2b64efd4a0a6eca02194477a3a350a5f": {
-   "id": "2b64efd4a0a6eca02194477a3a350a5f",
-   "company": "Nestle Ltd",
-   "role": "Fulltime Verkoopmedewerker Nespresso Amsterdam",
-   "location": "Amsterdam"
+  "fbce0d49c52c36e9f1b84185349b60c0": {
+   "id": "fbce0d49c52c36e9f1b84185349b60c0",
+   "company": "DSV Panalpina AS",
+   "role": "Financial Administrative Assistant",
+   "location": "Venlo"
   },
-  "1978a4a022bd34fbae051e0cbe93742a": {
-   "id": "1978a4a022bd34fbae051e0cbe93742a",
-   "company": "MediaMarkt",
-   "role": "Verkoopspecialist Retail Gaming Rotterdam The Corner",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "570b471e8bf47c5664fe482b789780eb": {
-   "id": "570b471e8bf47c5664fe482b789780eb",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Verkoopspecialist Retail Audio Rotterdam The Corner",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "cf3ad3c7b00c1d198a62986e9bae5783": {
-   "id": "cf3ad3c7b00c1d198a62986e9bae5783",
-   "company": "MediaMarktSaturn - Webshop Foundation",
-   "role": "Verkoopmedewerker Telecom & Mobiel (ongelimiteerde Bonus) Barendrecht",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "835091d632e55a12eadc9093e8dd1e25": {
-   "id": "835091d632e55a12eadc9093e8dd1e25",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)",
-   "location": "Alphen Aan Den Rijn"
+  "d5ff9903f7998e100847c23cca64c72b": {
+   "id": "d5ff9903f7998e100847c23cca64c72b",
+   "company": "DSV Panalpina AS",
+   "role": "Administrative Assistant",
+   "location": "Hapert"
   },
   "5ee5ed8efa8193dc68c93ead637d4d80": {
    "id": "5ee5ed8efa8193dc68c93ead637d4d80",
@@ -2263,12 +2281,6 @@
    "company": "Backroads",
    "role": "Seasonal Hotel Operations Assistant",
    "location": "Berkeley +1"
-  },
-  "dd459c54c86f812b40053b7118502812": {
-   "id": "dd459c54c86f812b40053b7118502812",
-   "company": "Cushman & Wakefield",
-   "role": "Commercial Assistant - Offices",
-   "location": "Utrecht"
   }
  }
 }
