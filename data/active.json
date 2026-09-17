@@ -1,7 +1,13 @@
 {
- "asOf": "2026-09-16",
- "count": 380,
+ "asOf": "2026-09-17",
+ "count": 382,
  "jobs": {
+  "1699411": {
+   "id": "1699411",
+   "company": "Parfumado",
+   "role": "Operations & Supply Chain Intern",
+   "location": "Amsterdam"
+  },
   "2545324": {
    "id": "2545324",
    "company": "Deleurope",
@@ -92,6 +98,12 @@
    "role": "Stagiair(e) Reserveringen",
    "location": "Amsterdam"
   },
+  "e8510da45b05adddfc3e042bd114a3a1": {
+   "id": "e8510da45b05adddfc3e042bd114a3a1",
+   "company": "Avery Dennison Corporation",
+   "role": "Internship: Treasury/finance (bank & Cash Management)",
+   "location": "Alphen Aan Den Rijn"
+  },
   "a3db07bbd7f94cce80b8333a6ae22f9f": {
    "id": "a3db07bbd7f94cce80b8333a6ae22f9f",
    "company": "Netvlies V.O.F",
@@ -108,6 +120,12 @@
    "id": "f0890941d7909780ff71b0577a73980e",
    "company": "Chanel",
    "role": "Internship – Client Marketing Fashion – January 2027 - M/f/d",
+   "location": "Amsterdam"
+  },
+  "225be422612a65228185006d62e9e5d2": {
+   "id": "225be422612a65228185006d62e9e5d2",
+   "company": "Perfetti Van Melle ICT B.V",
+   "role": "Internship Digital Content Marketing - Amsterdam Location",
    "location": "Amsterdam"
   },
   "f6cc2d1bfaca8ced9512f57c2935753b": {
@@ -223,12 +241,6 @@
    "company": "DEPT",
    "role": "Social Producer Intern",
    "location": "Amsterdam"
-  },
-  "e8510da45b05adddfc3e042bd114a3a1": {
-   "id": "e8510da45b05adddfc3e042bd114a3a1",
-   "company": "Avery Dennison Corporation",
-   "role": "Internship: Treasury/finance (bank & Cash Management)",
-   "location": "Alphen Aan Den Rijn"
   },
   "e8ccf56f6fe6f7dafda8fb18d925ca6f": {
    "id": "e8ccf56f6fe6f7dafda8fb18d925ca6f",
@@ -536,18 +548,6 @@
    "role": "Intern - Integrating Genai Into Tem Life-science Applications",
    "location": "Eindhoven"
   },
-  "c429ac18269a27ae365e0f22e9d37969": {
-   "id": "c429ac18269a27ae365e0f22e9d37969",
-   "company": "Thermofisher Scientific",
-   "role": "Intern - Integrating Genai Into Tem Life-science Applications",
-   "location": "Eindhoven"
-  },
-  "aa108bef87416f9a0619f234e922e485": {
-   "id": "aa108bef87416f9a0619f234e922e485",
-   "company": "Thermo Fisher Scientific UK",
-   "role": "Mechanical Engineering R&d Internship",
-   "location": "Eindhoven"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -696,12 +696,6 @@
    "id": "ef7ed50002e73b95cdf606e26c11f785",
    "company": "Philips",
    "role": "Data Analytics Graduate Internship",
-   "location": "Amsterdam"
-  },
-  "a7b10cf5293ac1df00566fda5056f735": {
-   "id": "a7b10cf5293ac1df00566fda5056f735",
-   "company": "Careers Philips",
-   "role": "Internship: Data Strategy",
    "location": "Amsterdam"
   },
   "720b412a17a2d57d6c73685d934a2c46": {
@@ -896,6 +890,12 @@
    "role": "Customer Journey Expert – Business Insurance",
    "location": "Acanthus"
   },
+  "e9cc17aed8164a6d05b1bde17d9835ba": {
+   "id": "e9cc17aed8164a6d05b1bde17d9835ba",
+   "company": "224",
+   "role": "Customer Journey Expert – Business Insurance",
+   "location": "Acanthus"
+  },
   "ad875d42da15c437bcda2ae186a55943": {
    "id": "ad875d42da15c437bcda2ae186a55943",
    "company": "Deutsche Bank",
@@ -908,11 +908,29 @@
    "role": "Investment Banking Analyst (f/m/x)",
    "location": "Amsterdam"
   },
+  "636a0a3a114d045d1cd9de64c130cbf6": {
+   "id": "636a0a3a114d045d1cd9de64c130cbf6",
+   "company": "DB Cargo France",
+   "role": "Investment Banking Analyst (f/m/x)",
+   "location": "Amsterdam"
+  },
   "d2e8f2c23ae44691cca98b402617891a": {
    "id": "d2e8f2c23ae44691cca98b402617891a",
    "company": "Flowserve Corp",
    "role": "Business Analyst",
    "location": "Etten"
+  },
+  "c64650183af6fe29d3cfa4cd988e0376": {
+   "id": "c64650183af6fe29d3cfa4cd988e0376",
+   "company": "ForFarmers",
+   "role": "Business Analyst",
+   "location": "Netherlands"
+  },
+  "50387c38ffe63a2251299275f73a9059": {
+   "id": "50387c38ffe63a2251299275f73a9059",
+   "company": "Euronext Technologies SaS",
+   "role": "Projects & Optimisation Analyst (dutch Speaker)",
+   "location": "Amsterdam"
   },
   "44a803e2b51163a4158d7b82c7cace30": {
    "id": "44a803e2b51163a4158d7b82c7cace30",
@@ -1110,6 +1128,12 @@
    "id": "75cdf40a922ddfe0077a6cf9033934bd",
    "company": "Volvo Group Truck Center",
    "role": "Apk & Tachograaf Keurmeester",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "42d0ec42ab17a6dd8283ea88f6c10896": {
+   "id": "42d0ec42ab17a6dd8283ea88f6c10896",
+   "company": "Bilfinger SE",
+   "role": "Servicetechnicus (technicus E&i A)",
    "location": "Alphen Aan Den Rijn"
   },
   "40ac7fcd4cca8765c42e94d852f9188b": {
@@ -1442,11 +1466,47 @@
    "role": "Service Technician Taski - Regio Amsterdam",
    "location": "Amsterdam"
   },
+  "04aaff3ef8d8d0ee23b96392b74ac3f8": {
+   "id": "04aaff3ef8d8d0ee23b96392b74ac3f8",
+   "company": "Diversey",
+   "role": "Service Technician Taski - Regio Amsterdam",
+   "location": "Amsterdam"
+  },
   "ebfa90ce672bb955d47ccf33ebca6cdd": {
    "id": "ebfa90ce672bb955d47ccf33ebca6cdd",
    "company": "Vopak",
    "role": "2e E&i Monteur",
    "location": "Alphen Aan Den Rijn"
+  },
+  "f0e772413f78a1ba0f9352c312ac0d0a": {
+   "id": "f0e772413f78a1ba0f9352c312ac0d0a",
+   "company": "vetshired.us",
+   "role": "Maintenance Monteur - Storing & Onderhoud",
+   "location": "Venlo"
+  },
+  "efb6ea124f44788f0ab208eb2ed66082": {
+   "id": "efb6ea124f44788f0ab208eb2ed66082",
+   "company": "Damen Global Support B.V",
+   "role": "Field Service Engineer",
+   "location": "Hardinxveld"
+  },
+  "f059b9b2d853df16e4e699954cd652d9": {
+   "id": "f059b9b2d853df16e4e699954cd652d9",
+   "company": "CAE Inc",
+   "role": "Simulator Technician-1",
+   "location": "Amsterdam"
+  },
+  "78389c52d6e0e2408a58d38fa58841d7": {
+   "id": "78389c52d6e0e2408a58d38fa58841d7",
+   "company": "Essity",
+   "role": "Mechanisch Monteur",
+   "location": "Cuijk"
+  },
+  "5e935ac53ad2f21418b9aa3f94f55dcc": {
+   "id": "5e935ac53ad2f21418b9aa3f94f55dcc",
+   "company": "RAGING WATERS SYDNEY PTY",
+   "role": "Mechanisch En Elektrisch Monteur Attracties",
+   "location": "Slagharen"
   },
   "39c29b4745a47c2a1eb75f001723e20e": {
    "id": "39c29b4745a47c2a1eb75f001723e20e",
@@ -1526,46 +1586,10 @@
    "role": "Werkvoorbereider Elektrotechniek",
    "location": "Alphen Aan Den Rijn"
   },
-  "d118647e1f863da0ceef9d1c9f12e86c": {
-   "id": "d118647e1f863da0ceef9d1c9f12e86c",
-   "company": "Van Elewout Kompressoren",
-   "role": "Compressor Technician",
-   "location": "Zoeterwoude"
-  },
-  "190aceefa7beb56a703a1c7d483de79f": {
-   "id": "190aceefa7beb56a703a1c7d483de79f",
-   "company": "Yara International",
-   "role": "Hoofdmonteur",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "4a1b093d77aa57ae94ffbf8d0b80f74f": {
-   "id": "4a1b093d77aa57ae94ffbf8d0b80f74f",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Mechatronica Monteur",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "a3022596a6c08a595fe7d5ac1bc36650": {
-   "id": "a3022596a6c08a595fe7d5ac1bc36650",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Mechanisch Monteur",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "536baa72cb3fdb6425022c9db6dbba23": {
-   "id": "536baa72cb3fdb6425022c9db6dbba23",
-   "company": "DSV Panalpina AS",
-   "role": "Monteur Facility & Technische Dienst",
-   "location": "Venlo"
-  },
-  "9daafeec388ff421d2a9b7c38b854c29": {
-   "id": "9daafeec388ff421d2a9b7c38b854c29",
-   "company": "KONE International",
-   "role": "Service Monteur Roltrappen",
-   "location": "Utrecht"
-  },
-  "31d7ea15cde2b85df15e52a0d07876aa": {
-   "id": "31d7ea15cde2b85df15e52a0d07876aa",
-   "company": "JLL",
-   "role": "Facility Technician",
+  "e65b6ca907401ba732e9f4f85481bd84": {
+   "id": "e65b6ca907401ba732e9f4f85481bd84",
+   "company": "JYSK",
+   "role": "Verkoopmedewerker Met Ambitie",
    "location": "Alphen Aan Den Rijn"
   },
   "69241ff2c30fe8b59bed4d4bf432b631": {
@@ -1885,12 +1909,6 @@
    "company": "Nestle SA",
    "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
    "location": "Amsterdam"
-  },
-  "ea2fc130cfa4e9dd6aadab72f4aee333": {
-   "id": "ea2fc130cfa4e9dd6aadab72f4aee333",
-   "company": "JYSK",
-   "role": "Verkoopmedewerker Met Ambitie",
-   "location": "Alphen Aan Den Rijn"
   },
   "753ffaa52124f1522b38dba6270ee035": {
    "id": "753ffaa52124f1522b38dba6270ee035",
@@ -2275,12 +2293,6 @@
    "company": "122",
    "role": "Facilities Coordinator",
    "location": "Eindhoven"
-  },
-  "cdc6bb3966646f95a0e61810fb2f5ce4": {
-   "id": "cdc6bb3966646f95a0e61810fb2f5ce4",
-   "company": "Backroads",
-   "role": "Seasonal Hotel Operations Assistant",
-   "location": "Berkeley +1"
   }
  }
 }

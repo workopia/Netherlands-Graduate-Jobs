@@ -1304,4 +1304,16 @@
 <tr><td>MediaMarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Telecom & Mobiel (ongelimiteerde Bonus) Barendrecht</td><td>Alphen Aan Den Rijn</td><td>2026-09-16</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-09-16</td></tr>
 <tr><td>Cushman & Wakefield</td><td>Commercial Assistant - Offices</td><td>Utrecht</td><td>2026-09-16</td></tr>
+<tr><td>Thermofisher Scientific</td><td>Intern - Integrating Genai Into Tem Life-science Applications</td><td>Eindhoven</td><td>2026-09-17</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Mechanical Engineering R&d Internship</td><td>Eindhoven</td><td>2026-09-17</td></tr>
+<tr><td>Careers Philips</td><td>Internship: Data Strategy</td><td>Amsterdam</td><td>2026-09-17</td></tr>
+<tr><td>Van Elewout Kompressoren</td><td>Compressor Technician</td><td>Zoeterwoude</td><td>2026-09-17</td></tr>
+<tr><td>Yara International</td><td>Hoofdmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-17</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Mechatronica Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-17</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Mechanisch Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-17</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Monteur Facility & Technische Dienst</td><td>Venlo</td><td>2026-09-17</td></tr>
+<tr><td>KONE International</td><td>Service Monteur Roltrappen</td><td>Utrecht</td><td>2026-09-17</td></tr>
+<tr><td>JLL</td><td>Facility Technician</td><td>Alphen Aan Den Rijn</td><td>2026-09-17</td></tr>
+<tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Alphen Aan Den Rijn</td><td>2026-09-17</td></tr>
+<tr><td>Backroads</td><td>Seasonal Hotel Operations Assistant</td><td>Berkeley +1</td><td>2026-09-17</td></tr>
 </table>
