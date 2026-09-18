@@ -1316,4 +1316,23 @@
 <tr><td>JLL</td><td>Facility Technician</td><td>Alphen Aan Den Rijn</td><td>2026-09-17</td></tr>
 <tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Alphen Aan Den Rijn</td><td>2026-09-17</td></tr>
 <tr><td>Backroads</td><td>Seasonal Hotel Operations Assistant</td><td>Berkeley +1</td><td>2026-09-17</td></tr>
+<tr><td>Hewlett Packard Enterprise</td><td>Nwe Business Management Intern (defense Industry Europe)</td><td>Amsterdam</td><td>2026-09-18</td></tr>
+<tr><td>HelloFresh</td><td>Logistics Operational Excellence Intern (f/m/x)</td><td>Amsterdam</td><td>2026-09-18</td></tr>
+<tr><td>Baker Hughes</td><td>Intern - Sales And Commercial - 2026 (m/f/d)</td><td>Alphen Aan Den Rijn</td><td>2026-09-18</td></tr>
+<tr><td>Coty Inc</td><td>People Analytics & Total Rewards Intern</td><td>Amsterdam</td><td>2026-09-18</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Intern - Integrating Genai Into Tem Life-science Applications</td><td>Eindhoven</td><td>2026-09-18</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Intern - Integrating Genai Into Tem Life-science Applications</td><td>Eindhoven</td><td>2026-09-18</td></tr>
+<tr><td>miele.kz</td><td>Service Technicus - Regio Apeldoorn</td><td>Utrecht</td><td>2026-09-18</td></tr>
+<tr><td>Accelleron</td><td>Service Specialist</td><td>Alphen Aan Den Rijn</td><td>2026-09-18</td></tr>
+<tr><td>Stora Enso Oyj</td><td>Onderhoudsmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-18</td></tr>
+<tr><td>Stora Enso Oyj</td><td>Storings- En Onderhoudsmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-18</td></tr>
+<tr><td>De Jong Box B.V.</td><td>Technisch Medewerker</td><td>Den Hoorn</td><td>2026-09-18</td></tr>
+<tr><td>SMT Nederland</td><td>Onderhoudsmonteur Grondverzetmachines - Noordoost Nederland</td><td>East</td><td>2026-09-18</td></tr>
+<tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Grondverzetmachines - Zuidoost Nederland</td><td>East</td><td>2026-09-18</td></tr>
+<tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Grondverzetmachines - Noordoost Nederland</td><td>East</td><td>2026-09-18</td></tr>
+<tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Grondverzetmachines - Noordwest Nederland</td><td>Noordwest Nederland</td><td>2026-09-18</td></tr>
+<tr><td>SMT Nederland</td><td>Servicemonteur Buitendienst Grondverzetmachines - Zuidwest Nederland</td><td>West</td><td>2026-09-18</td></tr>
+<tr><td>SMT Nederland</td><td>Onderhoudsmonteur Grondverzetmachines - Zuidoost Nederland</td><td>East</td><td>2026-09-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-09-18</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-09-18</td></tr>
 </table>
