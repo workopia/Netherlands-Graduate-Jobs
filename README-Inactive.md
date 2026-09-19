@@ -1335,4 +1335,19 @@
 <tr><td>SMT Nederland</td><td>Onderhoudsmonteur Grondverzetmachines - Zuidoost Nederland</td><td>East</td><td>2026-09-18</td></tr>
 <tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-09-18</td></tr>
 <tr><td>The TJX Companies, Inc</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-09-18</td></tr>
+<tr><td>MEDTRONIC</td><td>Nextgen Academy Intern: Sales</td><td>Amsterdam</td><td>2026-09-19</td></tr>
+<tr><td>MEDTRONIC</td><td>Nextgen Academy Intern: Field Support</td><td>Eindhoven</td><td>2026-09-19</td></tr>
+<tr><td>Kraft Heinz</td><td>Global Food Safety And Quality Intern</td><td>Amsterdam</td><td>2026-09-19</td></tr>
+<tr><td>European Medicines Agency</td><td>Trainee (refining Regulatory Intelligence On Not-for-profit Medicine Developments)</td><td>Amsterdam</td><td>2026-09-19</td></tr>
+<tr><td>224</td><td>Internship Scalable Data & Analytics Services</td><td>Cedar</td><td>2026-09-19</td></tr>
+<tr><td>Armaokchapter</td><td>Internship Scalable Data & Analytics Services</td><td>Cedar</td><td>2026-09-19</td></tr>
+<tr><td>HPE (Hewlett Packard Enterprise)</td><td>Nwe Business Management Intern (defense Industry Europe)</td><td>Amsterdam</td><td>2026-09-19</td></tr>
+<tr><td>Nestle Ltd</td><td>Masterdata Analyst</td><td>Amsterdam</td><td>2026-09-19</td></tr>
+<tr><td>Jobgether</td><td>Data Analyst-operations & Cx</td><td>Netherlands</td><td>2026-09-19</td></tr>
+<tr><td>Tate & Lyle</td><td>Maintenance Engineer</td><td>Koog Aan De Zaan</td><td>2026-09-19</td></tr>
+<tr><td>miele.kz</td><td>Service Technicus - Regio Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-09-19</td></tr>
+<tr><td>COS</td><td>Sales Advisor 5-12h</td><td>Alphen Aan Den Rijn</td><td>2026-09-19</td></tr>
+<tr><td>TK Maxx</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-09-19</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Administrative Specialist</td><td>Veenendaal</td><td>2026-09-19</td></tr>
+<tr><td>122</td><td>Facilities Coordinator</td><td>Eindhoven</td><td>2026-09-19</td></tr>
 </table>

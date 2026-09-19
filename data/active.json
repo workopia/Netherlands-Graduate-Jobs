@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-18",
- "count": 386,
+ "asOf": "2026-09-19",
+ "count": 385,
  "jobs": {
   "1699411": {
    "id": "1699411",
@@ -98,6 +98,36 @@
    "role": "Stagiair(e) Reserveringen",
    "location": "Amsterdam"
   },
+  "b580446eece8be53868cc81408340e43": {
+   "id": "b580446eece8be53868cc81408340e43",
+   "company": "Philips",
+   "role": "Internship: Operational Material Management (non-thesis)",
+   "location": "Eindhoven"
+  },
+  "8c9033a258042400caba8024d0cf0324": {
+   "id": "8c9033a258042400caba8024d0cf0324",
+   "company": "Philips",
+   "role": "Internship: Training & Capability Support (master, Non-thesis)",
+   "location": "Amsterdam"
+  },
+  "5e56b16767d099f48313480e919b7b42": {
+   "id": "5e56b16767d099f48313480e919b7b42",
+   "company": "Philips",
+   "role": "Internship: Data Science For Multidimensional Market Modelling",
+   "location": "Amsterdam"
+  },
+  "49bb5ed3ccc81f8ec9a5e11f9cdaa599": {
+   "id": "49bb5ed3ccc81f8ec9a5e11f9cdaa599",
+   "company": "Philips",
+   "role": "Internship: Ai & Automation (non-thesis)",
+   "location": "Eindhoven"
+  },
+  "3ac1c1b08078827265f16d804655b349": {
+   "id": "3ac1c1b08078827265f16d804655b349",
+   "company": "Armaokchapter",
+   "role": "Internship – Energy Sector Coverage Nl Team",
+   "location": "Maple"
+  },
   "a48ff77a01de5f1122a2b08c117a32a4": {
    "id": "a48ff77a01de5f1122a2b08c117a32a4",
    "company": "ROX Digital Agency",
@@ -115,6 +145,18 @@
    "company": "Ses Group",
    "role": "Intern Corporate Marketing",
    "location": "Alphen Aan Den Rijn"
+  },
+  "3ebfe1528915ec173a686e4dbff059db": {
+   "id": "3ebfe1528915ec173a686e4dbff059db",
+   "company": "Vilosa",
+   "role": "Stage Data-gestuurd Telen Richting De Toekomststage's Gravenzande",
+   "location": "'S Gravezande"
+  },
+  "c543bd557e88b870f9305c47d242f615": {
+   "id": "c543bd557e88b870f9305c47d242f615",
+   "company": "Vilosa",
+   "role": "Mbo Stage Technische Dienststage's Gravenzande",
+   "location": "'S Gravezande"
   },
   "10eeeae06e2c40269e69103d82a05f70": {
    "id": "10eeeae06e2c40269e69103d82a05f70",
@@ -506,48 +548,6 @@
    "role": "Thesis Internship – Forecast Analytics",
    "location": "S Hertogenbosch"
   },
-  "35302355b44f571b7c1572222900298c": {
-   "id": "35302355b44f571b7c1572222900298c",
-   "company": "MEDTRONIC",
-   "role": "Nextgen Academy Intern: Sales",
-   "location": "Amsterdam"
-  },
-  "ce1b9980bf7c283cff93e380cf506278": {
-   "id": "ce1b9980bf7c283cff93e380cf506278",
-   "company": "MEDTRONIC",
-   "role": "Nextgen Academy Intern: Field Support",
-   "location": "Eindhoven"
-  },
-  "359dfdd6b42d731b31c525851896c928": {
-   "id": "359dfdd6b42d731b31c525851896c928",
-   "company": "Kraft Heinz",
-   "role": "Global Food Safety And Quality Intern",
-   "location": "Amsterdam"
-  },
-  "be8ab995077d7b95b6e2cae606e5635b": {
-   "id": "be8ab995077d7b95b6e2cae606e5635b",
-   "company": "European Medicines Agency",
-   "role": "Trainee (refining Regulatory Intelligence On Not-for-profit Medicine Developments)",
-   "location": "Amsterdam"
-  },
-  "f9b44b8344548ec20627037436ccee2a": {
-   "id": "f9b44b8344548ec20627037436ccee2a",
-   "company": "224",
-   "role": "Internship Scalable Data & Analytics Services",
-   "location": "Cedar"
-  },
-  "bf4cadf600d469f0b3a1a9d41607a7bc": {
-   "id": "bf4cadf600d469f0b3a1a9d41607a7bc",
-   "company": "Armaokchapter",
-   "role": "Internship Scalable Data & Analytics Services",
-   "location": "Cedar"
-  },
-  "af7ef191b8686ccc3094901ba10854d6": {
-   "id": "af7ef191b8686ccc3094901ba10854d6",
-   "company": "HPE (Hewlett Packard Enterprise)",
-   "role": "Nwe Business Management Intern (defense Industry Europe)",
-   "location": "Amsterdam"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -704,6 +704,12 @@
    "role": "Data Analytics Graduate Internship",
    "location": "Amsterdam"
   },
+  "276307cbef567504b102add702d515ab": {
+   "id": "276307cbef567504b102add702d515ab",
+   "company": "Insify",
+   "role": "Finance & Data Analyst",
+   "location": "Amsterdam"
+  },
   "720b412a17a2d57d6c73685d934a2c46": {
    "id": "720b412a17a2d57d6c73685d934a2c46",
    "company": "Basic-Fit",
@@ -734,9 +740,21 @@
    "role": "Data Scientist",
    "location": "Amsterdam"
   },
+  "ea773e24127458712bdc8223a4f65139": {
+   "id": "ea773e24127458712bdc8223a4f65139",
+   "company": "Dentsu Aegis Network",
+   "role": "Data Scientist",
+   "location": "Amsterdam"
+  },
   "902ce1ac57935d92353f501b0eed78d5": {
    "id": "902ce1ac57935d92353f501b0eed78d5",
    "company": "dentsu",
+   "role": "Junior Data Scientist",
+   "location": "Amsterdam"
+  },
+  "7147524b3bbe0c7c1bbc822cbbbf4f13": {
+   "id": "7147524b3bbe0c7c1bbc822cbbbf4f13",
+   "company": "Dentsu Aegis Network",
    "role": "Junior Data Scientist",
    "location": "Amsterdam"
   },
@@ -840,18 +858,6 @@
    "id": "9d5ced52e5b2c60e217e256b175bba0d",
    "company": "Jobgether",
    "role": "Growth Analyst (m/f/d)",
-   "location": "Netherlands"
-  },
-  "00a9f150e2db9567cb2b7971a90b9e89": {
-   "id": "00a9f150e2db9567cb2b7971a90b9e89",
-   "company": "Nestle Ltd",
-   "role": "Masterdata Analyst",
-   "location": "Amsterdam"
-  },
-  "5b11f4d0d669a2a7c194279c7e903412": {
-   "id": "5b11f4d0d669a2a7c194279c7e903412",
-   "company": "Jobgether",
-   "role": "Data Analyst-operations & Cx",
    "location": "Netherlands"
   },
   "cad281eea4cb15fc28e8942d25ab9f62": {
@@ -1135,6 +1141,18 @@
    "company": "AkzoNobel N.V.",
    "role": "Payroll Analyst",
    "location": "Amsterdam"
+  },
+  "df13e21f3f890f907dd8d74c3127649b": {
+   "id": "df13e21f3f890f907dd8d74c3127649b",
+   "company": "A.P. Moller - Maersk",
+   "role": "Maintenance Technician (warehouse & Facilities) Maasvlakte",
+   "location": "Maasvlakte"
+  },
+  "1cff6e1d360e0caa434baad74d02c892": {
+   "id": "1cff6e1d360e0caa434baad74d02c892",
+   "company": "Baker Hughes Process & Pipeline Services (PPS)",
+   "role": "Workshop & Equipment Technician",
+   "location": "Netherlands"
   },
   "d0ac01c4d74fa963ac3e763d8f6e874f": {
    "id": "d0ac01c4d74fa963ac3e763d8f6e874f",
@@ -1598,17 +1616,17 @@
    "role": "Onderhoudstechnicus Electrical & Instrumentation (e&i)",
    "location": "Pernis"
   },
-  "2fa1788c3e3908c0cc1c29d7548a2841": {
-   "id": "2fa1788c3e3908c0cc1c29d7548a2841",
-   "company": "Tate & Lyle",
-   "role": "Maintenance Engineer",
-   "location": "Koog Aan De Zaan"
-  },
-  "39c29b4745a47c2a1eb75f001723e20e": {
-   "id": "39c29b4745a47c2a1eb75f001723e20e",
-   "company": "miele.kz",
-   "role": "Service Technicus - Regio Den Haag",
+  "5108ebe532c89ce5a2173c5c92db5c6b": {
+   "id": "5108ebe532c89ce5a2173c5c92db5c6b",
+   "company": "COS",
+   "role": "Sales Advisor 5-12h",
    "location": "Alphen Aan Den Rijn"
+  },
+  "5a592897265bb826fb9427986bfc12f2": {
+   "id": "5a592897265bb826fb9427986bfc12f2",
+   "company": "Deckers",
+   "role": "Part Time - Sales Associate, Ugg - Amsterdam",
+   "location": "Amsterdam"
   },
   "e65b6ca907401ba732e9f4f85481bd84": {
    "id": "e65b6ca907401ba732e9f4f85481bd84",
@@ -1916,12 +1934,6 @@
    "role": "Verkoopmedewerker – Amsterdam Buikslotermeerplein (weekend/bijbaan)",
    "location": "Amsterdam"
   },
-  "c7afdc587efc05dba839b091ba0d607a": {
-   "id": "c7afdc587efc05dba839b091ba0d607a",
-   "company": "COS",
-   "role": "Sales Advisor 5-12h",
-   "location": "Alphen Aan Den Rijn"
-  },
   "6e60e1b93122f4b9a684d7d0602ef336": {
    "id": "6e60e1b93122f4b9a684d7d0602ef336",
    "company": "Breitling SA",
@@ -2082,12 +2094,6 @@
    "id": "bb94c4213f91b66fb76f1fb3d599be09",
    "company": "H&M",
    "role": "Verkoopmedewerker - Rotterdam Alexandrium (26 Uur)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "f747b3a43de82dfe544abf55e24a1840": {
-   "id": "f747b3a43de82dfe544abf55e24a1840",
-   "company": "TK Maxx",
-   "role": "Sales Associate",
    "location": "Alphen Aan Den Rijn"
   },
   "fbce0d49c52c36e9f1b84185349b60c0": {
@@ -2305,18 +2311,6 @@
    "company": "Primark",
    "role": "Retail Assistant Weekday - Zoetermeer",
    "location": "Alphen Aan Den Rijn"
-  },
-  "b7a3e1dabf98657628522c32e0cecdda": {
-   "id": "b7a3e1dabf98657628522c32e0cecdda",
-   "company": "DSV Panalpina AS",
-   "role": "Administrative Specialist",
-   "location": "Veenendaal"
-  },
-  "addd9a6b82acfbde509b44e7c20f46ab": {
-   "id": "addd9a6b82acfbde509b44e7c20f46ab",
-   "company": "122",
-   "role": "Facilities Coordinator",
-   "location": "Eindhoven"
   }
  }
 }
