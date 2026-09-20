@@ -1350,4 +1350,17 @@
 <tr><td>TK Maxx</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-09-19</td></tr>
 <tr><td>DSV Panalpina AS</td><td>Administrative Specialist</td><td>Veenendaal</td><td>2026-09-19</td></tr>
 <tr><td>122</td><td>Facilities Coordinator</td><td>Eindhoven</td><td>2026-09-19</td></tr>
+<tr><td>Kraft Heinz</td><td>Food Safety & Quality Intern</td><td>Arnhem</td><td>2026-09-20</td></tr>
+<tr><td>Traineekraftheinz</td><td>Fsq External Manufacturing Intern</td><td>Arnhem</td><td>2026-09-20</td></tr>
+<tr><td>k a i s e r k r a f t . p t</td><td>Food Safety & Quality Intern</td><td>Arnhem</td><td>2026-09-20</td></tr>
+<tr><td>Kraft Heinz</td><td>Fsq External Manufacturing Intern</td><td>Arnhem</td><td>2026-09-20</td></tr>
+<tr><td>Kraft Heinz</td><td>Marketing & Portfolio Afh Growth Intern</td><td>Amsterdam</td><td>2026-09-20</td></tr>
+<tr><td>Linklaters</td><td>Student-stagiair(e) Arbitrage</td><td>Amsterdam</td><td>2026-09-20</td></tr>
+<tr><td>Linklaters</td><td>Student-stagiair(e)</td><td>Amsterdam</td><td>2026-09-20</td></tr>
+<tr><td>Mars</td><td>Thesis Internship – Forecast Analytics</td><td>S Hertogenbosch</td><td>2026-09-20</td></tr>
+<tr><td>Jobgether</td><td>Growth Analyst (m/f/d)</td><td>Netherlands</td><td>2026-09-20</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-09-20</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Telecom & Mobiel Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-09-20</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 21-31h</td><td>Amsterdam</td><td>2026-09-20</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker - Rotterdam Alexandrium (26 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-09-20</td></tr>
 </table>
