@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-20",
- "count": 387,
+ "asOf": "2026-09-21",
+ "count": 385,
  "jobs": {
   "1699411": {
    "id": "1699411",
@@ -110,11 +110,17 @@
    "role": "Verkoopmedewerker Amsterdam 16 Uur",
    "location": "Amsterdam"
   },
-  "af22b6e83b2c952658e581a4b0ca2142": {
-   "id": "af22b6e83b2c952658e581a4b0ca2142",
+  "87737ed50c39e3ddb6e86600038f1c2d": {
+   "id": "87737ed50c39e3ddb6e86600038f1c2d",
    "company": "Caldic B.V",
    "role": "Esg Intern",
    "location": "Alphen Aan Den Rijn"
+  },
+  "2911ba537b98ac5f4f803cd22abcf7ba": {
+   "id": "2911ba537b98ac5f4f803cd22abcf7ba",
+   "company": "Volkshotel",
+   "role": "Stage - Open Sollicitatiestageamsterdam",
+   "location": "Amsterdam"
   },
   "8daa2ea3388a73b3583d05fa416c0cbf": {
    "id": "8daa2ea3388a73b3583d05fa416c0cbf",
@@ -548,12 +554,6 @@
    "role": "Packaging Development & Technology intern",
    "location": "Arnhem"
   },
-  "6971b46193b8beaf1177aeb3c364f0d7": {
-   "id": "6971b46193b8beaf1177aeb3c364f0d7",
-   "company": "Kraft Heinz",
-   "role": "Procurement Finance Intern",
-   "location": "Amsterdam"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -648,18 +648,6 @@
    "id": "0a5572a3b37910ec434eed10d01bd56a",
    "company": "BeFrank",
    "role": "Software Engineer Data Platform",
-   "location": "Amsterdam"
-  },
-  "205ea96a793a9dc0052d9e53adb9137a": {
-   "id": "205ea96a793a9dc0052d9e53adb9137a",
-   "company": "LNRS DATA SERVICES",
-   "role": "Software Engineer Iii",
-   "location": "Amsterdam"
-  },
-  "1a0812d0a6715e54c31b0c9cbcd754d1": {
-   "id": "1a0812d0a6715e54c31b0c9cbcd754d1",
-   "company": "RELX (LexisNexis)",
-   "role": "Software Engineer Iii",
    "location": "Amsterdam"
   },
   "5bd8b6e30b16f16b0ebef1fd90ef00df": {
@@ -859,12 +847,6 @@
    "company": "Unilever",
    "role": "Data Analyst",
    "location": "Brussels +1"
-  },
-  "f7ac44dc6f126fc5a3d717b989393e2f": {
-   "id": "f7ac44dc6f126fc5a3d717b989393e2f",
-   "company": "flatexDEGIRO AG",
-   "role": "Data Reporting & Analytics",
-   "location": "Amsterdam"
   },
   "cad281eea4cb15fc28e8942d25ab9f62": {
    "id": "cad281eea4cb15fc28e8942d25ab9f62",
@@ -1148,6 +1130,18 @@
    "role": "Payroll Analyst",
    "location": "Amsterdam"
   },
+  "34948f1cb75ac0e77c04364cbe7a6ded": {
+   "id": "34948f1cb75ac0e77c04364cbe7a6ded",
+   "company": "Vistaprint",
+   "role": "Maintenance Technician X3",
+   "location": "Venlo"
+  },
+  "eee4de4ed0dd499598b8b1f5df2b5312": {
+   "id": "eee4de4ed0dd499598b8b1f5df2b5312",
+   "company": "Bilfinger SE",
+   "role": "Werkvoorbereider Elektrotechniek",
+   "location": "Alphen Aan Den Rijn"
+  },
   "ff79b10b3003dbb062c5b7ae6ab459b1": {
    "id": "ff79b10b3003dbb062c5b7ae6ab459b1",
    "company": "Ingersoll Rand PLC",
@@ -1195,12 +1189,6 @@
    "company": "BESIX Watpac",
    "role": "Field Specialist",
    "location": "Hendrik"
-  },
-  "004bd08158587b36a8553a5b8bf08443": {
-   "id": "004bd08158587b36a8553a5b8bf08443",
-   "company": "Vistaprint",
-   "role": "Maintenance Technician X3",
-   "location": "Venlo"
   },
   "f5af82d31aeba96e194e1c29d20e9627": {
    "id": "f5af82d31aeba96e194e1c29d20e9627",
@@ -1616,11 +1604,17 @@
    "role": "Service Monteur Roltrappen",
    "location": "Amsterdam"
   },
-  "b000a44a53564ec2c4e3d45fcc167970": {
-   "id": "b000a44a53564ec2c4e3d45fcc167970",
-   "company": "100",
-   "role": "Onderhoudstechnicus Electrical & Instrumentation (e&i)",
-   "location": "Pernis"
+  "f55685e99d9841c34a299169ab346e9d": {
+   "id": "f55685e99d9841c34a299169ab346e9d",
+   "company": "Nespresso",
+   "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
+   "location": "Amsterdam"
+  },
+  "345f2e5ae4d9752bf2e4fced885f49b6": {
+   "id": "345f2e5ae4d9752bf2e4fced885f49b6",
+   "company": "Nespresso",
+   "role": "Verkoopmedewerker Nespresso Amsterdam",
+   "location": "Amsterdam"
   },
   "60d54bbd0e3ac7eea4c3c518e7c8f1c9": {
    "id": "60d54bbd0e3ac7eea4c3c518e7c8f1c9",
@@ -1964,12 +1958,6 @@
    "role": "Verkoopmedewerker - (m/v) 24u - Uithoorn",
    "location": "Amsterdam"
   },
-  "f55685e99d9841c34a299169ab346e9d": {
-   "id": "f55685e99d9841c34a299169ab346e9d",
-   "company": "Nestle SA",
-   "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
-   "location": "Amsterdam"
-  },
   "753ffaa52124f1522b38dba6270ee035": {
    "id": "753ffaa52124f1522b38dba6270ee035",
    "company": "Parfumerie Douglas Nederland",
@@ -2088,12 +2076,6 @@
    "id": "45a1ee5a9f274873ed0a1a240924a069",
    "company": "Designeroutletberlin",
    "role": "Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)",
-   "location": "Amsterdam"
-  },
-  "50727c59ac2ab45d52598c67e4257ead": {
-   "id": "50727c59ac2ab45d52598c67e4257ead",
-   "company": "Designeroutletberlin",
-   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amstelveen",
    "location": "Amsterdam"
   },
   "ec16fd2fdb6b6a9879bec1d0e8826baa": {
@@ -2323,6 +2305,12 @@
    "company": "Primark",
    "role": "Retail Assistant Weekday - Zoetermeer",
    "location": "Alphen Aan Den Rijn"
+  },
+  "75136906aa2da301902c38be6f43e868": {
+   "id": "75136906aa2da301902c38be6f43e868",
+   "company": "DLA Piper",
+   "role": "Junior Assistant IP&T",
+   "location": "Amsterdam"
   }
  }
 }

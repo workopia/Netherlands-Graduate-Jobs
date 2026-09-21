@@ -1363,4 +1363,12 @@
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Telecom & Mobiel Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-09-20</td></tr>
 <tr><td>H&M</td><td>Sales Advisor 21-31h</td><td>Amsterdam</td><td>2026-09-20</td></tr>
 <tr><td>H&M</td><td>Verkoopmedewerker - Rotterdam Alexandrium (26 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-09-20</td></tr>
+<tr><td>Caldic B.V</td><td>Esg Intern</td><td>Alphen Aan Den Rijn</td><td>2026-09-21</td></tr>
+<tr><td>Kraft Heinz</td><td>Procurement Finance Intern</td><td>Amsterdam</td><td>2026-09-21</td></tr>
+<tr><td>LNRS DATA SERVICES</td><td>Software Engineer Iii</td><td>Amsterdam</td><td>2026-09-21</td></tr>
+<tr><td>RELX (LexisNexis)</td><td>Software Engineer Iii</td><td>Amsterdam</td><td>2026-09-21</td></tr>
+<tr><td>flatexDEGIRO AG</td><td>Data Reporting & Analytics</td><td>Amsterdam</td><td>2026-09-21</td></tr>
+<tr><td>Vistaprint</td><td>Maintenance Technician X3</td><td>Venlo</td><td>2026-09-21</td></tr>
+<tr><td>100</td><td>Onderhoudstechnicus Electrical & Instrumentation (e&i)</td><td>Pernis</td><td>2026-09-21</td></tr>
+<tr><td>Designeroutletberlin</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amstelveen</td><td>Amsterdam</td><td>2026-09-21</td></tr>
 </table>
