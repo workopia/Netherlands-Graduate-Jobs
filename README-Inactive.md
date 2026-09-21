@@ -1371,4 +1371,5 @@
 <tr><td>Vistaprint</td><td>Maintenance Technician X3</td><td>Venlo</td><td>2026-09-21</td></tr>
 <tr><td>100</td><td>Onderhoudstechnicus Electrical & Instrumentation (e&i)</td><td>Pernis</td><td>2026-09-21</td></tr>
 <tr><td>Designeroutletberlin</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amstelveen</td><td>Amsterdam</td><td>2026-09-21</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Payroll Analyst</td><td>Amsterdam</td><td>2026-09-21</td></tr>
 </table>

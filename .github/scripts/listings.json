@@ -13,7 +13,7 @@
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 3473,
-  "generated_at": "2026-09-21T06:58:03.649Z"
+  "generated_at": "2026-09-21T10:29:04.092Z"
  },
  "categories": [
   {
@@ -3097,23 +3097,6 @@
    "date_posted": "2026-07-24T06:35:30.272Z",
    "active": true,
    "url": "https://workopia.io/jobs/0d495ff9c2ca92c8a955be36055c5b9e",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "1c18ac8f679bf3196d44bd98d2c25a03",
-   "source": "Workopia",
-   "company_name": "AkzoNobel N.V.",
-   "company_hi_slug": "akzonobel-n-v",
-   "title": "Payroll Analyst",
-   "location": "Amsterdam",
-   "skills": "HBO level, Netherlands labor law",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-23T10:12:27.950Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/1c18ac8f679bf3196d44bd98d2c25a03",
    "category": "finance",
    "tier": "Entry-level"
   },

@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-21",
- "count": 385,
+ "count": 384,
  "jobs": {
   "1699411": {
    "id": "1699411",
@@ -1123,12 +1123,6 @@
    "company": "Q8truck",
    "role": "Project Analyst",
    "location": "Antwerpen +1"
-  },
-  "1c18ac8f679bf3196d44bd98d2c25a03": {
-   "id": "1c18ac8f679bf3196d44bd98d2c25a03",
-   "company": "AkzoNobel N.V.",
-   "role": "Payroll Analyst",
-   "location": "Amsterdam"
   },
   "34948f1cb75ac0e77c04364cbe7a6ded": {
    "id": "34948f1cb75ac0e77c04364cbe7a6ded",
