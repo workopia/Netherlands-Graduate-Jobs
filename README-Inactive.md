@@ -1372,4 +1372,15 @@
 <tr><td>100</td><td>Onderhoudstechnicus Electrical & Instrumentation (e&i)</td><td>Pernis</td><td>2026-09-21</td></tr>
 <tr><td>Designeroutletberlin</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amstelveen</td><td>Amsterdam</td><td>2026-09-21</td></tr>
 <tr><td>AkzoNobel N.V.</td><td>Payroll Analyst</td><td>Amsterdam</td><td>2026-09-21</td></tr>
+<tr><td>Kraft Heinz</td><td>Finance Intern</td><td>Amsterdam</td><td>2026-09-22</td></tr>
+<tr><td>Kraft Heinz</td><td>Labs/shelf Life Intern</td><td>Arnhem</td><td>2026-09-22</td></tr>
+<tr><td>kaiserkraft.pt</td><td>Labs/shelf Life Intern</td><td>Arnhem</td><td>2026-09-22</td></tr>
+<tr><td>Kraft Heinz</td><td>Global Supply Chain Finance Intern</td><td>Amsterdam</td><td>2026-09-22</td></tr>
+<tr><td>Kraft Heinz</td><td>R&d Technologist Intern</td><td>Arnhem</td><td>2026-09-22</td></tr>
+<tr><td>Kraft Heinz</td><td>Packaging Development & Technology intern</td><td>Arnhem</td><td>2026-09-22</td></tr>
+<tr><td>kaiserkraft.pt</td><td>R&d Technologist Intern</td><td>Arnhem</td><td>2026-09-22</td></tr>
+<tr><td>kaiserkraft.pt</td><td>Packaging Development & Technology intern</td><td>Arnhem</td><td>2026-09-22</td></tr>
+<tr><td>Mango</td><td>Sales Assistant (16 Hours - Den Haag)</td><td>Alphen Aan Den Rijn</td><td>2026-09-22</td></tr>
+<tr><td>Designeroutletberlin</td><td>Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)</td><td>Amsterdam</td><td>2026-09-22</td></tr>
+<tr><td>Primark</td><td>Retail Assistant Weekday - Zoetermeer</td><td>Alphen Aan Den Rijn</td><td>2026-09-22</td></tr>
 </table>

@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-21",
+ "asOf": "2026-09-22",
  "count": 384,
  "jobs": {
   "1699411": {
@@ -109,6 +109,66 @@
    "company": "Boekenvoordeel B.V",
    "role": "Verkoopmedewerker Amsterdam 16 Uur",
    "location": "Amsterdam"
+  },
+  "2752935": {
+   "id": "2752935",
+   "company": "ODYSSEY HOTEL Group",
+   "role": "Front Office Intern - Jan 2027",
+   "location": "Breda"
+  },
+  "54456192f1480de989cfaf08bb7b913d": {
+   "id": "54456192f1480de989cfaf08bb7b913d",
+   "company": "essity.de",
+   "role": "Stagiaire",
+   "location": "Arnhem"
+  },
+  "77a590078b7ee86828f5c688abe73ada": {
+   "id": "77a590078b7ee86828f5c688abe73ada",
+   "company": "Online Department",
+   "role": "Ux (afstudeer)stagerotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "26d1827375ffab4eeb8b8d2d98118e1a": {
+   "id": "26d1827375ffab4eeb8b8d2d98118e1a",
+   "company": "Ask Phill",
+   "role": "Marketing &amp; Events Interninternshipamsterdam",
+   "location": "Amsterdam"
+  },
+  "7f3f174c58742751ae76c2e31328f8f6": {
+   "id": "7f3f174c58742751ae76c2e31328f8f6",
+   "company": "Workwize",
+   "role": "Operations Intern",
+   "location": "Amsterdam"
+  },
+  "893394155426": {
+   "id": "893394155426",
+   "company": "Intelex",
+   "role": "Controlling Intern",
+   "location": "Eindhoven"
+  },
+  "893396066606": {
+   "id": "893396066606",
+   "company": "Intelex",
+   "role": "Vat Intern",
+   "location": "Eindhoven"
+  },
+  "137481434937": {
+   "id": "137481434937",
+   "company": "John Deere",
+   "role": "Hr Stage",
+   "location": "Venlo"
+  },
+  "e28f31b1653876a96139e1629a923722": {
+   "id": "e28f31b1653876a96139e1629a923722",
+   "company": "RWE AG",
+   "role": "Afstudeerstage: It/ot Security - Veilige Filetransfer Via Datadiode",
+   "location": "Breda"
+  },
+  "ef4ab0edaafea68922e66733e50431fc": {
+   "id": "ef4ab0edaafea68922e66733e50431fc",
+   "company": "RWE AG",
+   "role": "Afstudeerstage: It/ot Security - Restlevensduur Van Energie-installaties",
+   "location": "Breda"
   },
   "87737ed50c39e3ddb6e86600038f1c2d": {
    "id": "87737ed50c39e3ddb6e86600038f1c2d",
@@ -356,18 +416,6 @@
    "role": "Business Coordination Intern",
    "location": "Amsterdam"
   },
-  "e28f31b1653876a96139e1629a923722": {
-   "id": "e28f31b1653876a96139e1629a923722",
-   "company": "RWE AG",
-   "role": "Afstudeerstage: It/ot Security - Veilige Filetransfer Via Datadiode",
-   "location": "Breda"
-  },
-  "ef4ab0edaafea68922e66733e50431fc": {
-   "id": "ef4ab0edaafea68922e66733e50431fc",
-   "company": "RWE AG",
-   "role": "Afstudeerstage: It/ot Security - Restlevensduur Van Energie-installaties",
-   "location": "Breda"
-  },
   "a62133adb6521b4981f0c00ba71eb892": {
    "id": "a62133adb6521b4981f0c00ba71eb892",
    "company": "Prysmian Group",
@@ -505,54 +553,6 @@
    "company": "Chanel",
    "role": "Internship – Digital Training Benelux & Scandinavia - December 2026 – M/f/d",
    "location": "Amsterdam"
-  },
-  "e6506aa32efc007d9ca4816637b9d871": {
-   "id": "e6506aa32efc007d9ca4816637b9d871",
-   "company": "Kraft Heinz",
-   "role": "Finance Intern",
-   "location": "Amsterdam"
-  },
-  "b052e73a5504829b8bcdbaf6a466947b": {
-   "id": "b052e73a5504829b8bcdbaf6a466947b",
-   "company": "Kraft Heinz",
-   "role": "Labs/shelf Life Intern",
-   "location": "Arnhem"
-  },
-  "d4a8f5f7522a3753f62a1169205ec9b9": {
-   "id": "d4a8f5f7522a3753f62a1169205ec9b9",
-   "company": "kaiserkraft.pt",
-   "role": "Labs/shelf Life Intern",
-   "location": "Arnhem"
-  },
-  "1948c132a0623674d223046928f3ab5b": {
-   "id": "1948c132a0623674d223046928f3ab5b",
-   "company": "Kraft Heinz",
-   "role": "Global Supply Chain Finance Intern",
-   "location": "Amsterdam"
-  },
-  "2451c4379024cbde2b20d333ec1242f1": {
-   "id": "2451c4379024cbde2b20d333ec1242f1",
-   "company": "Kraft Heinz",
-   "role": "R&d Technologist Intern",
-   "location": "Arnhem"
-  },
-  "528b6bfbfde89c4c5077919ab8bba435": {
-   "id": "528b6bfbfde89c4c5077919ab8bba435",
-   "company": "Kraft Heinz",
-   "role": "Packaging Development & Technology intern",
-   "location": "Arnhem"
-  },
-  "56f22bf146be1d86df480a5b3e3f6545": {
-   "id": "56f22bf146be1d86df480a5b3e3f6545",
-   "company": "kaiserkraft.pt",
-   "role": "R&d Technologist Intern",
-   "location": "Arnhem"
-  },
-  "6c0ab79f7cb0f2d717c54a09fe32a626": {
-   "id": "6c0ab79f7cb0f2d717c54a09fe32a626",
-   "company": "kaiserkraft.pt",
-   "role": "Packaging Development & Technology intern",
-   "location": "Arnhem"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
@@ -877,6 +877,12 @@
    "company": "Vetamc",
    "role": "Stagiair – Hbo/wo - Asset Management & Improvement",
    "location": "North Brabant"
+  },
+  "e2eb4fe7e58d2d49a278025f6de6869b": {
+   "id": "e2eb4fe7e58d2d49a278025f6de6869b",
+   "company": "Oaklins International Inc",
+   "role": "Investment Banking Interninternshipamsterdam, Zuidas",
+   "location": "Amsterdam"
   },
   "d7c764f642f48e405b9d1cd3299bf03c": {
    "id": "d7c764f642f48e405b9d1cd3299bf03c",
@@ -1598,6 +1604,18 @@
    "role": "Service Monteur Roltrappen",
    "location": "Amsterdam"
   },
+  "7c71d3f0eaa81017fdece8be8abe6c7a": {
+   "id": "7c71d3f0eaa81017fdece8be8abe6c7a",
+   "company": "Urban Outfitters",
+   "role": "Urban Outfitters Sales Associate - Amsterdam Kalverstraat, Nl",
+   "location": "Amsterdam"
+  },
+  "d3462b603bc6e8ad792e19b05edf378b": {
+   "id": "d3462b603bc6e8ad792e19b05edf378b",
+   "company": "Breitling SA",
+   "role": "Sales Associate (f/m/x)",
+   "location": "Amsterdam"
+  },
   "f55685e99d9841c34a299169ab346e9d": {
    "id": "f55685e99d9841c34a299169ab346e9d",
    "company": "Nespresso",
@@ -2060,17 +2078,17 @@
    "role": "Verkoopmedewerker - Maison De Bonneterie Amsterdam (26 Uur)",
    "location": "Amsterdam"
   },
-  "7d3b74f16baf57ef3428bae73d42cd2f": {
-   "id": "7d3b74f16baf57ef3428bae73d42cd2f",
-   "company": "Mango",
-   "role": "Sales Assistant (16 Hours - Den Haag)",
-   "location": "Alphen Aan Den Rijn"
+  "8901ea7124f0062bf395b0d481306575": {
+   "id": "8901ea7124f0062bf395b0d481306575",
+   "company": "Primark",
+   "role": "Verkoopmedewerker / Sales Assistant Weekend Eindhoven",
+   "location": "Eindhoven"
   },
-  "45a1ee5a9f274873ed0a1a240924a069": {
-   "id": "45a1ee5a9f274873ed0a1a240924a069",
-   "company": "Designeroutletberlin",
-   "role": "Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)",
-   "location": "Amsterdam"
+  "3d2ed220d4a5762ee2b6316658050a12": {
+   "id": "3d2ed220d4a5762ee2b6316658050a12",
+   "company": "Primark",
+   "role": "Verkoopmedewerker / Sales Assistant Parttime Eindhoven",
+   "location": "Eindhoven"
   },
   "ec16fd2fdb6b6a9879bec1d0e8826baa": {
    "id": "ec16fd2fdb6b6a9879bec1d0e8826baa",
@@ -2198,18 +2216,6 @@
    "role": "Parttime Retail Assistant Rotterdam Forum",
    "location": "Alphen Aan Den Rijn"
   },
-  "8901ea7124f0062bf395b0d481306575": {
-   "id": "8901ea7124f0062bf395b0d481306575",
-   "company": "Primark",
-   "role": "Verkoopmedewerker / Sales Assistant Weekend Eindhoven",
-   "location": "Eindhoven"
-  },
-  "3d2ed220d4a5762ee2b6316658050a12": {
-   "id": "3d2ed220d4a5762ee2b6316658050a12",
-   "company": "Primark",
-   "role": "Verkoopmedewerker / Sales Assistant Parttime Eindhoven",
-   "location": "Eindhoven"
-  },
   "86622be660adf3a492b015cd1f9a701a": {
    "id": "86622be660adf3a492b015cd1f9a701a",
    "company": "Wpp",
@@ -2293,12 +2299,6 @@
    "company": "Serverfarm",
    "role": "Data Center Operations Administrator",
    "location": "Amsterdam"
-  },
-  "303e14bfed7a814fdb8d2ea6b5444af6": {
-   "id": "303e14bfed7a814fdb8d2ea6b5444af6",
-   "company": "Primark",
-   "role": "Retail Assistant Weekday - Zoetermeer",
-   "location": "Alphen Aan Den Rijn"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",
