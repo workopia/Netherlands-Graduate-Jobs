@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-22",
- "count": 383,
+ "count": 382,
  "jobs": {
   "1699411": {
    "id": "1699411",
@@ -25,12 +25,6 @@
    "company": "Amarosa",
    "role": "Managementassistent 32 Uur",
    "location": "Alphen Aan Den Rijn"
-  },
-  "2688619": {
-   "id": "2688619",
-   "company": "Medikamente Die Grenze",
-   "role": "Administratief Medewerker Logistiek Peize",
-   "location": "Peize"
   },
   "2689057": {
    "id": "2689057",

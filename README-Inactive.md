@@ -1384,4 +1384,5 @@
 <tr><td>Designeroutletberlin</td><td>Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)</td><td>Amsterdam</td><td>2026-09-22</td></tr>
 <tr><td>Primark</td><td>Retail Assistant Weekday - Zoetermeer</td><td>Alphen Aan Den Rijn</td><td>2026-09-22</td></tr>
 <tr><td>Q8truck</td><td>Project Analyst</td><td>Antwerpen +1</td><td>2026-09-22</td></tr>
+<tr><td>Medikamente Die Grenze</td><td>Administratief Medewerker Logistiek Peize</td><td>Peize</td><td>2026-09-22</td></tr>
 </table>

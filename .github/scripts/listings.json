@@ -12,8 +12,8 @@
   "as_of": "2026-09-22",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 3456,
-  "generated_at": "2026-09-22T06:56:26.322Z"
+  "country_live_total": 3453,
+  "generated_at": "2026-09-22T10:25:10.045Z"
  },
  "categories": [
   {
@@ -6548,23 +6548,6 @@
    "date_posted": "2026-07-24T18:56:54.873Z",
    "active": true,
    "url": "https://workopia.io/jobs/6c1db332f0123a4b9a49fee4821af3b4",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "2688619",
-   "source": "Workopia",
-   "company_name": "Medikamente Die Grenze",
-   "company_hi_slug": "medikamente-die-grenze",
-   "title": "Administratief Medewerker Logistiek Peize",
-   "location": "Peize",
-   "skills": "MBO 4 level, administrative experie",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-24T08:53:07.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/2688619",
    "category": "admin",
    "tier": "Entry-level"
   },
