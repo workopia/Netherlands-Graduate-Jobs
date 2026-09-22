@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-22",
- "count": 384,
+ "count": 383,
  "jobs": {
   "1699411": {
    "id": "1699411",
@@ -1123,12 +1123,6 @@
    "company": "Jobgether",
    "role": "Product Analyst",
    "location": "Netherlands"
-  },
-  "0d495ff9c2ca92c8a955be36055c5b9e": {
-   "id": "0d495ff9c2ca92c8a955be36055c5b9e",
-   "company": "Q8truck",
-   "role": "Project Analyst",
-   "location": "Antwerpen +1"
   },
   "34948f1cb75ac0e77c04364cbe7a6ded": {
    "id": "34948f1cb75ac0e77c04364cbe7a6ded",
