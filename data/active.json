@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-22",
- "count": 382,
+ "count": 381,
  "jobs": {
   "1699411": {
    "id": "1699411",
@@ -25,12 +25,6 @@
    "company": "Amarosa",
    "role": "Managementassistent 32 Uur",
    "location": "Alphen Aan Den Rijn"
-  },
-  "2689057": {
-   "id": "2689057",
-   "company": "AFS Group",
-   "role": "Business Analyst",
-   "location": "Amsterdam"
   },
   "2691956": {
    "id": "2691956",

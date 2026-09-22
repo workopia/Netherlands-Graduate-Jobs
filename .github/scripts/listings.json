@@ -12,8 +12,8 @@
   "as_of": "2026-09-22",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 3453,
-  "generated_at": "2026-09-22T10:25:10.045Z"
+  "country_live_total": 3451,
+  "generated_at": "2026-09-22T13:15:06.701Z"
  },
  "categories": [
   {
@@ -3080,23 +3080,6 @@
    "date_posted": "2026-07-28T10:24:54.767Z",
    "active": true,
    "url": "https://workopia.io/jobs/061f6243066252994273a4a2a7012192",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "2689057",
-   "source": "Workopia",
-   "company_name": "AFS Group",
-   "company_hi_slug": "afs-group",
-   "title": "Business Analyst",
-   "location": "Amsterdam",
-   "skills": "Agile methodology, process optimization",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-24T11:51:26.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/2689057",
    "category": "finance",
    "tier": "Entry-level"
   },
