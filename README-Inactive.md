@@ -1401,4 +1401,11 @@
 <tr><td>Kraft Heinz</td><td>Law Internship (stage)</td><td>Amsterdam</td><td>2026-09-23</td></tr>
 <tr><td>kaiserkraft.pt</td><td>Product Development - Salt & Sugar Intern</td><td>Arnhem</td><td>2026-09-23</td></tr>
 <tr><td>KONE ELEVATORS PTY</td><td>Reparatie Monteur Roltrappen</td><td>Alphen Aan Den Rijn</td><td>2026-09-23</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Meewerk Stage Fiduciary (m/v/x)</td><td>Alphen Aan Den Rijn</td><td>2026-09-23</td></tr>
+<tr><td>Cencora</td><td>Intern, Data</td><td>S Hertogenbosch</td><td>2026-09-23</td></tr>
+<tr><td>Boots apotheek</td><td>Intern, Pharmacy</td><td>Houten</td><td>2026-09-23</td></tr>
+<tr><td>JBT Marel</td><td>Internship Business Administration -- Facilities And Mro Procurement</td><td>Venlo</td><td>2026-09-23</td></tr>
+<tr><td>Exclusive Networks Group</td><td>Hr / Facilitair Stagiair(e)</td><td>Son</td><td>2026-09-23</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Service Monteur Personendeuren</td><td>Alphen Aan Den Rijn</td><td>2026-09-23</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Junior Service Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-23</td></tr>
 </table>
