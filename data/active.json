@@ -2,16 +2,16 @@
  "asOf": "2026-09-23",
  "count": 383,
  "jobs": {
+  "88328": {
+   "id": "88328",
+   "company": "Henkel",
+   "role": "Intern Global Trade",
+   "location": "Amsterdam"
+  },
   "1699411": {
    "id": "1699411",
    "company": "Parfumado",
    "role": "Operations & Supply Chain Intern",
-   "location": "Amsterdam"
-  },
-  "2545324": {
-   "id": "2545324",
-   "company": "Deleurope",
-   "role": "Reservations Agent Intern",
    "location": "Amsterdam"
   },
   "2632449": {
@@ -25,6 +25,12 @@
    "company": "Amarosa",
    "role": "Managementassistent 32 Uur",
    "location": "Alphen Aan Den Rijn"
+  },
+  "2682935": {
+   "id": "2682935",
+   "company": "Wakuli Koffie",
+   "role": "Impact Intern",
+   "location": "Amsterdam"
   },
   "2691956": {
    "id": "2691956",
@@ -127,6 +133,36 @@
    "company": "Kraft Heinz",
    "role": "Sales Superunie Intern",
    "location": "Amsterdam"
+  },
+  "3738220c93b59e0beba24a8b0370efc4": {
+   "id": "3738220c93b59e0beba24a8b0370efc4",
+   "company": "Kraft Heinz",
+   "role": "Hr (communications) Intern",
+   "location": "Amsterdam"
+  },
+  "02f1b7a0a3c8d9657c076f8048c5257f": {
+   "id": "02f1b7a0a3c8d9657c076f8048c5257f",
+   "company": "kaiserkraft.pt",
+   "role": "Hr & Ta Intern",
+   "location": "Amsterdam"
+  },
+  "fc96858c882da46195b9073f62d77f7f": {
+   "id": "fc96858c882da46195b9073f62d77f7f",
+   "company": "Kraft Heinz",
+   "role": "Law Intern",
+   "location": "Amsterdam"
+  },
+  "e8a09055539cafc46dd0cf6178ae0c40": {
+   "id": "e8a09055539cafc46dd0cf6178ae0c40",
+   "company": "kaiserkraft.pt",
+   "role": "Afh Marketing Intern",
+   "location": "Amsterdam"
+  },
+  "562949978375457": {
+   "id": "562949978375457",
+   "company": "Bayer",
+   "role": "Hr Stagiair(e)",
+   "location": "Alphen Aan Den Rijn"
   },
   "fe62ccc98a729b025984334e026f137d": {
    "id": "fe62ccc98a729b025984334e026f137d",
@@ -505,42 +541,6 @@
    "company": "Exclusive Networks Group",
    "role": "Hr / Facilitair Stagiair(e)",
    "location": "Son"
-  },
-  "86bac84fc920011ad4d8280036397f1b": {
-   "id": "86bac84fc920011ad4d8280036397f1b",
-   "company": "Exclusive Networks",
-   "role": "Marketing & Communicatie Stagiair(e)",
-   "location": "Son"
-  },
-  "9a3b9a9fcf03afd57e068c2da4e407ea": {
-   "id": "9a3b9a9fcf03afd57e068c2da4e407ea",
-   "company": "Vanderlande UK",
-   "role": "Internship: Ict Service Centre Support Engineer",
-   "location": "S Hertogenbosch"
-  },
-  "cc929aa56418d7a2ec94bdd0cafc8f96": {
-   "id": "cc929aa56418d7a2ec94bdd0cafc8f96",
-   "company": "Stichting Doen",
-   "role": "Impact Investment Stagiairfulltimebeethovenstraat 200, Amsterdam",
-   "location": "Amsterdam"
-  },
-  "a4e60a83040eaa7d6105f9adc0e615b7": {
-   "id": "a4e60a83040eaa7d6105f9adc0e615b7",
-   "company": "100",
-   "role": "Shell Assessed Internship Programme 2027 - Netherlands",
-   "location": "Amsterdam"
-  },
-  "a3aa24604897f5f53455fb3bd8274cb3": {
-   "id": "a3aa24604897f5f53455fb3bd8274cb3",
-   "company": "Kraft Heinz",
-   "role": "Law Internship (stage)",
-   "location": "Amsterdam"
-  },
-  "bf64df04becdecae4641a3f184b38513": {
-   "id": "bf64df04becdecae4641a3f184b38513",
-   "company": "kaiserkraft.pt",
-   "role": "Product Development - Salt & Sugar Intern",
-   "location": "Arnhem"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
@@ -1136,6 +1136,12 @@
    "role": "Service Monteur Personendeuren",
    "location": "Alphen Aan Den Rijn"
   },
+  "6ddb67c21560af14fd6c9fbb678a5f4b": {
+   "id": "6ddb67c21560af14fd6c9fbb678a5f4b",
+   "company": "äº¬ä¸å¨çç",
+   "role": "Equipment Maintenance (chinese Speaker)",
+   "location": "South Holland"
+  },
   "34948f1cb75ac0e77c04364cbe7a6ded": {
    "id": "34948f1cb75ac0e77c04364cbe7a6ded",
    "company": "Vistaprint",
@@ -1596,12 +1602,6 @@
    "id": "e0ba3393ec917792ac230105ae958b1f",
    "company": "KONE ELEVATORS PTY",
    "role": "Junior Service Monteur",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "949ba468a5b62caaa93371cacd1a1d0e": {
-   "id": "949ba468a5b62caaa93371cacd1a1d0e",
-   "company": "KONE ELEVATORS PTY",
-   "role": "Reparatie Monteur Roltrappen",
    "location": "Alphen Aan Den Rijn"
   },
   "7c71d3f0eaa81017fdece8be8abe6c7a": {

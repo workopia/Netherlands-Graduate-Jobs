@@ -1393,4 +1393,12 @@
 <tr><td>Chanel</td><td>Internship – Digital Training Benelux & Scandinavia - December 2026 – M/f/d</td><td>Amsterdam</td><td>2026-09-23</td></tr>
 <tr><td>KONE ELEVATORS PTY</td><td>Service Monteur Roltrappen</td><td>Amsterdam</td><td>2026-09-23</td></tr>
 <tr><td>Serverfarm</td><td>Data Center Operations Administrator</td><td>Amsterdam</td><td>2026-09-23</td></tr>
+<tr><td>Deleurope</td><td>Reservations Agent Intern</td><td>Amsterdam</td><td>2026-09-23</td></tr>
+<tr><td>Exclusive Networks</td><td>Marketing & Communicatie Stagiair(e)</td><td>Son</td><td>2026-09-23</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Ict Service Centre Support Engineer</td><td>S Hertogenbosch</td><td>2026-09-23</td></tr>
+<tr><td>Stichting Doen</td><td>Impact Investment Stagiairfulltimebeethovenstraat 200, Amsterdam</td><td>Amsterdam</td><td>2026-09-23</td></tr>
+<tr><td>100</td><td>Shell Assessed Internship Programme 2027 - Netherlands</td><td>Amsterdam</td><td>2026-09-23</td></tr>
+<tr><td>Kraft Heinz</td><td>Law Internship (stage)</td><td>Amsterdam</td><td>2026-09-23</td></tr>
+<tr><td>kaiserkraft.pt</td><td>Product Development - Salt & Sugar Intern</td><td>Arnhem</td><td>2026-09-23</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Reparatie Monteur Roltrappen</td><td>Alphen Aan Den Rijn</td><td>2026-09-23</td></tr>
 </table>
