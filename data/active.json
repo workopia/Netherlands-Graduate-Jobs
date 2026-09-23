@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-22",
- "count": 381,
+ "asOf": "2026-09-23",
+ "count": 383,
  "jobs": {
   "1699411": {
    "id": "1699411",
@@ -103,6 +103,36 @@
    "company": "ODYSSEY HOTEL Group",
    "role": "Front Office Intern - Jan 2027",
    "location": "Breda"
+  },
+  "66f6739dfcfa9d0aa9a43eac0ffb2ff9": {
+   "id": "66f6739dfcfa9d0aa9a43eac0ffb2ff9",
+   "company": "ING",
+   "role": "Internship Wholesale Banking Finance - Analytics & Strategic Steering",
+   "location": "Cedar)"
+  },
+  "6fe54cab63b6a19815ce45367d2280f0": {
+   "id": "6fe54cab63b6a19815ce45367d2280f0",
+   "company": "workday.gea",
+   "role": "Intern Learning Systems",
+   "location": "S Hertogenbosch"
+  },
+  "25baaf58aa8b11ebca5c10fc8ec14dc8": {
+   "id": "25baaf58aa8b11ebca5c10fc8ec14dc8",
+   "company": "Hogan Lovells",
+   "role": "Werkstudent Tax",
+   "location": "Amsterdam"
+  },
+  "dd83a14c5959843798b2ea8242624d86": {
+   "id": "dd83a14c5959843798b2ea8242624d86",
+   "company": "Kraft Heinz",
+   "role": "Sales Superunie Intern",
+   "location": "Amsterdam"
+  },
+  "fe62ccc98a729b025984334e026f137d": {
+   "id": "fe62ccc98a729b025984334e026f137d",
+   "company": "IMC Trading",
+   "role": "2027 Eu Chess Academy - Expression Of Interest",
+   "location": "Amsterdam"
   },
   "54456192f1480de989cfaf08bb7b913d": {
    "id": "54456192f1480de989cfaf08bb7b913d",
@@ -512,36 +542,6 @@
    "role": "Product Development - Salt & Sugar Intern",
    "location": "Arnhem"
   },
-  "800ced03fc1e6f7c8651ad79fba558b7": {
-   "id": "800ced03fc1e6f7c8651ad79fba558b7",
-   "company": "Kraft Heinz",
-   "role": "Supply Chain & Logistics Intern",
-   "location": "Amsterdam"
-  },
-  "00f9035c8d4cb5db17fefb501b578ec5": {
-   "id": "00f9035c8d4cb5db17fefb501b578ec5",
-   "company": "Kraft Heinz",
-   "role": "Away From Home - Sales/marketing Intern",
-   "location": "Amsterdam"
-  },
-  "d822d8444c0d37cd893e0e8f4befb85b": {
-   "id": "d822d8444c0d37cd893e0e8f4befb85b",
-   "company": "kaiserkraft.pt",
-   "role": "Marketing Intern",
-   "location": "Amsterdam"
-  },
-  "17ce37904c91e22baa1ad71e433e09d2": {
-   "id": "17ce37904c91e22baa1ad71e433e09d2",
-   "company": "Freudenberg Home and Cleaning Solutions",
-   "role": "Intern",
-   "location": "Arnhem"
-  },
-  "1c58ea8386158008c3b417ee4d09c715": {
-   "id": "1c58ea8386158008c3b417ee4d09c715",
-   "company": "Chanel",
-   "role": "Internship – Digital Training Benelux & Scandinavia - December 2026 – M/f/d",
-   "location": "Amsterdam"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -692,6 +692,12 @@
    "role": "Data Analytics Graduate Internship",
    "location": "Amsterdam"
   },
+  "e83791b2a1aac4b80845e92381b1f6ff": {
+   "id": "e83791b2a1aac4b80845e92381b1f6ff",
+   "company": "Jobgether",
+   "role": "Marketing & Data Analyst",
+   "location": "Netherlands"
+  },
   "276307cbef567504b102add702d515ab": {
    "id": "276307cbef567504b102add702d515ab",
    "company": "Insify",
@@ -836,6 +842,12 @@
    "role": "Data Analyst",
    "location": "Brussels +1"
   },
+  "768d3c3f9d78c7d61e315b4be8feda44": {
+   "id": "768d3c3f9d78c7d61e315b4be8feda44",
+   "company": "Brightonparkbank",
+   "role": "Banking Off Cycle Internship Programme 2027 Amsterdam",
+   "location": "Amsterdam"
+  },
   "cad281eea4cb15fc28e8942d25ab9f62": {
    "id": "cad281eea4cb15fc28e8942d25ab9f62",
    "company": "Citi Handlowy",
@@ -872,11 +884,23 @@
    "role": "Investment Banking Interninternshipamsterdam, Zuidas",
    "location": "Amsterdam"
   },
+  "061f6243066252994273a4a2a7012192": {
+   "id": "061f6243066252994273a4a2a7012192",
+   "company": "Jobgether",
+   "role": "Product Analyst",
+   "location": "Netherlands"
+  },
   "d7c764f642f48e405b9d1cd3299bf03c": {
    "id": "d7c764f642f48e405b9d1cd3299bf03c",
    "company": "Kyndryl",
    "role": "Azure Consultancy Team",
    "location": "Amsterdam"
+  },
+  "de144205b42cd7977425507dcd1a5f42": {
+   "id": "de144205b42cd7977425507dcd1a5f42",
+   "company": "Jobgether",
+   "role": "Business/process Analyst",
+   "location": "Netherlands"
   },
   "e52d8308b9f118bd592cd58a0cae85be": {
    "id": "e52d8308b9f118bd592cd58a0cae85be",
@@ -1106,11 +1130,11 @@
    "role": "Compliance Analyst",
    "location": "Netherlands"
   },
-  "061f6243066252994273a4a2a7012192": {
-   "id": "061f6243066252994273a4a2a7012192",
-   "company": "Jobgether",
-   "role": "Product Analyst",
-   "location": "Netherlands"
+  "f06167cba506c3215fa79ff24686c564": {
+   "id": "f06167cba506c3215fa79ff24686c564",
+   "company": "KONE GmbH",
+   "role": "Service Monteur Personendeuren",
+   "location": "Alphen Aan Den Rijn"
   },
   "34948f1cb75ac0e77c04364cbe7a6ded": {
    "id": "34948f1cb75ac0e77c04364cbe7a6ded",
@@ -1579,12 +1603,6 @@
    "company": "KONE ELEVATORS PTY",
    "role": "Reparatie Monteur Roltrappen",
    "location": "Alphen Aan Den Rijn"
-  },
-  "0da7c948c0eabb1f8c3ee0ebb94a5992": {
-   "id": "0da7c948c0eabb1f8c3ee0ebb94a5992",
-   "company": "KONE ELEVATORS PTY",
-   "role": "Service Monteur Roltrappen",
-   "location": "Amsterdam"
   },
   "7c71d3f0eaa81017fdece8be8abe6c7a": {
    "id": "7c71d3f0eaa81017fdece8be8abe6c7a",
@@ -2060,6 +2078,12 @@
    "role": "Verkoopmedewerker - Maison De Bonneterie Amsterdam (26 Uur)",
    "location": "Amsterdam"
   },
+  "e633d0a421ede0e5d83416e3d40945f0": {
+   "id": "e633d0a421ede0e5d83416e3d40945f0",
+   "company": "Primark",
+   "role": "Parttime Retail Assistant Rotterdam Forum",
+   "location": "Alphen Aan Den Rijn"
+  },
   "8901ea7124f0062bf395b0d481306575": {
    "id": "8901ea7124f0062bf395b0d481306575",
    "company": "Primark",
@@ -2192,12 +2216,6 @@
    "role": "Parttime Retail Assistant Zaandam",
    "location": "Amsterdam"
   },
-  "e633d0a421ede0e5d83416e3d40945f0": {
-   "id": "e633d0a421ede0e5d83416e3d40945f0",
-   "company": "Primark",
-   "role": "Parttime Retail Assistant Rotterdam Forum",
-   "location": "Alphen Aan Den Rijn"
-  },
   "86622be660adf3a492b015cd1f9a701a": {
    "id": "86622be660adf3a492b015cd1f9a701a",
    "company": "Wpp",
@@ -2275,12 +2293,6 @@
    "company": "Jobgether",
    "role": "Software Verification & Qa Specialist",
    "location": "Netherlands"
-  },
-  "6c1db332f0123a4b9a49fee4821af3b4": {
-   "id": "6c1db332f0123a4b9a49fee4821af3b4",
-   "company": "Serverfarm",
-   "role": "Data Center Operations Administrator",
-   "location": "Amsterdam"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",

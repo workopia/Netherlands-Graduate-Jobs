@@ -1386,4 +1386,11 @@
 <tr><td>Q8truck</td><td>Project Analyst</td><td>Antwerpen +1</td><td>2026-09-22</td></tr>
 <tr><td>Medikamente Die Grenze</td><td>Administratief Medewerker Logistiek Peize</td><td>Peize</td><td>2026-09-22</td></tr>
 <tr><td>AFS Group</td><td>Business Analyst</td><td>Amsterdam</td><td>2026-09-22</td></tr>
+<tr><td>Kraft Heinz</td><td>Supply Chain & Logistics Intern</td><td>Amsterdam</td><td>2026-09-23</td></tr>
+<tr><td>Kraft Heinz</td><td>Away From Home - Sales/marketing Intern</td><td>Amsterdam</td><td>2026-09-23</td></tr>
+<tr><td>kaiserkraft.pt</td><td>Marketing Intern</td><td>Amsterdam</td><td>2026-09-23</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Intern</td><td>Arnhem</td><td>2026-09-23</td></tr>
+<tr><td>Chanel</td><td>Internship – Digital Training Benelux & Scandinavia - December 2026 – M/f/d</td><td>Amsterdam</td><td>2026-09-23</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Service Monteur Roltrappen</td><td>Amsterdam</td><td>2026-09-23</td></tr>
+<tr><td>Serverfarm</td><td>Data Center Operations Administrator</td><td>Amsterdam</td><td>2026-09-23</td></tr>
 </table>
