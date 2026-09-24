@@ -1415,4 +1415,52 @@
 <tr><td>Oliver Wyman</td><td>Oliver Wyman - Recruiting Intern (30-40 Hours Per Week, Up To 12 Months) - Amsterdam</td><td>Amsterdam</td><td>2026-09-24</td></tr>
 <tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
 <tr><td>H&M</td><td>Verkoopmedewerker - Maison De Bonneterie Amsterdam (26 Uur)</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Flagship Amsterdam</td><td>Sales Specialist In Amsterdam</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Hotel TwentySeven</td><td>Stagiair(e) Butler</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Hr Stagiair(e)</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>IMC Trading</td><td>Graduate Software Engineer (2027)</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Adyen</td><td>Python Software Engineer, Knowledge Infrastructure</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Booking Holdings</td><td>Software Engineer Ii - Partner Identity & Access Management - Abu</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Togetherai</td><td>Staff Software Engineer, Inference / Compute Infrastructure Engineering</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Platform - Amsterdam, Netherlands</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Oshkosh Corporation</td><td>Purchasing Data Analytics Intern - Npd</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Oshkosh Corp.</td><td>Purchasing Data Analytics Intern - Npd</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Booking</td><td>Data Scientist Ii - Finance Payments</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Stryker</td><td>Emea Data Analyst</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>dentsu</td><td>Junior Data Scientist</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Booking</td><td>Data Science - Ic - F</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Carat Australia</td><td>Junior Data Scientist</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Booking Holdings</td><td>Data Scientist I</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Statkraft</td><td>Murex Subject Matter Expert (m/f/d)</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Nouryon</td><td>Payroll Analyst</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Jobgether</td><td>Compliance Analyst</td><td>Netherlands</td><td>2026-09-24</td></tr>
+<tr><td>Vopak</td><td>2e E&i Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
+<tr><td>The North Face</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist 8 Hours P/w</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Michael Kors</td><td>Part Time Sales Associate 12h</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>LEGO Group</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>ALO</td><td>Sales Associate (part-time) - Pc Hoofstraat</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>TOMMY HILFIGER</td><td>Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - Den Haag (dutch Speaking)</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
+<tr><td>Dmhvh</td><td>Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - Den Haag (dutch Speaking)</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
+<tr><td>PVH Corp.</td><td>Sales Advisor (32 Hours), Tommy Hilfiger/calvin Klein - Den Haag (dutch Speaking)</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
+<tr><td>Dyson</td><td>Retail Expert - 12 Uur Per Week</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>VF Corporation</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Vwofdtla</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Nestle Ltd</td><td>Verkoopmedewerker Nespresso Amsterdam</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker – Amsterdam Buikslotermeerplein (weekend/bijbaan)</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Breitling SA</td><td>Sales Associate Boutique Amsterdam (f/m/x) - Part-time (60%)</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Sports Direct</td><td>Verkoopmedewerker - (m/v) 24u - Uithoorn</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorparttimeamsterdam Oostpoort</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorparttimeamstelveen</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Service Assistantparttimeamsterdam Kalverstraat</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorfulltime / Parttimeamsterdam Nieuwendijk</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Expertfulltime / Parttimezaandam</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Bonusgedreven Verkoopmedewerker Telecom & Mobiel Amsterdam Arena</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Nestle Ltd</td><td>Verkoopmedewerker Nespresso Amstelveen Stadshart</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Safety Specialist</td><td>Venlo</td><td>2026-09-24</td></tr>
+<tr><td>CEVA Logistics</td><td>Assistant Warehouse Supervisor</td><td>Utrecht</td><td>2026-09-24</td></tr>
+<tr><td>CUSHMAN & WAKEFIELD</td><td>Team Assistant Valuations & Advisory</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
+<tr><td>ABB Ltd</td><td>Customer Service Specialist</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
+<tr><td>ABB UK</td><td>Customer Service Specialist</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
+<tr><td>Wacker Chemie AG</td><td>Qa Documentation Assistant</td><td>Amsterdam</td><td>2026-09-24</td></tr>
 </table>
