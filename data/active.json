@@ -1,7 +1,19 @@
 {
- "asOf": "2026-09-23",
- "count": 383,
+ "asOf": "2026-09-24",
+ "count": 385,
  "jobs": {
+  "86811": {
+   "id": "86811",
+   "company": "Henkel",
+   "role": "Intern Capital Project Management Excellence",
+   "location": "Amsterdam"
+  },
+  "86881": {
+   "id": "86881",
+   "company": "Henkel",
+   "role": "Intern Strategy & Pmo - Operations & Supply Chain",
+   "location": "Amsterdam"
+  },
   "88328": {
    "id": "88328",
    "company": "Henkel",
@@ -110,11 +122,35 @@
    "role": "Front Office Intern - Jan 2027",
    "location": "Breda"
   },
+  "2755451": {
+   "id": "2755451",
+   "company": "Blue10",
+   "role": "(afstudeer-) Stage",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "19b9e73c57cc59428a0851259c699cd4": {
+   "id": "19b9e73c57cc59428a0851259c699cd4",
+   "company": "Ses Group",
+   "role": "Intern Corporate Marketing",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "32bea2dee1845c23e8a8873f1e8464ac": {
+   "id": "32bea2dee1845c23e8a8873f1e8464ac",
+   "company": "Citi",
+   "role": "Banking, Corporate Banking, Placement Analyst, Amsterdam - The Netherlands, 2027 (january- June Start)",
+   "location": "Amsterdam"
+  },
   "66f6739dfcfa9d0aa9a43eac0ffb2ff9": {
    "id": "66f6739dfcfa9d0aa9a43eac0ffb2ff9",
    "company": "ING",
    "role": "Internship Wholesale Banking Finance - Analytics & Strategic Steering",
    "location": "Cedar)"
+  },
+  "5e81477c9897fbaaec72d0214aeedae3": {
+   "id": "5e81477c9897fbaaec72d0214aeedae3",
+   "company": "JYSK",
+   "role": "Stage Retail",
+   "location": "Alphen Aan Den Rijn"
   },
   "6fe54cab63b6a19815ce45367d2280f0": {
    "id": "6fe54cab63b6a19815ce45367d2280f0",
@@ -344,12 +380,6 @@
    "role": "Account Strategist Intern - Retail Media Benelux & Nordics",
    "location": "Amsterdam"
   },
-  "19b9e73c57cc59428a0851259c699cd4": {
-   "id": "19b9e73c57cc59428a0851259c699cd4",
-   "company": "Ses Group",
-   "role": "Intern Corporate Marketing",
-   "location": "Alphen Aan Den Rijn"
-  },
   "3ebfe1528915ec173a686e4dbff059db": {
    "id": "3ebfe1528915ec173a686e4dbff059db",
    "company": "Vilosa",
@@ -511,36 +541,6 @@
    "company": "Housing Anywhere B.V.",
    "role": "Internship / Finance Operations",
    "location": "Alphen Aan Den Rijn"
-  },
-  "1f953dcb6bebd451db58c4ba9523a382": {
-   "id": "1f953dcb6bebd451db58c4ba9523a382",
-   "company": "DEPT",
-   "role": "Social Producer Intern",
-   "location": "Amsterdam"
-  },
-  "214e40d4053d7b38677f82f4016cc5ce": {
-   "id": "214e40d4053d7b38677f82f4016cc5ce",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Food & Beverage Stagiaire - Jouw Stageplek Is Beschikbaar!",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "36c1a137006984c5206305770b1b38f9": {
-   "id": "36c1a137006984c5206305770b1b38f9",
-   "company": "IHC Merwede Holding B.V",
-   "role": "Stage Commerciële Economie",
-   "location": "Kinderdijk"
-  },
-  "038db216e78726e5500fd5e52e83f625": {
-   "id": "038db216e78726e5500fd5e52e83f625",
-   "company": "IHC Merwede Holding B.V",
-   "role": "Intern Communication & Change Management – Aida Program",
-   "location": "Kinderdijk"
-  },
-  "f977d314ebc6e1c65dac3490e55b3c27": {
-   "id": "f977d314ebc6e1c65dac3490e55b3c27",
-   "company": "Oliver Wyman",
-   "role": "Oliver Wyman - Recruiting Intern (30-40 Hours Per Week, Up To 12 Months) - Amsterdam",
-   "location": "Amsterdam"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
@@ -878,6 +878,12 @@
    "role": "Stagiair – Hbo/wo - Asset Management & Improvement",
    "location": "North Brabant"
   },
+  "bcf1211452e39b8ef12a52526401a4c4": {
+   "id": "bcf1211452e39b8ef12a52526401a4c4",
+   "company": "Antler",
+   "role": "Visiting Investment Analyst",
+   "location": "Amsterdam"
+  },
   "e2eb4fe7e58d2d49a278025f6de6869b": {
    "id": "e2eb4fe7e58d2d49a278025f6de6869b",
    "company": "Oaklins International Inc",
@@ -1130,11 +1136,23 @@
    "role": "Compliance Analyst",
    "location": "Netherlands"
   },
+  "dece2cbbc71cd25d5812d767092dccec": {
+   "id": "dece2cbbc71cd25d5812d767092dccec",
+   "company": "Yunex Traffic",
+   "role": "Service Engineer",
+   "location": "Alphen Aan Den Rijn"
+  },
   "f06167cba506c3215fa79ff24686c564": {
    "id": "f06167cba506c3215fa79ff24686c564",
    "company": "KONE GmbH",
    "role": "Service Monteur Personendeuren",
    "location": "Alphen Aan Den Rijn"
+  },
+  "e180542611f2ff7abf9e9fb635ff68da": {
+   "id": "e180542611f2ff7abf9e9fb635ff68da",
+   "company": "BESIX Watpac",
+   "role": "Field Specialist",
+   "location": "Hendrik"
   },
   "6ddb67c21560af14fd6c9fbb678a5f4b": {
    "id": "6ddb67c21560af14fd6c9fbb678a5f4b",
@@ -1208,12 +1226,6 @@
    "role": "Marine Service Technician",
    "location": "Alphen Aan Den Rijn"
   },
-  "e180542611f2ff7abf9e9fb635ff68da": {
-   "id": "e180542611f2ff7abf9e9fb635ff68da",
-   "company": "BESIX Watpac",
-   "role": "Field Specialist",
-   "location": "Hendrik"
-  },
   "f5af82d31aeba96e194e1c29d20e9627": {
    "id": "f5af82d31aeba96e194e1c29d20e9627",
    "company": "Johnson & Johnson UK",
@@ -1260,12 +1272,6 @@
    "id": "8ff302424fc30328a6336d18c4d487c2",
    "company": "Yara International ASA",
    "role": "Hoofdmonteur",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "dece2cbbc71cd25d5812d767092dccec": {
-   "id": "dece2cbbc71cd25d5812d767092dccec",
-   "company": "Yunex Traffic",
-   "role": "Service Engineer",
    "location": "Alphen Aan Den Rijn"
   },
   "87086aefd45f8dcd2a2bbc99f3b8c67e": {
@@ -1604,6 +1610,18 @@
    "role": "Service Monteur Liften",
    "location": "Alphen Aan Den Rijn"
   },
+  "ea2fc130cfa4e9dd6aadab72f4aee333": {
+   "id": "ea2fc130cfa4e9dd6aadab72f4aee333",
+   "company": "JYSK",
+   "role": "Verkoopmedewerker Met Ambitie",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "5eda855a98836e39a28ffa65cf55bc6c": {
+   "id": "5eda855a98836e39a28ffa65cf55bc6c",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Amsterdam Noord (31 Uur)",
+   "location": "Amsterdam"
+  },
   "7c71d3f0eaa81017fdece8be8abe6c7a": {
    "id": "7c71d3f0eaa81017fdece8be8abe6c7a",
    "company": "Urban Outfitters",
@@ -1651,12 +1669,6 @@
    "company": "Deckers",
    "role": "Part Time - Sales Associate, Ugg - Amsterdam",
    "location": "Amsterdam"
-  },
-  "e65b6ca907401ba732e9f4f85481bd84": {
-   "id": "e65b6ca907401ba732e9f4f85481bd84",
-   "company": "JYSK",
-   "role": "Verkoopmedewerker Met Ambitie",
-   "location": "Alphen Aan Den Rijn"
   },
   "b5b6601303157a087c78dc7173ae5695": {
    "id": "b5b6601303157a087c78dc7173ae5695",
@@ -2072,10 +2084,10 @@
    "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
    "location": "Amsterdam"
   },
-  "6161f6e7b00f748bb0cea9a1ddd98f47": {
-   "id": "6161f6e7b00f748bb0cea9a1ddd98f47",
-   "company": "H&M",
-   "role": "Verkoopmedewerker - Maison De Bonneterie Amsterdam (26 Uur)",
+  "a27f3a52d4de271b6e6a2541eb8bdec5": {
+   "id": "a27f3a52d4de271b6e6a2541eb8bdec5",
+   "company": "Moelis & Company",
+   "role": "Administrative Assistant - Amsterdam",
    "location": "Amsterdam"
   },
   "e633d0a421ede0e5d83416e3d40945f0": {

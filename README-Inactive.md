@@ -1408,4 +1408,11 @@
 <tr><td>Exclusive Networks Group</td><td>Hr / Facilitair Stagiair(e)</td><td>Son</td><td>2026-09-23</td></tr>
 <tr><td>KONE ELEVATORS PTY</td><td>Service Monteur Personendeuren</td><td>Alphen Aan Den Rijn</td><td>2026-09-23</td></tr>
 <tr><td>KONE ELEVATORS PTY</td><td>Junior Service Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-23</td></tr>
+<tr><td>DEPT</td><td>Social Producer Intern</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Food & Beverage Stagiaire - Jouw Stageplek Is Beschikbaar!</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
+<tr><td>IHC Merwede Holding B.V</td><td>Stage Commerciële Economie</td><td>Kinderdijk</td><td>2026-09-24</td></tr>
+<tr><td>IHC Merwede Holding B.V</td><td>Intern Communication & Change Management – Aida Program</td><td>Kinderdijk</td><td>2026-09-24</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Recruiting Intern (30-40 Hours Per Week, Up To 12 Months) - Amsterdam</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker - Maison De Bonneterie Amsterdam (26 Uur)</td><td>Amsterdam</td><td>2026-09-24</td></tr>
 </table>
