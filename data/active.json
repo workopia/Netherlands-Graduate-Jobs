@@ -1,7 +1,13 @@
 {
- "asOf": "2026-09-24",
- "count": 353,
+ "asOf": "2026-09-25",
+ "count": 355,
  "jobs": {
+  "86062": {
+   "id": "86062",
+   "company": "Henkel",
+   "role": "Administration Assistant",
+   "location": "Scheemda"
+  },
   "86811": {
    "id": "86811",
    "company": "Henkel",
@@ -86,12 +92,6 @@
    "role": "Administratief Medewerker Zorgproces Helmond",
    "location": "Eindhoven"
   },
-  "2743705": {
-   "id": "2743705",
-   "company": "Hotel TwentySeven",
-   "role": "Stagiair(e) Reserveringen",
-   "location": "Amsterdam"
-  },
   "2749134": {
    "id": "2749134",
    "company": "Keune Haircosmetics B.V",
@@ -115,6 +115,72 @@
    "company": "Blue10",
    "role": "(afstudeer-) Stage",
    "location": "Alphen Aan Den Rijn"
+  },
+  "ef7ed50002e73b95cdf606e26c11f785": {
+   "id": "ef7ed50002e73b95cdf606e26c11f785",
+   "company": "Philips",
+   "role": "Data Analytics Graduate Internship",
+   "location": "Amsterdam"
+  },
+  "44b67853a291b69a74a797851d71a2a1": {
+   "id": "44b67853a291b69a74a797851d71a2a1",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: It Infrastructure & Systems",
+   "location": "S Hertogenbosch"
+  },
+  "9b23d474b0931fef1c637b2a7904bf3e": {
+   "id": "9b23d474b0931fef1c637b2a7904bf3e",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: Finance Process Automation & Ai",
+   "location": "S Hertogenbosch"
+  },
+  "dc074f311a8b9b115a360b734c66a784": {
+   "id": "dc074f311a8b9b115a360b734c66a784",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: Finance And Accounting",
+   "location": "S Hertogenbosch"
+  },
+  "8108c2a76329e3de3a18aedd820b89e8": {
+   "id": "8108c2a76329e3de3a18aedd820b89e8",
+   "company": "ING",
+   "role": "Internship Transition Accelerator",
+   "location": "Amsterdam"
+  },
+  "ee1fdf92b6ba55a5d36e96c0dfc55e34": {
+   "id": "ee1fdf92b6ba55a5d36e96c0dfc55e34",
+   "company": "Perfetti Van Melle ICT B.V",
+   "role": "Stage It",
+   "location": "Breda"
+  },
+  "225be422612a65228185006d62e9e5d2": {
+   "id": "225be422612a65228185006d62e9e5d2",
+   "company": "Perfetti Van Melle ICT B.V",
+   "role": "Internship Digital Content Marketing - Amsterdam Location",
+   "location": "Amsterdam"
+  },
+  "224495574654daacfefa87d6e2cc1859": {
+   "id": "224495574654daacfefa87d6e2cc1859",
+   "company": "CYBEX GmbH",
+   "role": "Intern Marketing Netherlands (m/f/d)",
+   "location": "Amsterdam"
+  },
+  "1ce0f54fe38141dec6fab094cca44acb": {
+   "id": "1ce0f54fe38141dec6fab094cca44acb",
+   "company": "Stichd",
+   "role": "Intern Legal",
+   "location": "Netherlands"
+  },
+  "dcce45dddfdc06753785eb049a6b2d1e": {
+   "id": "dcce45dddfdc06753785eb049a6b2d1e",
+   "company": "Halfspace ApS",
+   "role": "Werkstudent – Technology, Strategy And Transformation Internship",
+   "location": "Amsterdam"
+  },
+  "6a0293f3d84d2dae87abe03c6dedb6a7": {
+   "id": "6a0293f3d84d2dae87abe03c6dedb6a7",
+   "company": "Workwize",
+   "role": "Data & Ai Intern (data Infrastructure And Ai-powered Automations Focus) / Amsterdam Hybrid",
+   "location": "Amsterdam"
   },
   "19b9e73c57cc59428a0851259c699cd4": {
    "id": "19b9e73c57cc59428a0851259c699cd4",
@@ -446,12 +512,6 @@
    "role": "Internship – Client Marketing Fashion – January 2027 - M/f/d",
    "location": "Amsterdam"
   },
-  "225be422612a65228185006d62e9e5d2": {
-   "id": "225be422612a65228185006d62e9e5d2",
-   "company": "Perfetti Van Melle ICT B.V",
-   "role": "Internship Digital Content Marketing - Amsterdam Location",
-   "location": "Amsterdam"
-  },
   "f6cc2d1bfaca8ced9512f57c2935753b": {
    "id": "f6cc2d1bfaca8ced9512f57c2935753b",
    "company": "The Kraft Heinz Company",
@@ -488,60 +548,6 @@
    "role": "Process & Technology Intern",
    "location": "Alphen Aan Den Rijn"
   },
-  "224495574654daacfefa87d6e2cc1859": {
-   "id": "224495574654daacfefa87d6e2cc1859",
-   "company": "CYBEX GmbH",
-   "role": "Intern Marketing Netherlands (m/f/d)",
-   "location": "Amsterdam"
-  },
-  "a4da57a9c33720e49ceb2f1bb14b9880": {
-   "id": "a4da57a9c33720e49ceb2f1bb14b9880",
-   "company": "GXO Logistics, Inc.",
-   "role": "Internship - Bbl Leerling Logistiek Medewerker (niveau 2 Of 3)",
-   "location": "Eindhoven"
-  },
-  "97ac21940257e92a0577620b08c42988": {
-   "id": "97ac21940257e92a0577620b08c42988",
-   "company": "GXO Logistics, Inc.",
-   "role": "Internship - Employee Journey & Workforce Management",
-   "location": "Eindhoven"
-  },
-  "4265d02874099e285cc4a942e86706a4": {
-   "id": "4265d02874099e285cc4a942e86706a4",
-   "company": "GXO Logistics, Inc.",
-   "role": "Internship - Ai Enablement For Solutions Design",
-   "location": "Eindhoven"
-  },
-  "e47696f5b34ae101ebe2053815e96134": {
-   "id": "e47696f5b34ae101ebe2053815e96134",
-   "company": "Ses Group",
-   "role": "Intern, Spectrum Management And Strategy",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "590656879d69df171677296b990a35dc": {
-   "id": "590656879d69df171677296b990a35dc",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Boutique Assistant Intern",
-   "location": "Amsterdam"
-  },
-  "32bc05b07d70a55e5579e10fda7cd701": {
-   "id": "32bc05b07d70a55e5579e10fda7cd701",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Business Coordination Intern",
-   "location": "Amsterdam"
-  },
-  "a62133adb6521b4981f0c00ba71eb892": {
-   "id": "a62133adb6521b4981f0c00ba71eb892",
-   "company": "Prysmian Group",
-   "role": "Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "c5c0e72e6f59f7aae3a84f4ecf2db1d2": {
-   "id": "c5c0e72e6f59f7aae3a84f4ecf2db1d2",
-   "company": "Housing Anywhere B.V.",
-   "role": "Internship / Finance Operations",
-   "location": "Alphen Aan Den Rijn"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -552,6 +558,12 @@
    "id": "40bfd8ea715f2c582c0e2ed49d6554b2",
    "company": "IMC Trading",
    "role": "C++ Software Engineer, Early Careers",
+   "location": "Amsterdam"
+  },
+  "d26acc787b0acc0dfa92f0d54704efee": {
+   "id": "d26acc787b0acc0dfa92f0d54704efee",
+   "company": "Adyen Payments",
+   "role": "Software Engineer (java) - Identify & Verification Services Team",
    "location": "Amsterdam"
   },
   "3c83977162cc990f9517f68debb2afa1": {
@@ -643,12 +655,6 @@
    "company": "itinfinance.nl",
    "role": "Data Analyst - Internship",
    "location": "Cedar"
-  },
-  "ef7ed50002e73b95cdf606e26c11f785": {
-   "id": "ef7ed50002e73b95cdf606e26c11f785",
-   "company": "Philips",
-   "role": "Data Analytics Graduate Internship",
-   "location": "Amsterdam"
   },
   "e83791b2a1aac4b80845e92381b1f6ff": {
    "id": "e83791b2a1aac4b80845e92381b1f6ff",
@@ -1040,6 +1046,60 @@
    "role": "Sustainable Finance Advisory Analyst",
    "location": "Amsterdam"
   },
+  "0d713f3dcbc74711f70fced743019bba": {
+   "id": "0d713f3dcbc74711f70fced743019bba",
+   "company": "Bilfinger SE",
+   "role": "Werkvoorbereider Elektrotechniek",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "385a4c0882881640a7ff29a2c296c489": {
+   "id": "385a4c0882881640a7ff29a2c296c489",
+   "company": "Ecolab Pty Ltd",
+   "role": "Field Service Rep - F&b",
+   "location": "Utrecht"
+  },
+  "c8e4db9ee764d7164bf4246d617a2938": {
+   "id": "c8e4db9ee764d7164bf4246d617a2938",
+   "company": "Schindler Group",
+   "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "d3af288591199e4d6b47348b4581a681": {
+   "id": "d3af288591199e4d6b47348b4581a681",
+   "company": "Schindler Group",
+   "role": "Reparatie Monteur Zuid",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "a341ea7b8e2fdc4e68e74838ba7648c7": {
+   "id": "a341ea7b8e2fdc4e68e74838ba7648c7",
+   "company": "Schindler Group",
+   "role": "Service Technician Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "1f8218c29cccc96d7c4dfc3e8b57b5b6": {
+   "id": "1f8218c29cccc96d7c4dfc3e8b57b5b6",
+   "company": "Schindler Group",
+   "role": "Service Technician Utrecht",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "e1e763a5fa3e969e47c700978e464d1e": {
+   "id": "e1e763a5fa3e969e47c700978e464d1e",
+   "company": "Schindler Group",
+   "role": "Service Technician Roltrappen",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "6a4c9cb7bd9d896c6c6c773492a32207": {
+   "id": "6a4c9cb7bd9d896c6c6c773492a32207",
+   "company": "Schindler Group",
+   "role": "Service Technician Regio Leiden",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "545fabf87befdb4a445b092d5f4d6a57": {
+   "id": "545fabf87befdb4a445b092d5f4d6a57",
+   "company": "Istimewa Elektro BV",
+   "role": "Servicetechnicus (technicus E&i A)",
+   "location": "Alphen Aan Den Rijn"
+  },
   "dece2cbbc71cd25d5812d767092dccec": {
    "id": "dece2cbbc71cd25d5812d767092dccec",
    "company": "Yunex Traffic",
@@ -1087,12 +1147,6 @@
    "company": "Vistaprint",
    "role": "Maintenance Technician X3",
    "location": "Venlo"
-  },
-  "eee4de4ed0dd499598b8b1f5df2b5312": {
-   "id": "eee4de4ed0dd499598b8b1f5df2b5312",
-   "company": "Bilfinger SE",
-   "role": "Werkvoorbereider Elektrotechniek",
-   "location": "Alphen Aan Den Rijn"
   },
   "ff79b10b3003dbb062c5b7ae6ab459b1": {
    "id": "ff79b10b3003dbb062c5b7ae6ab459b1",
@@ -1272,42 +1326,6 @@
    "id": "86344bff1d7733a7d6db81543eff0ef8",
    "company": "International Flavors & Fragrances Inc. (IFF)",
    "role": "Facility Medewerker",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "d3af288591199e4d6b47348b4581a681": {
-   "id": "d3af288591199e4d6b47348b4581a681",
-   "company": "Schindler Group",
-   "role": "Reparatie Monteur Zuid",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "a341ea7b8e2fdc4e68e74838ba7648c7": {
-   "id": "a341ea7b8e2fdc4e68e74838ba7648c7",
-   "company": "Schindler Group",
-   "role": "Service Technician Rotterdam",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1f8218c29cccc96d7c4dfc3e8b57b5b6": {
-   "id": "1f8218c29cccc96d7c4dfc3e8b57b5b6",
-   "company": "Schindler Group",
-   "role": "Service Technician Utrecht",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "e1e763a5fa3e969e47c700978e464d1e": {
-   "id": "e1e763a5fa3e969e47c700978e464d1e",
-   "company": "Schindler Group",
-   "role": "Service Technician Roltrappen",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "6a4c9cb7bd9d896c6c6c773492a32207": {
-   "id": "6a4c9cb7bd9d896c6c6c773492a32207",
-   "company": "Schindler Group",
-   "role": "Service Technician Regio Leiden",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "c8e4db9ee764d7164bf4246d617a2938": {
-   "id": "c8e4db9ee764d7164bf4246d617a2938",
-   "company": "Schindler Group",
-   "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
    "location": "Alphen Aan Den Rijn"
   },
   "96f39c910a0eafff9cb1763a19e8ee09": {
@@ -1502,17 +1520,11 @@
    "role": "Service Technician - Surveying Technology",
    "location": "Alphen Aan Den Rijn"
   },
-  "cfbca7c33caefee1996043cfaad68864": {
-   "id": "cfbca7c33caefee1996043cfaad68864",
-   "company": "Husqvarna AB",
-   "role": "Service Technician",
-   "location": "Utrecht"
-  },
-  "1b636f2372a51379d32d209f954c4f79": {
-   "id": "1b636f2372a51379d32d209f954c4f79",
-   "company": "KONE ELEVATORS PTY",
-   "role": "Service Monteur Liften",
-   "location": "Alphen Aan Den Rijn"
+  "f8c90fd84a6134f0dff86bb7aa9fda8b": {
+   "id": "f8c90fd84a6134f0dff86bb7aa9fda8b",
+   "company": "H&M",
+   "role": "Sales Advisor 5-12h",
+   "location": "Amsterdam"
   },
   "fe0dd1eed47bd6dbdbea2bba773b1c1c": {
    "id": "fe0dd1eed47bd6dbdbea2bba773b1c1c",
@@ -1531,6 +1543,12 @@
    "company": "H&M",
    "role": "Verkoopmedewerker - Amsterdam Noord (31 Uur)",
    "location": "Amsterdam"
+  },
+  "d167927029599c20f34fe90275347ddb": {
+   "id": "d167927029599c20f34fe90275347ddb",
+   "company": "DNV",
+   "role": "Inside Sales Specialist Benelux",
+   "location": "Alphen Aan Den Rijn"
   },
   "7c71d3f0eaa81017fdece8be8abe6c7a": {
    "id": "7c71d3f0eaa81017fdece8be8abe6c7a",
@@ -1620,12 +1638,6 @@
    "id": "38b13da4dc099296e318fb7cc0db1819",
    "company": "The LEGO Group",
    "role": "Sales Associate",
-   "location": "Amsterdam"
-  },
-  "f8c90fd84a6134f0dff86bb7aa9fda8b": {
-   "id": "f8c90fd84a6134f0dff86bb7aa9fda8b",
-   "company": "H&M",
-   "role": "Sales Advisor 5-12h",
    "location": "Amsterdam"
   },
   "c5c4b374e4df496b16d034c541710e8b": {

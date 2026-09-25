@@ -1463,4 +1463,16 @@
 <tr><td>ABB Ltd</td><td>Customer Service Specialist</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
 <tr><td>ABB UK</td><td>Customer Service Specialist</td><td>Alphen Aan Den Rijn</td><td>2026-09-24</td></tr>
 <tr><td>Wacker Chemie AG</td><td>Qa Documentation Assistant</td><td>Amsterdam</td><td>2026-09-24</td></tr>
+<tr><td>Hotel TwentySeven</td><td>Stagiair(e) Reserveringen</td><td>Amsterdam</td><td>2026-09-25</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Internship - Bbl Leerling Logistiek Medewerker (niveau 2 Of 3)</td><td>Eindhoven</td><td>2026-09-25</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Internship - Employee Journey & Workforce Management</td><td>Eindhoven</td><td>2026-09-25</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Internship - Ai Enablement For Solutions Design</td><td>Eindhoven</td><td>2026-09-25</td></tr>
+<tr><td>Ses Group</td><td>Intern, Spectrum Management And Strategy</td><td>Alphen Aan Den Rijn</td><td>2026-09-25</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Boutique Assistant Intern</td><td>Amsterdam</td><td>2026-09-25</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Business Coordination Intern</td><td>Amsterdam</td><td>2026-09-25</td></tr>
+<tr><td>Prysmian Group</td><td>Intern</td><td>Alphen Aan Den Rijn</td><td>2026-09-25</td></tr>
+<tr><td>Housing Anywhere B.V.</td><td>Internship / Finance Operations</td><td>Alphen Aan Den Rijn</td><td>2026-09-25</td></tr>
+<tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-09-25</td></tr>
+<tr><td>Husqvarna AB</td><td>Service Technician</td><td>Utrecht</td><td>2026-09-25</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Service Monteur Liften</td><td>Alphen Aan Den Rijn</td><td>2026-09-25</td></tr>
 </table>
