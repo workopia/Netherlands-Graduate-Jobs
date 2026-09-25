@@ -116,6 +116,18 @@
    "role": "Stagiair(e) Marketing Crm / E-mail / Marketing Automation",
    "location": "Netherlands"
   },
+  "2396d2f7131dc3d25714a7ad840e74fb": {
+   "id": "2396d2f7131dc3d25714a7ad840e74fb",
+   "company": "Danone",
+   "role": "Nternship: Global Marketing Innovation - Aptamil",
+   "location": "Amsterdam"
+  },
+  "d27b81cf1939455b2dd2fd5c65fd8c83": {
+   "id": "d27b81cf1939455b2dd2fd5c65fd8c83",
+   "company": "Bolton Group S.r.l",
+   "role": "Legal Intern",
+   "location": "Alphen Aan Den Rijn"
+  },
   "ef7ed50002e73b95cdf606e26c11f785": {
    "id": "ef7ed50002e73b95cdf606e26c11f785",
    "company": "Philips",
@@ -534,18 +546,6 @@
    "id": "f6cc2d1bfaca8ced9512f57c2935753b",
    "company": "The Kraft Heinz Company",
    "role": "Global Finance Analyst Capex Intern",
-   "location": "Amsterdam"
-  },
-  "661fbd56b58b3d01206c46f8b5919354": {
-   "id": "661fbd56b58b3d01206c46f8b5919354",
-   "company": "Canon Production Printing Netherlands B.V",
-   "role": "Bsc/msc: Internship Applied Physics/mechatronics - Build The Foundation For Printing Systems",
-   "location": "Venlo"
-  },
-  "b4e5abe93e5663f8073fcc9a0423b8ba": {
-   "id": "b4e5abe93e5663f8073fcc9a0423b8ba",
-   "company": "Bynder",
-   "role": "Legal Intern",
    "location": "Amsterdam"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
@@ -1046,6 +1046,18 @@
    "role": "Sustainable Finance Advisory Analyst",
    "location": "Amsterdam"
   },
+  "75cdf40a922ddfe0077a6cf9033934bd": {
+   "id": "75cdf40a922ddfe0077a6cf9033934bd",
+   "company": "Volvo Group Truck Center",
+   "role": "Apk & Tachograaf Keurmeester",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "54d5220c3ba2a75ff81749f382a62b63": {
+   "id": "54d5220c3ba2a75ff81749f382a62b63",
+   "company": "Yunex Traffic",
+   "role": "Maintenance Engineer",
+   "location": "Alphen Aan Den Rijn"
+  },
   "0d713f3dcbc74711f70fced743019bba": {
    "id": "0d713f3dcbc74711f70fced743019bba",
    "company": "Bilfinger SE",
@@ -1188,12 +1200,6 @@
    "id": "f5af82d31aeba96e194e1c29d20e9627",
    "company": "Johnson & Johnson UK",
    "role": "Utility Operator (shifts, 24/7)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "75cdf40a922ddfe0077a6cf9033934bd": {
-   "id": "75cdf40a922ddfe0077a6cf9033934bd",
-   "company": "Volvo Group Truck Center",
-   "role": "Apk & Tachograaf Keurmeester",
    "location": "Alphen Aan Den Rijn"
   },
   "42d0ec42ab17a6dd8283ea88f6c10896": {
@@ -1513,12 +1519,6 @@
    "company": "RAGING WATERS SYDNEY PTY",
    "role": "Mechanisch En Elektrisch Monteur Attracties",
    "location": "Slagharen"
-  },
-  "d0212f1c9f252f2b226b18bc526185f1": {
-   "id": "d0212f1c9f252f2b226b18bc526185f1",
-   "company": "Topcon",
-   "role": "Service Technician - Surveying Technology",
-   "location": "Alphen Aan Den Rijn"
   },
   "f8c90fd84a6134f0dff86bb7aa9fda8b": {
    "id": "f8c90fd84a6134f0dff86bb7aa9fda8b",

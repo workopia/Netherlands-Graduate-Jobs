@@ -1481,4 +1481,7 @@
 <tr><td>Technip Energies</td><td>Process & Technology Intern</td><td>Alphen Aan Den Rijn</td><td>2026-09-25</td></tr>
 <tr><td>Nespresso</td><td>Verkoopmedewerker Nespresso Amstelveen Stadshart</td><td>Amsterdam</td><td>2026-09-25</td></tr>
 <tr><td>Nespresso</td><td>Verkoopmedewerker Nespresso Amsterdam</td><td>Amsterdam</td><td>2026-09-25</td></tr>
+<tr><td>Canon Production Printing Netherlands B.V</td><td>Bsc/msc: Internship Applied Physics/mechatronics - Build The Foundation For Printing Systems</td><td>Venlo</td><td>2026-09-25</td></tr>
+<tr><td>Bynder</td><td>Legal Intern</td><td>Amsterdam</td><td>2026-09-25</td></tr>
+<tr><td>Topcon</td><td>Service Technician - Surveying Technology</td><td>Alphen Aan Den Rijn</td><td>2026-09-25</td></tr>
 </table>
