@@ -1475,4 +1475,10 @@
 <tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-09-25</td></tr>
 <tr><td>Husqvarna AB</td><td>Service Technician</td><td>Utrecht</td><td>2026-09-25</td></tr>
 <tr><td>KONE ELEVATORS PTY</td><td>Service Monteur Liften</td><td>Alphen Aan Den Rijn</td><td>2026-09-25</td></tr>
+<tr><td>Parfumado</td><td>Operations & Supply Chain Intern</td><td>Amsterdam</td><td>2026-09-25</td></tr>
+<tr><td>Arvato</td><td>Internship Learning & Development</td><td>Arnhem</td><td>2026-09-25</td></tr>
+<tr><td>Arvato</td><td>Hse Internship</td><td>Heijen</td><td>2026-09-25</td></tr>
+<tr><td>Technip Energies</td><td>Process & Technology Intern</td><td>Alphen Aan Den Rijn</td><td>2026-09-25</td></tr>
+<tr><td>Nespresso</td><td>Verkoopmedewerker Nespresso Amstelveen Stadshart</td><td>Amsterdam</td><td>2026-09-25</td></tr>
+<tr><td>Nespresso</td><td>Verkoopmedewerker Nespresso Amsterdam</td><td>Amsterdam</td><td>2026-09-25</td></tr>
 </table>

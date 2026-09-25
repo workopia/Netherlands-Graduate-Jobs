@@ -26,12 +26,6 @@
    "role": "Intern Global Trade",
    "location": "Amsterdam"
   },
-  "1699411": {
-   "id": "1699411",
-   "company": "Parfumado",
-   "role": "Operations & Supply Chain Intern",
-   "location": "Amsterdam"
-  },
   "2632449": {
    "id": "2632449",
    "company": "Flagship Amsterdam",
@@ -116,6 +110,12 @@
    "role": "(afstudeer-) Stage",
    "location": "Alphen Aan Den Rijn"
   },
+  "a5c3739a40b232a751c320d1e9502209": {
+   "id": "a5c3739a40b232a751c320d1e9502209",
+   "company": "Action",
+   "role": "Stagiair(e) Marketing Crm / E-mail / Marketing Automation",
+   "location": "Netherlands"
+  },
   "ef7ed50002e73b95cdf606e26c11f785": {
    "id": "ef7ed50002e73b95cdf606e26c11f785",
    "company": "Philips",
@@ -174,6 +174,24 @@
    "id": "dcce45dddfdc06753785eb049a6b2d1e",
    "company": "Halfspace ApS",
    "role": "Werkstudent – Technology, Strategy And Transformation Internship",
+   "location": "Amsterdam"
+  },
+  "991e17a66c8661afc4b069e209227966": {
+   "id": "991e17a66c8661afc4b069e209227966",
+   "company": "Signify",
+   "role": "Cti Intern",
+   "location": "Eindhoven"
+  },
+  "b14d09b47615b8081153091073e35cd2": {
+   "id": "b14d09b47615b8081153091073e35cd2",
+   "company": "Danone",
+   "role": "Commercial Excellence Intern",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "200c48ffb463143d0c38211c1a359532": {
+   "id": "200c48ffb463143d0c38211c1a359532",
+   "company": "Under Armour",
+   "role": "Intern, Digital Marketplace - Rookie Program 2026",
    "location": "Amsterdam"
   },
   "6a0293f3d84d2dae87abe03c6dedb6a7": {
@@ -529,24 +547,6 @@
    "company": "Bynder",
    "role": "Legal Intern",
    "location": "Amsterdam"
-  },
-  "c1176a263fa921e1640a270e1ec4f704": {
-   "id": "c1176a263fa921e1640a270e1ec4f704",
-   "company": "Arvato",
-   "role": "Internship Learning & Development",
-   "location": "Arnhem"
-  },
-  "0af8cb0eb8882d859156755b1f20614c": {
-   "id": "0af8cb0eb8882d859156755b1f20614c",
-   "company": "Arvato",
-   "role": "Hse Internship",
-   "location": "Heijen"
-  },
-  "115e0a826914e4d05851b95a7df4eec2": {
-   "id": "115e0a826914e4d05851b95a7df4eec2",
-   "company": "Technip Energies",
-   "role": "Process & Technology Intern",
-   "location": "Alphen Aan Den Rijn"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
@@ -1526,6 +1526,18 @@
    "role": "Sales Advisor 5-12h",
    "location": "Amsterdam"
   },
+  "f5fbb33dbab45fd772f605b47a06d730": {
+   "id": "f5fbb33dbab45fd772f605b47a06d730",
+   "company": "Nespresso",
+   "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
+   "location": "Amsterdam"
+  },
+  "2cf490f17ffe39d91bfdb10b13233ff7": {
+   "id": "2cf490f17ffe39d91bfdb10b13233ff7",
+   "company": "Nespresso",
+   "role": "Verkoopmedewerker Nespresso Amsterdam",
+   "location": "Amsterdam"
+  },
   "fe0dd1eed47bd6dbdbea2bba773b1c1c": {
    "id": "fe0dd1eed47bd6dbdbea2bba773b1c1c",
    "company": "Brunswick",
@@ -1560,18 +1572,6 @@
    "id": "d3462b603bc6e8ad792e19b05edf378b",
    "company": "Breitling SA",
    "role": "Sales Associate (f/m/x)",
-   "location": "Amsterdam"
-  },
-  "f55685e99d9841c34a299169ab346e9d": {
-   "id": "f55685e99d9841c34a299169ab346e9d",
-   "company": "Nespresso",
-   "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
-   "location": "Amsterdam"
-  },
-  "345f2e5ae4d9752bf2e4fced885f49b6": {
-   "id": "345f2e5ae4d9752bf2e4fced885f49b6",
-   "company": "Nespresso",
-   "role": "Verkoopmedewerker Nespresso Amsterdam",
    "location": "Amsterdam"
   },
   "60d54bbd0e3ac7eea4c3c518e7c8f1c9": {
