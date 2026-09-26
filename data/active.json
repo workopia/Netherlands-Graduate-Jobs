@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-26",
- "count": 355,
+ "count": 356,
  "jobs": {
   "86062": {
    "id": "86062",
@@ -109,6 +109,60 @@
    "company": "Blue10",
    "role": "(afstudeer-) Stage",
    "location": "Alphen Aan Den Rijn"
+  },
+  "2759590": {
+   "id": "2759590",
+   "company": "Innovative Beauty Group",
+   "role": "Procurement & Srm Data Management Intern",
+   "location": "Amsterdam Sloterdijk"
+  },
+  "ba921164b7e0dbe50526a9254e359965": {
+   "id": "ba921164b7e0dbe50526a9254e359965",
+   "company": "Danone",
+   "role": "Internship: Procurement Communications And Engagement",
+   "location": "Amsterdam"
+  },
+  "34531566559204": {
+   "id": "34531566559204",
+   "company": "Men's Wearhouse",
+   "role": "Vat Intern",
+   "location": "Eindhoven"
+  },
+  "34531581095751": {
+   "id": "34531581095751",
+   "company": "Men's Wearhouse",
+   "role": "Controlling Intern",
+   "location": "Eindhoven"
+  },
+  "391e4a9c1c5d8f10bd45953ecb28e2f6": {
+   "id": "391e4a9c1c5d8f10bd45953ecb28e2f6",
+   "company": "Fromageries Bel",
+   "role": "Internship Brand & Digital Marketing Assistant",
+   "location": "Utrecht"
+  },
+  "8be1813653a6fa06aca2ac18336ca5bc": {
+   "id": "8be1813653a6fa06aca2ac18336ca5bc",
+   "company": "Koninklijke Philips",
+   "role": "Internship: Generative Ai Engineer",
+   "location": "Eindhoven"
+  },
+  "84058a9cea472bcbb22c3f0a11a04b7b": {
+   "id": "84058a9cea472bcbb22c3f0a11a04b7b",
+   "company": "Arvato",
+   "role": "Internship Learning & Development",
+   "location": "Arnhem"
+  },
+  "414106ab76e3377f56c877f1174daedc": {
+   "id": "414106ab76e3377f56c877f1174daedc",
+   "company": "Arvato",
+   "role": "Hse Internship",
+   "location": "Arnhem"
+  },
+  "10eeeae06e2c40269e69103d82a05f70": {
+   "id": "10eeeae06e2c40269e69103d82a05f70",
+   "company": "Coty",
+   "role": "People Analytics & Total Rewards Intern",
+   "location": "Amsterdam"
   },
   "a5c3739a40b232a751c320d1e9502209": {
    "id": "a5c3739a40b232a751c320d1e9502209",
@@ -488,65 +542,11 @@
    "role": "Mbo Stage Technische Dienststage's Gravenzande",
    "location": "'S Gravezande"
   },
-  "10eeeae06e2c40269e69103d82a05f70": {
-   "id": "10eeeae06e2c40269e69103d82a05f70",
-   "company": "Coty",
-   "role": "People Analytics & Total Rewards Intern",
-   "location": "Amsterdam"
-  },
   "1791cc0aa51444329ceaf6a2a2c64514": {
    "id": "1791cc0aa51444329ceaf6a2a2c64514",
    "company": "GenScript USA Inc",
    "role": "Human Resources Intern",
    "location": "Alphen Aan Den Rijn"
-  },
-  "e8510da45b05adddfc3e042bd114a3a1": {
-   "id": "e8510da45b05adddfc3e042bd114a3a1",
-   "company": "Avery Dennison Corporation",
-   "role": "Internship: Treasury/finance (bank & Cash Management)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "e8ccf56f6fe6f7dafda8fb18d925ca6f": {
-   "id": "e8ccf56f6fe6f7dafda8fb18d925ca6f",
-   "company": "Avery Dennison Smartrac",
-   "role": "Internship: Treasury/finance (bank & Cash Management)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "e177c10e42ada0770dcbd2b72ac2b408": {
-   "id": "e177c10e42ada0770dcbd2b72ac2b408",
-   "company": "adidas AG",
-   "role": "Intern - Digital Analytics",
-   "location": "Amsterdam"
-  },
-  "c7097f50d1feb08e2aa70c9c7a89fb92": {
-   "id": "c7097f50d1feb08e2aa70c9c7a89fb92",
-   "company": "Vanderlande",
-   "role": "Internship: Optimizing Project Management Through Digital Transformation",
-   "location": "S Hertogenbosch"
-  },
-  "a3db07bbd7f94cce80b8333a6ae22f9f": {
-   "id": "a3db07bbd7f94cce80b8333a6ae22f9f",
-   "company": "Netvlies V.O.F",
-   "role": "Stage En Afstuderen",
-   "location": "Breda"
-  },
-  "9cfdb5816d138966107f6fbc35cadb36": {
-   "id": "9cfdb5816d138966107f6fbc35cadb36",
-   "company": "Volvo Group Truck Center",
-   "role": "Stagiair Continuous Improvement",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "f0890941d7909780ff71b0577a73980e": {
-   "id": "f0890941d7909780ff71b0577a73980e",
-   "company": "Chanel",
-   "role": "Internship – Client Marketing Fashion – January 2027 - M/f/d",
-   "location": "Amsterdam"
-  },
-  "f6cc2d1bfaca8ced9512f57c2935753b": {
-   "id": "f6cc2d1bfaca8ced9512f57c2935753b",
-   "company": "The Kraft Heinz Company",
-   "role": "Global Finance Analyst Capex Intern",
-   "location": "Amsterdam"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
@@ -1046,6 +1046,12 @@
    "role": "Sustainable Finance Advisory Analyst",
    "location": "Amsterdam"
   },
+  "6f35bac61e072b4da4d24e039d3519a5": {
+   "id": "6f35bac61e072b4da4d24e039d3519a5",
+   "company": "Chart Industries Inc",
+   "role": "Maintenance/field Services Technician",
+   "location": "Zuidland"
+  },
   "75cdf40a922ddfe0077a6cf9033934bd": {
    "id": "75cdf40a922ddfe0077a6cf9033934bd",
    "company": "Volvo Group Truck Center",
@@ -1514,11 +1520,11 @@
    "role": "Mechanisch Monteur",
    "location": "Cuijk"
   },
-  "5e935ac53ad2f21418b9aa3f94f55dcc": {
-   "id": "5e935ac53ad2f21418b9aa3f94f55dcc",
-   "company": "RAGING WATERS SYDNEY PTY",
-   "role": "Mechanisch En Elektrisch Monteur Attracties",
-   "location": "Slagharen"
+  "132201ff270f78ee97d673bad7012885": {
+   "id": "132201ff270f78ee97d673bad7012885",
+   "company": "Puma",
+   "role": "Retail Sales Associate",
+   "location": "Amsterdam"
   },
   "f8c90fd84a6134f0dff86bb7aa9fda8b": {
    "id": "f8c90fd84a6134f0dff86bb7aa9fda8b",

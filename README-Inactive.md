@@ -1484,4 +1484,13 @@
 <tr><td>Canon Production Printing Netherlands B.V</td><td>Bsc/msc: Internship Applied Physics/mechatronics - Build The Foundation For Printing Systems</td><td>Venlo</td><td>2026-09-25</td></tr>
 <tr><td>Bynder</td><td>Legal Intern</td><td>Amsterdam</td><td>2026-09-25</td></tr>
 <tr><td>Topcon</td><td>Service Technician - Surveying Technology</td><td>Alphen Aan Den Rijn</td><td>2026-09-25</td></tr>
+<tr><td>Avery Dennison Corporation</td><td>Internship: Treasury/finance (bank & Cash Management)</td><td>Alphen Aan Den Rijn</td><td>2026-09-26</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Treasury/finance (bank & Cash Management)</td><td>Alphen Aan Den Rijn</td><td>2026-09-26</td></tr>
+<tr><td>adidas AG</td><td>Intern - Digital Analytics</td><td>Amsterdam</td><td>2026-09-26</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Optimizing Project Management Through Digital Transformation</td><td>S Hertogenbosch</td><td>2026-09-26</td></tr>
+<tr><td>Netvlies V.O.F</td><td>Stage En Afstuderen</td><td>Breda</td><td>2026-09-26</td></tr>
+<tr><td>Volvo Group Truck Center</td><td>Stagiair Continuous Improvement</td><td>Alphen Aan Den Rijn</td><td>2026-09-26</td></tr>
+<tr><td>Chanel</td><td>Internship – Client Marketing Fashion – January 2027 - M/f/d</td><td>Amsterdam</td><td>2026-09-26</td></tr>
+<tr><td>The Kraft Heinz Company</td><td>Global Finance Analyst Capex Intern</td><td>Amsterdam</td><td>2026-09-26</td></tr>
+<tr><td>RAGING WATERS SYDNEY PTY</td><td>Mechanisch En Elektrisch Monteur Attracties</td><td>Slagharen</td><td>2026-09-26</td></tr>
 </table>
