@@ -44,18 +44,6 @@
    "role": "Impact Intern",
    "location": "Amsterdam"
   },
-  "2691956": {
-   "id": "2691956",
-   "company": "Dpg Media",
-   "role": "Data Scientist Total Video",
-   "location": "Amsterdam"
-  },
-  "2692098": {
-   "id": "2692098",
-   "company": "Gulf Agency Company (GAC)",
-   "role": "Administratief Medewerker Da",
-   "location": "Alphen Aan Den Rijn"
-  },
   "2700015": {
    "id": "2700015",
    "company": "Den Hartogh Liquid Logistics",
@@ -560,6 +548,12 @@
    "role": "C++ Software Engineer, Early Careers",
    "location": "Amsterdam"
   },
+  "55669b7929e92ab7c0180b5dbe7025b1": {
+   "id": "55669b7929e92ab7c0180b5dbe7025b1",
+   "company": "Warner Bros. Entertainment Inc.",
+   "role": "Staff Software Engineer",
+   "location": "Amsterdam"
+  },
   "d26acc787b0acc0dfa92f0d54704efee": {
    "id": "d26acc787b0acc0dfa92f0d54704efee",
    "company": "Adyen Payments",
@@ -1052,6 +1046,12 @@
    "role": "Maintenance/field Services Technician",
    "location": "Zuidland"
   },
+  "34e4507991369f5b982a80ef3b8312dd": {
+   "id": "34e4507991369f5b982a80ef3b8312dd",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Maintenance Technician Security Lane Systems",
+   "location": "Schiphol"
+  },
   "75cdf40a922ddfe0077a6cf9033934bd": {
    "id": "75cdf40a922ddfe0077a6cf9033934bd",
    "company": "Volvo Group Truck Center",
@@ -1514,12 +1514,6 @@
    "role": "Simulator Technician-1",
    "location": "Amsterdam"
   },
-  "78389c52d6e0e2408a58d38fa58841d7": {
-   "id": "78389c52d6e0e2408a58d38fa58841d7",
-   "company": "Essity",
-   "role": "Mechanisch Monteur",
-   "location": "Cuijk"
-  },
   "132201ff270f78ee97d673bad7012885": {
    "id": "132201ff270f78ee97d673bad7012885",
    "company": "Puma",
@@ -1896,6 +1890,12 @@
    "id": "bb94c4213f91b66fb76f1fb3d599be09",
    "company": "H&M",
    "role": "Verkoopmedewerker - Rotterdam Alexandrium (26 Uur)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f747b3a43de82dfe544abf55e24a1840": {
+   "id": "f747b3a43de82dfe544abf55e24a1840",
+   "company": "TK Maxx",
+   "role": "Sales Associate",
    "location": "Alphen Aan Den Rijn"
   },
   "835091d632e55a12eadc9093e8dd1e25": {

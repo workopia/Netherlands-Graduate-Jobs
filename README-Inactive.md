@@ -1493,4 +1493,7 @@
 <tr><td>Chanel</td><td>Internship – Client Marketing Fashion – January 2027 - M/f/d</td><td>Amsterdam</td><td>2026-09-26</td></tr>
 <tr><td>The Kraft Heinz Company</td><td>Global Finance Analyst Capex Intern</td><td>Amsterdam</td><td>2026-09-26</td></tr>
 <tr><td>RAGING WATERS SYDNEY PTY</td><td>Mechanisch En Elektrisch Monteur Attracties</td><td>Slagharen</td><td>2026-09-26</td></tr>
+<tr><td>Dpg Media</td><td>Data Scientist Total Video</td><td>Amsterdam</td><td>2026-09-26</td></tr>
+<tr><td>Gulf Agency Company (GAC)</td><td>Administratief Medewerker Da</td><td>Alphen Aan Den Rijn</td><td>2026-09-26</td></tr>
+<tr><td>Essity</td><td>Mechanisch Monteur</td><td>Cuijk</td><td>2026-09-26</td></tr>
 </table>
