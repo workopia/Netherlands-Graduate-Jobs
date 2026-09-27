@@ -1496,4 +1496,34 @@
 <tr><td>Dpg Media</td><td>Data Scientist Total Video</td><td>Amsterdam</td><td>2026-09-26</td></tr>
 <tr><td>Gulf Agency Company (GAC)</td><td>Administratief Medewerker Da</td><td>Alphen Aan Den Rijn</td><td>2026-09-26</td></tr>
 <tr><td>Essity</td><td>Mechanisch Monteur</td><td>Cuijk</td><td>2026-09-26</td></tr>
+<tr><td>Henkel</td><td>Intern Global Trade</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>Keune Haircosmetics B.V</td><td>Stagiair Packaging Testing & Innovation (februari 2027)</td><td>Amersfoort</td><td>2026-09-27</td></tr>
+<tr><td>IOM</td><td>Labour Mobility & Social Inclusion Intern</td><td>Netherlands</td><td>2026-09-27</td></tr>
+<tr><td>RWE AG</td><td>Afstudeerstage: It/ot Security - Veilige Filetransfer Via Datadiode</td><td>Breda</td><td>2026-09-27</td></tr>
+<tr><td>RWE AG</td><td>Afstudeerstage: It/ot Security - Restlevensduur Van Energie-installaties</td><td>Breda</td><td>2026-09-27</td></tr>
+<tr><td>Caldic B.V</td><td>Esg Intern</td><td>Alphen Aan Den Rijn</td><td>2026-09-27</td></tr>
+<tr><td>Volkshotel</td><td>Stage - Open Sollicitatiestageamsterdam</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Digitalization Of Subcontracting Management: From Black-box To Real-time Visibility</td><td>S Hertogenbosch</td><td>2026-09-27</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Integrated Financial & Sustainability Analytics</td><td>S Hertogenbosch</td><td>2026-09-27</td></tr>
+<tr><td>CMA CGM Group</td><td>*internship* Customer Service</td><td>Alphen Aan Den Rijn</td><td>2026-09-27</td></tr>
+<tr><td>Chanel</td><td>Internship – Product Management – Fragrance & Beauty – Benelux & Scandinavia – January 2027 – M/f/d</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>C.H. Robinson</td><td>Internship - Fresh Produce Supply Chain</td><td>Alphen Aan Den Rijn</td><td>2026-09-27</td></tr>
+<tr><td>Philips</td><td>Internship: Operational Material Management (non-thesis)</td><td>Eindhoven</td><td>2026-09-27</td></tr>
+<tr><td>Brightonparkbank</td><td>International Corporate Banking Off Cycle Internship Programme 2027 Amsterdam</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>Philips</td><td>Internship: Training & Capability Support (master, Non-thesis)</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>Philips</td><td>Internship: Data Science For Multidimensional Market Modelling</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>Philips</td><td>Internship: Ai & Automation (non-thesis)</td><td>Eindhoven</td><td>2026-09-27</td></tr>
+<tr><td>Armaokchapter</td><td>Internship – Energy Sector Coverage Nl Team</td><td>Maple</td><td>2026-09-27</td></tr>
+<tr><td>ROX Digital Agency</td><td>Stage Webdevelopment (februari 2027)stagehybride &amp; Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-09-27</td></tr>
+<tr><td>Criteo</td><td>Account Strategist Intern - Retail Media Benelux & Nordics</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>Vilosa</td><td>Stage Data-gestuurd Telen Richting De Toekomststage's Gravenzande</td><td>'S Gravezande</td><td>2026-09-27</td></tr>
+<tr><td>Vilosa</td><td>Mbo Stage Technische Dienststage's Gravenzande</td><td>'S Gravezande</td><td>2026-09-27</td></tr>
+<tr><td>GenScript USA Inc</td><td>Human Resources Intern</td><td>Alphen Aan Den Rijn</td><td>2026-09-27</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Intern Consultant – 2026 – Netherlands</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>Yara International ASA</td><td>Hoofdmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-27</td></tr>
+<tr><td>Vopak</td><td>2e E&i Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-27</td></tr>
+<tr><td>vetshired.us</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-09-27</td></tr>
+<tr><td>Damen Global Support B.V</td><td>Field Service Engineer</td><td>Hardinxveld</td><td>2026-09-27</td></tr>
+<tr><td>CAE Inc</td><td>Simulator Technician-1</td><td>Amsterdam</td><td>2026-09-27</td></tr>
 </table>

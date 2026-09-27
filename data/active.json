@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-26",
- "count": 356,
+ "asOf": "2026-09-27",
+ "count": 358,
  "jobs": {
   "86062": {
    "id": "86062",
@@ -18,12 +18,6 @@
    "id": "86881",
    "company": "Henkel",
    "role": "Intern Strategy & Pmo - Operations & Supply Chain",
-   "location": "Amsterdam"
-  },
-  "88328": {
-   "id": "88328",
-   "company": "Henkel",
-   "role": "Intern Global Trade",
    "location": "Amsterdam"
   },
   "2632449": {
@@ -74,12 +68,6 @@
    "role": "Administratief Medewerker Zorgproces Helmond",
    "location": "Eindhoven"
   },
-  "2749134": {
-   "id": "2749134",
-   "company": "Keune Haircosmetics B.V",
-   "role": "Stagiair Packaging Testing & Innovation (februari 2027)",
-   "location": "Amersfoort"
-  },
   "2750069": {
    "id": "2750069",
    "company": "Boekenvoordeel B.V",
@@ -103,6 +91,144 @@
    "company": "Innovative Beauty Group",
    "role": "Procurement & Srm Data Management Intern",
    "location": "Amsterdam Sloterdijk"
+  },
+  "2760534": {
+   "id": "2760534",
+   "company": "fridayrecruitment.nl",
+   "role": "Afstudeerstage Interne Automatisering",
+   "location": "Amersfoort"
+  },
+  "6d36138b39c8c572f793f348eec32d96": {
+   "id": "6d36138b39c8c572f793f348eec32d96",
+   "company": "Shell plc",
+   "role": "Shell Assessed Internship Programme 2027 - Netherlands",
+   "location": "Amsterdam"
+  },
+  "4262c7799442acfa29fb535925e0cbda": {
+   "id": "4262c7799442acfa29fb535925e0cbda",
+   "company": "Philips Healthcare",
+   "role": "Internship: Marketing & Marketing Communication",
+   "location": "Amsterdam"
+  },
+  "2357550ebad8f880f04f0880bf2bce39": {
+   "id": "2357550ebad8f880f04f0880bf2bce39",
+   "company": "Philips Healthcare",
+   "role": "Internship: Philips Communications & Brand",
+   "location": "Amsterdam"
+  },
+  "a7206a0d9c56c453c369ac37f9081143": {
+   "id": "a7206a0d9c56c453c369ac37f9081143",
+   "company": "Philips Healthcare",
+   "role": "Internship: Content And Engagement (bachelor, Non-thesis)",
+   "location": "Eindhoven"
+  },
+  "b0ba4de1eb6819ca56bf177efc87254f": {
+   "id": "b0ba4de1eb6819ca56bf177efc87254f",
+   "company": "Philips Healthcare",
+   "role": "Internship: Audit, Risk & Compliance Operations Analyst (non-thesis)",
+   "location": "Amsterdam"
+  },
+  "5d1d906a6fb3a5f11480ea08475189fc": {
+   "id": "5d1d906a6fb3a5f11480ea08475189fc",
+   "company": "Philips Healthcare",
+   "role": "Internship: Esg/csrd Reporting (hr, Non-thesis)",
+   "location": "Amsterdam"
+  },
+  "fd9b063064b1e5060429d46a9638e386": {
+   "id": "fd9b063064b1e5060429d46a9638e386",
+   "company": "Philips Healthcare",
+   "role": "Internship Sustainability And Compliance Intern (non-thesis)",
+   "location": "Amsterdam"
+  },
+  "7333a6e7da85cd88a37e55cb6457c41f": {
+   "id": "7333a6e7da85cd88a37e55cb6457c41f",
+   "company": "Philips Healthcare",
+   "role": "Product Innovation & Ai Prototyping Internship – Philips Avent Experience Innovation",
+   "location": "Eindhoven"
+  },
+  "4034103298819f6b791ae4bcc90bdf48": {
+   "id": "4034103298819f6b791ae4bcc90bdf48",
+   "company": "Philips Healthcare",
+   "role": "Internship: Training & Capability Support (master, Non-thesis)",
+   "location": "Amsterdam"
+  },
+  "8e3c2f4f3af7c0729a389764fd98f9d4": {
+   "id": "8e3c2f4f3af7c0729a389764fd98f9d4",
+   "company": "Philips Healthcare",
+   "role": "Internship: Data Science For Multidimensional Market Modelling",
+   "location": "Amsterdam"
+  },
+  "f987e1c94c2930ff5370c308ce59d947": {
+   "id": "f987e1c94c2930ff5370c308ce59d947",
+   "company": "Philips Healthcare",
+   "role": "Internship: Ai & Automation (non-thesis)",
+   "location": "Eindhoven"
+  },
+  "7ee656a00ef2662bc8f891e7ad7d605a": {
+   "id": "7ee656a00ef2662bc8f891e7ad7d605a",
+   "company": "Philips Healthcare",
+   "role": "Internship: Operational Material Management (non-thesis)",
+   "location": "Eindhoven"
+  },
+  "f61ca529c08603e0ea34a87a28483efc": {
+   "id": "f61ca529c08603e0ea34a87a28483efc",
+   "company": "Philips Healthcare",
+   "role": "Internship: Commercial Strategy & Sales (dutch Speaking)",
+   "location": "Eindhoven"
+  },
+  "6d8ccc995b0e04615bf8ad509c144688": {
+   "id": "6d8ccc995b0e04615bf8ad509c144688",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman - Recruiting Intern (30-40 Hours Per Week, Up To 12 Months) - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "097931b93d37dcdae60c676da2025cf1": {
+   "id": "097931b93d37dcdae60c676da2025cf1",
+   "company": "NERA Economic Consulting",
+   "role": "Meewerk Stage Fiduciary (m/v/x)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "11ea0cb3580becaaefad661cd0c9d691": {
+   "id": "11ea0cb3580becaaefad661cd0c9d691",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Business Performance Intern",
+   "location": "Amsterdam"
+  },
+  "bc01f3ea3e39cc609dbbbf08f63ef43f": {
+   "id": "bc01f3ea3e39cc609dbbbf08f63ef43f",
+   "company": "Medtronic PLC",
+   "role": "Nextgen Academy Intern: Field Support",
+   "location": "Eindhoven"
+  },
+  "66a8245a7588d2855ef35590ef558629": {
+   "id": "66a8245a7588d2855ef35590ef558629",
+   "company": "Irdeto",
+   "role": "Systems Integration Intern",
+   "location": "Amsterdam"
+  },
+  "d7db8dd44d8b759750586b3bcce6cf3b": {
+   "id": "d7db8dd44d8b759750586b3bcce6cf3b",
+   "company": "Irdeto",
+   "role": "Marketing Intern",
+   "location": "Amsterdam"
+  },
+  "1b4479b265a2082f94209d66ccce4e77": {
+   "id": "1b4479b265a2082f94209d66ccce4e77",
+   "company": "MSD",
+   "role": "Stagiair - Mbo Microbiologie/biochemie/procestechnologie - Tissue Culture Boxmeer",
+   "location": "Venlo"
+  },
+  "4f89d05192074beef3b39d46ca7db897": {
+   "id": "4f89d05192074beef3b39d46ca7db897",
+   "company": "MSD",
+   "role": "Stagiair – Laboratorium Of Productietechniek – Visuele Inspectie",
+   "location": "North Brabant"
+  },
+  "250218f8149a105a3bd145fd82af962a": {
+   "id": "250218f8149a105a3bd145fd82af962a",
+   "company": "MSD",
+   "role": "Intern - Applied Statistics - Innovation & Engineering",
+   "location": "North Brabant"
   },
   "ba921164b7e0dbe50526a9254e359965": {
    "id": "ba921164b7e0dbe50526a9254e359965",
@@ -410,132 +536,6 @@
    "role": "Food And Beverage Intern",
    "location": "Amersfoort"
   },
-  "82b02a0b9243458e53ea28822d405159": {
-   "id": "82b02a0b9243458e53ea28822d405159",
-   "company": "IOM",
-   "role": "Labour Mobility & Social Inclusion Intern",
-   "location": "Netherlands"
-  },
-  "e28f31b1653876a96139e1629a923722": {
-   "id": "e28f31b1653876a96139e1629a923722",
-   "company": "RWE AG",
-   "role": "Afstudeerstage: It/ot Security - Veilige Filetransfer Via Datadiode",
-   "location": "Breda"
-  },
-  "ef4ab0edaafea68922e66733e50431fc": {
-   "id": "ef4ab0edaafea68922e66733e50431fc",
-   "company": "RWE AG",
-   "role": "Afstudeerstage: It/ot Security - Restlevensduur Van Energie-installaties",
-   "location": "Breda"
-  },
-  "87737ed50c39e3ddb6e86600038f1c2d": {
-   "id": "87737ed50c39e3ddb6e86600038f1c2d",
-   "company": "Caldic B.V",
-   "role": "Esg Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "2911ba537b98ac5f4f803cd22abcf7ba": {
-   "id": "2911ba537b98ac5f4f803cd22abcf7ba",
-   "company": "Volkshotel",
-   "role": "Stage - Open Sollicitatiestageamsterdam",
-   "location": "Amsterdam"
-  },
-  "8daa2ea3388a73b3583d05fa416c0cbf": {
-   "id": "8daa2ea3388a73b3583d05fa416c0cbf",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Digitalization Of Subcontracting Management: From Black-box To Real-time Visibility",
-   "location": "S Hertogenbosch"
-  },
-  "19c17c981f35c00a68cea1610fb994ed": {
-   "id": "19c17c981f35c00a68cea1610fb994ed",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Integrated Financial & Sustainability Analytics",
-   "location": "S Hertogenbosch"
-  },
-  "d382268babd2b681e83b29926a343fab": {
-   "id": "d382268babd2b681e83b29926a343fab",
-   "company": "CMA CGM Group",
-   "role": "*internship* Customer Service",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "e247040ed13d162b3415b424daf9f1da": {
-   "id": "e247040ed13d162b3415b424daf9f1da",
-   "company": "Chanel",
-   "role": "Internship – Product Management – Fragrance & Beauty – Benelux & Scandinavia – January 2027 – M/f/d",
-   "location": "Amsterdam"
-  },
-  "6f42de94af4c0d9929ba1d668701cd69": {
-   "id": "6f42de94af4c0d9929ba1d668701cd69",
-   "company": "C.H. Robinson",
-   "role": "Internship - Fresh Produce Supply Chain",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "b580446eece8be53868cc81408340e43": {
-   "id": "b580446eece8be53868cc81408340e43",
-   "company": "Philips",
-   "role": "Internship: Operational Material Management (non-thesis)",
-   "location": "Eindhoven"
-  },
-  "f845d0b2706bd3369aecccab77a19cce": {
-   "id": "f845d0b2706bd3369aecccab77a19cce",
-   "company": "Brightonparkbank",
-   "role": "International Corporate Banking Off Cycle Internship Programme 2027 Amsterdam",
-   "location": "Amsterdam"
-  },
-  "8c9033a258042400caba8024d0cf0324": {
-   "id": "8c9033a258042400caba8024d0cf0324",
-   "company": "Philips",
-   "role": "Internship: Training & Capability Support (master, Non-thesis)",
-   "location": "Amsterdam"
-  },
-  "5e56b16767d099f48313480e919b7b42": {
-   "id": "5e56b16767d099f48313480e919b7b42",
-   "company": "Philips",
-   "role": "Internship: Data Science For Multidimensional Market Modelling",
-   "location": "Amsterdam"
-  },
-  "49bb5ed3ccc81f8ec9a5e11f9cdaa599": {
-   "id": "49bb5ed3ccc81f8ec9a5e11f9cdaa599",
-   "company": "Philips",
-   "role": "Internship: Ai & Automation (non-thesis)",
-   "location": "Eindhoven"
-  },
-  "3ac1c1b08078827265f16d804655b349": {
-   "id": "3ac1c1b08078827265f16d804655b349",
-   "company": "Armaokchapter",
-   "role": "Internship – Energy Sector Coverage Nl Team",
-   "location": "Maple"
-  },
-  "a48ff77a01de5f1122a2b08c117a32a4": {
-   "id": "a48ff77a01de5f1122a2b08c117a32a4",
-   "company": "ROX Digital Agency",
-   "role": "Stage Webdevelopment (februari 2027)stagehybride &amp; Rotterdam",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "0daa994b54556c5e0784e8f67de53167": {
-   "id": "0daa994b54556c5e0784e8f67de53167",
-   "company": "Criteo",
-   "role": "Account Strategist Intern - Retail Media Benelux & Nordics",
-   "location": "Amsterdam"
-  },
-  "3ebfe1528915ec173a686e4dbff059db": {
-   "id": "3ebfe1528915ec173a686e4dbff059db",
-   "company": "Vilosa",
-   "role": "Stage Data-gestuurd Telen Richting De Toekomststage's Gravenzande",
-   "location": "'S Gravezande"
-  },
-  "c543bd557e88b870f9305c47d242f615": {
-   "id": "c543bd557e88b870f9305c47d242f615",
-   "company": "Vilosa",
-   "role": "Mbo Stage Technische Dienststage's Gravenzande",
-   "location": "'S Gravezande"
-  },
-  "1791cc0aa51444329ceaf6a2a2c64514": {
-   "id": "1791cc0aa51444329ceaf6a2a2c64514",
-   "company": "GenScript USA Inc",
-   "role": "Human Resources Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -614,8 +614,8 @@
    "role": "Software Engineer Data Platform",
    "location": "Amsterdam"
   },
-  "5bd8b6e30b16f16b0ebef1fd90ef00df": {
-   "id": "5bd8b6e30b16f16b0ebef1fd90ef00df",
+  "6912eec3081bb2a78cb984b2924a4d40": {
+   "id": "6912eec3081bb2a78cb984b2924a4d40",
    "company": "Oliver Wyman",
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
    "location": "Amsterdam"
@@ -764,6 +764,12 @@
    "role": "Data Analyst",
    "location": "Brussels +1"
   },
+  "46987d1bc16759e68828782aa6069248": {
+   "id": "46987d1bc16759e68828782aa6069248",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman - Intern Consultant – 2026 – Netherlands",
+   "location": "Amsterdam"
+  },
   "768d3c3f9d78c7d61e315b4be8feda44": {
    "id": "768d3c3f9d78c7d61e315b4be8feda44",
    "company": "Brightonparkbank",
@@ -780,12 +786,6 @@
    "id": "262aa92cc43c579a2579184288367506",
    "company": "ING",
    "role": "Internship Debt Capital Markets – Ig Corporate Origination",
-   "location": "Amsterdam"
-  },
-  "8226dd15f01925938305cf175eee9808": {
-   "id": "8226dd15f01925938305cf175eee9808",
-   "company": "Oliver Wyman",
-   "role": "Oliver Wyman - Intern Consultant – 2026 – Netherlands",
    "location": "Amsterdam"
   },
   "49ffce9540e4f2494ccb1fc9935b8245": {
@@ -1040,6 +1040,36 @@
    "role": "Sustainable Finance Advisory Analyst",
    "location": "Amsterdam"
   },
+  "1bae85173015ce454f07361e25aaecdf": {
+   "id": "1bae85173015ce454f07361e25aaecdf",
+   "company": "Yara International ASA",
+   "role": "Hoofdmonteur",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "c1e26f32f5a376f8debd6c0afadb5309": {
+   "id": "c1e26f32f5a376f8debd6c0afadb5309",
+   "company": "Shell plc",
+   "role": "Onderhoudstechnicus Electrical & Instrumentation (e&i)",
+   "location": "Pernis"
+  },
+  "edbb7585f217175e5aafc829edc9585e": {
+   "id": "edbb7585f217175e5aafc829edc9585e",
+   "company": "Shell plc",
+   "role": "E&i Maintenance Technician",
+   "location": "Pernis"
+  },
+  "88889783e3ccd467b0f0ad4050b31fb3": {
+   "id": "88889783e3ccd467b0f0ad4050b31fb3",
+   "company": "QTS Data Centers",
+   "role": "Critical Operations Technician Ii",
+   "location": "Eemshaven"
+  },
+  "10ac84890897bff5bdc8596400cd614a": {
+   "id": "10ac84890897bff5bdc8596400cd614a",
+   "company": "MSD",
+   "role": "Maintenance Monteur - Storing & Onderhoud",
+   "location": "Venlo"
+  },
   "6f35bac61e072b4da4d24e039d3519a5": {
    "id": "6f35bac61e072b4da4d24e039d3519a5",
    "company": "Chart Industries Inc",
@@ -1237,12 +1267,6 @@
    "company": "Agrifirm Group",
    "role": "Allround Onderhoudsmonteur",
    "location": "Wanssum"
-  },
-  "8ff302424fc30328a6336d18c4d487c2": {
-   "id": "8ff302424fc30328a6336d18c4d487c2",
-   "company": "Yara International ASA",
-   "role": "Hoofdmonteur",
-   "location": "Alphen Aan Den Rijn"
   },
   "87086aefd45f8dcd2a2bbc99f3b8c67e": {
    "id": "87086aefd45f8dcd2a2bbc99f3b8c67e",
@@ -1490,34 +1514,22 @@
    "role": "Service Technician Taski - Regio Amsterdam",
    "location": "Amsterdam"
   },
-  "8dd11533fca8fe97535f0c80800c9909": {
-   "id": "8dd11533fca8fe97535f0c80800c9909",
-   "company": "Vopak",
-   "role": "2e E&i Monteur",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "f0e772413f78a1ba0f9352c312ac0d0a": {
-   "id": "f0e772413f78a1ba0f9352c312ac0d0a",
-   "company": "vetshired.us",
-   "role": "Maintenance Monteur - Storing & Onderhoud",
-   "location": "Venlo"
-  },
-  "efb6ea124f44788f0ab208eb2ed66082": {
-   "id": "efb6ea124f44788f0ab208eb2ed66082",
-   "company": "Damen Global Support B.V",
-   "role": "Field Service Engineer",
-   "location": "Hardinxveld"
-  },
-  "f059b9b2d853df16e4e699954cd652d9": {
-   "id": "f059b9b2d853df16e4e699954cd652d9",
-   "company": "CAE Inc",
-   "role": "Simulator Technician-1",
-   "location": "Amsterdam"
-  },
   "132201ff270f78ee97d673bad7012885": {
    "id": "132201ff270f78ee97d673bad7012885",
    "company": "Puma",
    "role": "Retail Sales Associate",
+   "location": "Amsterdam"
+  },
+  "9fb0b62d797a7707518e8a13f6f887ce": {
+   "id": "9fb0b62d797a7707518e8a13f6f887ce",
+   "company": "Vuori",
+   "role": "Retail Sales Associate, Part Time (amsterdam)",
+   "location": "Amsterdam"
+  },
+  "a3f9297af718873ea6e5cd513a9c2b62": {
+   "id": "a3f9297af718873ea6e5cd513a9c2b62",
+   "company": "Vuori",
+   "role": "Retail Sales Associate, Full Time (amsterdam)",
    "location": "Amsterdam"
   },
   "f8c90fd84a6134f0dff86bb7aa9fda8b": {
