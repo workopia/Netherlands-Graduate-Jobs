@@ -1526,4 +1526,12 @@
 <tr><td>vetshired.us</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-09-27</td></tr>
 <tr><td>Damen Global Support B.V</td><td>Field Service Engineer</td><td>Hardinxveld</td><td>2026-09-27</td></tr>
 <tr><td>CAE Inc</td><td>Simulator Technician-1</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>Citi</td><td>Banking, Corporate Banking, Placement Analyst, Amsterdam - The Netherlands, 2027 (january- June Start)</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>Intelex</td><td>Controlling Intern</td><td>Eindhoven</td><td>2026-09-27</td></tr>
+<tr><td>Intelex</td><td>Vat Intern</td><td>Eindhoven</td><td>2026-09-27</td></tr>
+<tr><td>John Deere</td><td>Hr Stage</td><td>Venlo</td><td>2026-09-27</td></tr>
+<tr><td>Hilton Worldwide</td><td>Front Office Intern</td><td>Amersfoort</td><td>2026-09-27</td></tr>
+<tr><td>Hilton Worldwide</td><td>Food And Beverage Intern</td><td>Amersfoort</td><td>2026-09-27</td></tr>
+<tr><td>Diversey</td><td>Service Technician Taski - Regio Amsterdam</td><td>Amsterdam</td><td>2026-09-27</td></tr>
+<tr><td>Jobgether</td><td>Software Verification & Qa Specialist</td><td>Netherlands</td><td>2026-09-27</td></tr>
 </table>
