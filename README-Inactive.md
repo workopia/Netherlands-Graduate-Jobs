@@ -1534,4 +1534,9 @@
 <tr><td>Hilton Worldwide</td><td>Food And Beverage Intern</td><td>Amersfoort</td><td>2026-09-27</td></tr>
 <tr><td>Diversey</td><td>Service Technician Taski - Regio Amsterdam</td><td>Amsterdam</td><td>2026-09-27</td></tr>
 <tr><td>Jobgether</td><td>Software Verification & Qa Specialist</td><td>Netherlands</td><td>2026-09-27</td></tr>
+<tr><td>Wakuli Koffie</td><td>Impact Intern</td><td>Amsterdam</td><td>2026-09-28</td></tr>
+<tr><td>ODYSSEY HOTEL Group</td><td>Front Office Intern - Jan 2027</td><td>Breda</td><td>2026-09-28</td></tr>
+<tr><td>Ask Phill</td><td>Marketing &amp; Events Interninternshipamsterdam</td><td>Amsterdam</td><td>2026-09-28</td></tr>
+<tr><td>Workwize</td><td>Operations Intern</td><td>Amsterdam</td><td>2026-09-28</td></tr>
+<tr><td>diversey.cz</td><td>Service Technician Taski - Regio Amsterdam</td><td>Amsterdam</td><td>2026-09-28</td></tr>
 </table>
