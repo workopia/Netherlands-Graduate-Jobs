@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-28",
- "count": 351,
+ "count": 350,
  "jobs": {
   "86062": {
    "id": "86062",
@@ -1915,12 +1915,6 @@
    "company": "H & M Hennes & Mauritz AB",
    "role": "Sales Advisor 5-12h",
    "location": "Amsterdam"
-  },
-  "ae820ed2d1e45d724a701257b1f1f5a6": {
-   "id": "ae820ed2d1e45d724a701257b1f1f5a6",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Verkoopmedewerker - Gouda (26 Uur)",
-   "location": "Alphen Aan Den Rijn"
   },
   "a27f3a52d4de271b6e6a2541eb8bdec5": {
    "id": "a27f3a52d4de271b6e6a2541eb8bdec5",

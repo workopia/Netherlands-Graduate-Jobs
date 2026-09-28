@@ -13,7 +13,7 @@
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 3529,
-  "generated_at": "2026-09-28T06:58:30.598Z"
+  "generated_at": "2026-09-28T10:27:03.992Z"
  },
  "categories": [
   {
@@ -5409,23 +5409,6 @@
    "date_posted": "2026-08-04T11:09:10.941Z",
    "active": true,
    "url": "https://workopia.io/jobs/31f4b030b828336d69019c5141864810",
-   "category": "sales",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "€50,068",
-   "id": "ae820ed2d1e45d724a701257b1f1f5a6",
-   "source": "Workopia",
-   "company_name": "H & M Hennes & Mauritz AB",
-   "company_hi_slug": "h-m-hennes-mauritz-ab",
-   "title": "Verkoopmedewerker - Gouda (26 Uur)",
-   "location": "Alphen Aan Den Rijn",
-   "skills": "modekennis, klantenservice",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-30T10:04:08.317Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/ae820ed2d1e45d724a701257b1f1f5a6",
    "category": "sales",
    "tier": "Entry-level"
   },

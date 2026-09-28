@@ -1545,4 +1545,5 @@
 <tr><td>Unilever</td><td>Data Analyst</td><td>Brussels +1</td><td>2026-09-28</td></tr>
 <tr><td>Rbsfuel</td><td>Sustainable Finance Advisory Analyst</td><td>Amsterdam</td><td>2026-09-28</td></tr>
 <tr><td>NatWest Group</td><td>Sustainable Finance Advisory Analyst</td><td>Amsterdam</td><td>2026-09-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkoopmedewerker - Gouda (26 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-09-28</td></tr>
 </table>
