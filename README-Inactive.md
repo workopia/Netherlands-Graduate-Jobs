@@ -1539,4 +1539,10 @@
 <tr><td>Ask Phill</td><td>Marketing &amp; Events Interninternshipamsterdam</td><td>Amsterdam</td><td>2026-09-28</td></tr>
 <tr><td>Workwize</td><td>Operations Intern</td><td>Amsterdam</td><td>2026-09-28</td></tr>
 <tr><td>diversey.cz</td><td>Service Technician Taski - Regio Amsterdam</td><td>Amsterdam</td><td>2026-09-28</td></tr>
+<tr><td>282</td><td>Data Analyst - Internship</td><td>Cedar</td><td>2026-09-28</td></tr>
+<tr><td>www.think-ing.de</td><td>Data Analyst - Internship</td><td>Cedar</td><td>2026-09-28</td></tr>
+<tr><td>itinfinance.nl</td><td>Data Analyst - Internship</td><td>Cedar</td><td>2026-09-28</td></tr>
+<tr><td>Unilever</td><td>Data Analyst</td><td>Brussels +1</td><td>2026-09-28</td></tr>
+<tr><td>Rbsfuel</td><td>Sustainable Finance Advisory Analyst</td><td>Amsterdam</td><td>2026-09-28</td></tr>
+<tr><td>NatWest Group</td><td>Sustainable Finance Advisory Analyst</td><td>Amsterdam</td><td>2026-09-28</td></tr>
 </table>
