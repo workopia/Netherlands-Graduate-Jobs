@@ -1546,4 +1546,14 @@
 <tr><td>Rbsfuel</td><td>Sustainable Finance Advisory Analyst</td><td>Amsterdam</td><td>2026-09-28</td></tr>
 <tr><td>NatWest Group</td><td>Sustainable Finance Advisory Analyst</td><td>Amsterdam</td><td>2026-09-28</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Verkoopmedewerker - Gouda (26 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-09-28</td></tr>
+<tr><td>essity.de</td><td>Stagiaire</td><td>Arnhem</td><td>2026-09-29</td></tr>
+<tr><td>Online Department</td><td>Ux (afstudeer)stagerotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-09-29</td></tr>
+<tr><td>220</td><td>Data Scientist</td><td>Amsterdam</td><td>2026-09-29</td></tr>
+<tr><td>Carat Australia</td><td>Data Scientist</td><td>Amsterdam</td><td>2026-09-29</td></tr>
+<tr><td>dentsucareer.se</td><td>Data Scientist</td><td>Amsterdam</td><td>2026-09-29</td></tr>
+<tr><td>Dentsusports</td><td>Data Scientist</td><td>Amsterdam</td><td>2026-09-29</td></tr>
+<tr><td>282</td><td>Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe</td><td>Haarlerbergpark</td><td>2026-09-29</td></tr>
+<tr><td>ING</td><td>Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe</td><td>Haarlerbergpark</td><td>2026-09-29</td></tr>
+<tr><td>itinfinance.nl</td><td>Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe</td><td>Haarlerbergpark</td><td>2026-09-29</td></tr>
+<tr><td>ING Group</td><td>Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe</td><td>Haarlerbergpark</td><td>2026-09-29</td></tr>
 </table>
