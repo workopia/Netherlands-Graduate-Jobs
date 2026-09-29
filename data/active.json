@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-29",
- "count": 343,
+ "count": 342,
  "jobs": {
   "86062": {
    "id": "86062",
@@ -948,12 +948,6 @@
    "id": "532d33173ca26af55cb15cb6a8e4a42c",
    "company": "Burbankbank",
    "role": "Analyst Regulatory Reporting",
-   "location": "Amsterdam"
-  },
-  "15bf663240ed9d84f4e7eee04a0267f2": {
-   "id": "15bf663240ed9d84f4e7eee04a0267f2",
-   "company": "WibitCS",
-   "role": "Power Platform Developer / Business Analyst",
    "location": "Amsterdam"
   },
   "09d1b22a0d0f49387d89ec237a81b11b": {

@@ -1557,4 +1557,5 @@
 <tr><td>itinfinance.nl</td><td>Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe</td><td>Haarlerbergpark</td><td>2026-09-29</td></tr>
 <tr><td>ING Group</td><td>Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe</td><td>Haarlerbergpark</td><td>2026-09-29</td></tr>
 <tr><td>Jobgether</td><td>Contract Business Analyst</td><td>Netherlands</td><td>2026-09-29</td></tr>
+<tr><td>WibitCS</td><td>Power Platform Developer / Business Analyst</td><td>Amsterdam</td><td>2026-09-29</td></tr>
 </table>

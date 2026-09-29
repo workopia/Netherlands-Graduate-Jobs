@@ -13,7 +13,7 @@
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 3526,
-  "generated_at": "2026-09-29T06:58:02.850Z"
+  "generated_at": "2026-09-29T10:25:40.763Z"
  },
  "categories": [
   {
@@ -2621,23 +2621,6 @@
    "date_posted": "2026-08-07T13:08:49.318Z",
    "active": true,
    "url": "https://workopia.io/jobs/532d33173ca26af55cb15cb6a8e4a42c",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "15bf663240ed9d84f4e7eee04a0267f2",
-   "source": "Workopia",
-   "company_name": "WibitCS",
-   "company_hi_slug": "wibitcs",
-   "title": "Power Platform Developer / Business Analyst",
-   "location": "Amsterdam",
-   "skills": "Power Platform solutio, Power Apps Canvas Apps",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-31T10:18:47.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/15bf663240ed9d84f4e7eee04a0267f2",
    "category": "finance",
    "tier": "Entry-level"
   },
