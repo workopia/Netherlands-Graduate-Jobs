@@ -13,7 +13,7 @@
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 3526,
-  "generated_at": "2026-09-29T01:05:33.632Z"
+  "generated_at": "2026-09-29T06:58:02.850Z"
  },
  "categories": [
   {
@@ -2638,23 +2638,6 @@
    "date_posted": "2026-07-31T10:18:47.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/15bf663240ed9d84f4e7eee04a0267f2",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "706972112370faf4a417a1c400f309fd",
-   "source": "Workopia",
-   "company_name": "Jobgether",
-   "company_hi_slug": "jobgether",
-   "title": "Contract Business Analyst",
-   "location": "Netherlands",
-   "skills": "Digital transformation, Technical requirements",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-31T05:42:19.242Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/706972112370faf4a417a1c400f309fd",
    "category": "finance",
    "tier": "Entry-level"
   },
