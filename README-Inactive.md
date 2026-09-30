@@ -1558,4 +1558,26 @@
 <tr><td>ING Group</td><td>Business Analyst / Core Accounting Capability - Transformation / Coof / Financial Accounting Tribe</td><td>Haarlerbergpark</td><td>2026-09-29</td></tr>
 <tr><td>Jobgether</td><td>Contract Business Analyst</td><td>Netherlands</td><td>2026-09-29</td></tr>
 <tr><td>WibitCS</td><td>Power Platform Developer / Business Analyst</td><td>Amsterdam</td><td>2026-09-29</td></tr>
+<tr><td>Henkel</td><td>Intern Capital Project Management Excellence</td><td>Amsterdam</td><td>2026-09-30</td></tr>
+<tr><td>Henkel</td><td>Intern Strategy & Pmo - Operations & Supply Chain</td><td>Amsterdam</td><td>2026-09-30</td></tr>
+<tr><td>Blue10</td><td>(afstudeer-) Stage</td><td>Alphen Aan Den Rijn</td><td>2026-09-30</td></tr>
+<tr><td>Men's Wearhouse</td><td>Controlling Intern</td><td>Eindhoven</td><td>2026-09-30</td></tr>
+<tr><td>Action</td><td>Stagiair(e) Marketing Crm / E-mail / Marketing Automation</td><td>Netherlands</td><td>2026-09-30</td></tr>
+<tr><td>ING</td><td>Internship Wholesale Banking Finance - Analytics & Strategic Steering</td><td>Cedar)</td><td>2026-09-30</td></tr>
+<tr><td>JYSK</td><td>Stage Retail</td><td>Alphen Aan Den Rijn</td><td>2026-09-30</td></tr>
+<tr><td>workday.gea</td><td>Intern Learning Systems</td><td>S Hertogenbosch</td><td>2026-09-30</td></tr>
+<tr><td>Hogan Lovells</td><td>Werkstudent Tax</td><td>Amsterdam</td><td>2026-09-30</td></tr>
+<tr><td>Kraft Heinz</td><td>Sales Superunie Intern</td><td>Amsterdam</td><td>2026-09-30</td></tr>
+<tr><td>Kraft Heinz</td><td>Hr (communications) Intern</td><td>Amsterdam</td><td>2026-09-30</td></tr>
+<tr><td>kaiserkraft.pt</td><td>Hr & Ta Intern</td><td>Amsterdam</td><td>2026-09-30</td></tr>
+<tr><td>Kraft Heinz</td><td>Law Intern</td><td>Amsterdam</td><td>2026-09-30</td></tr>
+<tr><td>kaiserkraft.pt</td><td>Afh Marketing Intern</td><td>Amsterdam</td><td>2026-09-30</td></tr>
+<tr><td>Bayer</td><td>Hr Stagiair(e)</td><td>Alphen Aan Den Rijn</td><td>2026-09-30</td></tr>
+<tr><td>Nouryon</td><td>Intern Project Management Office</td><td>Amsterdam</td><td>2026-09-30</td></tr>
+<tr><td>Nouryon</td><td>R&d Internship</td><td>Alphen Aan Den Rijn</td><td>2026-09-30</td></tr>
+<tr><td>IMC Trading</td><td>2027 Eu Chess Academy - Expression Of Interest</td><td>Amsterdam</td><td>2026-09-30</td></tr>
+<tr><td>39med</td><td>Stagiair – Hbo/wo - Asset Management & Improvement</td><td>North Brabant</td><td>2026-09-30</td></tr>
+<tr><td>Vetamc</td><td>Stagiair – Hbo/wo - Asset Management & Improvement</td><td>North Brabant</td><td>2026-09-30</td></tr>
+<tr><td>Mars Australia</td><td>Shift Technician (mechanisch)</td><td>Oud-Beijerland</td><td>2026-09-30</td></tr>
+<tr><td>Alstom</td><td>Mechatronica Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-30</td></tr>
 </table>
