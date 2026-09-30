@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-30",
- "count": 343,
+ "count": 342,
  "jobs": {
   "86062": {
    "id": "86062",
@@ -714,12 +714,6 @@
    "id": "902c5040c37a20b3a81fe39c5e74ff41",
    "company": "Nestle SA",
    "role": "Masterdata Analyst",
-   "location": "Amsterdam"
-  },
-  "df5a9f8efa1159ed2f769758b5c5af12": {
-   "id": "df5a9f8efa1159ed2f769758b5c5af12",
-   "company": "Avanade",
-   "role": "Analyst, Data & Ai",
    "location": "Amsterdam"
   },
   "46987d1bc16759e68828782aa6069248": {

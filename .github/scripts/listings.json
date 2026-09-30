@@ -12,8 +12,8 @@
   "as_of": "2026-09-30",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 3537,
-  "generated_at": "2026-09-30T10:25:58.536Z"
+  "country_live_total": 3530,
+  "generated_at": "2026-09-30T13:18:54.996Z"
  },
  "categories": [
   {
@@ -1941,23 +1941,6 @@
    "date_posted": "2026-08-02T11:04:21.327Z",
    "active": true,
    "url": "https://workopia.io/jobs/902c5040c37a20b3a81fe39c5e74ff41",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "df5a9f8efa1159ed2f769758b5c5af12",
-   "source": "Workopia",
-   "company_name": "Avanade",
-   "company_hi_slug": "avanade",
-   "title": "Analyst, Data & Ai",
-   "location": "Amsterdam",
-   "skills": "data analysis, artificial intelligenc",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-01T12:41:22.371Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/df5a9f8efa1159ed2f769758b5c5af12",
    "category": "data",
    "tier": "Entry-level"
   },

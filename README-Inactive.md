@@ -1580,4 +1580,5 @@
 <tr><td>Vetamc</td><td>Stagiair – Hbo/wo - Asset Management & Improvement</td><td>North Brabant</td><td>2026-09-30</td></tr>
 <tr><td>Mars Australia</td><td>Shift Technician (mechanisch)</td><td>Oud-Beijerland</td><td>2026-09-30</td></tr>
 <tr><td>Alstom</td><td>Mechatronica Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-30</td></tr>
+<tr><td>Avanade</td><td>Analyst, Data & Ai</td><td>Amsterdam</td><td>2026-09-30</td></tr>
 </table>
