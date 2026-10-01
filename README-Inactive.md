@@ -1581,4 +1581,9 @@
 <tr><td>Mars Australia</td><td>Shift Technician (mechanisch)</td><td>Oud-Beijerland</td><td>2026-09-30</td></tr>
 <tr><td>Alstom</td><td>Mechatronica Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-09-30</td></tr>
 <tr><td>Avanade</td><td>Analyst, Data & Ai</td><td>Amsterdam</td><td>2026-09-30</td></tr>
+<tr><td>Workwize</td><td>Data & Ai Intern (data Infrastructure And Ai-powered Automations Focus) / Amsterdam Hybrid</td><td>Amsterdam</td><td>2026-10-01</td></tr>
+<tr><td>Ses Group</td><td>Intern Corporate Marketing</td><td>Alphen Aan Den Rijn</td><td>2026-10-01</td></tr>
+<tr><td>Signify</td><td>Ai & Classic Search Expert Intern</td><td>Amsterdam</td><td>2026-10-01</td></tr>
+<tr><td>Signify</td><td>Global Marketing Excellence & Capability Building Intern</td><td>Amsterdam</td><td>2026-10-01</td></tr>
+<tr><td>Carrier</td><td>Field Service Technician - Carrier Rental</td><td>Netherlands</td><td>2026-10-01</td></tr>
 </table>

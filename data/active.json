@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-30",
- "count": 342,
+ "asOf": "2026-10-01",
+ "count": 343,
  "jobs": {
   "86062": {
    "id": "86062",
@@ -108,6 +108,36 @@
    "id": "2761986",
    "company": "Hotel TwentySeven",
    "role": "Stagiair(e) Butler",
+   "location": "Amsterdam"
+  },
+  "6f89c7757c68846a2e22d1262c1028b8": {
+   "id": "6f89c7757c68846a2e22d1262c1028b8",
+   "company": "282",
+   "role": "Internship - Monte Carlo Models For Counterparty Credit Risk",
+   "location": "Cedar"
+  },
+  "592628ea0ef3afd1040d9b20341e822b": {
+   "id": "592628ea0ef3afd1040d9b20341e822b",
+   "company": "Vanderlande UK",
+   "role": "Internship: Ai-powered Assistant Within Warehouse Execution Systems",
+   "location": "S Hertogenbosch"
+  },
+  "dd6b2a9778be708b2596c9cb6348daf4": {
+   "id": "dd6b2a9778be708b2596c9cb6348daf4",
+   "company": "Vanderlande UK",
+   "role": "Internship: Java Performance Optimization In Microservices",
+   "location": "S Hertogenbosch"
+  },
+  "96e588c6be784830c9366d512b88d492": {
+   "id": "96e588c6be784830c9366d512b88d492",
+   "company": "Danone",
+   "role": "Internship: Sustainability - Specialized Nutrition",
+   "location": "Amsterdam"
+  },
+  "10eeeae06e2c40269e69103d82a05f70": {
+   "id": "10eeeae06e2c40269e69103d82a05f70",
+   "company": "Coty",
+   "role": "People Analytics & Total Rewards Intern",
    "location": "Amsterdam"
   },
   "9833bf99c153eb590ed1d215e6a79a03": {
@@ -392,12 +422,6 @@
    "role": "Hse Internship",
    "location": "Arnhem"
   },
-  "10eeeae06e2c40269e69103d82a05f70": {
-   "id": "10eeeae06e2c40269e69103d82a05f70",
-   "company": "Coty",
-   "role": "People Analytics & Total Rewards Intern",
-   "location": "Amsterdam"
-  },
   "da540db09ceb05ef80568960fc2758b6": {
    "id": "da540db09ceb05ef80568960fc2758b6",
    "company": "Hilton Worldwide",
@@ -516,30 +540,6 @@
    "id": "200c48ffb463143d0c38211c1a359532",
    "company": "Under Armour",
    "role": "Intern, Digital Marketplace - Rookie Program 2026",
-   "location": "Amsterdam"
-  },
-  "6a0293f3d84d2dae87abe03c6dedb6a7": {
-   "id": "6a0293f3d84d2dae87abe03c6dedb6a7",
-   "company": "Workwize",
-   "role": "Data & Ai Intern (data Infrastructure And Ai-powered Automations Focus) / Amsterdam Hybrid",
-   "location": "Amsterdam"
-  },
-  "19b9e73c57cc59428a0851259c699cd4": {
-   "id": "19b9e73c57cc59428a0851259c699cd4",
-   "company": "Ses Group",
-   "role": "Intern Corporate Marketing",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "fc0ed90bfd1998b2fef66ac564d7441f": {
-   "id": "fc0ed90bfd1998b2fef66ac564d7441f",
-   "company": "Signify",
-   "role": "Ai & Classic Search Expert Intern",
-   "location": "Amsterdam"
-  },
-  "524c891575f1615c6d6632c2dc2516c7": {
-   "id": "524c891575f1615c6d6632c2dc2516c7",
-   "company": "Signify",
-   "role": "Global Marketing Excellence & Capability Building Intern",
    "location": "Amsterdam"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
@@ -740,6 +740,12 @@
    "role": "Internship Debt Capital Markets – Ig Corporate Origination",
    "location": "Amsterdam"
   },
+  "8d726848ea70463e51bd18f6947e1eb0": {
+   "id": "8d726848ea70463e51bd18f6947e1eb0",
+   "company": "Jobgether",
+   "role": "Powerpoint Contributor - Consulting And Strategy",
+   "location": "Netherlands"
+  },
   "f9c62b429e8a934826dbf0d8ef6c0d92": {
    "id": "f9c62b429e8a934826dbf0d8ef6c0d92",
    "company": "Jobgether",
@@ -938,6 +944,18 @@
    "role": "Analyst Regulatory Reporting",
    "location": "Amsterdam"
   },
+  "b1b745df8899ebcd6ba0b9e447253aac": {
+   "id": "b1b745df8899ebcd6ba0b9e447253aac",
+   "company": "Michael Kors",
+   "role": "Maintenance Mechanic",
+   "location": "Venlo"
+  },
+  "dece2cbbc71cd25d5812d767092dccec": {
+   "id": "dece2cbbc71cd25d5812d767092dccec",
+   "company": "Yunex Traffic",
+   "role": "Service Engineer",
+   "location": "Alphen Aan Den Rijn"
+  },
   "838fb17e6acd0c5968eb115698f0544e": {
    "id": "838fb17e6acd0c5968eb115698f0544e",
    "company": "JBT Marel",
@@ -1068,12 +1086,6 @@
    "id": "545fabf87befdb4a445b092d5f4d6a57",
    "company": "Istimewa Elektro BV",
    "role": "Servicetechnicus (technicus E&i A)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "dece2cbbc71cd25d5812d767092dccec": {
-   "id": "dece2cbbc71cd25d5812d767092dccec",
-   "company": "Yunex Traffic",
-   "role": "Service Engineer",
    "location": "Alphen Aan Den Rijn"
   },
   "f06167cba506c3215fa79ff24686c564": {
@@ -1404,12 +1416,6 @@
    "id": "49fe4543e72594fd35efc3fd4d716005",
    "company": "Carrier",
    "role": "Service Engineer In Eigen Regio In Nederland - Carrier Hvac",
-   "location": "Netherlands"
-  },
-  "26061d3e7a6b87fd9b74b0d2e3a73616": {
-   "id": "26061d3e7a6b87fd9b74b0d2e3a73616",
-   "company": "Carrier",
-   "role": "Field Service Technician - Carrier Rental",
    "location": "Netherlands"
   },
   "9c204591f417cd3b77ad8cacea7aeef9": {
