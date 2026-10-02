@@ -1586,4 +1586,21 @@
 <tr><td>Signify</td><td>Ai & Classic Search Expert Intern</td><td>Amsterdam</td><td>2026-10-01</td></tr>
 <tr><td>Signify</td><td>Global Marketing Excellence & Capability Building Intern</td><td>Amsterdam</td><td>2026-10-01</td></tr>
 <tr><td>Carrier</td><td>Field Service Technician - Carrier Rental</td><td>Netherlands</td><td>2026-10-01</td></tr>
+<tr><td>Philips</td><td>Data Analytics Graduate Internship</td><td>Amsterdam</td><td>2026-10-02</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: It Infrastructure & Systems</td><td>S Hertogenbosch</td><td>2026-10-02</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Finance Process Automation & Ai</td><td>S Hertogenbosch</td><td>2026-10-02</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Finance And Accounting</td><td>S Hertogenbosch</td><td>2026-10-02</td></tr>
+<tr><td>ING</td><td>Internship Transition Accelerator</td><td>Amsterdam</td><td>2026-10-02</td></tr>
+<tr><td>Perfetti Van Melle ICT B.V</td><td>Stage It</td><td>Breda</td><td>2026-10-02</td></tr>
+<tr><td>Perfetti Van Melle ICT B.V</td><td>Internship Digital Content Marketing - Amsterdam Location</td><td>Amsterdam</td><td>2026-10-02</td></tr>
+<tr><td>CYBEX GmbH</td><td>Intern Marketing Netherlands (m/f/d)</td><td>Amsterdam</td><td>2026-10-02</td></tr>
+<tr><td>Stichd</td><td>Intern Legal</td><td>Netherlands</td><td>2026-10-02</td></tr>
+<tr><td>Halfspace ApS</td><td>Werkstudent – Technology, Strategy And Transformation Internship</td><td>Amsterdam</td><td>2026-10-02</td></tr>
+<tr><td>Signify</td><td>Cti Intern</td><td>Eindhoven</td><td>2026-10-02</td></tr>
+<tr><td>Danone</td><td>Commercial Excellence Intern</td><td>Alphen Aan Den Rijn</td><td>2026-10-02</td></tr>
+<tr><td>Under Armour</td><td>Intern, Digital Marketplace - Rookie Program 2026</td><td>Amsterdam</td><td>2026-10-02</td></tr>
+<tr><td>Nestle SA</td><td>Masterdata Analyst</td><td>Amsterdam</td><td>2026-10-02</td></tr>
+<tr><td>JCI</td><td>Fire Suppression Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-10-02</td></tr>
+<tr><td>Carrier</td><td>Service Engineer In Eigen Regio In Nederland - Carrier Hvac</td><td>Netherlands</td><td>2026-10-02</td></tr>
+<tr><td>NORNORM</td><td>Customer Team Coordinator - Benelux &amp; France</td><td>Amsterdam</td><td>2026-10-02</td></tr>
 </table>
