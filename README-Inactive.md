@@ -1646,4 +1646,32 @@
 <tr><td>Johnson Controls Inc</td><td>Fire Suppression Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-10-03</td></tr>
 <tr><td>Primark</td><td>Parttime Retail Assistant Rotterdam Forum</td><td>Alphen Aan Den Rijn</td><td>2026-10-03</td></tr>
 <tr><td>Primark</td><td>Parttime Retail Assistant Venlo</td><td>Venlo</td><td>2026-10-03</td></tr>
+<tr><td>Den Hartogh Liquid Logistics</td><td>Customer Service Coordinator Global</td><td>Alphen Aan Den Rijn</td><td>2026-10-04</td></tr>
+<tr><td>Stichting Kwadraad</td><td>Stagiair Hbo-communicatie - (16-32 Uur) - Gouda</td><td>Alphen Aan Den Rijn</td><td>2026-10-04</td></tr>
+<tr><td>Vincent van Gogh Instituut</td><td>Masterstage Psychologie / Poli Heldr Nijmegen</td><td>Arnhem</td><td>2026-10-04</td></tr>
+<tr><td>vigogroep.nl</td><td>Masterstage Psychologie / Centrum Voor Korsakov</td><td>Venlo</td><td>2026-10-04</td></tr>
+<tr><td>Hotel TwentySeven</td><td>Stagiair(e) Reserveringen</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Hr Stagiair(e)</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>Hotel TwentySeven</td><td>Stagiair(e) Butler</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>Accenture Australia</td><td>Public Services Technology Internship</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>Grasslakeanimalhospital</td><td>Supply Chain Planning Internship (6 Months)</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>Lazard</td><td>2027 M&a Internship - Amsterdam</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>Philips</td><td>Internship: Global Service Operations Program Within Service Enablement Team</td><td>Eindhoven</td><td>2026-10-04</td></tr>
+<tr><td>Philips</td><td>Internship - Ai-powered Digital Daily Management For Quality Operations</td><td>Eindhoven</td><td>2026-10-04</td></tr>
+<tr><td>HAVI</td><td>Hr Stagiair</td><td>Amersfoort</td><td>2026-10-04</td></tr>
+<tr><td>Intelex</td><td>Service Intern</td><td>Eindhoven</td><td>2026-10-04</td></tr>
+<tr><td>ema</td><td>Trainee (refining Regulatory Intelligence On Not-for-profit Medicine Developments)</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>Ses Group</td><td>Intern, Spectrum Management And Strategy</td><td>Alphen Aan Den Rijn</td><td>2026-10-04</td></tr>
+<tr><td>Shell plc</td><td>Shell Assessed Internship Programme 2027 - Netherlands</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>Philips Healthcare</td><td>Internship: Marketing & Marketing Communication</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>Philips Healthcare</td><td>Internship: Philips Communications & Brand</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>Philips Healthcare</td><td>Internship: Content And Engagement (bachelor, Non-thesis)</td><td>Eindhoven</td><td>2026-10-04</td></tr>
+<tr><td>Philips Healthcare</td><td>Internship: Audit, Risk & Compliance Operations Analyst (non-thesis)</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>Philips Healthcare</td><td>Internship: Esg/csrd Reporting (hr, Non-thesis)</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>100</td><td>E&i Maintenance Technician</td><td>Pernis</td><td>2026-10-04</td></tr>
+<tr><td>Inotiv</td><td>Onderhoudstechnicus</td><td>Venlo</td><td>2026-10-04</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 31h</td><td>Alphen Aan Den Rijn</td><td>2026-10-04</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 31h</td><td>Alphen Aan Den Rijn</td><td>2026-10-04</td></tr>
+<tr><td>JYSK</td><td>Bijbaan Verkoopmedewerker</td><td>Alphen Aan Den Rijn</td><td>2026-10-04</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 5-12h</td><td>Amsterdam</td><td>2026-10-04</td></tr>
 </table>
