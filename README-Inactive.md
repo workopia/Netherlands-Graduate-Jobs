@@ -1674,4 +1674,14 @@
 <tr><td>H&M</td><td>Sales Advisor 31h</td><td>Alphen Aan Den Rijn</td><td>2026-10-04</td></tr>
 <tr><td>JYSK</td><td>Bijbaan Verkoopmedewerker</td><td>Alphen Aan Den Rijn</td><td>2026-10-04</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 5-12h</td><td>Amsterdam</td><td>2026-10-04</td></tr>
+<tr><td>282</td><td>Internship Transaction Services/trade Finance Services</td><td>Amsterdam</td><td>2026-10-05</td></tr>
+<tr><td>Boots Apotheek</td><td>Bol-stagiaire Boots Apotheek</td><td>Waterland</td><td>2026-10-05</td></tr>
+<tr><td>Men's Wearhouse</td><td>Controlling Intern</td><td>Eindhoven</td><td>2026-10-05</td></tr>
+<tr><td>Accenture Australia</td><td>Health Technology Internship</td><td>Amsterdam</td><td>2026-10-05</td></tr>
+<tr><td>Accenture Australia</td><td>Health Strategy & Consulting Internship</td><td>Amsterdam</td><td>2026-10-05</td></tr>
+<tr><td>Accenture Australia</td><td>Public Services Strategy & Consulting Internship</td><td>Amsterdam</td><td>2026-10-05</td></tr>
+<tr><td>Swiss Life</td><td>Data Analyst Benelux</td><td>The Netherlands</td><td>2026-10-05</td></tr>
+<tr><td>AGGREKO</td><td>Installatie- En Service Monteur Power (buitendienst, Randstad)</td><td>Netherlands</td><td>2026-10-05</td></tr>
+<tr><td>Nespresso</td><td>Verkoopmedewerker Nespresso Amstelveen Stadshart</td><td>Amsterdam</td><td>2026-10-05</td></tr>
+<tr><td>Primark</td><td>Parttime Retail Assistant Eindhoven</td><td>Eindhoven</td><td>2026-10-05</td></tr>
 </table>
