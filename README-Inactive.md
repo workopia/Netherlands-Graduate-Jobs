@@ -1684,4 +1684,18 @@
 <tr><td>AGGREKO</td><td>Installatie- En Service Monteur Power (buitendienst, Randstad)</td><td>Netherlands</td><td>2026-10-05</td></tr>
 <tr><td>Nespresso</td><td>Verkoopmedewerker Nespresso Amstelveen Stadshart</td><td>Amsterdam</td><td>2026-10-05</td></tr>
 <tr><td>Primark</td><td>Parttime Retail Assistant Eindhoven</td><td>Eindhoven</td><td>2026-10-05</td></tr>
+<tr><td>Flagship Amsterdam</td><td>Monteur Technische Dienst In Amsterdam</td><td>Amsterdam</td><td>2026-10-06</td></tr>
+<tr><td>Budget Thuis</td><td>Kwaliteitsanalist</td><td>Amsterdam</td><td>2026-10-06</td></tr>
+<tr><td>ABB Ltd</td><td>Stagiaire Technische Dienst</td><td>Alphen Aan Den Rijn</td><td>2026-10-06</td></tr>
+<tr><td>ABB Ltd</td><td>Stagiaire Moulding</td><td>Alphen Aan Den Rijn</td><td>2026-10-06</td></tr>
+<tr><td>Philips</td><td>Intern Service Enablement Team</td><td>Eindhoven</td><td>2026-10-06</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Boutique Assistant Intern</td><td>Amsterdam</td><td>2026-10-06</td></tr>
+<tr><td>Kraft Heinz</td><td>Intern Marketing Meals</td><td>Amsterdam</td><td>2026-10-06</td></tr>
+<tr><td>Pratt Miller</td><td>Purchasing Data Analytics Intern - Npd</td><td>Amsterdam</td><td>2026-10-06</td></tr>
+<tr><td>Bynder</td><td>Customer Analytics Internship</td><td>Amsterdam</td><td>2026-10-06</td></tr>
+<tr><td>Jones Lang Lasalle Ip Inc</td><td>Facility Technician</td><td>Alphen Aan Den Rijn</td><td>2026-10-06</td></tr>
+<tr><td>Jll Com Au</td><td>Facility Technician</td><td>Alphen Aan Den Rijn</td><td>2026-10-06</td></tr>
+<tr><td>VistaCreate</td><td>Maintenance Technician X3</td><td>Venlo</td><td>2026-10-06</td></tr>
+<tr><td>AGGREKO</td><td>Installatie- En Service Monteur - Elektrotechnisch (buitendienst, Randstad)</td><td>Randstad</td><td>2026-10-06</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 21h</td><td>Amsterdam</td><td>2026-10-06</td></tr>
 </table>

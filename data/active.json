@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-05",
- "count": 343,
+ "asOf": "2026-10-06",
+ "count": 340,
  "jobs": {
   "86062": {
    "id": "86062",
@@ -8,23 +8,11 @@
    "role": "Administration Assistant",
    "location": "Scheemda"
   },
-  "2632449": {
-   "id": "2632449",
-   "company": "Flagship Amsterdam",
-   "role": "Monteur Technische Dienst In Amsterdam",
-   "location": "Amsterdam"
-  },
   "2680765": {
    "id": "2680765",
    "company": "Amarosa",
    "role": "Managementassistent 32 Uur",
    "location": "Alphen Aan Den Rijn"
-  },
-  "2702025": {
-   "id": "2702025",
-   "company": "Budget Thuis",
-   "role": "Kwaliteitsanalist",
-   "location": "Amsterdam"
   },
   "2705198": {
    "id": "2705198",
@@ -55,6 +43,36 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "29dc173b0d69cab7f95435cbadfe05b6": {
+   "id": "29dc173b0d69cab7f95435cbadfe05b6",
+   "company": "NXP USA INC.",
+   "role": "Internship – Product Engineering (ml Model Development)",
+   "location": "Arnhem"
+  },
+  "db3f3e2a9e568d09047122e1f5942013": {
+   "id": "db3f3e2a9e568d09047122e1f5942013",
+   "company": "NXP Semiconductors",
+   "role": "Phd Internship",
+   "location": "Eindhoven"
+  },
+  "744ec18079dafef6d38c275e812fb89e": {
+   "id": "744ec18079dafef6d38c275e812fb89e",
+   "company": "IDEXX Laboratories Inc",
+   "role": "People Operations & Global Mobility Intern",
+   "location": "Amsterdam"
+  },
+  "6aaec9ee2f338a982c71dce7d30eba48": {
+   "id": "6aaec9ee2f338a982c71dce7d30eba48",
+   "company": "IDEXX Laboratories Inc",
+   "role": "Employee Marketing & Internal Communications Intern",
+   "location": "Amsterdam"
+  },
+  "36c5c41b9343fd1796d21c13bb029d6b": {
+   "id": "36c5c41b9343fd1796d21c13bb029d6b",
+   "company": "Ferrero LADM",
+   "role": "Internship - Assistant Trade Marketing Nl (5 Months, February - June)",
+   "location": "Netherlands"
   },
   "877a99728c30581da1d5fd08347f5e10": {
    "id": "877a99728c30581da1d5fd08347f5e10",
@@ -506,36 +524,6 @@
    "role": "People Analytics & Total Rewards Intern",
    "location": "Amsterdam"
   },
-  "5e91669a466d6b890d6ea913ae3c6b37": {
-   "id": "5e91669a466d6b890d6ea913ae3c6b37",
-   "company": "ABB Ltd",
-   "role": "Stagiaire Technische Dienst",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "f056a955e2424f80c0086ff55e5d19b5": {
-   "id": "f056a955e2424f80c0086ff55e5d19b5",
-   "company": "ABB Ltd",
-   "role": "Stagiaire Moulding",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "9833bf99c153eb590ed1d215e6a79a03": {
-   "id": "9833bf99c153eb590ed1d215e6a79a03",
-   "company": "Philips",
-   "role": "Intern Service Enablement Team",
-   "location": "Eindhoven"
-  },
-  "590656879d69df171677296b990a35dc": {
-   "id": "590656879d69df171677296b990a35dc",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Boutique Assistant Intern",
-   "location": "Amsterdam"
-  },
-  "f16e18de4a7c4bd5a1513da4ffa49d5b": {
-   "id": "f16e18de4a7c4bd5a1513da4ffa49d5b",
-   "company": "Kraft Heinz",
-   "role": "Intern Marketing Meals",
-   "location": "Amsterdam"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -618,18 +606,6 @@
    "id": "6912eec3081bb2a78cb984b2924a4d40",
    "company": "Oliver Wyman",
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "b15bcf2c1863e27c7aa7596384d29ab8": {
-   "id": "b15bcf2c1863e27c7aa7596384d29ab8",
-   "company": "Pratt Miller",
-   "role": "Purchasing Data Analytics Intern - Npd",
-   "location": "Amsterdam"
-  },
-  "677399a2924d92f13e7097bd92289643": {
-   "id": "677399a2924d92f13e7097bd92289643",
-   "company": "Bynder",
-   "role": "Customer Analytics Internship",
    "location": "Amsterdam"
   },
   "50c008e0f8135b4df6d9b645088075d6": {
@@ -943,6 +919,36 @@
    "company": "Burbankbank",
    "role": "Analyst Regulatory Reporting",
    "location": "Amsterdam"
+  },
+  "6966d9d8a4d3917e54d6cb1e18c310b7": {
+   "id": "6966d9d8a4d3917e54d6cb1e18c310b7",
+   "company": "De Jong Verpakking",
+   "role": "Allround Servicemonteur",
+   "location": "Den Hoorn"
+  },
+  "a09d3e6239e3ba27bd503eca094b6cfd": {
+   "id": "a09d3e6239e3ba27bd503eca094b6cfd",
+   "company": "Outokumpu Oyj",
+   "role": "Mechanical Technician",
+   "location": "Westdorpe"
+  },
+  "85d72453a430e4bd0714d9132b15b605": {
+   "id": "85d72453a430e4bd0714d9132b15b605",
+   "company": "Mt",
+   "role": "Trainee Field Service Technicus (noord-holland)",
+   "location": "Noord-Holland"
+  },
+  "79282622a3c86825c38efebc2cf085d3": {
+   "id": "79282622a3c86825c38efebc2cf085d3",
+   "company": "Mt",
+   "role": "Trainee Field Service Technician Noord-holland",
+   "location": "Noord-Holland"
+  },
+  "e6f4be3f09a399f6fe55fdee8c5f4aaf": {
+   "id": "e6f4be3f09a399f6fe55fdee8c5f4aaf",
+   "company": "Mt",
+   "role": "Technicus Met Rijbewijs C",
+   "location": "Unknown"
   },
   "75cdf40a922ddfe0077a6cf9033934bd": {
    "id": "75cdf40a922ddfe0077a6cf9033934bd",
@@ -1394,29 +1400,11 @@
    "role": "Service Monteur Liften Zuid-holland",
    "location": "Utrecht"
   },
-  "55399336fda38519dbdaf6b320608960": {
-   "id": "55399336fda38519dbdaf6b320608960",
-   "company": "Jones Lang Lasalle Ip Inc",
-   "role": "Facility Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "fa29ecd69ae9d34fe009dbd5c36237d3": {
-   "id": "fa29ecd69ae9d34fe009dbd5c36237d3",
-   "company": "Jll Com Au",
-   "role": "Facility Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "0b212e2a130a4dbf445077945e9ce750": {
-   "id": "0b212e2a130a4dbf445077945e9ce750",
-   "company": "VistaCreate",
-   "role": "Maintenance Technician X3",
-   "location": "Venlo"
-  },
-  "037d9300e8b85db3fd3e7a7367315b57": {
-   "id": "037d9300e8b85db3fd3e7a7367315b57",
-   "company": "AGGREKO",
-   "role": "Installatie- En Service Monteur - Elektrotechnisch (buitendienst, Randstad)",
-   "location": "Randstad"
+  "9ae2fc49cac3faf498a5989d5774a796": {
+   "id": "9ae2fc49cac3faf498a5989d5774a796",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Amsterdam Maison De Bonneterie (26 Uur)",
+   "location": "Amsterdam"
   },
   "f55685e99d9841c34a299169ab346e9d": {
    "id": "f55685e99d9841c34a299169ab346e9d",
@@ -1879,12 +1867,6 @@
    "company": "H&M",
    "role": "Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)",
    "location": "Alphen Aan Den Rijn"
-  },
-  "ce0ab5432babfa68a3e2dd02d4581c63": {
-   "id": "ce0ab5432babfa68a3e2dd02d4581c63",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Sales Advisor 21h",
-   "location": "Amsterdam"
   },
   "2724c64125b2e8ecfa8655db5febc40e": {
    "id": "2724c64125b2e8ecfa8655db5febc40e",
