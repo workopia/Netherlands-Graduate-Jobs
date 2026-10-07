@@ -1698,4 +1698,28 @@
 <tr><td>VistaCreate</td><td>Maintenance Technician X3</td><td>Venlo</td><td>2026-10-06</td></tr>
 <tr><td>AGGREKO</td><td>Installatie- En Service Monteur - Elektrotechnisch (buitendienst, Randstad)</td><td>Randstad</td><td>2026-10-06</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 21h</td><td>Amsterdam</td><td>2026-10-06</td></tr>
+<tr><td>NN Advocaten</td><td>Wo Student-stagiar Bij Nn Advocaten</td><td>Alphen Aan Den Rijn</td><td>2026-10-07</td></tr>
+<tr><td>NN Group</td><td>Mbo/hbo Meewerkstage Schadebehandelaar Motorrijtuigen Buitenland</td><td>Alphen Aan Den Rijn</td><td>2026-10-07</td></tr>
+<tr><td>NN Group</td><td>Mbo Stagiair(e) Allround Medewerker Av-productie - Events & Hospitality</td><td>Alphen Aan Den Rijn</td><td>2026-10-07</td></tr>
+<tr><td>NN Group</td><td>Hbo Meewerkstage Klantteam Individueel Pensioen</td><td>Alphen Aan Den Rijn</td><td>2026-10-07</td></tr>
+<tr><td>NN Group</td><td>Hbo Meewerkstage Stagebureau - Traineeship</td><td>Alphen Aan Den Rijn</td><td>2026-10-07</td></tr>
+<tr><td>MOOOI B.V</td><td>Graphic Design Internfull-timebrand / Marketing</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>Freshfields</td><td>Student-stage - Finance</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>Freshfields</td><td>Student-stage - Dispute Resolution</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>Freshfields</td><td>Student-stage - Ip/it</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>Freshfields</td><td>Student-stage - Restructuring & Insolvency</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>Freshfields</td><td>Student-stage - People & Reward</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>Freshfields Bruckhaus Deringer</td><td>Student-stage - Corporate</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>HAVI</td><td>Hr Stagiair</td><td>Amersfoort</td><td>2026-10-07</td></tr>
+<tr><td>Action</td><td>Stagiair(e) Marketing Crm / E-mail / Marketing Automation</td><td>Netherlands</td><td>2026-10-07</td></tr>
+<tr><td>Rothschild & Co</td><td>Long Term Internship - Dutch Coverage Team - 2027</td><td>London +1</td><td>2026-10-07</td></tr>
+<tr><td>Deutsche Bank</td><td>O&a Benelux Coverage Seasonal Intern (f/m/x)</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>Google</td><td>Legal Trainee (fixed-term Contract) (english, Dutch)</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>282</td><td>Internship - Monte Carlo Models For Counterparty Credit Risk</td><td>Cedar</td><td>2026-10-07</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Ai-powered Assistant Within Warehouse Execution Systems</td><td>S Hertogenbosch</td><td>2026-10-07</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Java Performance Optimization In Microservices</td><td>S Hertogenbosch</td><td>2026-10-07</td></tr>
+<tr><td>Danone</td><td>Internship: Sustainability - Specialized Nutrition</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>Coty</td><td>People Analytics & Total Rewards Intern</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>Burbankbank</td><td>Analyst Regulatory Reporting</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 26h</td><td>Amsterdam</td><td>2026-10-07</td></tr>
 </table>

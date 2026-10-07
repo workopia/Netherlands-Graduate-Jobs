@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-06",
- "count": 340,
+ "asOf": "2026-10-07",
+ "count": 343,
  "jobs": {
   "86062": {
    "id": "86062",
@@ -44,6 +44,114 @@
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
   },
+  "05ce0cade5a72156dfee47cbb9581296": {
+   "id": "05ce0cade5a72156dfee47cbb9581296",
+   "company": "KraftHeinz",
+   "role": "Sales Finance Intern",
+   "location": "Amsterdam"
+  },
+  "4805f9f3e04aa1009d98e3999da05147": {
+   "id": "4805f9f3e04aa1009d98e3999da05147",
+   "company": "Heineken International BV",
+   "role": "Internship - Global Health & Safety Information Management & Digital Workplace",
+   "location": "Amsterdam"
+  },
+  "0e98819a098606dd4ef58e3fa23b42a0": {
+   "id": "0e98819a098606dd4ef58e3fa23b42a0",
+   "company": "ABB Ltd",
+   "role": "(graduation) Internship Treasury",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "cc8399a405663a2449ac5280a4982582": {
+   "id": "cc8399a405663a2449ac5280a4982582",
+   "company": "Hotel Chadstone Melbourne MGallery",
+   "role": "Food & Beverage Management Intern – Lotti’s",
+   "location": "Amsterdam"
+  },
+  "05d60e5cd8f57008339a0990b33761c0": {
+   "id": "05d60e5cd8f57008339a0990b33761c0",
+   "company": "Hotel Chadstone Melbourne MGallery",
+   "role": "Front Office Intern - The Hoxton, Amsterdam",
+   "location": "Amsterdam"
+  },
+  "2a681c0f2a39c45b7e16095a620b4076": {
+   "id": "2a681c0f2a39c45b7e16095a620b4076",
+   "company": "Hines",
+   "role": "Intern - Finance",
+   "location": "Amsterdam"
+  },
+  "dce8febddccdada09fb9cbdc68bd894a": {
+   "id": "dce8febddccdada09fb9cbdc68bd894a",
+   "company": "Bolton Group S.r.l",
+   "role": "Legal Intern",
+   "location": "Netherlands"
+  },
+  "a65a2ce6d2c0b8b3186cc4247ea291c5": {
+   "id": "a65a2ce6d2c0b8b3186cc4247ea291c5",
+   "company": "ICL ISRAEL Ltd",
+   "role": "Intern Gpo Indirect",
+   "location": "Amsterdam"
+  },
+  "8db75d8d60a749b1fc0f33c7aeb84f43": {
+   "id": "8db75d8d60a749b1fc0f33c7aeb84f43",
+   "company": "Vanderlande",
+   "role": "Internship: Designing A Unified, Scalable Planning Solution For The Global Distribution Service Desk",
+   "location": "S Hertogenbosch"
+  },
+  "283193268d5a3a797471751db94fdf3b": {
+   "id": "283193268d5a3a797471751db94fdf3b",
+   "company": "Vanderlande UK",
+   "role": "Internship: Designing A Unified, Scalable Planning Solution For The Global Distribution Service Desk",
+   "location": "S Hertogenbosch"
+  },
+  "aace78bba12c02847ab5ac7fd2f21c1e": {
+   "id": "aace78bba12c02847ab5ac7fd2f21c1e",
+   "company": "KraftHeinz",
+   "role": "Logistics Finance Intern",
+   "location": "Amsterdam"
+  },
+  "ff88a21d0f44b0c6a309d6358528062b": {
+   "id": "ff88a21d0f44b0c6a309d6358528062b",
+   "company": "unilever.es",
+   "role": "Internship '27: Digital Finance",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "b945413f0f11dd16a11255f60c2fb859": {
+   "id": "b945413f0f11dd16a11255f60c2fb859",
+   "company": "unilever.es",
+   "role": "Internship '27: Finance",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "c73644f2db8705d3f2845a9ec19d71ad": {
+   "id": "c73644f2db8705d3f2845a9ec19d71ad",
+   "company": "unilever.es",
+   "role": "Internship '27: Supply Chain And Operations",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "54fe235dc06f9961bbc615258f3d8c95": {
+   "id": "54fe235dc06f9961bbc615258f3d8c95",
+   "company": "unilever.es",
+   "role": "Internship '27: Sustainable Business And Communications",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "c98db3916533598a264fd8cf9e2c317c": {
+   "id": "c98db3916533598a264fd8cf9e2c317c",
+   "company": "Investmentbankinginternships",
+   "role": "Power Platform Intern",
+   "location": "Haarlerbergpark"
+  },
+  "82d7ffadd398a2cb26c518509a3744ca": {
+   "id": "82d7ffadd398a2cb26c518509a3744ca",
+   "company": "KraftHeinz",
+   "role": "Commercial Strategy Intern - Meals & Taste Elevation",
+   "location": "Amsterdam"
+  },
+  "d2be9b6e4a1c46971246ce53d477f24d": {
+   "id": "d2be9b6e4a1c46971246ce53d477f24d",
+   "company": "KraftHeinz",
+   "role": "Logistics & Inventory Intern",
+   "location": "Amsterdam"
+  },
   "29dc173b0d69cab7f95435cbadfe05b6": {
    "id": "29dc173b0d69cab7f95435cbadfe05b6",
    "company": "NXP USA INC.",
@@ -55,6 +163,30 @@
    "company": "NXP Semiconductors",
    "role": "Phd Internship",
    "location": "Eindhoven"
+  },
+  "038886d8ebddbe10f2f86c11261331c7": {
+   "id": "038886d8ebddbe10f2f86c11261331c7",
+   "company": "WPP Media Australia & New Zealand",
+   "role": "Stagiair(e) Digital Video & Audio Advertising",
+   "location": "Amsterdam"
+  },
+  "2059f415bf658da93320bd5edab996c2": {
+   "id": "2059f415bf658da93320bd5edab996c2",
+   "company": "WPP Media Australia & New Zealand",
+   "role": "Internship Digital Video & Audio Advertising",
+   "location": "Amsterdam"
+  },
+  "0fa046fccb9bbc373408e21abbdabdf7": {
+   "id": "0fa046fccb9bbc373408e21abbdabdf7",
+   "company": "AgriPlace B.V",
+   "role": "Content Marketing Internship (dutch Speaking) - Growing Impact Scale Up",
+   "location": "Amsterdam"
+  },
+  "59efcd594003b8d28d8a9d5c3a2056e4": {
+   "id": "59efcd594003b8d28d8a9d5c3a2056e4",
+   "company": "AgriPlace B.V",
+   "role": "Content Marketing Internship (german Speaking) - Growing Impact Scale Up",
+   "location": "Amsterdam"
   },
   "744ec18079dafef6d38c275e812fb89e": {
    "id": "744ec18079dafef6d38c275e812fb89e",
@@ -392,138 +524,6 @@
    "role": "Internship: Pricing",
    "location": "Alphen Aan Den Rijn"
   },
-  "b5c893e5abb5c14ecc3ed23deb1bc43b": {
-   "id": "b5c893e5abb5c14ecc3ed23deb1bc43b",
-   "company": "NN Advocaten",
-   "role": "Wo Student-stagiar Bij Nn Advocaten",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "50c3e2d96f6f009d01bb079e356ad657": {
-   "id": "50c3e2d96f6f009d01bb079e356ad657",
-   "company": "NN Group",
-   "role": "Mbo/hbo Meewerkstage Schadebehandelaar Motorrijtuigen Buitenland",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "abdd9dd1a29aca472fe3e49c63ccbb6b": {
-   "id": "abdd9dd1a29aca472fe3e49c63ccbb6b",
-   "company": "NN Group",
-   "role": "Mbo Stagiair(e) Allround Medewerker Av-productie - Events & Hospitality",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "95686cd4a133904dee2e9827693f74cc": {
-   "id": "95686cd4a133904dee2e9827693f74cc",
-   "company": "NN Group",
-   "role": "Hbo Meewerkstage Klantteam Individueel Pensioen",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "877ee81139772a7f28f3031f6569ffe4": {
-   "id": "877ee81139772a7f28f3031f6569ffe4",
-   "company": "NN Group",
-   "role": "Hbo Meewerkstage Stagebureau - Traineeship",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "2b8b6d44c8d24c1d5e902257e7dfab99": {
-   "id": "2b8b6d44c8d24c1d5e902257e7dfab99",
-   "company": "MOOOI B.V",
-   "role": "Graphic Design Internfull-timebrand / Marketing",
-   "location": "Amsterdam"
-  },
-  "d96ec917d932aad00db29bae9af777ed": {
-   "id": "d96ec917d932aad00db29bae9af777ed",
-   "company": "Freshfields",
-   "role": "Student-stage - Finance",
-   "location": "Amsterdam"
-  },
-  "205b8c8857cb35824b60cfd3f12ab430": {
-   "id": "205b8c8857cb35824b60cfd3f12ab430",
-   "company": "Freshfields",
-   "role": "Student-stage - Dispute Resolution",
-   "location": "Amsterdam"
-  },
-  "fd6c73f1f0a894a73dbd6bf21ce5f156": {
-   "id": "fd6c73f1f0a894a73dbd6bf21ce5f156",
-   "company": "Freshfields",
-   "role": "Student-stage - Ip/it",
-   "location": "Amsterdam"
-  },
-  "1dfa9964349d58a6a39033e71a0cec1c": {
-   "id": "1dfa9964349d58a6a39033e71a0cec1c",
-   "company": "Freshfields",
-   "role": "Student-stage - Restructuring & Insolvency",
-   "location": "Amsterdam"
-  },
-  "5dbb1942a9aac41a76f1b70ffec57020": {
-   "id": "5dbb1942a9aac41a76f1b70ffec57020",
-   "company": "Freshfields",
-   "role": "Student-stage - People & Reward",
-   "location": "Amsterdam"
-  },
-  "0fcf22aa25353c674130493d2f75fff5": {
-   "id": "0fcf22aa25353c674130493d2f75fff5",
-   "company": "Freshfields Bruckhaus Deringer",
-   "role": "Student-stage - Corporate",
-   "location": "Amsterdam"
-  },
-  "5c634e3cca8bb6affb0b7c0c65f94f84": {
-   "id": "5c634e3cca8bb6affb0b7c0c65f94f84",
-   "company": "HAVI",
-   "role": "Hr Stagiair",
-   "location": "Amersfoort"
-  },
-  "a5c3739a40b232a751c320d1e9502209": {
-   "id": "a5c3739a40b232a751c320d1e9502209",
-   "company": "Action",
-   "role": "Stagiair(e) Marketing Crm / E-mail / Marketing Automation",
-   "location": "Netherlands"
-  },
-  "targetjobs:2bc0f11c-016e-4e6d-807f-5b6658a38a58": {
-   "id": "targetjobs:2bc0f11c-016e-4e6d-807f-5b6658a38a58",
-   "company": "Rothschild & Co",
-   "role": "Long Term Internship - Dutch Coverage Team - 2027",
-   "location": "London +1"
-  },
-  "92aeb395edf032a750c8682dbb9c7550": {
-   "id": "92aeb395edf032a750c8682dbb9c7550",
-   "company": "Deutsche Bank",
-   "role": "O&a Benelux Coverage Seasonal Intern (f/m/x)",
-   "location": "Amsterdam"
-  },
-  "9295320f1e5daf828f0131def3dc0c91": {
-   "id": "9295320f1e5daf828f0131def3dc0c91",
-   "company": "Google",
-   "role": "Legal Trainee (fixed-term Contract) (english, Dutch)",
-   "location": "Amsterdam"
-  },
-  "6f89c7757c68846a2e22d1262c1028b8": {
-   "id": "6f89c7757c68846a2e22d1262c1028b8",
-   "company": "282",
-   "role": "Internship - Monte Carlo Models For Counterparty Credit Risk",
-   "location": "Cedar"
-  },
-  "592628ea0ef3afd1040d9b20341e822b": {
-   "id": "592628ea0ef3afd1040d9b20341e822b",
-   "company": "Vanderlande UK",
-   "role": "Internship: Ai-powered Assistant Within Warehouse Execution Systems",
-   "location": "S Hertogenbosch"
-  },
-  "dd6b2a9778be708b2596c9cb6348daf4": {
-   "id": "dd6b2a9778be708b2596c9cb6348daf4",
-   "company": "Vanderlande UK",
-   "role": "Internship: Java Performance Optimization In Microservices",
-   "location": "S Hertogenbosch"
-  },
-  "96e588c6be784830c9366d512b88d492": {
-   "id": "96e588c6be784830c9366d512b88d492",
-   "company": "Danone",
-   "role": "Internship: Sustainability - Specialized Nutrition",
-   "location": "Amsterdam"
-  },
-  "10eeeae06e2c40269e69103d82a05f70": {
-   "id": "10eeeae06e2c40269e69103d82a05f70",
-   "company": "Coty",
-   "role": "People Analytics & Total Rewards Intern",
-   "location": "Amsterdam"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -600,6 +600,12 @@
    "id": "62d3a87e7ce788f03a236e9909ad2cce",
    "company": "Warner Bros. Entertainment Inc.",
    "role": "Software Engineer Ii",
+   "location": "Amsterdam"
+  },
+  "8ff74f34fb1b27e3851b8c003d79e570": {
+   "id": "8ff74f34fb1b27e3851b8c003d79e570",
+   "company": "Avanade",
+   "role": "Afstudeerstage Data & Ai / Functional / Data Analyst / Visualization",
    "location": "Amsterdam"
   },
   "6912eec3081bb2a78cb984b2924a4d40": {
@@ -710,6 +716,30 @@
    "role": "Internship Debt Capital Markets – Ig Corporate Origination",
    "location": "Amsterdam"
   },
+  "49dbba37829fc10287bd5fa09eda90f2": {
+   "id": "49dbba37829fc10287bd5fa09eda90f2",
+   "company": "Publix Serving (Civica)",
+   "role": "Banking, Corporate Banking, Full Time Analyst, Amsterdam - Netherlands, 2027",
+   "location": "Amsterdam"
+  },
+  "0e111152d6d93c498fe8ae71686dd5f5": {
+   "id": "0e111152d6d93c498fe8ae71686dd5f5",
+   "company": "Equinix Inc.",
+   "role": "Corporate Development Analyst, Xscale",
+   "location": "Amsterdam"
+  },
+  "27cfb1df603475baffa8b7a7caad43e4": {
+   "id": "27cfb1df603475baffa8b7a7caad43e4",
+   "company": "Citi",
+   "role": "Banking, Corporate Banking, Full Time Analyst, Amsterdam - Netherlands, 2027",
+   "location": "Amsterdam"
+  },
+  "df63e3ddabb18d7c1399c5e33a980370": {
+   "id": "df63e3ddabb18d7c1399c5e33a980370",
+   "company": "HSBC",
+   "role": "Analyst Corporates",
+   "location": "Amsterdam"
+  },
   "480634b35d19d5540286c7ad7d795a59": {
    "id": "480634b35d19d5540286c7ad7d795a59",
    "company": "Flowserve Corporation",
@@ -768,12 +798,6 @@
    "id": "e42280c59ada5a4af891a9b1df3c4231",
    "company": "Commonwealth Bank of Australia (Europe) N.V.",
    "role": "Analyst Regulatory Reporting",
-   "location": "Amsterdam"
-  },
-  "0e111152d6d93c498fe8ae71686dd5f5": {
-   "id": "0e111152d6d93c498fe8ae71686dd5f5",
-   "company": "Equinix Inc.",
-   "role": "Corporate Development Analyst, Xscale",
    "location": "Amsterdam"
   },
   "2787fac7b8eb4bdb2d326bcad659aad6": {
@@ -912,12 +936,6 @@
    "id": "a8b5a49313288004bc3e03e1cade2954",
    "company": "William Blair",
    "role": "Investment Banking Analyst, Private Capital Markets",
-   "location": "Amsterdam"
-  },
-  "532d33173ca26af55cb15cb6a8e4a42c": {
-   "id": "532d33173ca26af55cb15cb6a8e4a42c",
-   "company": "Burbankbank",
-   "role": "Analyst Regulatory Reporting",
    "location": "Amsterdam"
   },
   "6966d9d8a4d3917e54d6cb1e18c310b7": {
@@ -1400,6 +1418,12 @@
    "role": "Service Monteur Liften Zuid-holland",
    "location": "Utrecht"
   },
+  "92974c273051daf0abb846b4f3d810c7": {
+   "id": "92974c273051daf0abb846b4f3d810c7",
+   "company": "H&M",
+   "role": "Sales Advisor 26h",
+   "location": "Amsterdam"
+  },
   "9ae2fc49cac3faf498a5989d5774a796": {
    "id": "9ae2fc49cac3faf498a5989d5774a796",
    "company": "H&M",
@@ -1458,12 +1482,6 @@
    "id": "4a0a009d17a5e34eb32415f526700d17",
    "company": "H&M",
    "role": "Sales Advisor 21h (temp Contract)",
-   "location": "Amsterdam"
-  },
-  "f7285396d923012f3675d7ea13fd90df": {
-   "id": "f7285396d923012f3675d7ea13fd90df",
-   "company": "H&M",
-   "role": "Sales Advisor 26h",
    "location": "Amsterdam"
   },
   "9c204591f417cd3b77ad8cacea7aeef9": {
