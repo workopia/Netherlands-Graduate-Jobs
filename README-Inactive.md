@@ -1722,4 +1722,26 @@
 <tr><td>Coty</td><td>People Analytics & Total Rewards Intern</td><td>Amsterdam</td><td>2026-10-07</td></tr>
 <tr><td>Burbankbank</td><td>Analyst Regulatory Reporting</td><td>Amsterdam</td><td>2026-10-07</td></tr>
 <tr><td>H&M</td><td>Sales Advisor 26h</td><td>Amsterdam</td><td>2026-10-07</td></tr>
+<tr><td>Medikamente Die Grenze</td><td>Sales Employee Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-10-08</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Ict Service Centre Support Engineer</td><td>S Hertogenbosch</td><td>2026-10-08</td></tr>
+<tr><td>Signify</td><td>Legal Intern</td><td>Eindhoven</td><td>2026-10-08</td></tr>
+<tr><td>Perfetti Van Melle ICT B.V</td><td>Qc Stagiaire Fruit-tella</td><td>Eindhoven</td><td>2026-10-08</td></tr>
+<tr><td>Frencken Group</td><td>Internship – Tooling Consumption Analysis And Forecasting</td><td>Eindhoven</td><td>2026-10-08</td></tr>
+<tr><td>Frencken Group</td><td>Internship – Chemical Substances Management</td><td>Eindhoven</td><td>2026-10-08</td></tr>
+<tr><td>Frencken Group</td><td>Internship: Sub-micron Positioning For Analytical Market</td><td>Eindhoven</td><td>2026-10-08</td></tr>
+<tr><td>Frencken Group</td><td>Big Ambitions Need Curious Minds: Part-time & Short-term Opportunities At Frencken</td><td>Eindhoven</td><td>2026-10-08</td></tr>
+<tr><td>Frencken Group</td><td>Internship – Packaging Optimization & Quality Improvement</td><td>Eindhoven</td><td>2026-10-08</td></tr>
+<tr><td>xfroid.fr</td><td>Revenue Growth Management Intern</td><td>Amsterdam</td><td>2026-10-08</td></tr>
+<tr><td>282</td><td>Ing Financial Markets Internship Programme - Amsterdam</td><td>Amsterdam</td><td>2026-10-08</td></tr>
+<tr><td>282</td><td>Internship - Portfolio Management Project Finance Nl</td><td>Maple</td><td>2026-10-08</td></tr>
+<tr><td>Flagship Amsterdam</td><td>Stage Ai & Automatisering / Amsterdam Hbo/wo</td><td>Amsterdam</td><td>2026-10-08</td></tr>
+<tr><td>Dyson</td><td>Marketing Intern Beauty & Oral Care</td><td>Amsterdam</td><td>2026-10-08</td></tr>
+<tr><td>Catawiki</td><td>Commercial, Post-war Art & Prints Intern</td><td>Amsterdam</td><td>2026-10-08</td></tr>
+<tr><td>Robeco</td><td>Super Quant Internship 2027</td><td>The Netherlands</td><td>2026-10-08</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Pricing</td><td>Alphen Aan Den Rijn</td><td>2026-10-08</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Pricing</td><td>Alphen Aan Den Rijn</td><td>2026-10-08</td></tr>
+<tr><td>De Jong Verpakking</td><td>Technisch Medewerker</td><td>Den Hoorn</td><td>2026-10-08</td></tr>
+<tr><td>Otis</td><td>Service Monteur Amsterdam & Amstelveen</td><td>Amsterdam</td><td>2026-10-08</td></tr>
+<tr><td>Otis</td><td>Service Monteur Liften Zuid-holland</td><td>Utrecht</td><td>2026-10-08</td></tr>
+<tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Alphen Aan Den Rijn</td><td>2026-10-08</td></tr>
 </table>

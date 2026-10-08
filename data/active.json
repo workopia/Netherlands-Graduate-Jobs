@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-07",
+ "asOf": "2026-10-08",
  "count": 343,
  "jobs": {
   "86062": {
@@ -12,12 +12,6 @@
    "id": "2680765",
    "company": "Amarosa",
    "role": "Managementassistent 32 Uur",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "2705198": {
-   "id": "2705198",
-   "company": "Medikamente Die Grenze",
-   "role": "Sales Employee Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
   "2708586": {
@@ -43,6 +37,108 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "8b5cfb7ec045f18fe0674bc1dff9f0d0": {
+   "id": "8b5cfb7ec045f18fe0674bc1dff9f0d0",
+   "company": "Damen Shipyards Group",
+   "role": "Internship: Event Management",
+   "location": "S Hertogenbosch"
+  },
+  "1545227f1803de10f5362c5e02497949": {
+   "id": "1545227f1803de10f5362c5e02497949",
+   "company": "Vopak",
+   "role": "Intern",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "b55cbce067292a9c2e8885dd3a6be587": {
+   "id": "b55cbce067292a9c2e8885dd3a6be587",
+   "company": "Avery Dennison Corp",
+   "role": "Internship: Digital Marketing",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "00dd9a9483c190f3bebdca4a732e501b": {
+   "id": "00dd9a9483c190f3bebdca4a732e501b",
+   "company": "Avery Dennison Smartrac",
+   "role": "Internship: Digital Marketing",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "591103f7ad56c40ae4dd4edfc938f5a5": {
+   "id": "591103f7ad56c40ae4dd4edfc938f5a5",
+   "company": "Danone",
+   "role": "Internship - Commercial Excellence - Tender",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "5fac22ed21c9013219bd51a23ac1e107": {
+   "id": "5fac22ed21c9013219bd51a23ac1e107",
+   "company": "JLG Industries Inc",
+   "role": "Marketing Intern – Social, Pr, Events & Content",
+   "location": "Amsterdam"
+  },
+  "dbb85305977f7c1669df3797d0b57c66": {
+   "id": "dbb85305977f7c1669df3797d0b57c66",
+   "company": "Accenture Australia",
+   "role": "Public Services Technology Internship",
+   "location": "Amsterdam"
+  },
+  "b593ae7ea09fbd599404da8d46ed353d": {
+   "id": "b593ae7ea09fbd599404da8d46ed353d",
+   "company": "Vanderlande",
+   "role": "Internship: Making Airport Container Positioning For A Robot Setup Smarter",
+   "location": "S Hertogenbosch"
+  },
+  "96ad35e3641c589f8c4d73c0857a6a1b": {
+   "id": "96ad35e3641c589f8c4d73c0857a6a1b",
+   "company": "Vanderlande",
+   "role": "Internship: Drive The Next Gen, Testing Optimizing Autonomous Vehicles",
+   "location": "S Hertogenbosch"
+  },
+  "eb7ca690c9ecc8de18012a0d27e0c00d": {
+   "id": "eb7ca690c9ecc8de18012a0d27e0c00d",
+   "company": "Signify",
+   "role": "Internship Career Event Fontys - 07/10/2026",
+   "location": "Eindhoven"
+  },
+  "8c5fe1463f3d77152a1db460d9b640ef": {
+   "id": "8c5fe1463f3d77152a1db460d9b640ef",
+   "company": "NXP USA INC.",
+   "role": "Internship – Product Engineering (data Science: Machine Learning Analyst)",
+   "location": "Arnhem"
+  },
+  "3f7857ddd06c1ea99e1ec11daf69a2f9": {
+   "id": "3f7857ddd06c1ea99e1ec11daf69a2f9",
+   "company": "Vanderlande UK",
+   "role": "Internship: Making Airport Container Positioning For A Robot Setup Smarter",
+   "location": "S Hertogenbosch"
+  },
+  "7d76d3ad03b4a4f6a84f9df9cc950d2a": {
+   "id": "7d76d3ad03b4a4f6a84f9df9cc950d2a",
+   "company": "Vanderlande UK",
+   "role": "Internship: Drive The Next Gen, Testing & Optimizing Autonomous Vehicles",
+   "location": "S Hertogenbosch"
+  },
+  "59d729a24249611123f89bf68532b10b": {
+   "id": "59d729a24249611123f89bf68532b10b",
+   "company": "ING",
+   "role": "Wo Meewerkstage Structured Acquisition Finance Mid-corporates",
+   "location": "Amsterdam"
+  },
+  "a5699cd4a8767488642eb2c143846e8a": {
+   "id": "a5699cd4a8767488642eb2c143846e8a",
+   "company": "JLL",
+   "role": "Business Support, Intern",
+   "location": "Amsterdam"
+  },
+  "3b88b2d89146e4df66af5abd6a32f4fe": {
+   "id": "3b88b2d89146e4df66af5abd6a32f4fe",
+   "company": "Damenmc",
+   "role": "Internship: Anomaly Detection For Smart Maintenance",
+   "location": "S Hertogenbosch"
+  },
+  "2241a6cad34342c7498e6d9765ed09c1": {
+   "id": "2241a6cad34342c7498e6d9765ed09c1",
+   "company": "Damenmc",
+   "role": "Internship: Sustainability Communication",
+   "location": "S Hertogenbosch"
   },
   "05ce0cade5a72156dfee47cbb9581296": {
    "id": "05ce0cade5a72156dfee47cbb9581296",
@@ -421,108 +517,6 @@
    "company": "Vanderlande",
    "role": "Internship: Ai-powered Assistant Within Warehouse Execution Systems",
    "location": "S Hertogenbosch"
-  },
-  "676cf57bbbddfe2af31b052a5481e860": {
-   "id": "676cf57bbbddfe2af31b052a5481e860",
-   "company": "Vanderlande",
-   "role": "Internship: Ict Service Centre Support Engineer",
-   "location": "S Hertogenbosch"
-  },
-  "281006c4c92173e78364a7ff526f8c19": {
-   "id": "281006c4c92173e78364a7ff526f8c19",
-   "company": "Signify",
-   "role": "Legal Intern",
-   "location": "Eindhoven"
-  },
-  "f3b735765e867f7eaeed6c23592b672a": {
-   "id": "f3b735765e867f7eaeed6c23592b672a",
-   "company": "Perfetti Van Melle ICT B.V",
-   "role": "Qc Stagiaire Fruit-tella",
-   "location": "Eindhoven"
-  },
-  "6665aa3629b5fd83eddb627750880300": {
-   "id": "6665aa3629b5fd83eddb627750880300",
-   "company": "Frencken Group",
-   "role": "Internship – Tooling Consumption Analysis And Forecasting",
-   "location": "Eindhoven"
-  },
-  "cc2ed67900ee1560bc995dd139e08721": {
-   "id": "cc2ed67900ee1560bc995dd139e08721",
-   "company": "Frencken Group",
-   "role": "Internship – Chemical Substances Management",
-   "location": "Eindhoven"
-  },
-  "a63409a446e8fd1e6d68c6981e9911c2": {
-   "id": "a63409a446e8fd1e6d68c6981e9911c2",
-   "company": "Frencken Group",
-   "role": "Internship: Sub-micron Positioning For Analytical Market",
-   "location": "Eindhoven"
-  },
-  "10308a69e65618f6d352ef03e9739e42": {
-   "id": "10308a69e65618f6d352ef03e9739e42",
-   "company": "Frencken Group",
-   "role": "Big Ambitions Need Curious Minds: Part-time & Short-term Opportunities At Frencken",
-   "location": "Eindhoven"
-  },
-  "1d4345ef951762b2431ecb77408957ef": {
-   "id": "1d4345ef951762b2431ecb77408957ef",
-   "company": "Frencken Group",
-   "role": "Internship – Packaging Optimization & Quality Improvement",
-   "location": "Eindhoven"
-  },
-  "05ededc730b2fd7faef14ce3f23ed24b": {
-   "id": "05ededc730b2fd7faef14ce3f23ed24b",
-   "company": "xfroid.fr",
-   "role": "Revenue Growth Management Intern",
-   "location": "Amsterdam"
-  },
-  "2b9507aaecf6ca3b60883708b64b0da2": {
-   "id": "2b9507aaecf6ca3b60883708b64b0da2",
-   "company": "282",
-   "role": "Ing Financial Markets Internship Programme - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "759f53531d13d738480d776892bc19df": {
-   "id": "759f53531d13d738480d776892bc19df",
-   "company": "282",
-   "role": "Internship - Portfolio Management Project Finance Nl",
-   "location": "Maple"
-  },
-  "e82f0c70a8dc2ee8a3e113ec1ab127ef": {
-   "id": "e82f0c70a8dc2ee8a3e113ec1ab127ef",
-   "company": "Flagship Amsterdam",
-   "role": "Stage Ai & Automatisering / Amsterdam Hbo/wo",
-   "location": "Amsterdam"
-  },
-  "ca9a396a756f93dc6dc6abd316e73fc5": {
-   "id": "ca9a396a756f93dc6dc6abd316e73fc5",
-   "company": "Dyson",
-   "role": "Marketing Intern Beauty & Oral Care",
-   "location": "Amsterdam"
-  },
-  "ca26a99a11a4dfeaf7e5fd25e102fbb6": {
-   "id": "ca26a99a11a4dfeaf7e5fd25e102fbb6",
-   "company": "Catawiki",
-   "role": "Commercial, Post-war Art & Prints Intern",
-   "location": "Amsterdam"
-  },
-  "1ae892fbef5dd8adce923e286b2fec17": {
-   "id": "1ae892fbef5dd8adce923e286b2fec17",
-   "company": "Robeco",
-   "role": "Super Quant Internship 2027",
-   "location": "The Netherlands"
-  },
-  "95a33c5f9ffc0926dc6d45f0daaab70d": {
-   "id": "95a33c5f9ffc0926dc6d45f0daaab70d",
-   "company": "Avery Dennison Corp",
-   "role": "Internship: Pricing",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "7379836f93f6400cbb9a128523445c2b": {
-   "id": "7379836f93f6400cbb9a128523445c2b",
-   "company": "Avery Dennison Smartrac",
-   "role": "Internship: Pricing",
-   "location": "Alphen Aan Den Rijn"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
@@ -936,6 +930,24 @@
    "id": "a8b5a49313288004bc3e03e1cade2954",
    "company": "William Blair",
    "role": "Investment Banking Analyst, Private Capital Markets",
+   "location": "Amsterdam"
+  },
+  "afa337bef496ad54c73d58b8846827e9": {
+   "id": "afa337bef496ad54c73d58b8846827e9",
+   "company": "VistaCreate",
+   "role": "Maintenance Technician X3",
+   "location": "Venlo"
+  },
+  "a3022596a6c08a595fe7d5ac1bc36650": {
+   "id": "a3022596a6c08a595fe7d5ac1bc36650",
+   "company": "ALSTOM TRANSPORT SA",
+   "role": "Mechanisch Monteur",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "3518861d321387511be2a3961d535e07": {
+   "id": "3518861d321387511be2a3961d535e07",
+   "company": "Controlant hf",
+   "role": "Service Center Technician",
    "location": "Amsterdam"
   },
   "6966d9d8a4d3917e54d6cb1e18c310b7": {
@@ -1400,23 +1412,17 @@
    "role": "Storings- En Onderhoudsmonteur",
    "location": "Alphen Aan Den Rijn"
   },
-  "245e7cd08a6d3cdf1c7919f103528c38": {
-   "id": "245e7cd08a6d3cdf1c7919f103528c38",
-   "company": "De Jong Verpakking",
-   "role": "Technisch Medewerker",
-   "location": "Den Hoorn"
-  },
-  "30b9887489141b976bf976ca344bc723": {
-   "id": "30b9887489141b976bf976ca344bc723",
-   "company": "Otis",
-   "role": "Service Monteur Amsterdam & Amstelveen",
+  "b5637698495a5cb8c60bddc6b40d0fc2": {
+   "id": "b5637698495a5cb8c60bddc6b40d0fc2",
+   "company": "Fiskars Group",
+   "role": "Sales Advisor Iittala, Amsterdam (part-time)",
    "location": "Amsterdam"
   },
-  "32584c45b3e1cb4e5b2147bf506e871d": {
-   "id": "32584c45b3e1cb4e5b2147bf506e871d",
-   "company": "Otis",
-   "role": "Service Monteur Liften Zuid-holland",
-   "location": "Utrecht"
+  "9f9dbcbc57d8c5c5fa947b6733892746": {
+   "id": "9f9dbcbc57d8c5c5fa947b6733892746",
+   "company": "JYSK",
+   "role": "Verkoopmedewerker Met Ambitie",
+   "location": "Amsterdam"
   },
   "92974c273051daf0abb846b4f3d810c7": {
    "id": "92974c273051daf0abb846b4f3d810c7",
@@ -1537,12 +1543,6 @@
    "company": "Brunswick",
    "role": "Emea Aftersales And Technical Associate",
    "location": "Amsterdam"
-  },
-  "ea2fc130cfa4e9dd6aadab72f4aee333": {
-   "id": "ea2fc130cfa4e9dd6aadab72f4aee333",
-   "company": "JYSK",
-   "role": "Verkoopmedewerker Met Ambitie",
-   "location": "Alphen Aan Den Rijn"
   },
   "5eda855a98836e39a28ffa65cf55bc6c": {
    "id": "5eda855a98836e39a28ffa65cf55bc6c",
