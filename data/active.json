@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-08",
+ "asOf": "2026-10-09",
  "count": 343,
  "jobs": {
   "86062": {
@@ -37,6 +37,42 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "ad94d1d8cdb151188c46305ab275c257": {
+   "id": "ad94d1d8cdb151188c46305ab275c257",
+   "company": "Hogan Lovells",
+   "role": "Student-stagiair(e)",
+   "location": "Amsterdam"
+  },
+  "0cc5b627b7ae8559f507ed86ab4b8187": {
+   "id": "0cc5b627b7ae8559f507ed86ab4b8187",
+   "company": "The Procter & Gamble Company",
+   "role": "Brand Management Internship",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "44309e57010dd12fd17c728df780a429": {
+   "id": "44309e57010dd12fd17c728df780a429",
+   "company": "Philips",
+   "role": "Internship: Enabling Execution Of 2030 Impact Ambitions",
+   "location": "Amsterdam"
+  },
+  "73b23e5961c80ea3e2a92eadb15c2623": {
+   "id": "73b23e5961c80ea3e2a92eadb15c2623",
+   "company": "Royal Philips",
+   "role": "Internship: Finance & Accounting - Group Consolidation & Reporting (non-thesis)",
+   "location": "Amsterdam"
+  },
+  "338b2fb75dd04e942170c22ab15b5930": {
+   "id": "338b2fb75dd04e942170c22ab15b5930",
+   "company": "Vanderlande",
+   "role": "Internship: Ai- Driven Hr Innovation",
+   "location": "S Hertogenbosch"
+  },
+  "c539789a4ecf76fc3520fcf784ba4351": {
+   "id": "c539789a4ecf76fc3520fcf784ba4351",
+   "company": "Vanderlande UK",
+   "role": "Internship: Ai- Driven Hr Innovation",
+   "location": "S Hertogenbosch"
   },
   "8b5cfb7ec045f18fe0674bc1dff9f0d0": {
    "id": "8b5cfb7ec045f18fe0674bc1dff9f0d0",
@@ -186,6 +222,12 @@
    "id": "a65a2ce6d2c0b8b3186cc4247ea291c5",
    "company": "ICL ISRAEL Ltd",
    "role": "Intern Gpo Indirect",
+   "location": "Amsterdam"
+  },
+  "decabd4f19a6536f2f9fbca100565d80": {
+   "id": "decabd4f19a6536f2f9fbca100565d80",
+   "company": "UBER",
+   "role": "2027 Operations Intern - Amsterdam",
    "location": "Amsterdam"
   },
   "8db75d8d60a749b1fc0f33c7aeb84f43": {
@@ -474,48 +516,6 @@
    "id": "c7097f50d1feb08e2aa70c9c7a89fb92",
    "company": "Vanderlande",
    "role": "Internship: Optimizing Project Management Through Digital Transformation",
-   "location": "S Hertogenbosch"
-  },
-  "546a7ddc7de286ad8a7482afab68169e": {
-   "id": "546a7ddc7de286ad8a7482afab68169e",
-   "company": "Vanderlande",
-   "role": "Internship: Java Performance Optimization In Microservices",
-   "location": "S Hertogenbosch"
-  },
-  "79b8d2d14372ccab20d2549bf4f99901": {
-   "id": "79b8d2d14372ccab20d2549bf4f99901",
-   "company": "Vanderlande",
-   "role": "Internship: Integrated Financial Sustainability Analytics",
-   "location": "S Hertogenbosch"
-  },
-  "2fa740ca05ea73c9c46daa808bec5955": {
-   "id": "2fa740ca05ea73c9c46daa808bec5955",
-   "company": "Vanderlande",
-   "role": "Internship: Finance And Accounting",
-   "location": "S Hertogenbosch"
-  },
-  "cba4ebbbb73361ed7cbe2dc49f09ca17": {
-   "id": "cba4ebbbb73361ed7cbe2dc49f09ca17",
-   "company": "Vanderlande",
-   "role": "Internship: Digitalization Of Subcontracting Management: From Black-box To Real-time Visibility",
-   "location": "S Hertogenbosch"
-  },
-  "9372ad8b7bcde27d986c7e5c96f8d940": {
-   "id": "9372ad8b7bcde27d986c7e5c96f8d940",
-   "company": "Vanderlande",
-   "role": "Internship: It Infrastructure Systems",
-   "location": "S Hertogenbosch"
-  },
-  "11278d6a7d61aa330369718e7031bd59": {
-   "id": "11278d6a7d61aa330369718e7031bd59",
-   "company": "Vanderlande",
-   "role": "Internship: Finance Process Automation Ai",
-   "location": "S Hertogenbosch"
-  },
-  "4a7553584c452ee321e63fcc1ce3d2eb": {
-   "id": "4a7553584c452ee321e63fcc1ce3d2eb",
-   "company": "Vanderlande",
-   "role": "Internship: Ai-powered Assistant Within Warehouse Execution Systems",
    "location": "S Hertogenbosch"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
@@ -932,6 +932,24 @@
    "role": "Investment Banking Analyst, Private Capital Markets",
    "location": "Amsterdam"
   },
+  "cfbca7c33caefee1996043cfaad68864": {
+   "id": "cfbca7c33caefee1996043cfaad68864",
+   "company": "Husqvarna AB",
+   "role": "Service Technician",
+   "location": "Utrecht"
+  },
+  "c8b91c769c7e207e9a07e47cb78fd8a3": {
+   "id": "c8b91c769c7e207e9a07e47cb78fd8a3",
+   "company": "Johnson & Johnson UK",
+   "role": "Maintenance Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "be97bdd1535c18ef7a5f43253ea327e3": {
+   "id": "be97bdd1535c18ef7a5f43253ea327e3",
+   "company": "Yunex Traffic",
+   "role": "Maintenance Engineer",
+   "location": "Netherlands"
+  },
   "afa337bef496ad54c73d58b8846827e9": {
    "id": "afa337bef496ad54c73d58b8846827e9",
    "company": "VistaCreate",
@@ -1124,6 +1142,12 @@
    "role": "Field Service Engineer - Schiphol",
    "location": "Schiphol"
   },
+  "326a7cbcdcbdd0d63f08dcdbc5864652": {
+   "id": "326a7cbcdcbdd0d63f08dcdbc5864652",
+   "company": "Nouryon",
+   "role": "Onderhoudsmonteur (wtb/e) / Ammerzoden",
+   "location": "Ammerzoden"
+  },
   "6bc641d4020dab694081c6642875c806": {
    "id": "6bc641d4020dab694081c6642875c806",
    "company": "jll.co.in",
@@ -1178,12 +1202,6 @@
    "role": "Maintenance Technician Security Lane Systems",
    "location": "Schiphol"
   },
-  "54d5220c3ba2a75ff81749f382a62b63": {
-   "id": "54d5220c3ba2a75ff81749f382a62b63",
-   "company": "Yunex Traffic",
-   "role": "Maintenance Engineer",
-   "location": "Alphen Aan Den Rijn"
-  },
   "0d713f3dcbc74711f70fced743019bba": {
    "id": "0d713f3dcbc74711f70fced743019bba",
    "company": "Bilfinger SE",
@@ -1219,12 +1237,6 @@
    "company": "äº¬ä¸å¨çç",
    "role": "Equipment Maintenance (chinese Speaker)",
    "location": "South Holland"
-  },
-  "643ba72af7bb0e4aeeab08448e473df5": {
-   "id": "643ba72af7bb0e4aeeab08448e473df5",
-   "company": "Nouryon",
-   "role": "Onderhoudsmonteur (wtb/e) / Ammerzoden",
-   "location": "Ammerzoden"
   },
   "f8564aecd097a7192bdc10e5434063bc": {
    "id": "f8564aecd097a7192bdc10e5434063bc",
@@ -1400,17 +1412,17 @@
    "role": "Facility Medewerker",
    "location": "Alphen Aan Den Rijn"
   },
-  "96f39c910a0eafff9cb1763a19e8ee09": {
-   "id": "96f39c910a0eafff9cb1763a19e8ee09",
-   "company": "De Jong Verpakking",
-   "role": "Onderhoudsmonteur",
-   "location": "Alphen Aan Den Rijn"
+  "c2e86a4761c415d94473aad5119b6da7": {
+   "id": "c2e86a4761c415d94473aad5119b6da7",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Amsterdam Noord (31 Uur)",
+   "location": "Amsterdam"
   },
-  "db20393654e999fc10ca14e36502a50f": {
-   "id": "db20393654e999fc10ca14e36502a50f",
-   "company": "De Jong Verpakking",
-   "role": "Storings- En Onderhoudsmonteur",
-   "location": "Alphen Aan Den Rijn"
+  "873558cd295a057d2e2eb62a4203caf0": {
+   "id": "873558cd295a057d2e2eb62a4203caf0",
+   "company": "JYSK",
+   "role": "Verkoopmedewerker Met Ambitie",
+   "location": "Amsterdam"
   },
   "b5637698495a5cb8c60bddc6b40d0fc2": {
    "id": "b5637698495a5cb8c60bddc6b40d0fc2",
@@ -1418,10 +1430,10 @@
    "role": "Sales Advisor Iittala, Amsterdam (part-time)",
    "location": "Amsterdam"
   },
-  "9f9dbcbc57d8c5c5fa947b6733892746": {
-   "id": "9f9dbcbc57d8c5c5fa947b6733892746",
+  "a54e196104e51ce199afd649f39ae731": {
+   "id": "a54e196104e51ce199afd649f39ae731",
    "company": "JYSK",
-   "role": "Verkoopmedewerker Met Ambitie",
+   "role": "Bijbaan Verkoopmedewerker Fy25",
    "location": "Amsterdam"
   },
   "92974c273051daf0abb846b4f3d810c7": {
@@ -1542,12 +1554,6 @@
    "id": "fe0dd1eed47bd6dbdbea2bba773b1c1c",
    "company": "Brunswick",
    "role": "Emea Aftersales And Technical Associate",
-   "location": "Amsterdam"
-  },
-  "5eda855a98836e39a28ffa65cf55bc6c": {
-   "id": "5eda855a98836e39a28ffa65cf55bc6c",
-   "company": "H&M",
-   "role": "Verkoopmedewerker - Amsterdam Noord (31 Uur)",
    "location": "Amsterdam"
   },
   "d167927029599c20f34fe90275347ddb": {
@@ -1877,12 +1883,6 @@
   "835091d632e55a12eadc9093e8dd1e25": {
    "id": "835091d632e55a12eadc9093e8dd1e25",
    "company": "H & M Hennes & Mauritz AB",
-   "role": "Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "4d89ea3abee7621455e23005781ea61f": {
-   "id": "4d89ea3abee7621455e23005781ea61f",
-   "company": "H&M",
    "role": "Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)",
    "location": "Alphen Aan Den Rijn"
   },

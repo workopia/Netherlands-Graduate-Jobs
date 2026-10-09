@@ -1744,4 +1744,18 @@
 <tr><td>Otis</td><td>Service Monteur Amsterdam & Amstelveen</td><td>Amsterdam</td><td>2026-10-08</td></tr>
 <tr><td>Otis</td><td>Service Monteur Liften Zuid-holland</td><td>Utrecht</td><td>2026-10-08</td></tr>
 <tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Alphen Aan Den Rijn</td><td>2026-10-08</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Java Performance Optimization In Microservices</td><td>S Hertogenbosch</td><td>2026-10-09</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Integrated Financial Sustainability Analytics</td><td>S Hertogenbosch</td><td>2026-10-09</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Finance And Accounting</td><td>S Hertogenbosch</td><td>2026-10-09</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Digitalization Of Subcontracting Management: From Black-box To Real-time Visibility</td><td>S Hertogenbosch</td><td>2026-10-09</td></tr>
+<tr><td>Vanderlande</td><td>Internship: It Infrastructure Systems</td><td>S Hertogenbosch</td><td>2026-10-09</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Finance Process Automation Ai</td><td>S Hertogenbosch</td><td>2026-10-09</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Ai-powered Assistant Within Warehouse Execution Systems</td><td>S Hertogenbosch</td><td>2026-10-09</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer</td><td>Alphen Aan Den Rijn</td><td>2026-10-09</td></tr>
+<tr><td>Nouryon</td><td>Onderhoudsmonteur (wtb/e) / Ammerzoden</td><td>Ammerzoden</td><td>2026-10-09</td></tr>
+<tr><td>De Jong Verpakking</td><td>Onderhoudsmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-10-09</td></tr>
+<tr><td>De Jong Verpakking</td><td>Storings- En Onderhoudsmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-10-09</td></tr>
+<tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Amsterdam</td><td>2026-10-09</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker - Amsterdam Noord (31 Uur)</td><td>Amsterdam</td><td>2026-10-09</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-10-09</td></tr>
 </table>
