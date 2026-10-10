@@ -1758,4 +1758,22 @@
 <tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Amsterdam</td><td>2026-10-09</td></tr>
 <tr><td>H&M</td><td>Verkoopmedewerker - Amsterdam Noord (31 Uur)</td><td>Amsterdam</td><td>2026-10-09</td></tr>
 <tr><td>H&M</td><td>Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-10-09</td></tr>
+<tr><td>Den Hartogh Liquid Logistics</td><td>Logistiek Administratief Medewerker</td><td>Veenendaal</td><td>2026-10-10</td></tr>
+<tr><td>Yonego</td><td>Business Development Stagestagebreda</td><td>Breda</td><td>2026-10-10</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Driving Global Talent & Growth</td><td>S Hertogenbosch</td><td>2026-10-10</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Pilot Plant Innovation</td><td>Alphen Aan Den Rijn</td><td>2026-10-10</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Pilot Plant Innovation</td><td>Alphen Aan Den Rijn</td><td>2026-10-10</td></tr>
+<tr><td>NN Group</td><td>Devops Intern</td><td>Alphen Aan Den Rijn</td><td>2026-10-10</td></tr>
+<tr><td>Philips UK</td><td>Internship: Global Service Operations Program Within Service Enablement Team</td><td>Eindhoven</td><td>2026-10-10</td></tr>
+<tr><td>Philips UK</td><td>Internship - Ai-powered Digital Daily Management For Quality Operations</td><td>Eindhoven</td><td>2026-10-10</td></tr>
+<tr><td>Citco</td><td>Portfolio Management Intern</td><td>Amsterdam</td><td>2026-10-10</td></tr>
+<tr><td>Newyorkbioconnect</td><td>Stagiair – Laboratorium Of Productietechniek – Visuele Inspectie</td><td>North Brabant</td><td>2026-10-10</td></tr>
+<tr><td>Philjobs</td><td>Internship: Sales And Business Development</td><td>Amsterdam</td><td>2026-10-10</td></tr>
+<tr><td>Philips Respironics</td><td>Internship: Change Management (master, Non-thesis)</td><td>Amsterdam</td><td>2026-10-10</td></tr>
+<tr><td>Philips Respironics</td><td>Internship: Transformation Programs In Personal Health Isc (master, Non-thesis)</td><td>Amsterdam</td><td>2026-10-10</td></tr>
+<tr><td>Philips Respironics</td><td>Internship: Enterprise Strategy</td><td>Amsterdam</td><td>2026-10-10</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Optimizing Project Management Through Digital Transformation</td><td>S Hertogenbosch</td><td>2026-10-10</td></tr>
+<tr><td>William Blair</td><td>Investment Banking Analyst, Private Capital Markets</td><td>Amsterdam</td><td>2026-10-10</td></tr>
+<tr><td>International Flavors & Fragrances Inc. (IFF)</td><td>Facility Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-10-10</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-10-10</td></tr>
 </table>

@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-09",
- "count": 343,
+ "asOf": "2026-10-10",
+ "count": 342,
  "jobs": {
   "86062": {
    "id": "86062",
@@ -13,12 +13,6 @@
    "company": "Amarosa",
    "role": "Managementassistent 32 Uur",
    "location": "Alphen Aan Den Rijn"
-  },
-  "2708586": {
-   "id": "2708586",
-   "company": "Den Hartogh Liquid Logistics",
-   "role": "Logistiek Administratief Medewerker",
-   "location": "Veenendaal"
   },
   "2716517": {
    "id": "2716517",
@@ -36,6 +30,90 @@
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "cc929aa56418d7a2ec94bdd0cafc8f96": {
+   "id": "cc929aa56418d7a2ec94bdd0cafc8f96",
+   "company": "Stichting Doen",
+   "role": "Impact Investment Stagiairfulltimebeethovenstraat 200, Amsterdam",
+   "location": "Amsterdam"
+  },
+  "4aa205876024ed0b82f171c37966feac": {
+   "id": "4aa205876024ed0b82f171c37966feac",
+   "company": "Philips UK",
+   "role": "Internship: Global Health Economics, Market Access & Reimbursement (hemar) For Hospital Patient Monitoring (hpm)",
+   "location": "Amsterdam"
+  },
+  "3a9ccc845a09d4fa065b596af2decbb8": {
+   "id": "3a9ccc845a09d4fa065b596af2decbb8",
+   "company": "Philips Avent",
+   "role": "Data, Ai & Algorithm Internship – Philips Avent Experience Innovation",
+   "location": "Eindhoven"
+  },
+  "f9e2d11fa59e33b60a689f39c9f8be45": {
+   "id": "f9e2d11fa59e33b60a689f39c9f8be45",
+   "company": "Philips UK",
+   "role": "Internship: Full Stack Developer In Finance Domain",
+   "location": "Eindhoven"
+  },
+  "482eff63253e8b263097a8e8a55f8a98": {
+   "id": "482eff63253e8b263097a8e8a55f8a98",
+   "company": "Vanderlande",
+   "role": "Internship: Hiring Desk",
+   "location": "S Hertogenbosch"
+  },
+  "547b2d11a77bf960bbd7b4bf2da7104e": {
+   "id": "547b2d11a77bf960bbd7b4bf2da7104e",
+   "company": "Parfumerie Douglas Nederland",
+   "role": "Stagiair(e) Social Commercestagedouglas Hoofdkantoor - Nijmegen",
+   "location": "Arnhem"
+  },
+  "c87ff08b3f22799c1b328217e2acffdf": {
+   "id": "c87ff08b3f22799c1b328217e2acffdf",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: Hiring Desk",
+   "location": "S Hertogenbosch"
+  },
+  "8555aa992c8a39aaffd6ca2b93522468": {
+   "id": "8555aa992c8a39aaffd6ca2b93522468",
+   "company": "ING Corporate Finance",
+   "role": "Internship Ing Corporate Finance",
+   "location": "Amsterdam"
+  },
+  "dc2122841dcfe1ad81dc13efcfb4428d": {
+   "id": "dc2122841dcfe1ad81dc13efcfb4428d",
+   "company": "Trespa International B.V",
+   "role": "Product Management/ Marketing Communication Intern",
+   "location": "Nl"
+  },
+  "eae8f20854cc1cfceb2eccd0502cc646": {
+   "id": "eae8f20854cc1cfceb2eccd0502cc646",
+   "company": "Kraft Heinz",
+   "role": "Intern",
+   "location": "Amsterdam"
+  },
+  "003d465b7a7b044718d485559345519f": {
+   "id": "003d465b7a7b044718d485559345519f",
+   "company": "Kraft Heinz",
+   "role": "Natural Preservation Intern",
+   "location": "Arnhem"
+  },
+  "051d3bafefd783e2fe71f4972827c4a0": {
+   "id": "051d3bafefd783e2fe71f4972827c4a0",
+   "company": "Kraft Heinz",
+   "role": "Shelf Life Intern",
+   "location": "Arnhem"
+  },
+  "b18672a15151527c35ff6dd7e0d29f63": {
+   "id": "b18672a15151527c35ff6dd7e0d29f63",
+   "company": "Catawiki",
+   "role": "Office Management Intern",
+   "location": "Amsterdam"
+  },
+  "df7c5e94266e1fdb88e88f92803c0f7d": {
+   "id": "df7c5e94266e1fdb88e88f92803c0f7d",
+   "company": "Catawiki",
+   "role": "It Systems & Services (itss) Intern",
    "location": "Amsterdam"
   },
   "ad94d1d8cdb151188c46305ab275c257": {
@@ -433,90 +511,6 @@
    "company": "Wakuli Koffie",
    "role": "Online Marketing Internship",
    "location": "Amsterdam"
-  },
-  "05cf1f43a6778bc633db92e828e1822e": {
-   "id": "05cf1f43a6778bc633db92e828e1822e",
-   "company": "Yonego",
-   "role": "Business Development Stagestagebreda",
-   "location": "Breda"
-  },
-  "bfcba4c501f877a8a3ffbdae4d8d3c5c": {
-   "id": "bfcba4c501f877a8a3ffbdae4d8d3c5c",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Driving Global Talent & Growth",
-   "location": "S Hertogenbosch"
-  },
-  "2df10de0d452cf162ca86f6285b12c8e": {
-   "id": "2df10de0d452cf162ca86f6285b12c8e",
-   "company": "Avery Dennison Corp",
-   "role": "Internship: Pilot Plant Innovation",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "438a6f155a1aa47f47a181cb90f80ccb": {
-   "id": "438a6f155a1aa47f47a181cb90f80ccb",
-   "company": "Avery Dennison Smartrac",
-   "role": "Internship: Pilot Plant Innovation",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "460e964d0e00d8ad018f501b80e74442": {
-   "id": "460e964d0e00d8ad018f501b80e74442",
-   "company": "NN Group",
-   "role": "Devops Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "949b1e8d7d8fa060bbcd9299802b7106": {
-   "id": "949b1e8d7d8fa060bbcd9299802b7106",
-   "company": "Philips UK",
-   "role": "Internship: Global Service Operations Program Within Service Enablement Team",
-   "location": "Eindhoven"
-  },
-  "f3ca40af25a48d0e2d62ace318f34d7e": {
-   "id": "f3ca40af25a48d0e2d62ace318f34d7e",
-   "company": "Philips UK",
-   "role": "Internship - Ai-powered Digital Daily Management For Quality Operations",
-   "location": "Eindhoven"
-  },
-  "a03e38123c559495bc9fc0974d462476": {
-   "id": "a03e38123c559495bc9fc0974d462476",
-   "company": "Citco",
-   "role": "Portfolio Management Intern",
-   "location": "Amsterdam"
-  },
-  "4f89d05192074beef3b39d46ca7db897": {
-   "id": "4f89d05192074beef3b39d46ca7db897",
-   "company": "Newyorkbioconnect",
-   "role": "Stagiair – Laboratorium Of Productietechniek – Visuele Inspectie",
-   "location": "North Brabant"
-  },
-  "ac47e0a8c6024028b82da45d0f4d5380": {
-   "id": "ac47e0a8c6024028b82da45d0f4d5380",
-   "company": "Philjobs",
-   "role": "Internship: Sales And Business Development",
-   "location": "Amsterdam"
-  },
-  "9bd13e3784591598cd47efbcefb631b6": {
-   "id": "9bd13e3784591598cd47efbcefb631b6",
-   "company": "Philips Respironics",
-   "role": "Internship: Change Management (master, Non-thesis)",
-   "location": "Amsterdam"
-  },
-  "fa96f39fb0aae7f45114c0cb3ae62fa6": {
-   "id": "fa96f39fb0aae7f45114c0cb3ae62fa6",
-   "company": "Philips Respironics",
-   "role": "Internship: Transformation Programs In Personal Health Isc (master, Non-thesis)",
-   "location": "Amsterdam"
-  },
-  "deec1ce62d1e403b9a844b981fbe9134": {
-   "id": "deec1ce62d1e403b9a844b981fbe9134",
-   "company": "Philips Respironics",
-   "role": "Internship: Enterprise Strategy",
-   "location": "Amsterdam"
-  },
-  "c7097f50d1feb08e2aa70c9c7a89fb92": {
-   "id": "c7097f50d1feb08e2aa70c9c7a89fb92",
-   "company": "Vanderlande",
-   "role": "Internship: Optimizing Project Management Through Digital Transformation",
-   "location": "S Hertogenbosch"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
@@ -926,11 +920,23 @@
    "role": "Asset Management And Development Analyst",
    "location": "Amsterdam"
   },
-  "a8b5a49313288004bc3e03e1cade2954": {
-   "id": "a8b5a49313288004bc3e03e1cade2954",
-   "company": "William Blair",
-   "role": "Investment Banking Analyst, Private Capital Markets",
-   "location": "Amsterdam"
+  "a356a942c5ec01052d65ce3a9a35a35c": {
+   "id": "a356a942c5ec01052d65ce3a9a35a35c",
+   "company": "Curium",
+   "role": "Co-worker Mechanical",
+   "location": "Petten"
+  },
+  "ff79b10b3003dbb062c5b7ae6ab459b1": {
+   "id": "ff79b10b3003dbb062c5b7ae6ab459b1",
+   "company": "Ingersoll Rand PLC",
+   "role": "Service Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "76a8fdf215a2eb548e9969fc031a7ffb": {
+   "id": "76a8fdf215a2eb548e9969fc031a7ffb",
+   "company": "Bunge",
+   "role": "Onderhoudsmonteur Wtb / E&i",
+   "location": "Wormerveer"
   },
   "cfbca7c33caefee1996043cfaad68864": {
    "id": "cfbca7c33caefee1996043cfaad68864",
@@ -1256,12 +1262,6 @@
    "role": "Maintenance Technician X3",
    "location": "Venlo"
   },
-  "ff79b10b3003dbb062c5b7ae6ab459b1": {
-   "id": "ff79b10b3003dbb062c5b7ae6ab459b1",
-   "company": "Ingersoll Rand PLC",
-   "role": "Service Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
   "2d6048f81743d0f340988e53144088b3": {
    "id": "2d6048f81743d0f340988e53144088b3",
    "company": "afa'afea",
@@ -1309,12 +1309,6 @@
    "company": "KONE Macedonia",
    "role": "Service Monteur Liften",
    "location": "Alphen Aan Den Rijn"
-  },
-  "76a8fdf215a2eb548e9969fc031a7ffb": {
-   "id": "76a8fdf215a2eb548e9969fc031a7ffb",
-   "company": "Bunge",
-   "role": "Onderhoudsmonteur Wtb / E&i",
-   "location": "Wormerveer"
   },
   "9ebb9ba0738331f120175a065ac762ac": {
    "id": "9ebb9ba0738331f120175a065ac762ac",
@@ -1403,12 +1397,6 @@
   "689cfaa83aca0667f5626970b113f1b4": {
    "id": "689cfaa83aca0667f5626970b113f1b4",
    "company": "IFF",
-   "role": "Facility Medewerker",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "86344bff1d7733a7d6db81543eff0ef8": {
-   "id": "86344bff1d7733a7d6db81543eff0ef8",
-   "company": "International Flavors & Fragrances Inc. (IFF)",
    "role": "Facility Medewerker",
    "location": "Alphen Aan Den Rijn"
   },
@@ -1778,6 +1766,12 @@
    "role": "Sales Associate",
    "location": "Alphen Aan Den Rijn"
   },
+  "026c40c87c0baf06c4ee32eccfb79202": {
+   "id": "026c40c87c0baf06c4ee32eccfb79202",
+   "company": "Free People (URBN)",
+   "role": "Urban Outfitters Sales Associate - Rotterdam Beurstraverse, Nl",
+   "location": "Alphen Aan Den Rijn"
+  },
   "9c5e6466ced4acb8dbec60e8dc14dfee": {
    "id": "9c5e6466ced4acb8dbec60e8dc14dfee",
    "company": "H&M",
@@ -1880,11 +1874,11 @@
    "role": "Sales Associate",
    "location": "Alphen Aan Den Rijn"
   },
-  "835091d632e55a12eadc9093e8dd1e25": {
-   "id": "835091d632e55a12eadc9093e8dd1e25",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)",
-   "location": "Alphen Aan Den Rijn"
+  "9ac2097ba0a1a5f1187e8584e2dff5fb": {
+   "id": "9ac2097ba0a1a5f1187e8584e2dff5fb",
+   "company": "Den Hartogh Liquid Logistics",
+   "role": "Logistiek Administratief Medewerker",
+   "location": "Veenendaal"
   },
   "2724c64125b2e8ecfa8655db5febc40e": {
    "id": "2724c64125b2e8ecfa8655db5febc40e",
