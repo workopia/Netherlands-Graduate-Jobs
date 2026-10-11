@@ -1,13 +1,7 @@
 {
- "asOf": "2026-10-10",
- "count": 342,
+ "asOf": "2026-10-11",
+ "count": 340,
  "jobs": {
-  "86062": {
-   "id": "86062",
-   "company": "Henkel",
-   "role": "Administration Assistant",
-   "location": "Scheemda"
-  },
   "2680765": {
    "id": "2680765",
    "company": "Amarosa",
@@ -32,11 +26,71 @@
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
   },
+  "26d1827375ffab4eeb8b8d2d98118e1a": {
+   "id": "26d1827375ffab4eeb8b8d2d98118e1a",
+   "company": "Ask Phill",
+   "role": "Marketing &amp; Events Interninternshipamsterdam",
+   "location": "Amsterdam"
+  },
+  "e816e1561b8b0db937b4afa3e118f245": {
+   "id": "e816e1561b8b0db937b4afa3e118f245",
+   "company": "IOM",
+   "role": "Human Resources Intern",
+   "location": "Netherlands (The Kingdom Of The)"
+  },
   "cc929aa56418d7a2ec94bdd0cafc8f96": {
    "id": "cc929aa56418d7a2ec94bdd0cafc8f96",
    "company": "Stichting Doen",
    "role": "Impact Investment Stagiairfulltimebeethovenstraat 200, Amsterdam",
    "location": "Amsterdam"
+  },
+  "9d10d65990b28e2a10f0f94829c50a53": {
+   "id": "9d10d65990b28e2a10f0f94829c50a53",
+   "company": "Vanderlande",
+   "role": "Internship: Hmi Ux Design For Smart Automation",
+   "location": "S Hertogenbosch"
+  },
+  "5794e405f5ff3de55cf459a57488d8af": {
+   "id": "5794e405f5ff3de55cf459a57488d8af",
+   "company": "Vanderlande",
+   "role": "Internship: Management Systems Business Analysis",
+   "location": "S Hertogenbosch"
+  },
+  "f05187b209a87551310e41d3a38723a2": {
+   "id": "f05187b209a87551310e41d3a38723a2",
+   "company": "Laboratory Animal Management Association",
+   "role": "Intern – Formulation - Discovery And Technology Research",
+   "location": "North Brabant"
+  },
+  "224495574654daacfefa87d6e2cc1859": {
+   "id": "224495574654daacfefa87d6e2cc1859",
+   "company": "CYBEX GmbH",
+   "role": "Intern Marketing Netherlands (m/f/d)",
+   "location": "Amsterdam"
+  },
+  "c5d3344f29265bd18633ad5049d68bdb": {
+   "id": "c5d3344f29265bd18633ad5049d68bdb",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: Hmi & Ux Design For Smart Automation",
+   "location": "S Hertogenbosch"
+  },
+  "e9ae150d996979350822328fe7ddf064": {
+   "id": "e9ae150d996979350822328fe7ddf064",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: Management Systems & Business Analysis",
+   "location": "S Hertogenbosch"
+  },
+  "ef540b1e0c056342847b747933e7a684": {
+   "id": "ef540b1e0c056342847b747933e7a684",
+   "company": "Core Lab",
+   "role": "Intern",
+   "location": "Amsterdam"
+  },
+  "af22b6e83b2c952658e581a4b0ca2142": {
+   "id": "af22b6e83b2c952658e581a4b0ca2142",
+   "company": "Caldic B.V",
+   "role": "Esg Intern",
+   "location": "Alphen Aan Den Rijn"
   },
   "4aa205876024ed0b82f171c37966feac": {
    "id": "4aa205876024ed0b82f171c37966feac",
@@ -452,66 +506,6 @@
    "role": "Build The Future Of Work, Create Reusable Ai Skills For Vanderlande",
    "location": "S Hertogenbosch"
   },
-  "05e7cdc1a7e1a948c4cd9fd115d46182": {
-   "id": "05e7cdc1a7e1a948c4cd9fd115d46182",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Scaling Value Engineering Capability Through Intelligent Agents",
-   "location": "S Hertogenbosch"
-  },
-  "0b6541148a4ae5e496ba0b125ffdc834": {
-   "id": "0b6541148a4ae5e496ba0b125ffdc834",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Build The Future Of Work, Create Reusable Ai Skills For Vanderlande",
-   "location": "S Hertogenbosch"
-  },
-  "87464d62cb73334de79abc6d4a275fd2": {
-   "id": "87464d62cb73334de79abc6d4a275fd2",
-   "company": "Google",
-   "role": "Data Center Facilities Technician Intern, 2027",
-   "location": "Eemshaven"
-  },
-  "2c4fa8c042371c10b611da31a06c1861": {
-   "id": "2c4fa8c042371c10b611da31a06c1861",
-   "company": "Google",
-   "role": "Data Center Technician Intern, 2027",
-   "location": "Eemshaven"
-  },
-  "48b1d925e6ae4165da8e279978999c40": {
-   "id": "48b1d925e6ae4165da8e279978999c40",
-   "company": "Mufgcampus",
-   "role": "2027 Mufg 6 Month Amsterdam Internship: Japanese Corporate Banking Division",
-   "location": "Amsterdam"
-  },
-  "1b4479b265a2082f94209d66ccce4e77": {
-   "id": "1b4479b265a2082f94209d66ccce4e77",
-   "company": "Mdcrecruiting",
-   "role": "Stagiair - Mbo Microbiologie/biochemie/procestechnologie - Tissue Culture Boxmeer",
-   "location": "Venlo"
-  },
-  "2cbbcf8a46fbb83fa5bfaf4a53de1950": {
-   "id": "2cbbcf8a46fbb83fa5bfaf4a53de1950",
-   "company": "why LLP",
-   "role": "Werkstudent - Corporate Litigation (lai)",
-   "location": "Amsterdam"
-  },
-  "5c5264c2dbb748eb827b67378fc6c3cd": {
-   "id": "5c5264c2dbb748eb827b67378fc6c3cd",
-   "company": "Kraft Heinz",
-   "role": "Marketing Intern - Sauces",
-   "location": "Amsterdam"
-  },
-  "a3db07bbd7f94cce80b8333a6ae22f9f": {
-   "id": "a3db07bbd7f94cce80b8333a6ae22f9f",
-   "company": "Netvlies V.O.F",
-   "role": "Stage En Afstuderen",
-   "location": "Breda"
-  },
-  "32d592d255b5b2ae962d7bbd91211f53": {
-   "id": "32d592d255b5b2ae962d7bbd91211f53",
-   "company": "Wakuli Koffie",
-   "role": "Online Marketing Internship",
-   "location": "Amsterdam"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -602,6 +596,12 @@
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
    "location": "Amsterdam"
   },
+  "656103437c99664fa1663336f0ae63ff": {
+   "id": "656103437c99664fa1663336f0ae63ff",
+   "company": "TELUS Digital",
+   "role": "Online Data Analyst - Dutch Speakers In Netherlands - Telus Digital - Remote",
+   "location": "Netherlands"
+  },
   "50c008e0f8135b4df6d9b645088075d6": {
    "id": "50c008e0f8135b4df6d9b645088075d6",
    "company": "Basic-Fit",
@@ -619,6 +619,12 @@
    "company": "Jobgether",
    "role": "Marketing & Data Analyst",
    "location": "Netherlands"
+  },
+  "6d1799d66effff4bdfce015c3848fbaa": {
+   "id": "6d1799d66effff4bdfce015c3848fbaa",
+   "company": "Schneider Electric",
+   "role": "Vie - Commercial Data Governance Analyst - Amsterdam",
+   "location": "Amsterdam"
   },
   "276307cbef567504b102add702d515ab": {
    "id": "276307cbef567504b102add702d515ab",
@@ -914,12 +920,6 @@
    "role": "Transactional Revenue Intelligence & Systems Analyst",
    "location": "Netherlands"
   },
-  "636e4cc2c6e8cd7397869aa6b7c28a4b": {
-   "id": "636e4cc2c6e8cd7397869aa6b7c28a4b",
-   "company": "URW (Unibail-Rodamco-Westfield)",
-   "role": "Asset Management And Development Analyst",
-   "location": "Amsterdam"
-  },
   "a356a942c5ec01052d65ce3a9a35a35c": {
    "id": "a356a942c5ec01052d65ce3a9a35a35c",
    "company": "Curium",
@@ -1160,6 +1160,12 @@
    "role": "Facility Technician",
    "location": "Alphen Aan Den Rijn"
   },
+  "c04c3510802dbc23612da117b3708bb8": {
+   "id": "c04c3510802dbc23612da117b3708bb8",
+   "company": "AkzoNobel N.V.",
+   "role": "Onderhoudsmonteur (wtb/e) / Ammerzoden",
+   "location": "Ammerzoden"
+  },
   "09d1b22a0d0f49387d89ec237a81b11b": {
    "id": "09d1b22a0d0f49387d89ec237a81b11b",
    "company": "Ardagh Group",
@@ -1394,22 +1400,22 @@
    "role": "Facility Medewerker",
    "location": "Alphen Aan Den Rijn"
   },
-  "689cfaa83aca0667f5626970b113f1b4": {
-   "id": "689cfaa83aca0667f5626970b113f1b4",
-   "company": "IFF",
-   "role": "Facility Medewerker",
+  "464019d4d5ff618b754205611f2e5b58": {
+   "id": "464019d4d5ff618b754205611f2e5b58",
+   "company": "JYSK",
+   "role": "Verkoopmedewerker Met Ambitie",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "cc6751214e3ff144e2b6c4e8708ae490": {
+   "id": "cc6751214e3ff144e2b6c4e8708ae490",
+   "company": "H&M",
+   "role": "Sales Advisor 21h",
    "location": "Alphen Aan Den Rijn"
   },
   "c2e86a4761c415d94473aad5119b6da7": {
    "id": "c2e86a4761c415d94473aad5119b6da7",
    "company": "H&M",
    "role": "Verkoopmedewerker - Amsterdam Noord (31 Uur)",
-   "location": "Amsterdam"
-  },
-  "873558cd295a057d2e2eb62a4203caf0": {
-   "id": "873558cd295a057d2e2eb62a4203caf0",
-   "company": "JYSK",
-   "role": "Verkoopmedewerker Met Ambitie",
    "location": "Amsterdam"
   },
   "b5637698495a5cb8c60bddc6b40d0fc2": {
@@ -1458,12 +1464,6 @@
    "id": "80c71e1877c6785ad71e228a0a0fc3de",
    "company": "Cartier",
    "role": "Sales Associate",
-   "location": "Amsterdam"
-  },
-  "d333b8396cee4c609acb17875b68f3da": {
-   "id": "d333b8396cee4c609acb17875b68f3da",
-   "company": "H&M",
-   "role": "Sales Advisor 21h",
    "location": "Amsterdam"
   },
   "706bbf8f5399244c1902bf8dbf92838f": {
@@ -2035,18 +2035,6 @@
    "company": "Wpp",
    "role": "Administrative Associate - Legal",
    "location": "Alphen Aan Den Rijn"
-  },
-  "a7161ee589189a35875ee4dd33d199f0": {
-   "id": "a7161ee589189a35875ee4dd33d199f0",
-   "company": "Jobgether",
-   "role": "People And Culture Assistant",
-   "location": "Netherlands"
-  },
-  "d3a413700b5fd7df0af135501f98fe08": {
-   "id": "d3a413700b5fd7df0af135501f98fe08",
-   "company": "CMA CGM Group",
-   "role": "Assistant Warehouse Supervisor Outbound",
-   "location": "Amsterdam"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",

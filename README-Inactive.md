@@ -1776,4 +1776,21 @@
 <tr><td>William Blair</td><td>Investment Banking Analyst, Private Capital Markets</td><td>Amsterdam</td><td>2026-10-10</td></tr>
 <tr><td>International Flavors & Fragrances Inc. (IFF)</td><td>Facility Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-10-10</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Verkoopmedewerker - Naaldwijk (16/21/26/31 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-10-10</td></tr>
+<tr><td>Henkel</td><td>Administration Assistant</td><td>Scheemda</td><td>2026-10-11</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Scaling Value Engineering Capability Through Intelligent Agents</td><td>S Hertogenbosch</td><td>2026-10-11</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Build The Future Of Work, Create Reusable Ai Skills For Vanderlande</td><td>S Hertogenbosch</td><td>2026-10-11</td></tr>
+<tr><td>Google</td><td>Data Center Facilities Technician Intern, 2027</td><td>Eemshaven</td><td>2026-10-11</td></tr>
+<tr><td>Google</td><td>Data Center Technician Intern, 2027</td><td>Eemshaven</td><td>2026-10-11</td></tr>
+<tr><td>Mufgcampus</td><td>2027 Mufg 6 Month Amsterdam Internship: Japanese Corporate Banking Division</td><td>Amsterdam</td><td>2026-10-11</td></tr>
+<tr><td>Mdcrecruiting</td><td>Stagiair - Mbo Microbiologie/biochemie/procestechnologie - Tissue Culture Boxmeer</td><td>Venlo</td><td>2026-10-11</td></tr>
+<tr><td>why LLP</td><td>Werkstudent - Corporate Litigation (lai)</td><td>Amsterdam</td><td>2026-10-11</td></tr>
+<tr><td>Kraft Heinz</td><td>Marketing Intern - Sauces</td><td>Amsterdam</td><td>2026-10-11</td></tr>
+<tr><td>Netvlies V.O.F</td><td>Stage En Afstuderen</td><td>Breda</td><td>2026-10-11</td></tr>
+<tr><td>Wakuli Koffie</td><td>Online Marketing Internship</td><td>Amsterdam</td><td>2026-10-11</td></tr>
+<tr><td>URW (Unibail-Rodamco-Westfield)</td><td>Asset Management And Development Analyst</td><td>Amsterdam</td><td>2026-10-11</td></tr>
+<tr><td>IFF</td><td>Facility Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-10-11</td></tr>
+<tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Amsterdam</td><td>2026-10-11</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 21h</td><td>Amsterdam</td><td>2026-10-11</td></tr>
+<tr><td>Jobgether</td><td>People And Culture Assistant</td><td>Netherlands</td><td>2026-10-11</td></tr>
+<tr><td>CMA CGM Group</td><td>Assistant Warehouse Supervisor Outbound</td><td>Amsterdam</td><td>2026-10-11</td></tr>
 </table>
