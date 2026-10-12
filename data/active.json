@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-11",
+ "asOf": "2026-10-12",
  "count": 340,
  "jobs": {
   "2680765": {
@@ -26,11 +26,47 @@
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
   },
+  "5d7819b96a1c7ad439b89b714abb6586": {
+   "id": "5d7819b96a1c7ad439b89b714abb6586",
+   "company": "Action",
+   "role": "Stagiaire Sourcing",
+   "location": "Nl"
+  },
+  "414106ab76e3377f56c877f1174daedc": {
+   "id": "414106ab76e3377f56c877f1174daedc",
+   "company": "Arvato",
+   "role": "Hse Internship",
+   "location": "Arnhem"
+  },
+  "c24defd9ae8d2b2cacb746be03e92afd": {
+   "id": "c24defd9ae8d2b2cacb746be03e92afd",
+   "company": "createyourowncareer",
+   "role": "Internship Logistics",
+   "location": "Venlo"
+  },
+  "84058a9cea472bcbb22c3f0a11a04b7b": {
+   "id": "84058a9cea472bcbb22c3f0a11a04b7b",
+   "company": "Arvato",
+   "role": "Internship Learning & Development",
+   "location": "Arnhem"
+  },
+  "7515935b6e1bb0befa3bce7f7447792e": {
+   "id": "7515935b6e1bb0befa3bce7f7447792e",
+   "company": "createyourowncareer",
+   "role": "Internship Facility Management",
+   "location": "Puttershoek"
+  },
   "26d1827375ffab4eeb8b8d2d98118e1a": {
    "id": "26d1827375ffab4eeb8b8d2d98118e1a",
    "company": "Ask Phill",
    "role": "Marketing &amp; Events Interninternshipamsterdam",
    "location": "Amsterdam"
+  },
+  "417db3065fdc1beee4f56777521831d7": {
+   "id": "417db3065fdc1beee4f56777521831d7",
+   "company": "Belden Inc.",
+   "role": "Customer Service Intern",
+   "location": "Venlo"
   },
   "e816e1561b8b0db937b4afa3e118f245": {
    "id": "e816e1561b8b0db937b4afa3e118f245",
@@ -108,6 +144,12 @@
    "id": "f9e2d11fa59e33b60a689f39c9f8be45",
    "company": "Philips UK",
    "role": "Internship: Full Stack Developer In Finance Domain",
+   "location": "Eindhoven"
+  },
+  "c0f93e42d4b938e95dc0428dbc2d93e3": {
+   "id": "c0f93e42d4b938e95dc0428dbc2d93e3",
+   "company": "Careers Philips",
+   "role": "Intern",
    "location": "Eindhoven"
   },
   "482eff63253e8b263097a8e8a55f8a98": {
@@ -200,6 +242,12 @@
    "role": "Internship: Ai- Driven Hr Innovation",
    "location": "S Hertogenbosch"
   },
+  "2885cadd334718e140dab3d2c14892ad": {
+   "id": "2885cadd334718e140dab3d2c14892ad",
+   "company": "NXP Semiconductors",
+   "role": "Nvm Reliability Intern",
+   "location": "Arnhem"
+  },
   "c539789a4ecf76fc3520fcf784ba4351": {
    "id": "c539789a4ecf76fc3520fcf784ba4351",
    "company": "Vanderlande UK",
@@ -241,6 +289,12 @@
    "company": "JLG Industries Inc",
    "role": "Marketing Intern – Social, Pr, Events & Content",
    "location": "Amsterdam"
+  },
+  "64ad8ab905eba1a1bb941da20ba5f7c9": {
+   "id": "64ad8ab905eba1a1bb941da20ba5f7c9",
+   "company": "Henkel",
+   "role": "Internship - Production Management",
+   "location": "Scheemda"
   },
   "dbb85305977f7c1669df3797d0b57c66": {
    "id": "dbb85305977f7c1669df3797d0b57c66",
@@ -452,60 +506,6 @@
    "role": "Content Marketing Internship (dutch Speaking) - Growing Impact Scale Up",
    "location": "Amsterdam"
   },
-  "59efcd594003b8d28d8a9d5c3a2056e4": {
-   "id": "59efcd594003b8d28d8a9d5c3a2056e4",
-   "company": "AgriPlace B.V",
-   "role": "Content Marketing Internship (german Speaking) - Growing Impact Scale Up",
-   "location": "Amsterdam"
-  },
-  "744ec18079dafef6d38c275e812fb89e": {
-   "id": "744ec18079dafef6d38c275e812fb89e",
-   "company": "IDEXX Laboratories Inc",
-   "role": "People Operations & Global Mobility Intern",
-   "location": "Amsterdam"
-  },
-  "6aaec9ee2f338a982c71dce7d30eba48": {
-   "id": "6aaec9ee2f338a982c71dce7d30eba48",
-   "company": "IDEXX Laboratories Inc",
-   "role": "Employee Marketing & Internal Communications Intern",
-   "location": "Amsterdam"
-  },
-  "36c5c41b9343fd1796d21c13bb029d6b": {
-   "id": "36c5c41b9343fd1796d21c13bb029d6b",
-   "company": "Ferrero LADM",
-   "role": "Internship - Assistant Trade Marketing Nl (5 Months, February - June)",
-   "location": "Netherlands"
-  },
-  "877a99728c30581da1d5fd08347f5e10": {
-   "id": "877a99728c30581da1d5fd08347f5e10",
-   "company": "Edelman",
-   "role": "Communications Intern",
-   "location": "Amsterdam"
-  },
-  "76efc7df25094af9af61e7f6a82abe4c": {
-   "id": "76efc7df25094af9af61e7f6a82abe4c",
-   "company": "Avanade",
-   "role": "Afstudeerstage Ai In Dynamics365 Customer Engagement",
-   "location": "Amsterdam"
-  },
-  "d7124ab3b022b3003a0f5e4023f0aa54": {
-   "id": "d7124ab3b022b3003a0f5e4023f0aa54",
-   "company": "Vanderlande",
-   "role": "Internship: Scaling Value Engineering Capability Through Intelligent Agents",
-   "location": "S Hertogenbosch"
-  },
-  "141c8f6b462b09c73c08f36b6b571c95": {
-   "id": "141c8f6b462b09c73c08f36b6b571c95",
-   "company": "Vanderlande",
-   "role": "Internship: Driving Global Talent Growth",
-   "location": "S Hertogenbosch"
-  },
-  "f2fca4fed93707e7b4ebda09d753a237": {
-   "id": "f2fca4fed93707e7b4ebda09d753a237",
-   "company": "Vanderlande",
-   "role": "Build The Future Of Work, Create Reusable Ai Skills For Vanderlande",
-   "location": "S Hertogenbosch"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -708,6 +708,12 @@
    "id": "262aa92cc43c579a2579184288367506",
    "company": "ING",
    "role": "Internship Debt Capital Markets – Ig Corporate Origination",
+   "location": "Amsterdam"
+  },
+  "d7efd10a4c816742101b408d34ef93c4": {
+   "id": "d7efd10a4c816742101b408d34ef93c4",
+   "company": "Accenture Australia",
+   "role": "Mgmt Consulting - Commerce Advisory",
    "location": "Amsterdam"
   },
   "49dbba37829fc10287bd5fa09eda90f2": {
@@ -1880,6 +1886,18 @@
    "role": "Logistiek Administratief Medewerker",
    "location": "Veenendaal"
   },
+  "75d7cc267dde895a5687e3f8f2478785": {
+   "id": "75d7cc267dde895a5687e3f8f2478785",
+   "company": "Primark",
+   "role": "Verkoopmedewerker / Sales Assistant Weekend Eindhoven",
+   "location": "Eindhoven"
+  },
+  "6985b3f863fec1c84cde6195dbbd4aec": {
+   "id": "6985b3f863fec1c84cde6195dbbd4aec",
+   "company": "Primark",
+   "role": "Verkoopmedewerker / Sales Assistant Parttime Eindhoven",
+   "location": "Eindhoven"
+  },
   "2724c64125b2e8ecfa8655db5febc40e": {
    "id": "2724c64125b2e8ecfa8655db5febc40e",
    "company": "Primark",
@@ -1903,18 +1921,6 @@
    "company": "Moelis & Company",
    "role": "Administrative Assistant - Amsterdam",
    "location": "Amsterdam"
-  },
-  "8901ea7124f0062bf395b0d481306575": {
-   "id": "8901ea7124f0062bf395b0d481306575",
-   "company": "Primark",
-   "role": "Verkoopmedewerker / Sales Assistant Weekend Eindhoven",
-   "location": "Eindhoven"
-  },
-  "3d2ed220d4a5762ee2b6316658050a12": {
-   "id": "3d2ed220d4a5762ee2b6316658050a12",
-   "company": "Primark",
-   "role": "Verkoopmedewerker / Sales Assistant Parttime Eindhoven",
-   "location": "Eindhoven"
   },
   "ec16fd2fdb6b6a9879bec1d0e8826baa": {
    "id": "ec16fd2fdb6b6a9879bec1d0e8826baa",
@@ -2029,12 +2035,6 @@
    "company": "Primark",
    "role": "Parttime Retail Assistant Zaandam",
    "location": "Amsterdam"
-  },
-  "86622be660adf3a492b015cd1f9a701a": {
-   "id": "86622be660adf3a492b015cd1f9a701a",
-   "company": "Wpp",
-   "role": "Administrative Associate - Legal",
-   "location": "Alphen Aan Den Rijn"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",

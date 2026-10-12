@@ -1793,4 +1793,16 @@
 <tr><td>H&M</td><td>Sales Advisor 21h</td><td>Amsterdam</td><td>2026-10-11</td></tr>
 <tr><td>Jobgether</td><td>People And Culture Assistant</td><td>Netherlands</td><td>2026-10-11</td></tr>
 <tr><td>CMA CGM Group</td><td>Assistant Warehouse Supervisor Outbound</td><td>Amsterdam</td><td>2026-10-11</td></tr>
+<tr><td>AgriPlace B.V</td><td>Content Marketing Internship (german Speaking) - Growing Impact Scale Up</td><td>Amsterdam</td><td>2026-10-12</td></tr>
+<tr><td>IDEXX Laboratories Inc</td><td>People Operations & Global Mobility Intern</td><td>Amsterdam</td><td>2026-10-12</td></tr>
+<tr><td>IDEXX Laboratories Inc</td><td>Employee Marketing & Internal Communications Intern</td><td>Amsterdam</td><td>2026-10-12</td></tr>
+<tr><td>Ferrero LADM</td><td>Internship - Assistant Trade Marketing Nl (5 Months, February - June)</td><td>Netherlands</td><td>2026-10-12</td></tr>
+<tr><td>Edelman</td><td>Communications Intern</td><td>Amsterdam</td><td>2026-10-12</td></tr>
+<tr><td>Avanade</td><td>Afstudeerstage Ai In Dynamics365 Customer Engagement</td><td>Amsterdam</td><td>2026-10-12</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Scaling Value Engineering Capability Through Intelligent Agents</td><td>S Hertogenbosch</td><td>2026-10-12</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Driving Global Talent Growth</td><td>S Hertogenbosch</td><td>2026-10-12</td></tr>
+<tr><td>Vanderlande</td><td>Build The Future Of Work, Create Reusable Ai Skills For Vanderlande</td><td>S Hertogenbosch</td><td>2026-10-12</td></tr>
+<tr><td>Primark</td><td>Verkoopmedewerker / Sales Assistant Weekend Eindhoven</td><td>Eindhoven</td><td>2026-10-12</td></tr>
+<tr><td>Primark</td><td>Verkoopmedewerker / Sales Assistant Parttime Eindhoven</td><td>Eindhoven</td><td>2026-10-12</td></tr>
+<tr><td>Wpp</td><td>Administrative Associate - Legal</td><td>Alphen Aan Den Rijn</td><td>2026-10-12</td></tr>
 </table>
