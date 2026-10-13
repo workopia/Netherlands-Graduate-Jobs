@@ -1805,4 +1805,6 @@
 <tr><td>Primark</td><td>Verkoopmedewerker / Sales Assistant Weekend Eindhoven</td><td>Eindhoven</td><td>2026-10-12</td></tr>
 <tr><td>Primark</td><td>Verkoopmedewerker / Sales Assistant Parttime Eindhoven</td><td>Eindhoven</td><td>2026-10-12</td></tr>
 <tr><td>Wpp</td><td>Administrative Associate - Legal</td><td>Alphen Aan Den Rijn</td><td>2026-10-12</td></tr>
+<tr><td>AgriPlace B.V</td><td>Content Marketing Internship (dutch Speaking) - Growing Impact Scale Up</td><td>Amsterdam</td><td>2026-10-13</td></tr>
+<tr><td>Jobgether</td><td>Transactional Revenue Intelligence & Systems Analyst</td><td>Netherlands</td><td>2026-10-13</td></tr>
 </table>

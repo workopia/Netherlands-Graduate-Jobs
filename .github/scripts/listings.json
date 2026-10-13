@@ -9,11 +9,11 @@
   "site_slug": "netherlands",
   "lang": "nl",
   "site_live": false,
-  "as_of": "2026-10-12",
+  "as_of": "2026-10-13",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 3611,
-  "generated_at": "2026-10-12T00:04:06.801Z"
+  "country_live_total": 3602,
+  "generated_at": "2026-10-13T00:08:19.135Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "6b856d7c4f2f2930757538e0c6be3867",
+   "source": "Workopia",
+   "company_name": "Booking Holdings",
+   "company_hi_slug": "booking",
+   "title": "Finance Internship: Accounting",
+   "location": "Amsterdam",
+   "skills": "Financial reporting, Month-end close",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-12T08:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/6b856d7c4f2f2930757538e0c6be3867",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "5d7819b96a1c7ad439b89b714abb6586",
@@ -1418,23 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "0fa046fccb9bbc373408e21abbdabdf7",
-   "source": "Workopia",
-   "company_name": "AgriPlace B.V",
-   "company_hi_slug": "agriplace-b-v",
-   "title": "Content Marketing Internship (dutch Speaking) - Growing Impact Scale Up",
-   "location": "Amsterdam",
-   "skills": "Dutch and English flue, content creation",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-10-05T09:36:57.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/0fa046fccb9bbc373408e21abbdabdf7",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "€1,200/mo",
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "source": "Workopia",
@@ -2014,6 +2014,23 @@
   },
   {
    "salary_display": null,
+   "id": "e2eb4fe7e58d2d49a278025f6de6869b",
+   "source": "Workopia",
+   "company_name": "Oaklins International Inc",
+   "company_hi_slug": "oaklins-international-inc",
+   "title": "Investment Banking Interninternshipamsterdam, Zuidas",
+   "location": "Amsterdam",
+   "skills": "M&A transactions, ECM transactions",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-12T01:25:41.785Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/e2eb4fe7e58d2d49a278025f6de6869b",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "d7efd10a4c816742101b408d34ef93c4",
    "source": "Workopia",
    "company_name": "Accenture Australia",
@@ -2179,23 +2196,6 @@
    "date_posted": "2026-09-23T12:20:08.562Z",
    "active": true,
    "url": "https://workopia.io/jobs/bcf1211452e39b8ef12a52526401a4c4",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "e2eb4fe7e58d2d49a278025f6de6869b",
-   "source": "Workopia",
-   "company_name": "Oaklins International Inc",
-   "company_hi_slug": "oaklins-international-inc",
-   "title": "Investment Banking Interninternshipamsterdam, Zuidas",
-   "location": "Amsterdam",
-   "skills": "corporate finance, M&A, ECM and Debt tran",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-21T09:29:48.444Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/e2eb4fe7e58d2d49a278025f6de6869b",
    "category": "finance",
    "tier": "Entry-level"
   },
@@ -2626,19 +2626,19 @@
   },
   {
    "salary_display": null,
-   "id": "e6aed354d6e398747f52d6212bd75e33",
+   "id": "6f35bac61e072b4da4d24e039d3519a5",
    "source": "Workopia",
-   "company_name": "Jobgether",
-   "company_hi_slug": "jobgether",
-   "title": "Transactional Revenue Intelligence & Systems Analyst",
-   "location": "Netherlands",
-   "skills": "build dashboards, analyze customer and m",
+   "company_name": "Chart Industries Inc",
+   "company_hi_slug": "chart-industries-inc",
+   "title": "Maintenance/field Services Technician",
+   "location": "Zuidland",
+   "skills": "Preventive and correct, Reading technical draw",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-08-13T12:19:25.185Z",
+   "date_posted": "2026-10-12T03:46:03.358Z",
    "active": true,
-   "url": "https://workopia.io/jobs/e6aed354d6e398747f52d6212bd75e33",
-   "category": "finance",
+   "url": "https://workopia.io/jobs/6f35bac61e072b4da4d24e039d3519a5",
+   "category": "trades",
    "tier": "Entry-level"
   },
   {
@@ -3437,23 +3437,6 @@
    "date_posted": "2026-09-26T03:38:19.461Z",
    "active": true,
    "url": "https://workopia.io/jobs/3160dc308fee9e092e66f0da95d1c794",
-   "category": "trades",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "6f35bac61e072b4da4d24e039d3519a5",
-   "source": "Workopia",
-   "company_name": "Chart Industries Inc",
-   "company_hi_slug": "chart-industries-inc",
-   "title": "Maintenance/field Services Technician",
-   "location": "Zuidland",
-   "skills": "Preventive and correct, Reading technical draw",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-25T18:18:52.387Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/6f35bac61e072b4da4d24e039d3519a5",
    "category": "trades",
    "tier": "Entry-level"
   },
