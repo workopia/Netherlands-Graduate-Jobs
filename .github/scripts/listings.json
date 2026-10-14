@@ -12,8 +12,8 @@
   "as_of": "2026-10-14",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 3614,
-  "generated_at": "2026-10-14T00:04:33.872Z"
+  "country_live_total": 3098,
+  "generated_at": "2026-10-14T11:58:24.566Z"
  },
  "categories": [
   {
@@ -5800,23 +5800,6 @@
    "date_posted": "2026-08-20T09:42:07.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/2716517",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "71c4e2f4e814f5d3b1265076b6fa9470",
-   "source": "Workopia",
-   "company_name": "Primark",
-   "company_hi_slug": "primark",
-   "title": "Parttime Retail Assistant Zaandam",
-   "location": "Amsterdam",
-   "skills": "customer assistance on, cash register service",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-15T11:11:43.383Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/71c4e2f4e814f5d3b1265076b6fa9470",
    "category": "admin",
    "tier": "Entry-level"
   },

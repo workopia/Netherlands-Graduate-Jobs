@@ -1824,4 +1824,5 @@
 <tr><td>Vopak</td><td>Onderhoudsmonteur Wtb</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
 <tr><td>International Flavors & Fragrances</td><td>Facility Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
 <tr><td>TK Maxx</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
+<tr><td>Primark</td><td>Parttime Retail Assistant Zaandam</td><td>Amsterdam</td><td>2026-10-14</td></tr>
 </table>
