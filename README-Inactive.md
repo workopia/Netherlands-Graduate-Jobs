@@ -1807,4 +1807,21 @@
 <tr><td>Wpp</td><td>Administrative Associate - Legal</td><td>Alphen Aan Den Rijn</td><td>2026-10-12</td></tr>
 <tr><td>AgriPlace B.V</td><td>Content Marketing Internship (dutch Speaking) - Growing Impact Scale Up</td><td>Amsterdam</td><td>2026-10-13</td></tr>
 <tr><td>Jobgether</td><td>Transactional Revenue Intelligence & Systems Analyst</td><td>Netherlands</td><td>2026-10-13</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Designing A Unified, Scalable Planning Solution For The Global Distribution Service Desk</td><td>S Hertogenbosch</td><td>2026-10-14</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Designing A Unified, Scalable Planning Solution For The Global Distribution Service Desk</td><td>S Hertogenbosch</td><td>2026-10-14</td></tr>
+<tr><td>KraftHeinz</td><td>Logistics Finance Intern</td><td>Amsterdam</td><td>2026-10-14</td></tr>
+<tr><td>unilever.es</td><td>Internship '27: Digital Finance</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
+<tr><td>unilever.es</td><td>Internship '27: Finance</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
+<tr><td>unilever.es</td><td>Internship '27: Supply Chain And Operations</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
+<tr><td>unilever.es</td><td>Internship '27: Sustainable Business And Communications</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Power Platform Intern</td><td>Haarlerbergpark</td><td>2026-10-14</td></tr>
+<tr><td>KraftHeinz</td><td>Commercial Strategy Intern - Meals & Taste Elevation</td><td>Amsterdam</td><td>2026-10-14</td></tr>
+<tr><td>KraftHeinz</td><td>Logistics & Inventory Intern</td><td>Amsterdam</td><td>2026-10-14</td></tr>
+<tr><td>NXP USA INC.</td><td>Internship – Product Engineering (ml Model Development)</td><td>Arnhem</td><td>2026-10-14</td></tr>
+<tr><td>NXP Semiconductors</td><td>Phd Internship</td><td>Eindhoven</td><td>2026-10-14</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Stagiair(e) Digital Video & Audio Advertising</td><td>Amsterdam</td><td>2026-10-14</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Internship Digital Video & Audio Advertising</td><td>Amsterdam</td><td>2026-10-14</td></tr>
+<tr><td>Vopak</td><td>Onderhoudsmonteur Wtb</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
+<tr><td>International Flavors & Fragrances</td><td>Facility Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
+<tr><td>TK Maxx</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
 </table>

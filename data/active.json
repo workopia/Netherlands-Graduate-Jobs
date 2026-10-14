@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-13",
+ "asOf": "2026-10-14",
  "count": 339,
  "jobs": {
   "2680765": {
@@ -25,6 +25,90 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "225be422612a65228185006d62e9e5d2": {
+   "id": "225be422612a65228185006d62e9e5d2",
+   "company": "Perfetti Van Melle ICT B.V",
+   "role": "Internship Digital Content Marketing - Amsterdam Location",
+   "location": "Amsterdam"
+  },
+  "9d6b6a7b0c273428ab7d4c6e5348bee8": {
+   "id": "9d6b6a7b0c273428ab7d4c6e5348bee8",
+   "company": "pladis Global",
+   "role": "Marketing Stagiair",
+   "location": "Amsterdam"
+  },
+  "cabefd17b1bd37aff4597d84c49acacb": {
+   "id": "cabefd17b1bd37aff4597d84c49acacb",
+   "company": "KraftHeinz",
+   "role": "Commercial Finance Intern",
+   "location": "Amsterdam"
+  },
+  "bbcf11164b25b4d084c6001797c09779": {
+   "id": "bbcf11164b25b4d084c6001797c09779",
+   "company": "KraftHeinz",
+   "role": "Operations Finance Intern",
+   "location": "Amsterdam"
+  },
+  "dc9f12eafa6d7d70e9e598038d9e2931": {
+   "id": "dc9f12eafa6d7d70e9e598038d9e2931",
+   "company": "KraftHeinz",
+   "role": "Marketing Intern - Drinks & Brunch",
+   "location": "Amsterdam"
+  },
+  "d3e0206e6de1a1b98ecbce75b928ec85": {
+   "id": "d3e0206e6de1a1b98ecbce75b928ec85",
+   "company": "YetiCoolers",
+   "role": "Marketing Internship - Auas Students",
+   "location": "Amsterdam"
+  },
+  "5153bc8b3d9a528a3b988b1102189742": {
+   "id": "5153bc8b3d9a528a3b988b1102189742",
+   "company": "Vanderlande",
+   "role": "Internship: Building The Future Of Work With Low-code Ai Skills For Vanderlande",
+   "location": "S Hertogenbosch"
+  },
+  "66a8245a7588d2855ef35590ef558629": {
+   "id": "66a8245a7588d2855ef35590ef558629",
+   "company": "Irdeto",
+   "role": "Systems Integration Intern",
+   "location": "Amsterdam"
+  },
+  "5deda1a9bd5d451494c1b5f4f5c6b612": {
+   "id": "5deda1a9bd5d451494c1b5f4f5c6b612",
+   "company": "Irdeto",
+   "role": "Grc Intern",
+   "location": "Amsterdam"
+  },
+  "d7db8dd44d8b759750586b3bcce6cf3b": {
+   "id": "d7db8dd44d8b759750586b3bcce6cf3b",
+   "company": "Irdeto",
+   "role": "Marketing Intern",
+   "location": "Amsterdam"
+  },
+  "30d0e2134a29f16a649e40d8d14cca11": {
+   "id": "30d0e2134a29f16a649e40d8d14cca11",
+   "company": "source",
+   "role": "Plant Science Intern",
+   "location": "Amsterdam"
+  },
+  "10b95c9540074bd93324fe2a70cd84cb": {
+   "id": "10b95c9540074bd93324fe2a70cd84cb",
+   "company": "ODYSSEY HOTEL Group",
+   "role": "F&b Intern - Jan 2027",
+   "location": "Arnhem"
+  },
+  "1a7d78c879ccc885352e3264b653668c": {
+   "id": "1a7d78c879ccc885352e3264b653668c",
+   "company": "ODYSSEY HOTEL Group",
+   "role": "Front Office Intern - Jan 2027",
+   "location": "Arnhem"
+  },
+  "626cfc51deb8b4de9d68e18201b2bd4e": {
+   "id": "626cfc51deb8b4de9d68e18201b2bd4e",
+   "company": "ODYSSEY HOTEL Group",
+   "role": "Groups & Events Intern - Jan 2027",
+   "location": "Breda"
   },
   "6b856d7c4f2f2930757538e0c6be3867": {
    "id": "6b856d7c4f2f2930757538e0c6be3867",
@@ -420,90 +504,6 @@
    "id": "decabd4f19a6536f2f9fbca100565d80",
    "company": "UBER",
    "role": "2027 Operations Intern - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "8db75d8d60a749b1fc0f33c7aeb84f43": {
-   "id": "8db75d8d60a749b1fc0f33c7aeb84f43",
-   "company": "Vanderlande",
-   "role": "Internship: Designing A Unified, Scalable Planning Solution For The Global Distribution Service Desk",
-   "location": "S Hertogenbosch"
-  },
-  "283193268d5a3a797471751db94fdf3b": {
-   "id": "283193268d5a3a797471751db94fdf3b",
-   "company": "Vanderlande UK",
-   "role": "Internship: Designing A Unified, Scalable Planning Solution For The Global Distribution Service Desk",
-   "location": "S Hertogenbosch"
-  },
-  "aace78bba12c02847ab5ac7fd2f21c1e": {
-   "id": "aace78bba12c02847ab5ac7fd2f21c1e",
-   "company": "KraftHeinz",
-   "role": "Logistics Finance Intern",
-   "location": "Amsterdam"
-  },
-  "ff88a21d0f44b0c6a309d6358528062b": {
-   "id": "ff88a21d0f44b0c6a309d6358528062b",
-   "company": "unilever.es",
-   "role": "Internship '27: Digital Finance",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "b945413f0f11dd16a11255f60c2fb859": {
-   "id": "b945413f0f11dd16a11255f60c2fb859",
-   "company": "unilever.es",
-   "role": "Internship '27: Finance",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "c73644f2db8705d3f2845a9ec19d71ad": {
-   "id": "c73644f2db8705d3f2845a9ec19d71ad",
-   "company": "unilever.es",
-   "role": "Internship '27: Supply Chain And Operations",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "54fe235dc06f9961bbc615258f3d8c95": {
-   "id": "54fe235dc06f9961bbc615258f3d8c95",
-   "company": "unilever.es",
-   "role": "Internship '27: Sustainable Business And Communications",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "c98db3916533598a264fd8cf9e2c317c": {
-   "id": "c98db3916533598a264fd8cf9e2c317c",
-   "company": "Investmentbankinginternships",
-   "role": "Power Platform Intern",
-   "location": "Haarlerbergpark"
-  },
-  "82d7ffadd398a2cb26c518509a3744ca": {
-   "id": "82d7ffadd398a2cb26c518509a3744ca",
-   "company": "KraftHeinz",
-   "role": "Commercial Strategy Intern - Meals & Taste Elevation",
-   "location": "Amsterdam"
-  },
-  "d2be9b6e4a1c46971246ce53d477f24d": {
-   "id": "d2be9b6e4a1c46971246ce53d477f24d",
-   "company": "KraftHeinz",
-   "role": "Logistics & Inventory Intern",
-   "location": "Amsterdam"
-  },
-  "29dc173b0d69cab7f95435cbadfe05b6": {
-   "id": "29dc173b0d69cab7f95435cbadfe05b6",
-   "company": "NXP USA INC.",
-   "role": "Internship – Product Engineering (ml Model Development)",
-   "location": "Arnhem"
-  },
-  "db3f3e2a9e568d09047122e1f5942013": {
-   "id": "db3f3e2a9e568d09047122e1f5942013",
-   "company": "NXP Semiconductors",
-   "role": "Phd Internship",
-   "location": "Eindhoven"
-  },
-  "038886d8ebddbe10f2f86c11261331c7": {
-   "id": "038886d8ebddbe10f2f86c11261331c7",
-   "company": "WPP Media Australia & New Zealand",
-   "role": "Stagiair(e) Digital Video & Audio Advertising",
-   "location": "Amsterdam"
-  },
-  "2059f415bf658da93320bd5edab996c2": {
-   "id": "2059f415bf658da93320bd5edab996c2",
-   "company": "WPP Media Australia & New Zealand",
-   "role": "Internship Digital Video & Audio Advertising",
    "location": "Amsterdam"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
@@ -919,6 +919,18 @@
    "company": "Jobgether",
    "role": "Business And Management Specialist – Freelance Ai Trainer Project",
    "location": "Netherlands"
+  },
+  "c226119d0227229554c397ec42407a15": {
+   "id": "c226119d0227229554c397ec42407a15",
+   "company": "Nexton Building Services",
+   "role": "Servicetechnicus Elektrotechniek / Nexton Building Services / Amsterdam",
+   "location": "Amsterdam"
+  },
+  "7f0afe48bf1f5ce182f66af64019df02": {
+   "id": "7f0afe48bf1f5ce182f66af64019df02",
+   "company": "Nexton Building Services",
+   "role": "Servicetechnicus Werktuigbouwkunde / Nexton Building Services / Amsterdam",
+   "location": "Amsterdam"
   },
   "6f35bac61e072b4da4d24e039d3519a5": {
    "id": "6f35bac61e072b4da4d24e039d3519a5",
@@ -1388,16 +1400,10 @@
    "role": "Service Engineer In Eigen Regio In Nederland - Carrier Hvac",
    "location": "Netherlands"
   },
-  "8bd8a501557269dde40ee28f0bf7fa69": {
-   "id": "8bd8a501557269dde40ee28f0bf7fa69",
-   "company": "Vopak",
-   "role": "Onderhoudsmonteur Wtb",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "0ff14fb1d7209f930cf5360525455925": {
-   "id": "0ff14fb1d7209f930cf5360525455925",
-   "company": "International Flavors & Fragrances",
-   "role": "Facility Medewerker",
+  "6f165c03f3a493ba04a04f335e9956b5": {
+   "id": "6f165c03f3a493ba04a04f335e9956b5",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Den Haag (16/21 Uur)",
    "location": "Alphen Aan Den Rijn"
   },
   "464019d4d5ff618b754205611f2e5b58": {
@@ -1866,12 +1872,6 @@
    "id": "bb94c4213f91b66fb76f1fb3d599be09",
    "company": "H&M",
    "role": "Verkoopmedewerker - Rotterdam Alexandrium (26 Uur)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "f747b3a43de82dfe544abf55e24a1840": {
-   "id": "f747b3a43de82dfe544abf55e24a1840",
-   "company": "TK Maxx",
-   "role": "Sales Associate",
    "location": "Alphen Aan Den Rijn"
   },
   "9ac2097ba0a1a5f1187e8584e2dff5fb": {
