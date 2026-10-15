@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-14",
- "count": 338,
+ "asOf": "2026-10-15",
+ "count": 340,
  "jobs": {
   "2680765": {
    "id": "2680765",
@@ -25,6 +25,54 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "9f77940e261ea2c71fe4ddfcf0d504c5": {
+   "id": "9f77940e261ea2c71fe4ddfcf0d504c5",
+   "company": "Vanderlande UK",
+   "role": "Internship: Design And Analysis Of Timber Structures For Industrial Platforms",
+   "location": "S Hertogenbosch"
+  },
+  "88756497ba763526881b7bc500fa7a42": {
+   "id": "88756497ba763526881b7bc500fa7a42",
+   "company": "Danone",
+   "role": "Specialized Ingredients Procurment Intern",
+   "location": "Amsterdam"
+  },
+  "614b51fb6a14a81c6f13050e7b32998f": {
+   "id": "614b51fb6a14a81c6f13050e7b32998f",
+   "company": "Danone",
+   "role": "Intern Supply Chain Customer Experience Planning",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "40aa623e402c0b928fce17f69dc1bf6f": {
+   "id": "40aa623e402c0b928fce17f69dc1bf6f",
+   "company": "Danone",
+   "role": "Finance Operations Emea Intern",
+   "location": "Amsterdam"
+  },
+  "96092d119c9436a16035b274dcddc9d0": {
+   "id": "96092d119c9436a16035b274dcddc9d0",
+   "company": "Danone",
+   "role": "Internship (marketing): Metabolics",
+   "location": "Amsterdam"
+  },
+  "a0af9d5f8944a9b910bbb7efc0efb5d1": {
+   "id": "a0af9d5f8944a9b910bbb7efc0efb5d1",
+   "company": "itinfinance.nl",
+   "role": "Internship - Financial Markets Tribe",
+   "location": "Treasury Center"
+  },
+  "c8522e667b7b95fe5673c50f81f83688": {
+   "id": "c8522e667b7b95fe5673c50f81f83688",
+   "company": "Danone",
+   "role": "Transport Intern - Global Logistics &amp; Distribution Hub",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "92f8f196185dd6d852234e8751093acc": {
+   "id": "92f8f196185dd6d852234e8751093acc",
+   "company": "Danone",
+   "role": "Internship (supply Chain): Global Distribution &amp; Logistics Hub Transportation Intern",
+   "location": "Alphen Aan Den Rijn"
   },
   "225be422612a65228185006d62e9e5d2": {
    "id": "225be422612a65228185006d62e9e5d2",
@@ -458,54 +506,6 @@
    "role": "Sales Finance Intern",
    "location": "Amsterdam"
   },
-  "4805f9f3e04aa1009d98e3999da05147": {
-   "id": "4805f9f3e04aa1009d98e3999da05147",
-   "company": "Heineken International BV",
-   "role": "Internship - Global Health & Safety Information Management & Digital Workplace",
-   "location": "Amsterdam"
-  },
-  "0e98819a098606dd4ef58e3fa23b42a0": {
-   "id": "0e98819a098606dd4ef58e3fa23b42a0",
-   "company": "ABB Ltd",
-   "role": "(graduation) Internship Treasury",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "cc8399a405663a2449ac5280a4982582": {
-   "id": "cc8399a405663a2449ac5280a4982582",
-   "company": "Hotel Chadstone Melbourne MGallery",
-   "role": "Food & Beverage Management Intern – Lotti’s",
-   "location": "Amsterdam"
-  },
-  "05d60e5cd8f57008339a0990b33761c0": {
-   "id": "05d60e5cd8f57008339a0990b33761c0",
-   "company": "Hotel Chadstone Melbourne MGallery",
-   "role": "Front Office Intern - The Hoxton, Amsterdam",
-   "location": "Amsterdam"
-  },
-  "2a681c0f2a39c45b7e16095a620b4076": {
-   "id": "2a681c0f2a39c45b7e16095a620b4076",
-   "company": "Hines",
-   "role": "Intern - Finance",
-   "location": "Amsterdam"
-  },
-  "dce8febddccdada09fb9cbdc68bd894a": {
-   "id": "dce8febddccdada09fb9cbdc68bd894a",
-   "company": "Bolton Group S.r.l",
-   "role": "Legal Intern",
-   "location": "Netherlands"
-  },
-  "a65a2ce6d2c0b8b3186cc4247ea291c5": {
-   "id": "a65a2ce6d2c0b8b3186cc4247ea291c5",
-   "company": "ICL ISRAEL Ltd",
-   "role": "Intern Gpo Indirect",
-   "location": "Amsterdam"
-  },
-  "decabd4f19a6536f2f9fbca100565d80": {
-   "id": "decabd4f19a6536f2f9fbca100565d80",
-   "company": "UBER",
-   "role": "2027 Operations Intern - Amsterdam",
-   "location": "Amsterdam"
-  },
   "2a9741c4771608fbb96b389c15fb6adc": {
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
@@ -686,6 +686,12 @@
    "role": "Sap Data Analyst",
    "location": "Amsterdam"
   },
+  "73e0e2f53100af75e567189a8c5ff930": {
+   "id": "73e0e2f53100af75e567189a8c5ff930",
+   "company": "itinfinance.nl",
+   "role": "Internship Financial Institutions Lending",
+   "location": "Amsterdam"
+  },
   "46987d1bc16759e68828782aa6069248": {
    "id": "46987d1bc16759e68828782aa6069248",
    "company": "Oliver Wyman",
@@ -708,6 +714,12 @@
    "id": "262aa92cc43c579a2579184288367506",
    "company": "ING",
    "role": "Internship Debt Capital Markets – Ig Corporate Origination",
+   "location": "Amsterdam"
+  },
+  "b5ad4572b372a0b97521de7ff0317900": {
+   "id": "b5ad4572b372a0b97521de7ff0317900",
+   "company": "MSX International Ltd",
+   "role": "Business Analyst Nissan Nl",
    "location": "Amsterdam"
   },
   "e2eb4fe7e58d2d49a278025f6de6869b": {
@@ -919,6 +931,12 @@
    "company": "Jobgether",
    "role": "Business And Management Specialist – Freelance Ai Trainer Project",
    "location": "Netherlands"
+  },
+  "f8ce1f6e2b8d44199d8255c05b7c1c6c": {
+   "id": "f8ce1f6e2b8d44199d8255c05b7c1c6c",
+   "company": "Damen Global Support B.V",
+   "role": "Maintenance Technician",
+   "location": "Alphen Aan Den Rijn"
   },
   "c226119d0227229554c397ec42407a15": {
    "id": "c226119d0227229554c397ec42407a15",
@@ -1280,6 +1298,12 @@
    "role": "Maintenance Technician X3",
    "location": "Venlo"
   },
+  "9785a1d6702b3ff7a06f82300dc28555": {
+   "id": "9785a1d6702b3ff7a06f82300dc28555",
+   "company": "MANN HUMMEL GmbH",
+   "role": "Lse Technical Service",
+   "location": "Utrecht"
+  },
   "2d6048f81743d0f340988e53144088b3": {
    "id": "2d6048f81743d0f340988e53144088b3",
    "company": "afa'afea",
@@ -1388,17 +1412,29 @@
    "role": "Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
-  "748ff8f37cf4444f79449b1b42586ef0": {
-   "id": "748ff8f37cf4444f79449b1b42586ef0",
-   "company": "Carrier Global",
-   "role": "Service Engineer In Eigen Regio In Nederland - Carrier Hvac",
-   "location": "Netherlands"
+  "a0942c9b815ca34fc853d33f62fe42dc": {
+   "id": "a0942c9b815ca34fc853d33f62fe42dc",
+   "company": "Capri",
+   "role": "Part Time Sales Associate 8h",
+   "location": "Amsterdam"
   },
-  "4d0160ff899cafa044c5cf0f3cbeb30a": {
-   "id": "4d0160ff899cafa044c5cf0f3cbeb30a",
-   "company": "Carrier Corporation",
-   "role": "Service Engineer In Eigen Regio In Nederland - Carrier Hvac",
-   "location": "Netherlands"
+  "8f5811d7c90c67ec8d02bbe9443992f5": {
+   "id": "8f5811d7c90c67ec8d02bbe9443992f5",
+   "company": "Free People (URBN)",
+   "role": "Urban Outfitters Sales Associate - Amsterdam Kalverstraat, Nl",
+   "location": "Amsterdam"
+  },
+  "bb301d12c25a31bf7c4032ac891061ec": {
+   "id": "bb301d12c25a31bf7c4032ac891061ec",
+   "company": "H&M",
+   "role": "Sales Advisor 5-12h",
+   "location": "Amsterdam"
+  },
+  "918751778bf895abb0ef52cfd30f7393": {
+   "id": "918751778bf895abb0ef52cfd30f7393",
+   "company": "H&M",
+   "role": "Sales Advisor 21h",
+   "location": "Amsterdam"
   },
   "6f165c03f3a493ba04a04f335e9956b5": {
    "id": "6f165c03f3a493ba04a04f335e9956b5",
@@ -1410,12 +1446,6 @@
    "id": "464019d4d5ff618b754205611f2e5b58",
    "company": "JYSK",
    "role": "Verkoopmedewerker Met Ambitie",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "cc6751214e3ff144e2b6c4e8708ae490": {
-   "id": "cc6751214e3ff144e2b6c4e8708ae490",
-   "company": "H&M",
-   "role": "Sales Advisor 21h",
    "location": "Alphen Aan Den Rijn"
   },
   "c2e86a4761c415d94473aad5119b6da7": {
@@ -1476,12 +1506,6 @@
    "id": "706bbf8f5399244c1902bf8dbf92838f",
    "company": "H&M",
    "role": "Sales Advisor 31h",
-   "location": "Amsterdam"
-  },
-  "f8c90fd84a6134f0dff86bb7aa9fda8b": {
-   "id": "f8c90fd84a6134f0dff86bb7aa9fda8b",
-   "company": "H&M",
-   "role": "Sales Advisor 5-12h",
    "location": "Amsterdam"
   },
   "0967e162cd1a2bed1315906bee8dde08": {
@@ -1860,18 +1884,6 @@
    "id": "20c6e60122cf21e3d0edadc8d6606010",
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Stage Verkoop Retail Rotterdam Beijerlandselaan",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "a004d085f5925e0641e99fd95f7b947a": {
-   "id": "a004d085f5925e0641e99fd95f7b947a",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Verkoopmedewerker Telecom & Mobiel Beijerlandselaan",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "bb94c4213f91b66fb76f1fb3d599be09": {
-   "id": "bb94c4213f91b66fb76f1fb3d599be09",
-   "company": "H&M",
-   "role": "Verkoopmedewerker - Rotterdam Alexandrium (26 Uur)",
    "location": "Alphen Aan Den Rijn"
   },
   "9ac2097ba0a1a5f1187e8584e2dff5fb": {

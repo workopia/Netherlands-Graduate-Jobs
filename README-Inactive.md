@@ -1825,4 +1825,18 @@
 <tr><td>International Flavors & Fragrances</td><td>Facility Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
 <tr><td>TK Maxx</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-10-14</td></tr>
 <tr><td>Primark</td><td>Parttime Retail Assistant Zaandam</td><td>Amsterdam</td><td>2026-10-14</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Health & Safety Information Management & Digital Workplace</td><td>Amsterdam</td><td>2026-10-15</td></tr>
+<tr><td>ABB Ltd</td><td>(graduation) Internship Treasury</td><td>Alphen Aan Den Rijn</td><td>2026-10-15</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Food & Beverage Management Intern – Lotti’s</td><td>Amsterdam</td><td>2026-10-15</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Front Office Intern - The Hoxton, Amsterdam</td><td>Amsterdam</td><td>2026-10-15</td></tr>
+<tr><td>Hines</td><td>Intern - Finance</td><td>Amsterdam</td><td>2026-10-15</td></tr>
+<tr><td>Bolton Group S.r.l</td><td>Legal Intern</td><td>Netherlands</td><td>2026-10-15</td></tr>
+<tr><td>ICL ISRAEL Ltd</td><td>Intern Gpo Indirect</td><td>Amsterdam</td><td>2026-10-15</td></tr>
+<tr><td>UBER</td><td>2027 Operations Intern - Amsterdam</td><td>Amsterdam</td><td>2026-10-15</td></tr>
+<tr><td>Carrier Global</td><td>Service Engineer In Eigen Regio In Nederland - Carrier Hvac</td><td>Netherlands</td><td>2026-10-15</td></tr>
+<tr><td>Carrier Corporation</td><td>Service Engineer In Eigen Regio In Nederland - Carrier Hvac</td><td>Netherlands</td><td>2026-10-15</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 21h</td><td>Alphen Aan Den Rijn</td><td>2026-10-15</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 5-12h</td><td>Amsterdam</td><td>2026-10-15</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Telecom & Mobiel Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-10-15</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker - Rotterdam Alexandrium (26 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-10-15</td></tr>
 </table>
