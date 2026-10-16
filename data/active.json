@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-15",
- "count": 340,
+ "asOf": "2026-10-16",
+ "count": 342,
  "jobs": {
   "2680765": {
    "id": "2680765",
@@ -25,6 +25,66 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "a67a25ea3cc6ed3544629f19c80a9d91": {
+   "id": "a67a25ea3cc6ed3544629f19c80a9d91",
+   "company": "Melia",
+   "role": "Human Resources Internship",
+   "location": "Amsterdam"
+  },
+  "9adc9371c56cf0714eb65d3a8e70feae": {
+   "id": "9adc9371c56cf0714eb65d3a8e70feae",
+   "company": "Accenture Australia",
+   "role": "Public Services Strategy & Consulting Internship",
+   "location": "Amsterdam"
+  },
+  "9b80990c3416912da0616dd612d5617b": {
+   "id": "9b80990c3416912da0616dd612d5617b",
+   "company": "KraftHeinz",
+   "role": "Logistics Intern",
+   "location": "Amsterdam"
+  },
+  "3e093f7fbe222545bd9a8bacc4e8f41f": {
+   "id": "3e093f7fbe222545bd9a8bacc4e8f41f",
+   "company": "KraftHeinz",
+   "role": "Marketing Project Management Intern",
+   "location": "Amsterdam"
+  },
+  "3c7d373d56ee7f39979049346b50a4b8": {
+   "id": "3c7d373d56ee7f39979049346b50a4b8",
+   "company": "itinfinance.nl",
+   "role": "Intern M&a-2",
+   "location": "Maple"
+  },
+  "de3c48674ef7f40b936466d219713a6b": {
+   "id": "de3c48674ef7f40b936466d219713a6b",
+   "company": "itinfinance.nl",
+   "role": "Intern M&a-3",
+   "location": "Maple"
+  },
+  "df5406e7b69dc50c425f4a3549c62b5a": {
+   "id": "df5406e7b69dc50c425f4a3549c62b5a",
+   "company": "Vanderlande",
+   "role": "Internship: Design And Analysis Of Timber Structures For Industrial Platforms",
+   "location": "S Hertogenbosch"
+  },
+  "aa086cc34058192cfe120a0a175ceebb": {
+   "id": "aa086cc34058192cfe120a0a175ceebb",
+   "company": "Bynder",
+   "role": "Office Manager Intern",
+   "location": "Amsterdam"
+  },
+  "88aabc592e91db3f1d7a23fb0f23e144": {
+   "id": "88aabc592e91db3f1d7a23fb0f23e144",
+   "company": "Avery Dennison Smartrac",
+   "role": "Internship: Business Intelligence And Finance Excellence",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "1e913df8a1b6cc397ee78b904306e10a": {
+   "id": "1e913df8a1b6cc397ee78b904306e10a",
+   "company": "Avery Dennison Corp",
+   "role": "Internship: Business Intelligence And Finance Excellence",
+   "location": "Alphen Aan Den Rijn"
   },
   "9f77940e261ea2c71fe4ddfcf0d504c5": {
    "id": "9f77940e261ea2c71fe4ddfcf0d504c5",
@@ -62,6 +122,12 @@
    "role": "Internship - Financial Markets Tribe",
    "location": "Treasury Center"
   },
+  "ba98c51964dc8ceff16fe096e8db1d8e": {
+   "id": "ba98c51964dc8ceff16fe096e8db1d8e",
+   "company": "Danone",
+   "role": "Intern Supply Chain",
+   "location": "Alphen Aan Den Rijn"
+  },
   "c8522e667b7b95fe5673c50f81f83688": {
    "id": "c8522e667b7b95fe5673c50f81f83688",
    "company": "Danone",
@@ -72,6 +138,12 @@
    "id": "92f8f196185dd6d852234e8751093acc",
    "company": "Danone",
    "role": "Internship (supply Chain): Global Distribution &amp; Logistics Hub Transportation Intern",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "18ce1a8a3117a0d5001a5d747fc69683": {
+   "id": "18ce1a8a3117a0d5001a5d747fc69683",
+   "company": "Danone",
+   "role": "Quality And Food Safety Intern",
    "location": "Alphen Aan Den Rijn"
   },
   "225be422612a65228185006d62e9e5d2": {
@@ -434,76 +506,10 @@
    "role": "Internship - Production Management",
    "location": "Scheemda"
   },
-  "dbb85305977f7c1669df3797d0b57c66": {
-   "id": "dbb85305977f7c1669df3797d0b57c66",
-   "company": "Accenture Australia",
-   "role": "Public Services Technology Internship",
-   "location": "Amsterdam"
-  },
-  "b593ae7ea09fbd599404da8d46ed353d": {
-   "id": "b593ae7ea09fbd599404da8d46ed353d",
-   "company": "Vanderlande",
-   "role": "Internship: Making Airport Container Positioning For A Robot Setup Smarter",
-   "location": "S Hertogenbosch"
-  },
-  "96ad35e3641c589f8c4d73c0857a6a1b": {
-   "id": "96ad35e3641c589f8c4d73c0857a6a1b",
-   "company": "Vanderlande",
-   "role": "Internship: Drive The Next Gen, Testing Optimizing Autonomous Vehicles",
-   "location": "S Hertogenbosch"
-  },
-  "eb7ca690c9ecc8de18012a0d27e0c00d": {
-   "id": "eb7ca690c9ecc8de18012a0d27e0c00d",
-   "company": "Signify",
-   "role": "Internship Career Event Fontys - 07/10/2026",
-   "location": "Eindhoven"
-  },
-  "8c5fe1463f3d77152a1db460d9b640ef": {
-   "id": "8c5fe1463f3d77152a1db460d9b640ef",
-   "company": "NXP USA INC.",
-   "role": "Internship – Product Engineering (data Science: Machine Learning Analyst)",
-   "location": "Arnhem"
-  },
-  "3f7857ddd06c1ea99e1ec11daf69a2f9": {
-   "id": "3f7857ddd06c1ea99e1ec11daf69a2f9",
-   "company": "Vanderlande UK",
-   "role": "Internship: Making Airport Container Positioning For A Robot Setup Smarter",
-   "location": "S Hertogenbosch"
-  },
-  "7d76d3ad03b4a4f6a84f9df9cc950d2a": {
-   "id": "7d76d3ad03b4a4f6a84f9df9cc950d2a",
-   "company": "Vanderlande UK",
-   "role": "Internship: Drive The Next Gen, Testing & Optimizing Autonomous Vehicles",
-   "location": "S Hertogenbosch"
-  },
-  "59d729a24249611123f89bf68532b10b": {
-   "id": "59d729a24249611123f89bf68532b10b",
-   "company": "ING",
-   "role": "Wo Meewerkstage Structured Acquisition Finance Mid-corporates",
-   "location": "Amsterdam"
-  },
-  "a5699cd4a8767488642eb2c143846e8a": {
-   "id": "a5699cd4a8767488642eb2c143846e8a",
-   "company": "JLL",
-   "role": "Business Support, Intern",
-   "location": "Amsterdam"
-  },
-  "3b88b2d89146e4df66af5abd6a32f4fe": {
-   "id": "3b88b2d89146e4df66af5abd6a32f4fe",
-   "company": "Damenmc",
-   "role": "Internship: Anomaly Detection For Smart Maintenance",
-   "location": "S Hertogenbosch"
-  },
-  "2241a6cad34342c7498e6d9765ed09c1": {
-   "id": "2241a6cad34342c7498e6d9765ed09c1",
-   "company": "Damenmc",
-   "role": "Internship: Sustainability Communication",
-   "location": "S Hertogenbosch"
-  },
-  "05ce0cade5a72156dfee47cbb9581296": {
-   "id": "05ce0cade5a72156dfee47cbb9581296",
-   "company": "KraftHeinz",
-   "role": "Sales Finance Intern",
+  "4479df504e4c9731d0edc314bf928813": {
+   "id": "4479df504e4c9731d0edc314bf928813",
+   "company": "Booking Holdings",
+   "role": "Junior Software Engineer I - Summer Internship 2027 (amsterdam)",
    "location": "Amsterdam"
   },
   "2a9741c4771608fbb96b389c15fb6adc": {
@@ -596,6 +602,12 @@
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
    "location": "Amsterdam"
   },
+  "f09ca2e77fd0db4bc9a418b2e23e6e68": {
+   "id": "f09ca2e77fd0db4bc9a418b2e23e6e68",
+   "company": "Booking",
+   "role": "Data Scientist Ii - Finance Payments",
+   "location": "Amsterdam"
+  },
   "656103437c99664fa1663336f0ae63ff": {
    "id": "656103437c99664fa1663336f0ae63ff",
    "company": "TELUS Digital",
@@ -643,12 +655,6 @@
    "company": "Glanbia",
    "role": "Online Data Analyst - Dutch (nl)",
    "location": "Netherlands"
-  },
-  "f09ca2e77fd0db4bc9a418b2e23e6e68": {
-   "id": "f09ca2e77fd0db4bc9a418b2e23e6e68",
-   "company": "Booking",
-   "role": "Data Scientist Ii - Finance Payments",
-   "location": "Amsterdam"
   },
   "10cbb1874dd7e314e36399048f52451a": {
    "id": "10cbb1874dd7e314e36399048f52451a",
@@ -931,6 +937,48 @@
    "company": "Jobgether",
    "role": "Business And Management Specialist – Freelance Ai Trainer Project",
    "location": "Netherlands"
+  },
+  "ec663601a6d1f91fa99837035cfd839d": {
+   "id": "ec663601a6d1f91fa99837035cfd839d",
+   "company": "EnerSys",
+   "role": "Servicemonteur",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "8ef59f7d54057178e6d239616939d153": {
+   "id": "8ef59f7d54057178e6d239616939d153",
+   "company": "Johnson & Johnson",
+   "role": "Maintenance Engineer – Electrical",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "86344bff1d7733a7d6db81543eff0ef8": {
+   "id": "86344bff1d7733a7d6db81543eff0ef8",
+   "company": "International Flavors & Fragrances Inc. (IFF)",
+   "role": "Facility Medewerker",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "4c631c746d8e65df93c65d68f9bf79f8": {
+   "id": "4c631c746d8e65df93c65d68f9bf79f8",
+   "company": "Yunex Traffic",
+   "role": "Service Technician Infra",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "6d12747b0869099da53e0bc7fff4e5fc": {
+   "id": "6d12747b0869099da53e0bc7fff4e5fc",
+   "company": "JLL",
+   "role": "Facility Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "a6f946f70e9666058e61845272cc9bed": {
+   "id": "a6f946f70e9666058e61845272cc9bed",
+   "company": "ABB Ltd",
+   "role": "Service Engineer Marine & Ports Drives",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "2d763c23434650e0a2a7497607f950c3": {
+   "id": "2d763c23434650e0a2a7497607f950c3",
+   "company": "Eurofins",
+   "role": "Servicemonteur Drinkwaterinstallaties",
+   "location": "Alphen Aan Den Rijn"
   },
   "f8ce1f6e2b8d44199d8255c05b7c1c6c": {
    "id": "f8ce1f6e2b8d44199d8255c05b7c1c6c",
@@ -1369,48 +1417,6 @@
    "company": "JBT Marel",
    "role": "Field Service Engineer Skinning -- Benelux",
    "location": "Netherlands"
-  },
-  "83abb115f7ac7d1f2168dea83e3242fb": {
-   "id": "83abb115f7ac7d1f2168dea83e3242fb",
-   "company": "JBT Marel",
-   "role": "Field Service Technician (controls)",
-   "location": "Netherlands"
-  },
-  "6a862b5d3a7ecf2bf4ad0f055f6957e9": {
-   "id": "6a862b5d3a7ecf2bf4ad0f055f6957e9",
-   "company": "JBT Marel",
-   "role": "Onderhoudsmonteur Td - Equipment Maintenance",
-   "location": "Venlo"
-  },
-  "62e4705d85e30a0f31a20e3ffcbb5757": {
-   "id": "62e4705d85e30a0f31a20e3ffcbb5757",
-   "company": "JBT Marel",
-   "role": "Field Service Engineer Automation",
-   "location": "Netherlands"
-  },
-  "7005d811871c076cdaca57fb07454ad8": {
-   "id": "7005d811871c076cdaca57fb07454ad8",
-   "company": "JBT Marel",
-   "role": "Field Service Engineer Evisceration",
-   "location": "Netherlands"
-  },
-  "9fcca822ac1dd75c3e73671572a15988": {
-   "id": "9fcca822ac1dd75c3e73671572a15988",
-   "company": "Otis",
-   "role": "Service Monteur Liften Amsterdam",
-   "location": "Badhoevedorp"
-  },
-  "835e2742816194d3cef61b5c1377f765": {
-   "id": "835e2742816194d3cef61b5c1377f765",
-   "company": "Carrier Global Corporation",
-   "role": "Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "3f90c90b6fc04f99786ff25eaf546103": {
-   "id": "3f90c90b6fc04f99786ff25eaf546103",
-   "company": "Carrier Transicold",
-   "role": "Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam",
-   "location": "Alphen Aan Den Rijn"
   },
   "a0942c9b815ca34fc853d33f62fe42dc": {
    "id": "a0942c9b815ca34fc853d33f62fe42dc",
@@ -1885,6 +1891,12 @@
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Stage Verkoop Retail Rotterdam Beijerlandselaan",
    "location": "Alphen Aan Den Rijn"
+  },
+  "22957d83dbf0f8c06a22286181e2a15a": {
+   "id": "22957d83dbf0f8c06a22286181e2a15a",
+   "company": "Wolters Kluwer",
+   "role": "Content Coordinator",
+   "location": "Nld"
   },
   "9ac2097ba0a1a5f1187e8584e2dff5fb": {
    "id": "9ac2097ba0a1a5f1187e8584e2dff5fb",

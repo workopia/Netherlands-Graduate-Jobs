@@ -1839,4 +1839,23 @@
 <tr><td>H&M</td><td>Sales Advisor 5-12h</td><td>Amsterdam</td><td>2026-10-15</td></tr>
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Telecom & Mobiel Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-10-15</td></tr>
 <tr><td>H&M</td><td>Verkoopmedewerker - Rotterdam Alexandrium (26 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-10-15</td></tr>
+<tr><td>Accenture Australia</td><td>Public Services Technology Internship</td><td>Amsterdam</td><td>2026-10-16</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Making Airport Container Positioning For A Robot Setup Smarter</td><td>S Hertogenbosch</td><td>2026-10-16</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Drive The Next Gen, Testing Optimizing Autonomous Vehicles</td><td>S Hertogenbosch</td><td>2026-10-16</td></tr>
+<tr><td>Signify</td><td>Internship Career Event Fontys - 07/10/2026</td><td>Eindhoven</td><td>2026-10-16</td></tr>
+<tr><td>NXP USA INC.</td><td>Internship – Product Engineering (data Science: Machine Learning Analyst)</td><td>Arnhem</td><td>2026-10-16</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Making Airport Container Positioning For A Robot Setup Smarter</td><td>S Hertogenbosch</td><td>2026-10-16</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Drive The Next Gen, Testing & Optimizing Autonomous Vehicles</td><td>S Hertogenbosch</td><td>2026-10-16</td></tr>
+<tr><td>ING</td><td>Wo Meewerkstage Structured Acquisition Finance Mid-corporates</td><td>Amsterdam</td><td>2026-10-16</td></tr>
+<tr><td>JLL</td><td>Business Support, Intern</td><td>Amsterdam</td><td>2026-10-16</td></tr>
+<tr><td>Damenmc</td><td>Internship: Anomaly Detection For Smart Maintenance</td><td>S Hertogenbosch</td><td>2026-10-16</td></tr>
+<tr><td>Damenmc</td><td>Internship: Sustainability Communication</td><td>S Hertogenbosch</td><td>2026-10-16</td></tr>
+<tr><td>KraftHeinz</td><td>Sales Finance Intern</td><td>Amsterdam</td><td>2026-10-16</td></tr>
+<tr><td>JBT Marel</td><td>Field Service Technician (controls)</td><td>Netherlands</td><td>2026-10-16</td></tr>
+<tr><td>JBT Marel</td><td>Onderhoudsmonteur Td - Equipment Maintenance</td><td>Venlo</td><td>2026-10-16</td></tr>
+<tr><td>JBT Marel</td><td>Field Service Engineer Automation</td><td>Netherlands</td><td>2026-10-16</td></tr>
+<tr><td>JBT Marel</td><td>Field Service Engineer Evisceration</td><td>Netherlands</td><td>2026-10-16</td></tr>
+<tr><td>Otis</td><td>Service Monteur Liften Amsterdam</td><td>Badhoevedorp</td><td>2026-10-16</td></tr>
+<tr><td>Carrier Global Corporation</td><td>Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-10-16</td></tr>
+<tr><td>Carrier Transicold</td><td>Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-10-16</td></tr>
 </table>
