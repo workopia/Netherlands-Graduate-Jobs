@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-16",
+ "asOf": "2026-10-17",
  "count": 342,
  "jobs": {
   "2680765": {
@@ -26,10 +26,70 @@
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
   },
+  "46868f4dcaec958558d021b4b63074c2": {
+   "id": "46868f4dcaec958558d021b4b63074c2",
+   "company": "Tencent Music Entertainment Group",
+   "role": "Product Manager Intern",
+   "location": "Amsterdam"
+  },
+  "49aadb25744b802e8120df059d53c92a": {
+   "id": "49aadb25744b802e8120df059d53c92a",
+   "company": "Kraft Heinz",
+   "role": "Procurement Intern",
+   "location": "Amsterdam"
+  },
+  "2de6a3ec657aa2043d576319d6f44d8d": {
+   "id": "2de6a3ec657aa2043d576319d6f44d8d",
+   "company": "Euronext Amsterdam",
+   "role": "Communications Intern",
+   "location": "Amsterdam"
+  },
+  "64541303ed66f398c98acd4c8559aa06": {
+   "id": "64541303ed66f398c98acd4c8559aa06",
+   "company": "Draka",
+   "role": "Intern",
+   "location": "Eindhoven"
+  },
+  "9d7b45f2e48599bd2f4a5357e69d9b10": {
+   "id": "9d7b45f2e48599bd2f4a5357e69d9b10",
+   "company": "Mars",
+   "role": "Thesis Internship – Forecast Analytics",
+   "location": "S Hertogenbosch"
+  },
+  "d8de9d80760fc67b2f335e65c528a514": {
+   "id": "d8de9d80760fc67b2f335e65c528a514",
+   "company": "Avery Dennison Smartrac",
+   "role": "Internship: Hr/talent Acquisition & Employer Branding",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "084afcaa8a31c5dc711831dc63fd1159": {
+   "id": "084afcaa8a31c5dc711831dc63fd1159",
+   "company": "Avery Dennison Corp",
+   "role": "Internship: Hr/talent Acquisition & Employer Branding",
+   "location": "Alphen Aan Den Rijn"
+  },
   "a67a25ea3cc6ed3544629f19c80a9d91": {
    "id": "a67a25ea3cc6ed3544629f19c80a9d91",
    "company": "Melia",
    "role": "Human Resources Internship",
+   "location": "Amsterdam"
+  },
+  "25495294896d7151c94662fa14411317": {
+   "id": "25495294896d7151c94662fa14411317",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Internship: Front Office - The Hoxton, Lloyd",
+   "location": "Amsterdam"
+  },
+  "4b0135b3026cea4b39db9f53aabe7b1a": {
+   "id": "4b0135b3026cea4b39db9f53aabe7b1a",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Internship: Assistant F&b Director - The Hoxton Lloyd",
+   "location": "Amsterdam"
+  },
+  "4172c3efe8c569fa15cd111812f1549e": {
+   "id": "4172c3efe8c569fa15cd111812f1549e",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Internship: People & Culture - The Hoxton, Lloyd",
    "location": "Amsterdam"
   },
   "9adc9371c56cf0714eb65d3a8e70feae": {
@@ -61,6 +121,18 @@
    "company": "itinfinance.nl",
    "role": "Intern M&a-3",
    "location": "Maple"
+  },
+  "4350932f3cf0ad8d37f3ff720a5c1b52": {
+   "id": "4350932f3cf0ad8d37f3ff720a5c1b52",
+   "company": "Marriott International",
+   "role": "Front Office Trainee",
+   "location": "Amsterdam"
+  },
+  "3c2c783095281c0b4015742f3f959018": {
+   "id": "3c2c783095281c0b4015742f3f959018",
+   "company": "McDonald's",
+   "role": "Intern Strategic Sourcing",
+   "location": "Netherlands"
   },
   "df5406e7b69dc50c425f4a3549c62b5a": {
    "id": "df5406e7b69dc50c425f4a3549c62b5a",
@@ -433,78 +505,6 @@
    "company": "The Procter & Gamble Company",
    "role": "Brand Management Internship",
    "location": "Alphen Aan Den Rijn"
-  },
-  "44309e57010dd12fd17c728df780a429": {
-   "id": "44309e57010dd12fd17c728df780a429",
-   "company": "Philips",
-   "role": "Internship: Enabling Execution Of 2030 Impact Ambitions",
-   "location": "Amsterdam"
-  },
-  "73b23e5961c80ea3e2a92eadb15c2623": {
-   "id": "73b23e5961c80ea3e2a92eadb15c2623",
-   "company": "Royal Philips",
-   "role": "Internship: Finance & Accounting - Group Consolidation & Reporting (non-thesis)",
-   "location": "Amsterdam"
-  },
-  "338b2fb75dd04e942170c22ab15b5930": {
-   "id": "338b2fb75dd04e942170c22ab15b5930",
-   "company": "Vanderlande",
-   "role": "Internship: Ai- Driven Hr Innovation",
-   "location": "S Hertogenbosch"
-  },
-  "2885cadd334718e140dab3d2c14892ad": {
-   "id": "2885cadd334718e140dab3d2c14892ad",
-   "company": "NXP Semiconductors",
-   "role": "Nvm Reliability Intern",
-   "location": "Arnhem"
-  },
-  "c539789a4ecf76fc3520fcf784ba4351": {
-   "id": "c539789a4ecf76fc3520fcf784ba4351",
-   "company": "Vanderlande UK",
-   "role": "Internship: Ai- Driven Hr Innovation",
-   "location": "S Hertogenbosch"
-  },
-  "8b5cfb7ec045f18fe0674bc1dff9f0d0": {
-   "id": "8b5cfb7ec045f18fe0674bc1dff9f0d0",
-   "company": "Damen Shipyards Group",
-   "role": "Internship: Event Management",
-   "location": "S Hertogenbosch"
-  },
-  "1545227f1803de10f5362c5e02497949": {
-   "id": "1545227f1803de10f5362c5e02497949",
-   "company": "Vopak",
-   "role": "Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "b55cbce067292a9c2e8885dd3a6be587": {
-   "id": "b55cbce067292a9c2e8885dd3a6be587",
-   "company": "Avery Dennison Corp",
-   "role": "Internship: Digital Marketing",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "00dd9a9483c190f3bebdca4a732e501b": {
-   "id": "00dd9a9483c190f3bebdca4a732e501b",
-   "company": "Avery Dennison Smartrac",
-   "role": "Internship: Digital Marketing",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "591103f7ad56c40ae4dd4edfc938f5a5": {
-   "id": "591103f7ad56c40ae4dd4edfc938f5a5",
-   "company": "Danone",
-   "role": "Internship - Commercial Excellence - Tender",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "5fac22ed21c9013219bd51a23ac1e107": {
-   "id": "5fac22ed21c9013219bd51a23ac1e107",
-   "company": "JLG Industries Inc",
-   "role": "Marketing Intern – Social, Pr, Events & Content",
-   "location": "Amsterdam"
-  },
-  "64ad8ab905eba1a1bb941da20ba5f7c9": {
-   "id": "64ad8ab905eba1a1bb941da20ba5f7c9",
-   "company": "Henkel",
-   "role": "Internship - Production Management",
-   "location": "Scheemda"
   },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
@@ -938,6 +938,12 @@
    "role": "Business And Management Specialist – Freelance Ai Trainer Project",
    "location": "Netherlands"
   },
+  "e716a033627f4b4cdd39d4fcae7c8592": {
+   "id": "e716a033627f4b4cdd39d4fcae7c8592",
+   "company": "Eurostars Hotel Company",
+   "role": "Maintenance Technician (medewerker Technische Dienst) - 5* Hotel Rotterdam (opening)",
+   "location": "Alphen Aan Den Rijn"
+  },
   "ec663601a6d1f91fa99837035cfd839d": {
    "id": "ec663601a6d1f91fa99837035cfd839d",
    "company": "EnerSys",
@@ -1328,6 +1334,12 @@
    "role": "Equipment Maintenance (chinese Speaker)",
    "location": "South Holland"
   },
+  "3f418b6d8243042e554cf669ebf3706a": {
+   "id": "3f418b6d8243042e554cf669ebf3706a",
+   "company": "Expro Group",
+   "role": "Field Engineer 1",
+   "location": "Netherlands"
+  },
   "f8564aecd097a7192bdc10e5434063bc": {
    "id": "f8564aecd097a7192bdc10e5434063bc",
    "company": "Nouryon",
@@ -1406,17 +1418,23 @@
    "role": "Allround Onderhoudsmonteur",
    "location": "Wanssum"
   },
-  "87086aefd45f8dcd2a2bbc99f3b8c67e": {
-   "id": "87086aefd45f8dcd2a2bbc99f3b8c67e",
-   "company": "Trouw Nutrition",
-   "role": "Allround Monteur Td",
-   "location": "Sloten"
+  "1ede1c0d6ef78cd982ff9663ca3d23e9": {
+   "id": "1ede1c0d6ef78cd982ff9663ca3d23e9",
+   "company": "Nestle Ltd",
+   "role": "Verkoopmedewerker Nespresso Amstelveen Stadshart",
+   "location": "Amsterdam"
   },
-  "173ed3e268e8e24511239a64fa7a5f07": {
-   "id": "173ed3e268e8e24511239a64fa7a5f07",
-   "company": "JBT Marel",
-   "role": "Field Service Engineer Skinning -- Benelux",
-   "location": "Netherlands"
+  "7ed86536257911236feb51d8344e15a0": {
+   "id": "7ed86536257911236feb51d8344e15a0",
+   "company": "Nestle Ltd",
+   "role": "Verkoopmedewerker Nespresso Amsterdam",
+   "location": "Amsterdam"
+  },
+  "e5994332a4f122d2ab5c251e60ae658f": {
+   "id": "e5994332a4f122d2ab5c251e60ae658f",
+   "company": "H&M",
+   "role": "Verkoopmedewerker – Delft (weekend/bijbaan)",
+   "location": "Alphen Aan Den Rijn"
   },
   "a0942c9b815ca34fc853d33f62fe42dc": {
    "id": "a0942c9b815ca34fc853d33f62fe42dc",
@@ -1658,12 +1676,6 @@
    "role": "Verkoopmedewerker – Leiden (flex Hulp)",
    "location": "Alphen Aan Den Rijn"
   },
-  "8e92afb41c3ff0cb9a449bbcc3f147ed": {
-   "id": "8e92afb41c3ff0cb9a449bbcc3f147ed",
-   "company": "H&M",
-   "role": "Verkoopmedewerker – Delft (weekend/bijbaan)",
-   "location": "Alphen Aan Den Rijn"
-  },
   "4326d44397672665220944bc2c155bf7": {
    "id": "4326d44397672665220944bc2c155bf7",
    "company": "Calvin Klein",
@@ -1878,18 +1890,6 @@
    "id": "48402099f539fb0890e6455f1edd2a92",
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Verkoopmedewerker Retail Laptops & Computers Rotterdam The Corner",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "d5a932b325b3a06dd82f980f848d48a0": {
-   "id": "d5a932b325b3a06dd82f980f848d48a0",
-   "company": "MediaMarktSaturn - Webshop Foundation",
-   "role": "Verkoopmedewerker Retail Gaming & Audio Rotterdam The Corner",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "20c6e60122cf21e3d0edadc8d6606010": {
-   "id": "20c6e60122cf21e3d0edadc8d6606010",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Stage Verkoop Retail Rotterdam Beijerlandselaan",
    "location": "Alphen Aan Den Rijn"
   },
   "22957d83dbf0f8c06a22286181e2a15a": {

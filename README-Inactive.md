@@ -1858,4 +1858,21 @@
 <tr><td>Otis</td><td>Service Monteur Liften Amsterdam</td><td>Badhoevedorp</td><td>2026-10-16</td></tr>
 <tr><td>Carrier Global Corporation</td><td>Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-10-16</td></tr>
 <tr><td>Carrier Transicold</td><td>Monteur Autotechniek Of Koeltechniek - Transicold - Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-10-16</td></tr>
+<tr><td>Philips</td><td>Internship: Enabling Execution Of 2030 Impact Ambitions</td><td>Amsterdam</td><td>2026-10-17</td></tr>
+<tr><td>Royal Philips</td><td>Internship: Finance & Accounting - Group Consolidation & Reporting (non-thesis)</td><td>Amsterdam</td><td>2026-10-17</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Ai- Driven Hr Innovation</td><td>S Hertogenbosch</td><td>2026-10-17</td></tr>
+<tr><td>NXP Semiconductors</td><td>Nvm Reliability Intern</td><td>Arnhem</td><td>2026-10-17</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Ai- Driven Hr Innovation</td><td>S Hertogenbosch</td><td>2026-10-17</td></tr>
+<tr><td>Damen Shipyards Group</td><td>Internship: Event Management</td><td>S Hertogenbosch</td><td>2026-10-17</td></tr>
+<tr><td>Vopak</td><td>Intern</td><td>Alphen Aan Den Rijn</td><td>2026-10-17</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Digital Marketing</td><td>Alphen Aan Den Rijn</td><td>2026-10-17</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Digital Marketing</td><td>Alphen Aan Den Rijn</td><td>2026-10-17</td></tr>
+<tr><td>Danone</td><td>Internship - Commercial Excellence - Tender</td><td>Alphen Aan Den Rijn</td><td>2026-10-17</td></tr>
+<tr><td>JLG Industries Inc</td><td>Marketing Intern – Social, Pr, Events & Content</td><td>Amsterdam</td><td>2026-10-17</td></tr>
+<tr><td>Henkel</td><td>Internship - Production Management</td><td>Scheemda</td><td>2026-10-17</td></tr>
+<tr><td>Trouw Nutrition</td><td>Allround Monteur Td</td><td>Sloten</td><td>2026-10-17</td></tr>
+<tr><td>JBT Marel</td><td>Field Service Engineer Skinning -- Benelux</td><td>Netherlands</td><td>2026-10-17</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker – Delft (weekend/bijbaan)</td><td>Alphen Aan Den Rijn</td><td>2026-10-17</td></tr>
+<tr><td>MediaMarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Retail Gaming & Audio Rotterdam The Corner</td><td>Alphen Aan Den Rijn</td><td>2026-10-17</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Stage Verkoop Retail Rotterdam Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-10-17</td></tr>
 </table>
