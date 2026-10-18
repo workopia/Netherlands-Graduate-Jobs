@@ -1875,4 +1875,37 @@
 <tr><td>H&M</td><td>Verkoopmedewerker – Delft (weekend/bijbaan)</td><td>Alphen Aan Den Rijn</td><td>2026-10-17</td></tr>
 <tr><td>MediaMarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Retail Gaming & Audio Rotterdam The Corner</td><td>Alphen Aan Den Rijn</td><td>2026-10-17</td></tr>
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Stage Verkoop Retail Rotterdam Beijerlandselaan</td><td>Alphen Aan Den Rijn</td><td>2026-10-17</td></tr>
+<tr><td>Draka</td><td>Intern</td><td>Eindhoven</td><td>2026-10-18</td></tr>
+<tr><td>createyourowncareer</td><td>Internship Facility Management</td><td>Puttershoek</td><td>2026-10-18</td></tr>
+<tr><td>Philips Avent</td><td>Data, Ai & Algorithm Internship – Philips Avent Experience Innovation</td><td>Eindhoven</td><td>2026-10-18</td></tr>
+<tr><td>Philips UK</td><td>Internship: Full Stack Developer In Finance Domain</td><td>Eindhoven</td><td>2026-10-18</td></tr>
+<tr><td>Careers Philips</td><td>Intern</td><td>Eindhoven</td><td>2026-10-18</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Hiring Desk</td><td>S Hertogenbosch</td><td>2026-10-18</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Stagiair(e) Social Commercestagedouglas Hoofdkantoor - Nijmegen</td><td>Arnhem</td><td>2026-10-18</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Hiring Desk</td><td>S Hertogenbosch</td><td>2026-10-18</td></tr>
+<tr><td>ING Corporate Finance</td><td>Internship Ing Corporate Finance</td><td>Amsterdam</td><td>2026-10-18</td></tr>
+<tr><td>Trespa International B.V</td><td>Product Management/ Marketing Communication Intern</td><td>Nl</td><td>2026-10-18</td></tr>
+<tr><td>Kraft Heinz</td><td>Intern</td><td>Amsterdam</td><td>2026-10-18</td></tr>
+<tr><td>Kraft Heinz</td><td>Natural Preservation Intern</td><td>Arnhem</td><td>2026-10-18</td></tr>
+<tr><td>Kraft Heinz</td><td>Shelf Life Intern</td><td>Arnhem</td><td>2026-10-18</td></tr>
+<tr><td>Catawiki</td><td>Office Management Intern</td><td>Amsterdam</td><td>2026-10-18</td></tr>
+<tr><td>Catawiki</td><td>It Systems & Services (itss) Intern</td><td>Amsterdam</td><td>2026-10-18</td></tr>
+<tr><td>Hogan Lovells</td><td>Student-stagiair(e)</td><td>Amsterdam</td><td>2026-10-18</td></tr>
+<tr><td>The Procter & Gamble Company</td><td>Brand Management Internship</td><td>Alphen Aan Den Rijn</td><td>2026-10-18</td></tr>
+<tr><td>dentsu</td><td>Data Scientist</td><td>Amsterdam</td><td>2026-10-18</td></tr>
+<tr><td>CRH plc</td><td>Sap Data Analyst</td><td>Amsterdam</td><td>2026-10-18</td></tr>
+<tr><td>Alstom</td><td>Mechanisch Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-10-18</td></tr>
+<tr><td>Johnson & Johnson UK</td><td>Utility Operator (shifts, 24/7)</td><td>Alphen Aan Den Rijn</td><td>2026-10-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicetechnicus (technicus E&i A)</td><td>Alphen Aan Den Rijn</td><td>2026-10-18</td></tr>
+<tr><td>KONE Macedonia</td><td>Service Monteur Liften</td><td>Alphen Aan Den Rijn</td><td>2026-10-18</td></tr>
+<tr><td>Agrifirm Group</td><td>Allround Onderhoudsmonteur</td><td>Wanssum</td><td>2026-10-18</td></tr>
+<tr><td>MediaMarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Gaming, Laptops & Computers Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-10-18</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Retail Amsterdam Noord</td><td>Amsterdam</td><td>2026-10-18</td></tr>
+<tr><td>MediaMarktSaturn - Webshop Foundation</td><td>Bonusgedreven Verkoopmedewerker Telecom & Mobiel Rijswijk</td><td>Alphen Aan Den Rijn</td><td>2026-10-18</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Retail Rotterdam The Corner</td><td>Alphen Aan Den Rijn</td><td>2026-10-18</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Retail Laptops & Computers Rotterdam The Corner</td><td>Alphen Aan Den Rijn</td><td>2026-10-18</td></tr>
+<tr><td>Den Hartogh Liquid Logistics</td><td>Logistiek Administratief Medewerker</td><td>Veenendaal</td><td>2026-10-18</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Administrative Assistant</td><td>Hapert</td><td>2026-10-18</td></tr>
+<tr><td>GXO Logistics</td><td>Hr Administrative</td><td>Alphen Aan Den Rijn</td><td>2026-10-18</td></tr>
+<tr><td>PALFINGER AG</td><td>Service Coordinator (m/f/d)</td><td>Alphen Aan Den Rijn</td><td>2026-10-18</td></tr>
 </table>
