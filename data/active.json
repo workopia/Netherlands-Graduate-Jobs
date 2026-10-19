@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-18",
- "count": 345,
+ "asOf": "2026-10-19",
+ "count": 350,
  "jobs": {
   "2680765": {
    "id": "2680765",
@@ -24,6 +24,78 @@
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "59f73a0d7a441c905b5ffcb4fb49b609": {
+   "id": "59f73a0d7a441c905b5ffcb4fb49b609",
+   "company": "SBM Offshore",
+   "role": "Working Student / Intern - Group Insurance Department",
+   "location": "Amsterdam"
+  },
+  "339348370da55a2ba23bc074767ab277": {
+   "id": "339348370da55a2ba23bc074767ab277",
+   "company": "Mandarin Oriental Hotel Group",
+   "role": "Operational & Managerial Internships",
+   "location": "Amsterdam"
+  },
+  "68da0cec1b118b526b23163c4dc912f0": {
+   "id": "68da0cec1b118b526b23163c4dc912f0",
+   "company": "Halfspace ApS",
+   "role": "Supply Chain & Procurement Working Internship",
+   "location": "Amsterdam"
+  },
+  "31705d2dc574364451cb524e40a60649": {
+   "id": "31705d2dc574364451cb524e40a60649",
+   "company": "Halfspace ApS",
+   "role": "Supply Chain & Procurement Thesis Internship",
+   "location": "Amsterdam"
+  },
+  "7cc6e8ef474e29c398816014ec0b092c": {
+   "id": "7cc6e8ef474e29c398816014ec0b092c",
+   "company": "Halfspace ApS",
+   "role": "Technology Resources Thesis Internship",
+   "location": "Amsterdam"
+  },
+  "9c969fff51e0ce61fc184b79964ea3a6": {
+   "id": "9c969fff51e0ce61fc184b79964ea3a6",
+   "company": "Kraft Heinz",
+   "role": "Customs Intern",
+   "location": "Amsterdam"
+  },
+  "e822ec04bb6b22f2b3c9e70cc5f51f3e": {
+   "id": "e822ec04bb6b22f2b3c9e70cc5f51f3e",
+   "company": "Kraft Heinz",
+   "role": "Supply Chain & Logistics Intern",
+   "location": "Amsterdam"
+  },
+  "fade62010d1486cb5126a4f71775d88f": {
+   "id": "fade62010d1486cb5126a4f71775d88f",
+   "company": "Kraft Heinz",
+   "role": "Fsq Compliance Intern",
+   "location": "Arnhem"
+  },
+  "5b9cd6f5fd0381a8ed91c6d4d8cff802": {
+   "id": "5b9cd6f5fd0381a8ed91c6d4d8cff802",
+   "company": "Kraft Heinz",
+   "role": "Fsq External Manufacturing Intern",
+   "location": "Arnhem"
+  },
+  "0428841ba76b22e9fedc144697dd66c5": {
+   "id": "0428841ba76b22e9fedc144697dd66c5",
+   "company": "Signify",
+   "role": "Social Impact & Due Diligence Intern",
+   "location": "Amsterdam"
+  },
+  "33b74d12294c41876fc928d8a4a158d3": {
+   "id": "33b74d12294c41876fc928d8a4a158d3",
+   "company": "Rbsfuel",
+   "role": "Natwest Markets - Amsterdam Internship Programme",
+   "location": "Amsterdam"
+  },
+  "f586fa860fb43e92b1e962e478127ed0": {
+   "id": "f586fa860fb43e92b1e962e478127ed0",
+   "company": "Tencent Games",
+   "role": "Global Talent Sourcing Intern",
    "location": "Amsterdam"
   },
   "d6511d0a7afefad2911cd3d52d6b2e2d": {
@@ -98,6 +170,12 @@
    "role": "Internship Facility Management",
    "location": "Arnhem"
   },
+  "c618e54c807e3552847e82695beec827": {
+   "id": "c618e54c807e3552847e82695beec827",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship/graduation: Capability Development & Service Excellence",
+   "location": "S Hertogenbosch"
+  },
   "fdc5b77678519bc4ce005c3610dd0ca0": {
    "id": "fdc5b77678519bc4ce005c3610dd0ca0",
    "company": "SBM Offshore",
@@ -109,6 +187,24 @@
    "company": "SBM Offshore",
    "role": "Intern - Digital Information Modelling & Planning",
    "location": "Alphen Aan Den Rijn"
+  },
+  "1825e17262cb43dbd5c909bc55c2f00f": {
+   "id": "1825e17262cb43dbd5c909bc55c2f00f",
+   "company": "Danone",
+   "role": "Sustainability Intern Benelux (dutch Speaker)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "2df4639f151175b8bc5d446194d88061": {
+   "id": "2df4639f151175b8bc5d446194d88061",
+   "company": "Danone",
+   "role": "Global Procurement Intern - Fruits",
+   "location": "Amsterdam"
+  },
+  "6a50d64dc0f449195f42be1c25dddea2": {
+   "id": "6a50d64dc0f449195f42be1c25dddea2",
+   "company": "Danone",
+   "role": "Procurement Intern - Fruit Preparations",
+   "location": "Amsterdam"
   },
   "a46da7047130cfc17a0e58a93a89cd8d": {
    "id": "a46da7047130cfc17a0e58a93a89cd8d",
@@ -182,6 +278,12 @@
    "role": "Internship: People & Culture - The Hoxton, Lloyd",
    "location": "Amsterdam"
   },
+  "b4e809f7330da973594d6a188020ba4e": {
+   "id": "b4e809f7330da973594d6a188020ba4e",
+   "company": "Danone",
+   "role": "Global Digital Manufacturing Intern",
+   "location": "Amsterdam"
+  },
   "9adc9371c56cf0714eb65d3a8e70feae": {
    "id": "9adc9371c56cf0714eb65d3a8e70feae",
    "company": "Accenture Australia",
@@ -223,6 +325,12 @@
    "company": "McDonald's",
    "role": "Intern Strategic Sourcing",
    "location": "Netherlands"
+  },
+  "dc2e466416584b4baa31d32831ad4537": {
+   "id": "dc2e466416584b4baa31d32831ad4537",
+   "company": "Mars Inc",
+   "role": "Thesis Internship – Forecast Analytics",
+   "location": "S Hertogenbosch"
   },
   "df5406e7b69dc50c425f4a3549c62b5a": {
    "id": "df5406e7b69dc50c425f4a3549c62b5a",
@@ -277,6 +385,12 @@
    "company": "Danone",
    "role": "Internship (marketing): Metabolics",
    "location": "Amsterdam"
+  },
+  "a6b8781befc0816d904c7b66b44baf22": {
+   "id": "a6b8781befc0816d904c7b66b44baf22",
+   "company": "Danone",
+   "role": "Global Logistics &amp; Distribution Intern",
+   "location": "HAPS"
   },
   "a0af9d5f8944a9b910bbb7efc0efb5d1": {
    "id": "a0af9d5f8944a9b910bbb7efc0efb5d1",
@@ -392,120 +506,6 @@
    "role": "Groups & Events Intern - Jan 2027",
    "location": "Breda"
   },
-  "6b856d7c4f2f2930757538e0c6be3867": {
-   "id": "6b856d7c4f2f2930757538e0c6be3867",
-   "company": "Booking Holdings",
-   "role": "Finance Internship: Accounting",
-   "location": "Amsterdam"
-  },
-  "eb09f2842d8d14565bc0a643eeade48f": {
-   "id": "eb09f2842d8d14565bc0a643eeade48f",
-   "company": "Allianz Technology SE",
-   "role": "Stage Verzekeringen",
-   "location": "Unknown"
-  },
-  "5d7819b96a1c7ad439b89b714abb6586": {
-   "id": "5d7819b96a1c7ad439b89b714abb6586",
-   "company": "Action",
-   "role": "Stagiaire Sourcing",
-   "location": "Nl"
-  },
-  "414106ab76e3377f56c877f1174daedc": {
-   "id": "414106ab76e3377f56c877f1174daedc",
-   "company": "Arvato",
-   "role": "Hse Internship",
-   "location": "Arnhem"
-  },
-  "c24defd9ae8d2b2cacb746be03e92afd": {
-   "id": "c24defd9ae8d2b2cacb746be03e92afd",
-   "company": "createyourowncareer",
-   "role": "Internship Logistics",
-   "location": "Venlo"
-  },
-  "84058a9cea472bcbb22c3f0a11a04b7b": {
-   "id": "84058a9cea472bcbb22c3f0a11a04b7b",
-   "company": "Arvato",
-   "role": "Internship Learning & Development",
-   "location": "Arnhem"
-  },
-  "26d1827375ffab4eeb8b8d2d98118e1a": {
-   "id": "26d1827375ffab4eeb8b8d2d98118e1a",
-   "company": "Ask Phill",
-   "role": "Marketing &amp; Events Interninternshipamsterdam",
-   "location": "Amsterdam"
-  },
-  "417db3065fdc1beee4f56777521831d7": {
-   "id": "417db3065fdc1beee4f56777521831d7",
-   "company": "Belden Inc.",
-   "role": "Customer Service Intern",
-   "location": "Venlo"
-  },
-  "e816e1561b8b0db937b4afa3e118f245": {
-   "id": "e816e1561b8b0db937b4afa3e118f245",
-   "company": "IOM",
-   "role": "Human Resources Intern",
-   "location": "Netherlands (The Kingdom Of The)"
-  },
-  "cc929aa56418d7a2ec94bdd0cafc8f96": {
-   "id": "cc929aa56418d7a2ec94bdd0cafc8f96",
-   "company": "Stichting Doen",
-   "role": "Impact Investment Stagiairfulltimebeethovenstraat 200, Amsterdam",
-   "location": "Amsterdam"
-  },
-  "9d10d65990b28e2a10f0f94829c50a53": {
-   "id": "9d10d65990b28e2a10f0f94829c50a53",
-   "company": "Vanderlande",
-   "role": "Internship: Hmi Ux Design For Smart Automation",
-   "location": "S Hertogenbosch"
-  },
-  "5794e405f5ff3de55cf459a57488d8af": {
-   "id": "5794e405f5ff3de55cf459a57488d8af",
-   "company": "Vanderlande",
-   "role": "Internship: Management Systems Business Analysis",
-   "location": "S Hertogenbosch"
-  },
-  "f05187b209a87551310e41d3a38723a2": {
-   "id": "f05187b209a87551310e41d3a38723a2",
-   "company": "Laboratory Animal Management Association",
-   "role": "Intern – Formulation - Discovery And Technology Research",
-   "location": "North Brabant"
-  },
-  "224495574654daacfefa87d6e2cc1859": {
-   "id": "224495574654daacfefa87d6e2cc1859",
-   "company": "CYBEX GmbH",
-   "role": "Intern Marketing Netherlands (m/f/d)",
-   "location": "Amsterdam"
-  },
-  "c5d3344f29265bd18633ad5049d68bdb": {
-   "id": "c5d3344f29265bd18633ad5049d68bdb",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Hmi & Ux Design For Smart Automation",
-   "location": "S Hertogenbosch"
-  },
-  "e9ae150d996979350822328fe7ddf064": {
-   "id": "e9ae150d996979350822328fe7ddf064",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Management Systems & Business Analysis",
-   "location": "S Hertogenbosch"
-  },
-  "ef540b1e0c056342847b747933e7a684": {
-   "id": "ef540b1e0c056342847b747933e7a684",
-   "company": "Core Lab",
-   "role": "Intern",
-   "location": "Amsterdam"
-  },
-  "af22b6e83b2c952658e581a4b0ca2142": {
-   "id": "af22b6e83b2c952658e581a4b0ca2142",
-   "company": "Caldic B.V",
-   "role": "Esg Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "4aa205876024ed0b82f171c37966feac": {
-   "id": "4aa205876024ed0b82f171c37966feac",
-   "company": "Philips UK",
-   "role": "Internship: Global Health Economics, Market Access & Reimbursement (hemar) For Hospital Patient Monitoring (hpm)",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -522,6 +522,12 @@
    "id": "40bfd8ea715f2c582c0e2ed49d6554b2",
    "company": "IMC Trading",
    "role": "C++ Software Engineer, Early Careers",
+   "location": "Amsterdam"
+  },
+  "262e4cda291f65c4dfad99889a12b9ff": {
+   "id": "262e4cda291f65c4dfad99889a12b9ff",
+   "company": "Sitedish",
+   "role": "Php Developer (api)fulltime / Parttimeamsterdam",
    "location": "Amsterdam"
   },
   "0a5572a3b37910ec434eed10d01bd56a": {
@@ -588,6 +594,12 @@
    "id": "62d3a87e7ce788f03a236e9909ad2cce",
    "company": "Warner Bros. Entertainment Inc.",
    "role": "Software Engineer Ii",
+   "location": "Amsterdam"
+  },
+  "8d5d7844917911ddcdd14d9919d2198b": {
+   "id": "8d5d7844917911ddcdd14d9919d2198b",
+   "company": "Monks",
+   "role": "Backend Developer (Typescript/Python)",
    "location": "Amsterdam"
   },
   "8ff74f34fb1b27e3851b8c003d79e570": {
@@ -686,6 +698,12 @@
    "role": "Ai & Data Analyst",
    "location": "Amsterdam"
   },
+  "6c10e87a66585e2aed7e85bb440eb957": {
+   "id": "6c10e87a66585e2aed7e85bb440eb957",
+   "company": "Avanade",
+   "role": "Afstudeerstage Digital Enterprise Advisory / Business Consulting Voor Digitale Transformatie",
+   "location": "Amsterdam"
+  },
   "73e0e2f53100af75e567189a8c5ff930": {
    "id": "73e0e2f53100af75e567189a8c5ff930",
    "company": "itinfinance.nl",
@@ -714,6 +732,12 @@
    "id": "262aa92cc43c579a2579184288367506",
    "company": "ING",
    "role": "Internship Debt Capital Markets – Ig Corporate Origination",
+   "location": "Amsterdam"
+  },
+  "e1030ac67132661c37d55da7710be8e5": {
+   "id": "e1030ac67132661c37d55da7710be8e5",
+   "company": "JPMorgan Chase",
+   "role": "2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Off-cycle Internship (september-december) - Amsterdam",
    "location": "Amsterdam"
   },
   "dc8436c782dcb127b753995f3da92861": {
@@ -854,6 +878,12 @@
    "role": "Business Analyst",
    "location": "Etten"
   },
+  "5ecfe5ca00f4ad130da873d6a4d46f03": {
+   "id": "5ecfe5ca00f4ad130da873d6a4d46f03",
+   "company": "JPMorgan Chase",
+   "role": "Investment Banking – Benelux M&a And Corporate Finance – Analyst – Amsterdam",
+   "location": "Amsterdam"
+  },
   "c64650183af6fe29d3cfa4cd988e0376": {
    "id": "c64650183af6fe29d3cfa4cd988e0376",
    "company": "ForFarmers",
@@ -937,6 +967,30 @@
    "company": "Jobgether",
    "role": "Business And Management Specialist – Freelance Ai Trainer Project",
    "location": "Netherlands"
+  },
+  "b948e286be15f409f1c45cff1a91257c": {
+   "id": "b948e286be15f409f1c45cff1a91257c",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Reparatie Specialist The Wall",
+   "location": "Utrecht"
+  },
+  "e5411a8eae8bde058b170175ff8ae74c": {
+   "id": "e5411a8eae8bde058b170175ff8ae74c",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Reparatie & Servicemedewerker Elektronica Barendrecht",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "7c36d98dbc8907e835529a84b4aeaa8b": {
+   "id": "7c36d98dbc8907e835529a84b4aeaa8b",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Reparatie & Servicemedewerker Elektronica Rotterdam The Corner",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f5af82d31aeba96e194e1c29d20e9627": {
+   "id": "f5af82d31aeba96e194e1c29d20e9627",
+   "company": "Johnson & Johnson UK",
+   "role": "Utility Operator (shifts, 24/7)",
+   "location": "Alphen Aan Den Rijn"
   },
   "b1b745df8899ebcd6ba0b9e447253aac": {
    "id": "b1b745df8899ebcd6ba0b9e447253aac",
@@ -1394,34 +1448,76 @@
    "role": "Lse Technical Service",
    "location": "Utrecht"
   },
-  "2d6048f81743d0f340988e53144088b3": {
-   "id": "2d6048f81743d0f340988e53144088b3",
-   "company": "afa'afea",
-   "role": "Apk & Tachograaf Keurmeester",
+  "7b23cfb35c876c8c645a1b433852e495": {
+   "id": "7b23cfb35c876c8c645a1b433852e495",
+   "company": "MediaMarktSaturn - Webshop Foundation",
+   "role": "Bonusgedreven Verkoopmedewerker Telecom & Mobiel Rijswijk",
    "location": "Alphen Aan Den Rijn"
   },
-  "df13e21f3f890f907dd8d74c3127649b": {
-   "id": "df13e21f3f890f907dd8d74c3127649b",
-   "company": "A.P. Moller - Maersk",
-   "role": "Maintenance Technician (warehouse & Facilities) Maasvlakte",
-   "location": "Maasvlakte"
-  },
-  "1cff6e1d360e0caa434baad74d02c892": {
-   "id": "1cff6e1d360e0caa434baad74d02c892",
-   "company": "Baker Hughes Process & Pipeline Services (PPS)",
-   "role": "Workshop & Equipment Technician",
-   "location": "Netherlands"
-  },
-  "d0ac01c4d74fa963ac3e763d8f6e874f": {
-   "id": "d0ac01c4d74fa963ac3e763d8f6e874f",
-   "company": "MAERSK",
-   "role": "Maintenance Technician (warehouse & Facilities) Maasvalkte",
-   "location": "Maasvalkte"
+  "8904eb7a88e0bc80f3e9539b9927c3c6": {
+   "id": "8904eb7a88e0bc80f3e9539b9927c3c6",
+   "company": "MKC Moto",
+   "role": "Verkoopmedewerkerfulltimenl - Uithoorn",
+   "location": "Amsterdam"
   },
   "07860d454a218c4f286f6051dc74cfc2": {
    "id": "07860d454a218c4f286f6051dc74cfc2",
    "company": "Levis",
    "role": "Sales Stylist 16h",
+   "location": "Amsterdam"
+  },
+  "c480c80a2eded91090a0d6e17521ff6c": {
+   "id": "c480c80a2eded91090a0d6e17521ff6c",
+   "company": "Tommy Hilfiger",
+   "role": "Sales Advisor (8 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "bc4e0ddffbbc0e443ba5a20699d9dd8f": {
+   "id": "bc4e0ddffbbc0e443ba5a20699d9dd8f",
+   "company": "Tommy Hilfiger",
+   "role": "Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "8b035595683c4a890119fa43ad540c8a": {
+   "id": "8b035595683c4a890119fa43ad540c8a",
+   "company": "Dmhvh",
+   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "3d6d80853e1d07686d1e1b236fee34ee": {
+   "id": "3d6d80853e1d07686d1e1b236fee34ee",
+   "company": "De Bijenkorf",
+   "role": "Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "4326d44397672665220944bc2c155bf7": {
+   "id": "4326d44397672665220944bc2c155bf7",
+   "company": "Calvin Klein",
+   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Den Haag (dutch Speaking)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "ce37da5a935f57d3419fe36ca50f2f2f": {
+   "id": "ce37da5a935f57d3419fe36ca50f2f2f",
+   "company": "Dmhvh",
+   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)",
+   "location": "Amsterdam"
+  },
+  "e80b7f6ad3b186d7a6e94161bbeb81b2": {
+   "id": "e80b7f6ad3b186d7a6e94161bbeb81b2",
+   "company": "PVH",
+   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amstelveen",
+   "location": "Amsterdam"
+  },
+  "8370eb428952af491f12bf6eb3b2225a": {
+   "id": "8370eb428952af491f12bf6eb3b2225a",
+   "company": "Dmhvh",
+   "role": "Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)",
+   "location": "Amsterdam"
+  },
+  "b5b6601303157a087c78dc7173ae5695": {
+   "id": "b5b6601303157a087c78dc7173ae5695",
+   "company": "Tommy Jeans",
+   "role": "Sales Advisor (16 Hours), Tommy Jeans - Kalverstraat Amsterdam",
    "location": "Amsterdam"
   },
   "1ede1c0d6ef78cd982ff9663ca3d23e9": {
@@ -1634,12 +1730,6 @@
    "role": "Part Time - Sales Associate, Ugg - Amsterdam",
    "location": "Amsterdam"
   },
-  "b5b6601303157a087c78dc7173ae5695": {
-   "id": "b5b6601303157a087c78dc7173ae5695",
-   "company": "Tommy Jeans",
-   "role": "Sales Advisor (16 Hours), Tommy Jeans - Kalverstraat Amsterdam",
-   "location": "Amsterdam"
-  },
   "69241ff2c30fe8b59bed4d4bf432b631": {
    "id": "69241ff2c30fe8b59bed4d4bf432b631",
    "company": "H & M Hennes & Mauritz AB",
@@ -1710,12 +1800,6 @@
    "id": "c5c4b374e4df496b16d034c541710e8b",
    "company": "H&M",
    "role": "Verkoopmedewerker – Leiden (flex Hulp)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "4326d44397672665220944bc2c155bf7": {
-   "id": "4326d44397672665220944bc2c155bf7",
-   "company": "Calvin Klein",
-   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Den Haag (dutch Speaking)",
    "location": "Alphen Aan Den Rijn"
   },
   "43afa288fd6b195190d12de8d0b9d3a6": {
@@ -1796,21 +1880,9 @@
    "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
-  "8b035595683c4a890119fa43ad540c8a": {
-   "id": "8b035595683c4a890119fa43ad540c8a",
-   "company": "Dmhvh",
-   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam",
-   "location": "Alphen Aan Den Rijn"
-  },
   "0cd7582cf790e660bbd909448947e07d": {
    "id": "0cd7582cf790e660bbd909448947e07d",
    "company": "Tommy Hilfiger/calvin Klein - De Bijenkorf",
-   "role": "Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "3d6d80853e1d07686d1e1b236fee34ee": {
-   "id": "3d6d80853e1d07686d1e1b236fee34ee",
-   "company": "De Bijenkorf",
    "role": "Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Amsterdam",
    "location": "Amsterdam"
   },
@@ -1820,22 +1892,10 @@
    "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)",
    "location": "Amsterdam"
   },
-  "ce37da5a935f57d3419fe36ca50f2f2f": {
-   "id": "ce37da5a935f57d3419fe36ca50f2f2f",
-   "company": "Dmhvh",
-   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)",
-   "location": "Amsterdam"
-  },
   "04510186d8f6b6be3c81e3447c53ef0b": {
    "id": "04510186d8f6b6be3c81e3447c53ef0b",
    "company": "Tommy Hilfiger & Calvin Klein - De Bijenkorf",
    "role": "Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)",
-   "location": "Amsterdam"
-  },
-  "e0f509f14ce9e6b9ddcdd331b2ba77a6": {
-   "id": "e0f509f14ce9e6b9ddcdd331b2ba77a6",
-   "company": "PVH",
-   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amstelveen",
    "location": "Amsterdam"
   },
   "84cb720d4c642b59384bde62ffb11dea": {
@@ -1861,36 +1921,6 @@
    "company": "Michael Kors",
    "role": "Part Time Sales Associate 12h",
    "location": "Amsterdam"
-  },
-  "2b252fc016a72b720488b936cf63d359": {
-   "id": "2b252fc016a72b720488b936cf63d359",
-   "company": "LEGO®",
-   "role": "Sales Associate",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "9f8cc0d78fb8c638b895cfcf3b279326": {
-   "id": "9f8cc0d78fb8c638b895cfcf3b279326",
-   "company": "IKEA Delft",
-   "role": "Sales Medewerker, Cook & Eat, Ikea Delft, 12/u",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "753ffaa52124f1522b38dba6270ee035": {
-   "id": "753ffaa52124f1522b38dba6270ee035",
-   "company": "Parfumerie Douglas Nederland",
-   "role": "Service Assistantparttimerotterdam Zuidplein",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "8e60242b7d85f95d7d59e10d5f4f2692": {
-   "id": "8e60242b7d85f95d7d59e10d5f4f2692",
-   "company": "Parfumerie Douglas Nederland",
-   "role": "Beauty Advisorfulltimeden Haag Passage",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "fa29468a55a8e4b68d5761366e55e33e": {
-   "id": "fa29468a55a8e4b68d5761366e55e33e",
-   "company": "Parfumerie Douglas Nederland",
-   "role": "Beauty Expertparttimewassenaar",
-   "location": "Alphen Aan Den Rijn"
   },
   "fe94e701d3bcd565ac3102964cce1a65": {
    "id": "fe94e701d3bcd565ac3102964cce1a65",
