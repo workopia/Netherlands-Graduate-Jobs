@@ -1937,4 +1937,16 @@
 <tr><td>Parfumerie Douglas Nederland</td><td>Service Assistantparttimerotterdam Zuidplein</td><td>Alphen Aan Den Rijn</td><td>2026-10-19</td></tr>
 <tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorfulltimeden Haag Passage</td><td>Alphen Aan Den Rijn</td><td>2026-10-19</td></tr>
 <tr><td>Parfumerie Douglas Nederland</td><td>Beauty Expertparttimewassenaar</td><td>Alphen Aan Den Rijn</td><td>2026-10-19</td></tr>
+<tr><td>Stichting Geestelijke Gezondheidszorg Oost Brabant</td><td>Administratief Medewerker Zorgproces Helmond</td><td>Eindhoven</td><td>2026-10-20</td></tr>
+<tr><td>source</td><td>Plant Science Intern</td><td>Amsterdam</td><td>2026-10-20</td></tr>
+<tr><td>ODYSSEY HOTEL Group</td><td>F&b Intern - Jan 2027</td><td>Arnhem</td><td>2026-10-20</td></tr>
+<tr><td>ODYSSEY HOTEL Group</td><td>Front Office Intern - Jan 2027</td><td>Arnhem</td><td>2026-10-20</td></tr>
+<tr><td>ODYSSEY HOTEL Group</td><td>Groups & Events Intern - Jan 2027</td><td>Breda</td><td>2026-10-20</td></tr>
+<tr><td>Warnermedia</td><td>Software Engineer Ii</td><td>Amsterdam</td><td>2026-10-20</td></tr>
+<tr><td>Warner Bros. Entertainment Inc.</td><td>Software Engineer Ii</td><td>Amsterdam</td><td>2026-10-20</td></tr>
+<tr><td>Jobgether</td><td>Business And Management Specialist – Freelance Ai Trainer Project</td><td>Netherlands</td><td>2026-10-20</td></tr>
+<tr><td>Timberland</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-10-20</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate - Rotterdam Beurstraverse, Nl</td><td>Alphen Aan Den Rijn</td><td>2026-10-20</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 16h</td><td>Alphen Aan Den Rijn</td><td>2026-10-20</td></tr>
+<tr><td>Michael Kors</td><td>Part Time Sales Associate 12h</td><td>Amsterdam</td><td>2026-10-20</td></tr>
 </table>

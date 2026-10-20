@@ -1,18 +1,12 @@
 {
- "asOf": "2026-10-19",
- "count": 350,
+ "asOf": "2026-10-20",
+ "count": 347,
  "jobs": {
   "2680765": {
    "id": "2680765",
    "company": "Amarosa",
    "role": "Managementassistent 32 Uur",
    "location": "Alphen Aan Den Rijn"
-  },
-  "2716517": {
-   "id": "2716517",
-   "company": "Stichting Geestelijke Gezondheidszorg Oost Brabant",
-   "role": "Administratief Medewerker Zorgproces Helmond",
-   "location": "Eindhoven"
   },
   "2750069": {
    "id": "2750069",
@@ -26,11 +20,35 @@
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
   },
+  "afb9dda4440f83419070d4e096f1ca08": {
+   "id": "afb9dda4440f83419070d4e096f1ca08",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Client Relations Center Coordinator Intern",
+   "location": "Amsterdam"
+  },
+  "8cbbb35ee1e99d24bc9d773d172acc9f": {
+   "id": "8cbbb35ee1e99d24bc9d773d172acc9f",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Junior E-commerce Operations Coordinator Intern",
+   "location": "Amsterdam"
+  },
+  "dc16df2fca3dbe7f3c64c05351d95d3e": {
+   "id": "dc16df2fca3dbe7f3c64c05351d95d3e",
+   "company": "ING",
+   "role": "Intern",
+   "location": "Maple"
+  },
   "59f73a0d7a441c905b5ffcb4fb49b609": {
    "id": "59f73a0d7a441c905b5ffcb4fb49b609",
    "company": "SBM Offshore",
    "role": "Working Student / Intern - Group Insurance Department",
    "location": "Amsterdam"
+  },
+  "8d090f0b87743e0689f4dfe1c5930a4f": {
+   "id": "8d090f0b87743e0689f4dfe1c5930a4f",
+   "company": "NetApp",
+   "role": "Intern - Distribution",
+   "location": "Schiphol"
   },
   "339348370da55a2ba23bc074767ab277": {
    "id": "339348370da55a2ba23bc074767ab277",
@@ -482,30 +500,6 @@
    "role": "Marketing Intern",
    "location": "Amsterdam"
   },
-  "30d0e2134a29f16a649e40d8d14cca11": {
-   "id": "30d0e2134a29f16a649e40d8d14cca11",
-   "company": "source",
-   "role": "Plant Science Intern",
-   "location": "Amsterdam"
-  },
-  "10b95c9540074bd93324fe2a70cd84cb": {
-   "id": "10b95c9540074bd93324fe2a70cd84cb",
-   "company": "ODYSSEY HOTEL Group",
-   "role": "F&b Intern - Jan 2027",
-   "location": "Arnhem"
-  },
-  "1a7d78c879ccc885352e3264b653668c": {
-   "id": "1a7d78c879ccc885352e3264b653668c",
-   "company": "ODYSSEY HOTEL Group",
-   "role": "Front Office Intern - Jan 2027",
-   "location": "Arnhem"
-  },
-  "626cfc51deb8b4de9d68e18201b2bd4e": {
-   "id": "626cfc51deb8b4de9d68e18201b2bd4e",
-   "company": "ODYSSEY HOTEL Group",
-   "role": "Groups & Events Intern - Jan 2027",
-   "location": "Breda"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -582,18 +576,6 @@
    "id": "107efe5d30b4c9b37bbd6a23d2aed1f1",
    "company": "Q42 B.V",
    "role": "Ervaren Python / Django Developerfulltimeamsterdam En/of Rotterdam",
-   "location": "Amsterdam"
-  },
-  "d30e0c17389854bc3b646fb459bba626": {
-   "id": "d30e0c17389854bc3b646fb459bba626",
-   "company": "Warnermedia",
-   "role": "Software Engineer Ii",
-   "location": "Amsterdam"
-  },
-  "62d3a87e7ce788f03a236e9909ad2cce": {
-   "id": "62d3a87e7ce788f03a236e9909ad2cce",
-   "company": "Warner Bros. Entertainment Inc.",
-   "role": "Software Engineer Ii",
    "location": "Amsterdam"
   },
   "8d5d7844917911ddcdd14d9919d2198b": {
@@ -961,12 +943,6 @@
    "company": "Accenture",
    "role": "Business Analyst Pension Domain (dutch Speaker)",
    "location": "Amsterdam"
-  },
-  "7f38da49dd32392cfe87931706f583ed": {
-   "id": "7f38da49dd32392cfe87931706f583ed",
-   "company": "Jobgether",
-   "role": "Business And Management Specialist – Freelance Ai Trainer Project",
-   "location": "Netherlands"
   },
   "b948e286be15f409f1c45cff1a91257c": {
    "id": "b948e286be15f409f1c45cff1a91257c",
@@ -1448,10 +1424,34 @@
    "role": "Lse Technical Service",
    "location": "Utrecht"
   },
+  "d96edebf3ee0767f5c80b483cc6c4651": {
+   "id": "d96edebf3ee0767f5c80b483cc6c4651",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Verkoopmedewerker Retail Rotterdam The Corner",
+   "location": "Alphen Aan Den Rijn"
+  },
   "7b23cfb35c876c8c645a1b433852e495": {
    "id": "7b23cfb35c876c8c645a1b433852e495",
    "company": "MediaMarktSaturn - Webshop Foundation",
    "role": "Bonusgedreven Verkoopmedewerker Telecom & Mobiel Rijswijk",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "82a4ef02e0788c0210ae1ec515320bc9": {
+   "id": "82a4ef02e0788c0210ae1ec515320bc9",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Verkoopmedewerker Telecom & Mobiel Hoofddorp",
+   "location": "Amsterdam"
+  },
+  "c955a85cd297e0cd9098eb497d851054": {
+   "id": "c955a85cd297e0cd9098eb497d851054",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Verkoopmedewerker Retail Rotterdam Beijerlandselaan",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "dd15b018a3c1f04a71cf4ee8d18b88f0": {
+   "id": "dd15b018a3c1f04a71cf4ee8d18b88f0",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Verkoopmedewerker Huishoudelijke Apparaten Rijswijk",
    "location": "Alphen Aan Den Rijn"
   },
   "8904eb7a88e0bc80f3e9539b9927c3c6": {
@@ -1898,28 +1898,10 @@
    "role": "Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)",
    "location": "Amsterdam"
   },
-  "84cb720d4c642b59384bde62ffb11dea": {
-   "id": "84cb720d4c642b59384bde62ffb11dea",
-   "company": "Timberland",
-   "role": "Sales Associate",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "026c40c87c0baf06c4ee32eccfb79202": {
-   "id": "026c40c87c0baf06c4ee32eccfb79202",
-   "company": "Free People (URBN)",
-   "role": "Urban Outfitters Sales Associate - Rotterdam Beurstraverse, Nl",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "9c5e6466ced4acb8dbec60e8dc14dfee": {
-   "id": "9c5e6466ced4acb8dbec60e8dc14dfee",
-   "company": "H&M",
-   "role": "Sales Advisor 16h",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "e3092f87d68a0aeeef2a013586210ff0": {
-   "id": "e3092f87d68a0aeeef2a013586210ff0",
-   "company": "Michael Kors",
-   "role": "Part Time Sales Associate 12h",
+  "39b0a2b0e2facad2d64bd2a21f486cfe": {
+   "id": "39b0a2b0e2facad2d64bd2a21f486cfe",
+   "company": "STMicroelectronics",
+   "role": "Administrative Assistant",
    "location": "Amsterdam"
   },
   "fe94e701d3bcd565ac3102964cce1a65": {
