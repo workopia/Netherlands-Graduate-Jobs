@@ -1949,4 +1949,5 @@
 <tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate - Rotterdam Beurstraverse, Nl</td><td>Alphen Aan Den Rijn</td><td>2026-10-20</td></tr>
 <tr><td>H&M</td><td>Sales Advisor 16h</td><td>Alphen Aan Den Rijn</td><td>2026-10-20</td></tr>
 <tr><td>Michael Kors</td><td>Part Time Sales Associate 12h</td><td>Amsterdam</td><td>2026-10-20</td></tr>
+<tr><td>Accenture</td><td>Business Analyst Pension Domain (dutch Speaker)</td><td>Amsterdam</td><td>2026-10-21</td></tr>
 </table>
