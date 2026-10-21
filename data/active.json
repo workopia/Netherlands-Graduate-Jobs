@@ -1,6 +1,6 @@
 {
  "asOf": "2026-10-21",
- "count": 346,
+ "count": 348,
  "jobs": {
   "2680765": {
    "id": "2680765",
@@ -18,6 +18,54 @@
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "3c25bb50425eeed1d1d0e648d92de715": {
+   "id": "3c25bb50425eeed1d1d0e648d92de715",
+   "company": "Dyson",
+   "role": "Intern (january Start Date)",
+   "location": "Amsterdam Office"
+  },
+  "ffd596399847535ab7d69a62a10e5905": {
+   "id": "ffd596399847535ab7d69a62a10e5905",
+   "company": "Vanderlande",
+   "role": "Internship: Designing And Piloting A Planning Bill Of Materials",
+   "location": "S Hertogenbosch"
+  },
+  "5a3fb4dde16812d3325f10c2409bcaac": {
+   "id": "5a3fb4dde16812d3325f10c2409bcaac",
+   "company": "Vanderlande",
+   "role": "Internship: Building The Tax Department Of The Future, Automated Indirect Tax Global Vat Analytics",
+   "location": "S Hertogenbosch"
+  },
+  "2e1d9899793c426b852be81eea9d192e": {
+   "id": "2e1d9899793c426b852be81eea9d192e",
+   "company": "Vanderlande",
+   "role": "Internship: Building The Tax Department Of The Future",
+   "location": "S Hertogenbosch"
+  },
+  "8f7ce16a401276155e10faa957bd0d6e": {
+   "id": "8f7ce16a401276155e10faa957bd0d6e",
+   "company": "282",
+   "role": "Internship Transaction Services/trade Finance Services",
+   "location": "Amsterdam"
+  },
+  "7e704f127eacfa024acfd3aca16f28bb": {
+   "id": "7e704f127eacfa024acfd3aca16f28bb",
+   "company": "Kerry Group",
+   "role": "Ehs Intern",
+   "location": "Breda"
+  },
+  "9e2638c4115e2671a6af69197810b271": {
+   "id": "9e2638c4115e2671a6af69197810b271",
+   "company": "Tencent",
+   "role": "Global Talent Sourcing Intern 107847",
+   "location": "Amsterdam"
+  },
+  "43c5d318f571f0a7c78f5e8e5355bd59": {
+   "id": "43c5d318f571f0a7c78f5e8e5355bd59",
+   "company": "TikTok",
+   "role": "Ecommere Business Project Intern, Chinese Speaking (tiktok Shop)- 2026 Start (bs/ms)",
    "location": "Amsterdam"
   },
   "afb9dda4440f83419070d4e096f1ca08": {
@@ -452,54 +500,6 @@
    "role": "Marketing Stagiair",
    "location": "Amsterdam"
   },
-  "cabefd17b1bd37aff4597d84c49acacb": {
-   "id": "cabefd17b1bd37aff4597d84c49acacb",
-   "company": "KraftHeinz",
-   "role": "Commercial Finance Intern",
-   "location": "Amsterdam"
-  },
-  "bbcf11164b25b4d084c6001797c09779": {
-   "id": "bbcf11164b25b4d084c6001797c09779",
-   "company": "KraftHeinz",
-   "role": "Operations Finance Intern",
-   "location": "Amsterdam"
-  },
-  "dc9f12eafa6d7d70e9e598038d9e2931": {
-   "id": "dc9f12eafa6d7d70e9e598038d9e2931",
-   "company": "KraftHeinz",
-   "role": "Marketing Intern - Drinks & Brunch",
-   "location": "Amsterdam"
-  },
-  "d3e0206e6de1a1b98ecbce75b928ec85": {
-   "id": "d3e0206e6de1a1b98ecbce75b928ec85",
-   "company": "YetiCoolers",
-   "role": "Marketing Internship - Auas Students",
-   "location": "Amsterdam"
-  },
-  "5153bc8b3d9a528a3b988b1102189742": {
-   "id": "5153bc8b3d9a528a3b988b1102189742",
-   "company": "Vanderlande",
-   "role": "Internship: Building The Future Of Work With Low-code Ai Skills For Vanderlande",
-   "location": "S Hertogenbosch"
-  },
-  "66a8245a7588d2855ef35590ef558629": {
-   "id": "66a8245a7588d2855ef35590ef558629",
-   "company": "Irdeto",
-   "role": "Systems Integration Intern",
-   "location": "Amsterdam"
-  },
-  "5deda1a9bd5d451494c1b5f4f5c6b612": {
-   "id": "5deda1a9bd5d451494c1b5f4f5c6b612",
-   "company": "Irdeto",
-   "role": "Grc Intern",
-   "location": "Amsterdam"
-  },
-  "d7db8dd44d8b759750586b3bcce6cf3b": {
-   "id": "d7db8dd44d8b759750586b3bcce6cf3b",
-   "company": "Irdeto",
-   "role": "Marketing Intern",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -594,6 +594,12 @@
    "id": "6912eec3081bb2a78cb984b2924a4d40",
    "company": "Oliver Wyman",
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "d044ee34d54db57ef0a281d1ddb8d976": {
+   "id": "d044ee34d54db57ef0a281d1ddb8d976",
+   "company": "Booking Holdings",
+   "role": "Data Scientist Ii - Finance",
    "location": "Amsterdam"
   },
   "19996d6b1599b37e796c58599b6a6990": {
@@ -720,6 +726,12 @@
    "id": "e1030ac67132661c37d55da7710be8e5",
    "company": "JPMorgan Chase",
    "role": "2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Off-cycle Internship (september-december) - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "661aa250bfa48fef9f327e9c8d418118": {
+   "id": "661aa250bfa48fef9f327e9c8d418118",
+   "company": "ING",
+   "role": "Internships Equity Capital Markets",
    "location": "Amsterdam"
   },
   "dc8436c782dcb127b753995f3da92861": {
@@ -1418,6 +1430,12 @@
    "role": "Lse Technical Service",
    "location": "Utrecht"
   },
+  "bec96a889c16b7643f78eb93a17cccce": {
+   "id": "bec96a889c16b7643f78eb93a17cccce",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Sales Advisor 21h",
+   "location": "Amsterdam"
+  },
   "d96edebf3ee0767f5c80b483cc6c4651": {
    "id": "d96edebf3ee0767f5c80b483cc6c4651",
    "company": "MediamarktSaturn - Webshop Foundation",
@@ -1884,12 +1902,6 @@
    "id": "44f7cae9184041e6a8a5d64d2974b311",
    "company": "Hoofprinting",
    "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)",
-   "location": "Amsterdam"
-  },
-  "04510186d8f6b6be3c81e3447c53ef0b": {
-   "id": "04510186d8f6b6be3c81e3447c53ef0b",
-   "company": "Tommy Hilfiger & Calvin Klein - De Bijenkorf",
-   "role": "Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)",
    "location": "Amsterdam"
   },
   "39b0a2b0e2facad2d64bd2a21f486cfe": {

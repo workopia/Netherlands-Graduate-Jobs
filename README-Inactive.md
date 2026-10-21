@@ -1950,4 +1950,13 @@
 <tr><td>H&M</td><td>Sales Advisor 16h</td><td>Alphen Aan Den Rijn</td><td>2026-10-20</td></tr>
 <tr><td>Michael Kors</td><td>Part Time Sales Associate 12h</td><td>Amsterdam</td><td>2026-10-20</td></tr>
 <tr><td>Accenture</td><td>Business Analyst Pension Domain (dutch Speaker)</td><td>Amsterdam</td><td>2026-10-21</td></tr>
+<tr><td>KraftHeinz</td><td>Commercial Finance Intern</td><td>Amsterdam</td><td>2026-10-21</td></tr>
+<tr><td>KraftHeinz</td><td>Operations Finance Intern</td><td>Amsterdam</td><td>2026-10-21</td></tr>
+<tr><td>KraftHeinz</td><td>Marketing Intern - Drinks & Brunch</td><td>Amsterdam</td><td>2026-10-21</td></tr>
+<tr><td>YetiCoolers</td><td>Marketing Internship - Auas Students</td><td>Amsterdam</td><td>2026-10-21</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Building The Future Of Work With Low-code Ai Skills For Vanderlande</td><td>S Hertogenbosch</td><td>2026-10-21</td></tr>
+<tr><td>Irdeto</td><td>Systems Integration Intern</td><td>Amsterdam</td><td>2026-10-21</td></tr>
+<tr><td>Irdeto</td><td>Grc Intern</td><td>Amsterdam</td><td>2026-10-21</td></tr>
+<tr><td>Irdeto</td><td>Marketing Intern</td><td>Amsterdam</td><td>2026-10-21</td></tr>
+<tr><td>Tommy Hilfiger & Calvin Klein - De Bijenkorf</td><td>Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)</td><td>Amsterdam</td><td>2026-10-21</td></tr>
 </table>
