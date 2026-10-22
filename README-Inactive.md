@@ -1983,4 +1983,22 @@
 <tr><td>SKF Group</td><td>Marine Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-10-22</td></tr>
 <tr><td>MANN HUMMEL GmbH</td><td>Lse Technical Service</td><td>Utrecht</td><td>2026-10-22</td></tr>
 <tr><td>H&M</td><td>Sales Advisor 21h</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Internship: Front Office - The Hoxton, Lloyd</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Internship: Assistant F&b Director - The Hoxton Lloyd</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Internship: People & Culture - The Hoxton, Lloyd</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Global Digital Manufacturing Intern</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Accenture Australia</td><td>Public Services Strategy & Consulting Internship</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>KraftHeinz</td><td>Logistics Intern</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>KraftHeinz</td><td>Marketing Project Management Intern</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>itinfinance.nl</td><td>Intern M&a-2</td><td>Maple</td><td>2026-10-22</td></tr>
+<tr><td>itinfinance.nl</td><td>Intern M&a-3</td><td>Maple</td><td>2026-10-22</td></tr>
+<tr><td>Marriott International</td><td>Front Office Trainee</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>McDonald's</td><td>Intern Strategic Sourcing</td><td>Netherlands</td><td>2026-10-22</td></tr>
+<tr><td>Mars Inc</td><td>Thesis Internship – Forecast Analytics</td><td>S Hertogenbosch</td><td>2026-10-22</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Design And Analysis Of Timber Structures For Industrial Platforms</td><td>S Hertogenbosch</td><td>2026-10-22</td></tr>
+<tr><td>BESIX Watpac</td><td>Field Specialist</td><td>Hendrik</td><td>2026-10-22</td></tr>
+<tr><td>äº¬ä¸å¨çç</td><td>Equipment Maintenance (chinese Speaker)</td><td>South Holland</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger/calvin Klein - De Bijenkorf</td><td>Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Amsterdam</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Hoofprinting</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Cementbouw</td><td>Logistiek Administratief Medewerker</td><td>Wanssum</td><td>2026-10-22</td></tr>
 </table>

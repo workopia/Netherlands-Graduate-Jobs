@@ -1,6 +1,6 @@
 {
  "asOf": "2026-10-22",
- "count": 350,
+ "count": 349,
  "jobs": {
   "2680765": {
    "id": "2680765",
@@ -20,11 +20,47 @@
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
   },
+  "a55df712d9a9433a38eda6fcfb01abe5": {
+   "id": "a55df712d9a9433a38eda6fcfb01abe5",
+   "company": "pladis Global",
+   "role": "Marketing & Innovation Intern",
+   "location": "Amsterdam"
+  },
+  "21d4cbdd7b0e4743a7405968bb4d7715": {
+   "id": "21d4cbdd7b0e4743a7405968bb4d7715",
+   "company": "Corbion Group Netherlands B.V",
+   "role": "Intern Qc",
+   "location": "S Hertogenbosch"
+  },
+  "e55f7009c75448014efcb9e823d8624f": {
+   "id": "e55f7009c75448014efcb9e823d8624f",
+   "company": "ING Group",
+   "role": "Internship - Ai-software-engineer",
+   "location": "Haarlerbergpark"
+  },
+  "eabef99a294953f75008b4ce1b447dbc": {
+   "id": "eabef99a294953f75008b4ce1b447dbc",
+   "company": "Stryker Corp",
+   "role": "Intern Compliance Hr Operations",
+   "location": "Amsterdam"
+  },
+  "07c967bde8b010b9add3c9191d706691": {
+   "id": "07c967bde8b010b9add3c9191d706691",
+   "company": "Abbott Laboratories",
+   "role": "Digital Process Improvement & Automation (qa) Intern",
+   "location": "Amsterdam"
+  },
   "a42c9e403032218b655bd297007cb5fb": {
    "id": "a42c9e403032218b655bd297007cb5fb",
    "company": "ING",
    "role": "Internship - Content Creatie En Employer Branding",
    "location": "Acanthus"
+  },
+  "d6aee524ed124a3b2a7e28722029fe99": {
+   "id": "d6aee524ed124a3b2a7e28722029fe99",
+   "company": "MSD (Merck)",
+   "role": "Intern – Life Sciences/molecular Virology – Discovery & Technology",
+   "location": "North Brabant"
   },
   "81f819ec2fd75502bde9f6cb98567cf5": {
    "id": "81f819ec2fd75502bde9f6cb98567cf5",
@@ -38,17 +74,59 @@
    "role": "Intern – Logistics/supply Chain Management - Import & Export",
    "location": "North Holland"
   },
+  "daa074fa2fa5f53cf42a465a1a699530": {
+   "id": "daa074fa2fa5f53cf42a465a1a699530",
+   "company": "Avery Dennison Corp",
+   "role": "Internship: Pilot Plant Innovation",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "72e54518de68bddc9b79dc6f090c2ac0": {
+   "id": "72e54518de68bddc9b79dc6f090c2ac0",
+   "company": "Avery Dennison Smartrac",
+   "role": "Internship: Pilot Plant Innovation",
+   "location": "Alphen Aan Den Rijn"
+  },
   "3c25bb50425eeed1d1d0e648d92de715": {
    "id": "3c25bb50425eeed1d1d0e648d92de715",
    "company": "Dyson",
    "role": "Intern (january Start Date)",
    "location": "Amsterdam Office"
   },
+  "5b204bae4138850ac379d539d78a2152": {
+   "id": "5b204bae4138850ac379d539d78a2152",
+   "company": "Hilton Worldwide",
+   "role": "Cluster Reservations Internship (february 2027)",
+   "location": "Amsterdam"
+  },
   "8f7ce16a401276155e10faa957bd0d6e": {
    "id": "8f7ce16a401276155e10faa957bd0d6e",
    "company": "282",
    "role": "Internship Transaction Services/trade Finance Services",
    "location": "Amsterdam"
+  },
+  "fc5621c51edcd24345e097ac74dd0453": {
+   "id": "fc5621c51edcd24345e097ac74dd0453",
+   "company": "Kraft Heinz",
+   "role": "Shelf Life Labs Intern",
+   "location": "Arnhem"
+  },
+  "2e415e4ca8705a77f283be11007d2a0a": {
+   "id": "2e415e4ca8705a77f283be11007d2a0a",
+   "company": "Kraft Heinz",
+   "role": "Culinary Intern",
+   "location": "Arnhem"
+  },
+  "2f2477175755cde42de7ce2487f99e10": {
+   "id": "2f2477175755cde42de7ce2487f99e10",
+   "company": "Kraft Heinz",
+   "role": "Process Modelling Intern",
+   "location": "Arnhem"
+  },
+  "c4f77784bfc2946e9bfd62ac689baa6e": {
+   "id": "c4f77784bfc2946e9bfd62ac689baa6e",
+   "company": "GE HealthCare Technologies",
+   "role": "Stagiaire Wtb",
+   "location": "Eindhoven"
   },
   "7e704f127eacfa024acfd3aca16f28bb": {
    "id": "7e704f127eacfa024acfd3aca16f28bb",
@@ -421,84 +499,6 @@
    "company": "Catawiki",
    "role": "Facilities Intern",
    "location": "Amsterdam"
-  },
-  "25495294896d7151c94662fa14411317": {
-   "id": "25495294896d7151c94662fa14411317",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Internship: Front Office - The Hoxton, Lloyd",
-   "location": "Amsterdam"
-  },
-  "4b0135b3026cea4b39db9f53aabe7b1a": {
-   "id": "4b0135b3026cea4b39db9f53aabe7b1a",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Internship: Assistant F&b Director - The Hoxton Lloyd",
-   "location": "Amsterdam"
-  },
-  "4172c3efe8c569fa15cd111812f1549e": {
-   "id": "4172c3efe8c569fa15cd111812f1549e",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Internship: People & Culture - The Hoxton, Lloyd",
-   "location": "Amsterdam"
-  },
-  "b4e809f7330da973594d6a188020ba4e": {
-   "id": "b4e809f7330da973594d6a188020ba4e",
-   "company": "Danone",
-   "role": "Global Digital Manufacturing Intern",
-   "location": "Amsterdam"
-  },
-  "9adc9371c56cf0714eb65d3a8e70feae": {
-   "id": "9adc9371c56cf0714eb65d3a8e70feae",
-   "company": "Accenture Australia",
-   "role": "Public Services Strategy & Consulting Internship",
-   "location": "Amsterdam"
-  },
-  "9b80990c3416912da0616dd612d5617b": {
-   "id": "9b80990c3416912da0616dd612d5617b",
-   "company": "KraftHeinz",
-   "role": "Logistics Intern",
-   "location": "Amsterdam"
-  },
-  "3e093f7fbe222545bd9a8bacc4e8f41f": {
-   "id": "3e093f7fbe222545bd9a8bacc4e8f41f",
-   "company": "KraftHeinz",
-   "role": "Marketing Project Management Intern",
-   "location": "Amsterdam"
-  },
-  "3c7d373d56ee7f39979049346b50a4b8": {
-   "id": "3c7d373d56ee7f39979049346b50a4b8",
-   "company": "itinfinance.nl",
-   "role": "Intern M&a-2",
-   "location": "Maple"
-  },
-  "de3c48674ef7f40b936466d219713a6b": {
-   "id": "de3c48674ef7f40b936466d219713a6b",
-   "company": "itinfinance.nl",
-   "role": "Intern M&a-3",
-   "location": "Maple"
-  },
-  "4350932f3cf0ad8d37f3ff720a5c1b52": {
-   "id": "4350932f3cf0ad8d37f3ff720a5c1b52",
-   "company": "Marriott International",
-   "role": "Front Office Trainee",
-   "location": "Amsterdam"
-  },
-  "3c2c783095281c0b4015742f3f959018": {
-   "id": "3c2c783095281c0b4015742f3f959018",
-   "company": "McDonald's",
-   "role": "Intern Strategic Sourcing",
-   "location": "Netherlands"
-  },
-  "dc2e466416584b4baa31d32831ad4537": {
-   "id": "dc2e466416584b4baa31d32831ad4537",
-   "company": "Mars Inc",
-   "role": "Thesis Internship – Forecast Analytics",
-   "location": "S Hertogenbosch"
-  },
-  "df5406e7b69dc50c425f4a3549c62b5a": {
-   "id": "df5406e7b69dc50c425f4a3549c62b5a",
-   "company": "Vanderlande",
-   "role": "Internship: Design And Analysis Of Timber Structures For Industrial Platforms",
-   "location": "S Hertogenbosch"
   },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
@@ -955,6 +955,18 @@
    "company": "Orthopedicjobs",
    "role": "Financial Analyst - English & French Speaker",
    "location": "Amsterdam"
+  },
+  "bbf8dcf601e9267f221875ffb53ecbe6": {
+   "id": "bbf8dcf601e9267f221875ffb53ecbe6",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Amsterdam Reparatie & Servicemedewerker Elektronica Amsterdam West 1069 Cg",
+   "location": "Amsterdam"
+  },
+  "fcd7504ed92036b45bead58e5dac1373": {
+   "id": "fcd7504ed92036b45bead58e5dac1373",
+   "company": "MSD (Merck)",
+   "role": "Technician",
+   "location": "Venlo"
   },
   "550db522e6590c79c16ee8bc174207c6": {
    "id": "550db522e6590c79c16ee8bc174207c6",
@@ -1424,17 +1436,17 @@
    "role": "Service Monteur Personendeuren",
    "location": "Alphen Aan Den Rijn"
   },
-  "e180542611f2ff7abf9e9fb635ff68da": {
-   "id": "e180542611f2ff7abf9e9fb635ff68da",
-   "company": "BESIX Watpac",
-   "role": "Field Specialist",
-   "location": "Hendrik"
+  "f6028da99b3b3c2f2b6756e00a1c4592": {
+   "id": "f6028da99b3b3c2f2b6756e00a1c4592",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Delft Verkoopmedewerker Retail Delft 2611 Dc",
+   "location": "Alphen Aan Den Rijn"
   },
-  "6ddb67c21560af14fd6c9fbb678a5f4b": {
-   "id": "6ddb67c21560af14fd6c9fbb678a5f4b",
-   "company": "äº¬ä¸å¨çç",
-   "role": "Equipment Maintenance (chinese Speaker)",
-   "location": "South Holland"
+  "dbaf391f70f881e2aad3497dba6fa2cd": {
+   "id": "dbaf391f70f881e2aad3497dba6fa2cd",
+   "company": "H&M",
+   "role": "Verkoopmedewerker – Amsterdam De Dam (weekend/bijbaan)",
+   "location": "Amsterdam"
   },
   "bec96a889c16b7643f78eb93a17cccce": {
    "id": "bec96a889c16b7643f78eb93a17cccce",
@@ -1898,18 +1910,6 @@
    "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
-  "0cd7582cf790e660bbd909448947e07d": {
-   "id": "0cd7582cf790e660bbd909448947e07d",
-   "company": "Tommy Hilfiger/calvin Klein - De Bijenkorf",
-   "role": "Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "44f7cae9184041e6a8a5d64d2974b311": {
-   "id": "44f7cae9184041e6a8a5d64d2974b311",
-   "company": "Hoofprinting",
-   "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)",
-   "location": "Amsterdam"
-  },
   "115a820079a7148064ffcd7b0a3647f5": {
    "id": "115a820079a7148064ffcd7b0a3647f5",
    "company": "Sopra Steria",
@@ -2089,12 +2089,6 @@
    "company": "DSV Panalpina AS",
    "role": "Logistiek Administratief Medewerker",
    "location": "Alphen Aan Den Rijn"
-  },
-  "e9b0721c8ab045e576020c7515c570dc": {
-   "id": "e9b0721c8ab045e576020c7515c570dc",
-   "company": "Cementbouw",
-   "role": "Logistiek Administratief Medewerker",
-   "location": "Wanssum"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",
