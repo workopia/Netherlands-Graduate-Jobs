@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-21",
- "count": 348,
+ "asOf": "2026-10-22",
+ "count": 350,
  "jobs": {
   "2680765": {
    "id": "2680765",
@@ -20,29 +20,29 @@
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
   },
+  "a42c9e403032218b655bd297007cb5fb": {
+   "id": "a42c9e403032218b655bd297007cb5fb",
+   "company": "ING",
+   "role": "Internship - Content Creatie En Employer Branding",
+   "location": "Acanthus"
+  },
+  "81f819ec2fd75502bde9f6cb98567cf5": {
+   "id": "81f819ec2fd75502bde9f6cb98567cf5",
+   "company": "Golden Palms Rehabilitation and Retirement",
+   "role": "Stagiair(e) Hse",
+   "location": "Slagharen"
+  },
+  "7530ecd9d6549454367c4374694f551f": {
+   "id": "7530ecd9d6549454367c4374694f551f",
+   "company": "Imsapharma Com Ar",
+   "role": "Intern – Logistics/supply Chain Management - Import & Export",
+   "location": "North Holland"
+  },
   "3c25bb50425eeed1d1d0e648d92de715": {
    "id": "3c25bb50425eeed1d1d0e648d92de715",
    "company": "Dyson",
    "role": "Intern (january Start Date)",
    "location": "Amsterdam Office"
-  },
-  "ffd596399847535ab7d69a62a10e5905": {
-   "id": "ffd596399847535ab7d69a62a10e5905",
-   "company": "Vanderlande",
-   "role": "Internship: Designing And Piloting A Planning Bill Of Materials",
-   "location": "S Hertogenbosch"
-  },
-  "5a3fb4dde16812d3325f10c2409bcaac": {
-   "id": "5a3fb4dde16812d3325f10c2409bcaac",
-   "company": "Vanderlande",
-   "role": "Internship: Building The Tax Department Of The Future, Automated Indirect Tax Global Vat Analytics",
-   "location": "S Hertogenbosch"
-  },
-  "2e1d9899793c426b852be81eea9d192e": {
-   "id": "2e1d9899793c426b852be81eea9d192e",
-   "company": "Vanderlande",
-   "role": "Internship: Building The Tax Department Of The Future",
-   "location": "S Hertogenbosch"
   },
   "8f7ce16a401276155e10faa957bd0d6e": {
    "id": "8f7ce16a401276155e10faa957bd0d6e",
@@ -56,6 +56,36 @@
    "role": "Ehs Intern",
    "location": "Breda"
   },
+  "a780a926f3b70ccf5f6b85e3b0681098": {
+   "id": "a780a926f3b70ccf5f6b85e3b0681098",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: Building The Tax Department Of The Future",
+   "location": "S Hertogenbosch"
+  },
+  "1ec0adcbf9ba6ece9b4501352dd49246": {
+   "id": "1ec0adcbf9ba6ece9b4501352dd49246",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: Building The Tax Department Of The Future, Automated Indirect Tax & Global Vat Analytics",
+   "location": "S Hertogenbosch"
+  },
+  "9e78287b3781973dd1eb32a9d829b400": {
+   "id": "9e78287b3781973dd1eb32a9d829b400",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: Designing And Piloting A Planning Bill Of Materials",
+   "location": "S Hertogenbosch"
+  },
+  "780d0cb4f06bb9bd5555a851411754aa": {
+   "id": "780d0cb4f06bb9bd5555a851411754aa",
+   "company": "pladis Global",
+   "role": "Marketing Stagiair",
+   "location": "Amsterdam"
+  },
+  "eb74e4d2278caa63940a71e06e944185": {
+   "id": "eb74e4d2278caa63940a71e06e944185",
+   "company": "Danone",
+   "role": "Marketing Intern – Global Team (cancer Care Focus)",
+   "location": "Amsterdam"
+  },
   "9e2638c4115e2671a6af69197810b271": {
    "id": "9e2638c4115e2671a6af69197810b271",
    "company": "Tencent",
@@ -67,6 +97,54 @@
    "company": "TikTok",
    "role": "Ecommere Business Project Intern, Chinese Speaking (tiktok Shop)- 2026 Start (bs/ms)",
    "location": "Amsterdam"
+  },
+  "7f796c6d54af95723640241379975acd": {
+   "id": "7f796c6d54af95723640241379975acd",
+   "company": "KraftHeinz",
+   "role": "Natural Preservation Intern",
+   "location": "Arnhem"
+  },
+  "214a17c4af1c4d2216001985db78125b": {
+   "id": "214a17c4af1c4d2216001985db78125b",
+   "company": "Heineken International BV",
+   "role": "Internship - Sales Out Of Home Amsterdam",
+   "location": "Amsterdam"
+  },
+  "dd6ec992f1a96aa8053290ba3444f3cc": {
+   "id": "dd6ec992f1a96aa8053290ba3444f3cc",
+   "company": "Park Hyatt Melbourne",
+   "role": "Hyatt Regency Amsterdam Internships 2027",
+   "location": "Amsterdam"
+  },
+  "5a5cf290aa306ca5fd5d8b14b998a9a0": {
+   "id": "5a5cf290aa306ca5fd5d8b14b998a9a0",
+   "company": "Arcadis",
+   "role": "Internship - Water Technologie",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "22b2012c89c20b34b9083d302f1b6406": {
+   "id": "22b2012c89c20b34b9083d302f1b6406",
+   "company": "Arcadis",
+   "role": "Internship – Machine Learning In Flood Modelling",
+   "location": "Amersfoort"
+  },
+  "e62f2f6d0971bb785a7ce64bbd203dce": {
+   "id": "e62f2f6d0971bb785a7ce64bbd203dce",
+   "company": "Arcadis",
+   "role": "Intern Wegontwerp",
+   "location": "Amersfoort"
+  },
+  "eb7b2c3a3020d07b4083aaae028253c9": {
+   "id": "eb7b2c3a3020d07b4083aaae028253c9",
+   "company": "Arcadis",
+   "role": "Internship - Energie En Omgeving",
+   "location": "Amersfoort"
+  },
+  "3e51ef08e3ab8c2f79918cb5d89cb654": {
+   "id": "3e51ef08e3ab8c2f79918cb5d89cb654",
+   "company": "Arcadis",
+   "role": "Meewerkstage Bodem, Conditionering, Cultuurtechniek",
+   "location": "Amersfoort"
   },
   "afb9dda4440f83419070d4e096f1ca08": {
    "id": "afb9dda4440f83419070d4e096f1ca08",
@@ -85,6 +163,24 @@
    "company": "ING",
    "role": "Intern",
    "location": "Maple"
+  },
+  "eebae3c9e7b6dd0fb99924af8f52aa53": {
+   "id": "eebae3c9e7b6dd0fb99924af8f52aa53",
+   "company": "Avery Dennison Smartrac",
+   "role": "Internship: Indirect Procurement",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "08fb479de71b6633ca3447a4da80433a": {
+   "id": "08fb479de71b6633ca3447a4da80433a",
+   "company": "Avery Dennison Corp",
+   "role": "Internship: Indirect Procurement",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "d52c8acb1da4fb656e9b73facbb4d582": {
+   "id": "d52c8acb1da4fb656e9b73facbb4d582",
+   "company": "Danone",
+   "role": "Benelux Indirect Procurement Intern",
+   "location": "Amsterdam"
   },
   "59f73a0d7a441c905b5ffcb4fb49b609": {
    "id": "59f73a0d7a441c905b5ffcb4fb49b609",
@@ -404,102 +500,6 @@
    "role": "Internship: Design And Analysis Of Timber Structures For Industrial Platforms",
    "location": "S Hertogenbosch"
   },
-  "aa086cc34058192cfe120a0a175ceebb": {
-   "id": "aa086cc34058192cfe120a0a175ceebb",
-   "company": "Bynder",
-   "role": "Office Manager Intern",
-   "location": "Amsterdam"
-  },
-  "88aabc592e91db3f1d7a23fb0f23e144": {
-   "id": "88aabc592e91db3f1d7a23fb0f23e144",
-   "company": "Avery Dennison Smartrac",
-   "role": "Internship: Business Intelligence And Finance Excellence",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1e913df8a1b6cc397ee78b904306e10a": {
-   "id": "1e913df8a1b6cc397ee78b904306e10a",
-   "company": "Avery Dennison Corp",
-   "role": "Internship: Business Intelligence And Finance Excellence",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "9f77940e261ea2c71fe4ddfcf0d504c5": {
-   "id": "9f77940e261ea2c71fe4ddfcf0d504c5",
-   "company": "Vanderlande UK",
-   "role": "Internship: Design And Analysis Of Timber Structures For Industrial Platforms",
-   "location": "S Hertogenbosch"
-  },
-  "88756497ba763526881b7bc500fa7a42": {
-   "id": "88756497ba763526881b7bc500fa7a42",
-   "company": "Danone",
-   "role": "Specialized Ingredients Procurment Intern",
-   "location": "Amsterdam"
-  },
-  "614b51fb6a14a81c6f13050e7b32998f": {
-   "id": "614b51fb6a14a81c6f13050e7b32998f",
-   "company": "Danone",
-   "role": "Intern Supply Chain Customer Experience Planning",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "40aa623e402c0b928fce17f69dc1bf6f": {
-   "id": "40aa623e402c0b928fce17f69dc1bf6f",
-   "company": "Danone",
-   "role": "Finance Operations Emea Intern",
-   "location": "Amsterdam"
-  },
-  "96092d119c9436a16035b274dcddc9d0": {
-   "id": "96092d119c9436a16035b274dcddc9d0",
-   "company": "Danone",
-   "role": "Internship (marketing): Metabolics",
-   "location": "Amsterdam"
-  },
-  "a6b8781befc0816d904c7b66b44baf22": {
-   "id": "a6b8781befc0816d904c7b66b44baf22",
-   "company": "Danone",
-   "role": "Global Logistics &amp; Distribution Intern",
-   "location": "HAPS"
-  },
-  "a0af9d5f8944a9b910bbb7efc0efb5d1": {
-   "id": "a0af9d5f8944a9b910bbb7efc0efb5d1",
-   "company": "itinfinance.nl",
-   "role": "Internship - Financial Markets Tribe",
-   "location": "Treasury Center"
-  },
-  "ba98c51964dc8ceff16fe096e8db1d8e": {
-   "id": "ba98c51964dc8ceff16fe096e8db1d8e",
-   "company": "Danone",
-   "role": "Intern Supply Chain",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "c8522e667b7b95fe5673c50f81f83688": {
-   "id": "c8522e667b7b95fe5673c50f81f83688",
-   "company": "Danone",
-   "role": "Transport Intern - Global Logistics &amp; Distribution Hub",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "92f8f196185dd6d852234e8751093acc": {
-   "id": "92f8f196185dd6d852234e8751093acc",
-   "company": "Danone",
-   "role": "Internship (supply Chain): Global Distribution &amp; Logistics Hub Transportation Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "18ce1a8a3117a0d5001a5d747fc69683": {
-   "id": "18ce1a8a3117a0d5001a5d747fc69683",
-   "company": "Danone",
-   "role": "Quality And Food Safety Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "225be422612a65228185006d62e9e5d2": {
-   "id": "225be422612a65228185006d62e9e5d2",
-   "company": "Perfetti Van Melle ICT B.V",
-   "role": "Internship Digital Content Marketing - Amsterdam Location",
-   "location": "Amsterdam"
-  },
-  "9d6b6a7b0c273428ab7d4c6e5348bee8": {
-   "id": "9d6b6a7b0c273428ab7d4c6e5348bee8",
-   "company": "pladis Global",
-   "role": "Marketing Stagiair",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -522,6 +522,12 @@
    "id": "262e4cda291f65c4dfad99889a12b9ff",
    "company": "Sitedish",
    "role": "Php Developer (api)fulltime / Parttimeamsterdam",
+   "location": "Amsterdam"
+  },
+  "c47ffe8e21c96e5fb022bc36c624574d": {
+   "id": "c47ffe8e21c96e5fb022bc36c624574d",
+   "company": "Qube Research And Technology",
+   "role": "Software Engineer – Site Reliability Engineering",
    "location": "Amsterdam"
   },
   "0a5572a3b37910ec434eed10d01bd56a": {
@@ -949,6 +955,30 @@
    "company": "Orthopedicjobs",
    "role": "Financial Analyst - English & French Speaker",
    "location": "Amsterdam"
+  },
+  "550db522e6590c79c16ee8bc174207c6": {
+   "id": "550db522e6590c79c16ee8bc174207c6",
+   "company": "Konecranes",
+   "role": "Agv-monteur Ploegendienst 16/5 - Rotterdam World Gateway Maasvlakte 2",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "bf8ac43bcc4f577607eb9ef50a88bd52": {
+   "id": "bf8ac43bcc4f577607eb9ef50a88bd52",
+   "company": "Canon Production Printing Netherlands B.V",
+   "role": "Maintenance Specialist (mfd)",
+   "location": "Netherlands"
+  },
+  "7a5b7c7885abe652325e86561632817d": {
+   "id": "7a5b7c7885abe652325e86561632817d",
+   "company": "OTIS",
+   "role": "Reparatiemonteur Liften",
+   "location": "Utrecht"
+  },
+  "d10c88706008401d2797dcfaec7eaf82": {
+   "id": "d10c88706008401d2797dcfaec7eaf82",
+   "company": "BESIX Watpac",
+   "role": "Onderhoudsmonteur/machinemonteur",
+   "location": "Venlo"
   },
   "b948e286be15f409f1c45cff1a91257c": {
    "id": "b948e286be15f409f1c45cff1a91257c",
@@ -1406,34 +1436,16 @@
    "role": "Equipment Maintenance (chinese Speaker)",
    "location": "South Holland"
   },
-  "3f418b6d8243042e554cf669ebf3706a": {
-   "id": "3f418b6d8243042e554cf669ebf3706a",
-   "company": "Expro Group",
-   "role": "Field Engineer 1",
-   "location": "Netherlands"
-  },
-  "f8564aecd097a7192bdc10e5434063bc": {
-   "id": "f8564aecd097a7192bdc10e5434063bc",
-   "company": "Nouryon",
-   "role": "Mechanic Allround",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "ee744f93f54e78083399e528fed53f6d": {
-   "id": "ee744f93f54e78083399e528fed53f6d",
-   "company": "SKF Group",
-   "role": "Marine Service Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "9785a1d6702b3ff7a06f82300dc28555": {
-   "id": "9785a1d6702b3ff7a06f82300dc28555",
-   "company": "MANN HUMMEL GmbH",
-   "role": "Lse Technical Service",
-   "location": "Utrecht"
-  },
   "bec96a889c16b7643f78eb93a17cccce": {
    "id": "bec96a889c16b7643f78eb93a17cccce",
-   "company": "H & M Hennes & Mauritz AB",
+   "company": "H&M",
    "role": "Sales Advisor 21h",
+   "location": "Amsterdam"
+  },
+  "12083dbc3ec3569627b67080dd460ed2": {
+   "id": "12083dbc3ec3569627b67080dd460ed2",
+   "company": "Jimmy Choo",
+   "role": "Sales Associate, De Bijenkorf - Amsterdam",
    "location": "Amsterdam"
   },
   "d96edebf3ee0767f5c80b483cc6c4651": {
@@ -1566,12 +1578,6 @@
    "id": "bb301d12c25a31bf7c4032ac891061ec",
    "company": "H&M",
    "role": "Sales Advisor 5-12h",
-   "location": "Amsterdam"
-  },
-  "918751778bf895abb0ef52cfd30f7393": {
-   "id": "918751778bf895abb0ef52cfd30f7393",
-   "company": "H&M",
-   "role": "Sales Advisor 21h",
    "location": "Amsterdam"
   },
   "6f165c03f3a493ba04a04f335e9956b5": {
@@ -1903,6 +1909,12 @@
    "company": "Hoofprinting",
    "role": "Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)",
    "location": "Amsterdam"
+  },
+  "115a820079a7148064ffcd7b0a3647f5": {
+   "id": "115a820079a7148064ffcd7b0a3647f5",
+   "company": "Sopra Steria",
+   "role": "Administrative Assistant/secretary [26184]",
+   "location": "Alphen Aan Den Rijn"
   },
   "39b0a2b0e2facad2d64bd2a21f486cfe": {
    "id": "39b0a2b0e2facad2d64bd2a21f486cfe",

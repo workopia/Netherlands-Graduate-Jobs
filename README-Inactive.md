@@ -1959,4 +1959,28 @@
 <tr><td>Irdeto</td><td>Grc Intern</td><td>Amsterdam</td><td>2026-10-21</td></tr>
 <tr><td>Irdeto</td><td>Marketing Intern</td><td>Amsterdam</td><td>2026-10-21</td></tr>
 <tr><td>Tommy Hilfiger & Calvin Klein - De Bijenkorf</td><td>Part Time Sales Associate, (8 Hours), Tommy Hilfiger & Calvin Klein - De Bijenkorf - Amstelveen (dutch Speaking)</td><td>Amsterdam</td><td>2026-10-21</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Designing And Piloting A Planning Bill Of Materials</td><td>S Hertogenbosch</td><td>2026-10-22</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Building The Tax Department Of The Future, Automated Indirect Tax Global Vat Analytics</td><td>S Hertogenbosch</td><td>2026-10-22</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Building The Tax Department Of The Future</td><td>S Hertogenbosch</td><td>2026-10-22</td></tr>
+<tr><td>Bynder</td><td>Office Manager Intern</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Business Intelligence And Finance Excellence</td><td>Alphen Aan Den Rijn</td><td>2026-10-22</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Business Intelligence And Finance Excellence</td><td>Alphen Aan Den Rijn</td><td>2026-10-22</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Design And Analysis Of Timber Structures For Industrial Platforms</td><td>S Hertogenbosch</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Specialized Ingredients Procurment Intern</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Intern Supply Chain Customer Experience Planning</td><td>Alphen Aan Den Rijn</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Finance Operations Emea Intern</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Internship (marketing): Metabolics</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Global Logistics &amp; Distribution Intern</td><td>HAPS</td><td>2026-10-22</td></tr>
+<tr><td>itinfinance.nl</td><td>Internship - Financial Markets Tribe</td><td>Treasury Center</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Intern Supply Chain</td><td>Alphen Aan Den Rijn</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Transport Intern - Global Logistics &amp; Distribution Hub</td><td>Alphen Aan Den Rijn</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Internship (supply Chain): Global Distribution &amp; Logistics Hub Transportation Intern</td><td>Alphen Aan Den Rijn</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Quality And Food Safety Intern</td><td>Alphen Aan Den Rijn</td><td>2026-10-22</td></tr>
+<tr><td>Perfetti Van Melle ICT B.V</td><td>Internship Digital Content Marketing - Amsterdam Location</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>pladis Global</td><td>Marketing Stagiair</td><td>Amsterdam</td><td>2026-10-22</td></tr>
+<tr><td>Expro Group</td><td>Field Engineer 1</td><td>Netherlands</td><td>2026-10-22</td></tr>
+<tr><td>Nouryon</td><td>Mechanic Allround</td><td>Alphen Aan Den Rijn</td><td>2026-10-22</td></tr>
+<tr><td>SKF Group</td><td>Marine Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-10-22</td></tr>
+<tr><td>MANN HUMMEL GmbH</td><td>Lse Technical Service</td><td>Utrecht</td><td>2026-10-22</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 21h</td><td>Amsterdam</td><td>2026-10-22</td></tr>
 </table>
