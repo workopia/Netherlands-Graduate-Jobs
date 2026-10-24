@@ -2001,4 +2001,22 @@
 <tr><td>Tommy Hilfiger/calvin Klein - De Bijenkorf</td><td>Sales Advisor (16 Hours), Tommy Hilfiger/calvin Klein - De Bijenkorf - Amsterdam</td><td>Amsterdam</td><td>2026-10-22</td></tr>
 <tr><td>Hoofprinting</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Amsterdam (dutch Speaking)</td><td>Amsterdam</td><td>2026-10-22</td></tr>
 <tr><td>Cementbouw</td><td>Logistiek Administratief Medewerker</td><td>Wanssum</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Global Procurement Intern - Fruits</td><td>Amsterdam</td><td>2026-10-24</td></tr>
+<tr><td>Danone</td><td>Procurement Intern - Fruit Preparations</td><td>Amsterdam</td><td>2026-10-24</td></tr>
+<tr><td>Stichd</td><td>Intern Product Management</td><td>Stichd HQ</td><td>2026-10-24</td></tr>
+<tr><td>Tencent Music Entertainment Group</td><td>Product Manager Intern</td><td>Amsterdam</td><td>2026-10-24</td></tr>
+<tr><td>Kraft Heinz</td><td>Procurement Intern</td><td>Amsterdam</td><td>2026-10-24</td></tr>
+<tr><td>Euronext Amsterdam</td><td>Communications Intern</td><td>Amsterdam</td><td>2026-10-24</td></tr>
+<tr><td>Mars</td><td>Thesis Internship – Forecast Analytics</td><td>S Hertogenbosch</td><td>2026-10-24</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Hr/talent Acquisition & Employer Branding</td><td>Alphen Aan Den Rijn</td><td>2026-10-24</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Hr/talent Acquisition & Employer Branding</td><td>Alphen Aan Den Rijn</td><td>2026-10-24</td></tr>
+<tr><td>Melia</td><td>Human Resources Internship</td><td>Amsterdam</td><td>2026-10-24</td></tr>
+<tr><td>Catawiki</td><td>Facilities Intern</td><td>Amsterdam</td><td>2026-10-24</td></tr>
+<tr><td>KONE GmbH</td><td>Service Monteur Personendeuren</td><td>Alphen Aan Den Rijn</td><td>2026-10-24</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker – Amsterdam De Dam (weekend/bijbaan)</td><td>Amsterdam</td><td>2026-10-24</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker – Delft (weekend/bijbaan)</td><td>Alphen Aan Den Rijn</td><td>2026-10-24</td></tr>
+<tr><td>Beter Horen/Amplifon</td><td>Verkoopadviseur Bij Beter Horen Delft</td><td>Alphen Aan Den Rijn</td><td>2026-10-24</td></tr>
+<tr><td>Beter Horen/Amplifon</td><td>Verkoopadviseur Bij Beter Horen Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-10-24</td></tr>
+<tr><td>Beter Horen</td><td>Verkoopadviseur Bij Beter Horen Capelle Aan Den Ijssel</td><td>Alphen Aan Den Rijn</td><td>2026-10-24</td></tr>
+<tr><td>Tommy Hilfiger/Calvin Klein - De Bijenkorf Rotterdam</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-10-24</td></tr>
 </table>
