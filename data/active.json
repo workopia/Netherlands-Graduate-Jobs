@@ -1,13 +1,7 @@
 {
- "asOf": "2026-10-24",
- "count": 349,
+ "asOf": "2026-10-25",
+ "count": 347,
  "jobs": {
-  "2680765": {
-   "id": "2680765",
-   "company": "Amarosa",
-   "role": "Managementassistent 32 Uur",
-   "location": "Alphen Aan Den Rijn"
-  },
   "2750069": {
    "id": "2750069",
    "company": "Boekenvoordeel B.V",
@@ -19,6 +13,18 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "71fc60fac2944b20606ac23bb5d6e783": {
+   "id": "71fc60fac2944b20606ac23bb5d6e783",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Talent Acquisition Europe Intern",
+   "location": "Amsterdam"
+  },
+  "e89686241aa9514ddc9c5deb455886fe": {
+   "id": "e89686241aa9514ddc9c5deb455886fe",
+   "company": "Vanderlande UK",
+   "role": "Internship: Leadership Development Impact & Research",
+   "location": "S Hertogenbosch"
   },
   "4c424ba9a323302af6c3d8c2f32365b0": {
    "id": "4c424ba9a323302af6c3d8c2f32365b0",
@@ -198,6 +204,12 @@
    "id": "7e704f127eacfa024acfd3aca16f28bb",
    "company": "Kerry Group",
    "role": "Ehs Intern",
+   "location": "Breda"
+  },
+  "b1464b4aa2fc457fb9cd53c9f365b74c": {
+   "id": "b1464b4aa2fc457fb9cd53c9f365b74c",
+   "company": "Kerry",
+   "role": "EHS Intern",
    "location": "Breda"
   },
   "a780a926f3b70ccf5f6b85e3b0681098": {
@@ -481,24 +493,6 @@
    "company": "VANDERLANDE INDUSTRIES",
    "role": "Internship/graduation: Capability Development & Service Excellence",
    "location": "S Hertogenbosch"
-  },
-  "fdc5b77678519bc4ce005c3610dd0ca0": {
-   "id": "fdc5b77678519bc4ce005c3610dd0ca0",
-   "company": "SBM Offshore",
-   "role": "Modern Digital Workplace Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "f96746d0cfdeffb3aea25cae94bc16ca": {
-   "id": "f96746d0cfdeffb3aea25cae94bc16ca",
-   "company": "SBM Offshore",
-   "role": "Intern - Digital Information Modelling & Planning",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1825e17262cb43dbd5c909bc55c2f00f": {
-   "id": "1825e17262cb43dbd5c909bc55c2f00f",
-   "company": "Danone",
-   "role": "Sustainability Intern Benelux (dutch Speaker)",
-   "location": "Alphen Aan Den Rijn"
   },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
@@ -1436,6 +1430,12 @@
    "role": "Servicetechnicus (technicus E&i A)",
    "location": "Alphen Aan Den Rijn"
   },
+  "26599900a1492cfeb79058a2384fb28f": {
+   "id": "26599900a1492cfeb79058a2384fb28f",
+   "company": "MKC Moto",
+   "role": "Verkoopmedewerker",
+   "location": "Amsterdam"
+  },
   "071a1e8c82907614d02e6786b1ee4f7b": {
    "id": "071a1e8c82907614d02e6786b1ee4f7b",
    "company": "Tempur Sealy International",
@@ -1904,12 +1904,6 @@
    "role": "Beauty Advisorfulltime / Parttimerotterdam Weissenbruchlaan",
    "location": "Alphen Aan Den Rijn"
   },
-  "63494f8452bbdc9c8d8c9c6e72d023ff": {
-   "id": "63494f8452bbdc9c8d8c9c6e72d023ff",
-   "company": "Levis Media",
-   "role": "Retail Sales Assistant 10 Hrs/week",
-   "location": "Amsterdam"
-  },
   "115a820079a7148064ffcd7b0a3647f5": {
    "id": "115a820079a7148064ffcd7b0a3647f5",
    "company": "Sopra Steria",
@@ -2083,12 +2077,6 @@
    "company": "Malvern Panalytical Inc",
    "role": "Customer Service Coordinator",
    "location": "Eindhoven"
-  },
-  "df4c2d475e5a58c570d3230a5ee626bf": {
-   "id": "df4c2d475e5a58c570d3230a5ee626bf",
-   "company": "DSV Panalpina AS",
-   "role": "Logistiek Administratief Medewerker",
-   "location": "Alphen Aan Den Rijn"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",

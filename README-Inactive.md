@@ -2019,4 +2019,10 @@
 <tr><td>Beter Horen/Amplifon</td><td>Verkoopadviseur Bij Beter Horen Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-10-24</td></tr>
 <tr><td>Beter Horen</td><td>Verkoopadviseur Bij Beter Horen Capelle Aan Den Ijssel</td><td>Alphen Aan Den Rijn</td><td>2026-10-24</td></tr>
 <tr><td>Tommy Hilfiger/Calvin Klein - De Bijenkorf Rotterdam</td><td>Sales Advisor (oproep), Tommy Hilfiger/calvin Klein - De Bijenkorf Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-10-24</td></tr>
+<tr><td>Amarosa</td><td>Managementassistent 32 Uur</td><td>Alphen Aan Den Rijn</td><td>2026-10-25</td></tr>
+<tr><td>SBM Offshore</td><td>Modern Digital Workplace Intern</td><td>Alphen Aan Den Rijn</td><td>2026-10-25</td></tr>
+<tr><td>SBM Offshore</td><td>Intern - Digital Information Modelling & Planning</td><td>Alphen Aan Den Rijn</td><td>2026-10-25</td></tr>
+<tr><td>Danone</td><td>Sustainability Intern Benelux (dutch Speaker)</td><td>Alphen Aan Den Rijn</td><td>2026-10-25</td></tr>
+<tr><td>Levis Media</td><td>Retail Sales Assistant 10 Hrs/week</td><td>Amsterdam</td><td>2026-10-25</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Logistiek Administratief Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-10-25</td></tr>
 </table>
