@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-25",
- "count": 347,
+ "asOf": "2026-10-26",
+ "count": 345,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -13,6 +13,162 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "8fbe73f16abb2a07cfe11b4f358b7c65": {
+   "id": "8fbe73f16abb2a07cfe11b4f358b7c65",
+   "company": "Heineken International BV",
+   "role": "Internship - Brand Management (amstel, Brand &amp; Birra Moretti)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "5dd81c568db9f429cdb19b76aedaab4f": {
+   "id": "5dd81c568db9f429cdb19b76aedaab4f",
+   "company": "Heineken International BV",
+   "role": "Internship - Data Driven Sales Retail",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f29335f1bf8ae32e534859c2c85fcb65": {
+   "id": "f29335f1bf8ae32e534859c2c85fcb65",
+   "company": "Heineken International BV",
+   "role": "Internship - Data &amp; Digital Retail Team",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "016d72a2dc0ea4b5ef164dcd95d6236d": {
+   "id": "016d72a2dc0ea4b5ef164dcd95d6236d",
+   "company": "Heineken International BV",
+   "role": "Internship - Category Management",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "0a9cb5480856750e21cd32c1583deca6": {
+   "id": "0a9cb5480856750e21cd32c1583deca6",
+   "company": "Heineken International BV",
+   "role": "Internship - Security Management",
+   "location": "Amsterdam"
+  },
+  "6b58fe61d1403a47ba421617d1155d5d": {
+   "id": "6b58fe61d1403a47ba421617d1155d5d",
+   "company": "Heineken International BV",
+   "role": "Internship - Sales Out Of Home Amsterdam",
+   "location": "Amsterdam"
+  },
+  "f3b2fe2e854e657fb49bc9fb145cd289": {
+   "id": "f3b2fe2e854e657fb49bc9fb145cd289",
+   "company": "Heineken International BV",
+   "role": "Internship - Hr",
+   "location": "Zoeterwoude"
+  },
+  "bdef1c4c461f4343da63c0f55a30bb5f": {
+   "id": "bdef1c4c461f4343da63c0f55a30bb5f",
+   "company": "Heineken International BV",
+   "role": "Internship - Channel &amp; Execution Sport &amp; Leisure",
+   "location": "Netherlands"
+  },
+  "248e42f87eb0fb7005c29041f3ddde68": {
+   "id": "248e42f87eb0fb7005c29041f3ddde68",
+   "company": "Heineken International BV",
+   "role": "Internship - Business Transformation",
+   "location": "Unknown"
+  },
+  "f8cac06544320148d5afd92dcf7c7a93": {
+   "id": "f8cac06544320148d5afd92dcf7c7a93",
+   "company": "Heineken International BV",
+   "role": "Internship - Heineken Out Of Home Zuid-holland",
+   "location": "Zuid-Holland"
+  },
+  "c2ed375277e5a30988ff356d5de252f8": {
+   "id": "c2ed375277e5a30988ff356d5de252f8",
+   "company": "Heineken International BV",
+   "role": "Internship - Heineken Sales Tpw (third Party Wholesale)",
+   "location": "Netherlands"
+  },
+  "96d444b81a4e5fc1539d9ee2552e5c51": {
+   "id": "96d444b81a4e5fc1539d9ee2552e5c51",
+   "company": "Heineken International BV",
+   "role": "Internship - Trade Marketing",
+   "location": "Unknown"
+  },
+  "97e19712c8508a1b1c9a51e28a3e380c": {
+   "id": "97e19712c8508a1b1c9a51e28a3e380c",
+   "company": "Heineken International BV",
+   "role": "Internship - Heineken (r) Brand Management &amp; Sponsorship",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "44b5610a140723330eeaafc961d5a13c": {
+   "id": "44b5610a140723330eeaafc961d5a13c",
+   "company": "Heineken International BV",
+   "role": "Internship - Desperados &amp; Beyond Beer",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "31b72c70c8abd88d493d9cf2824a0cb8": {
+   "id": "31b72c70c8abd88d493d9cf2824a0cb8",
+   "company": "Heineken International BV",
+   "role": "Internship - Talent Acquisition Data Analyst",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "cc9168970797548c025401df0a22e01f": {
+   "id": "cc9168970797548c025401df0a22e01f",
+   "company": "Heineken International BV",
+   "role": "Internship - Marketing Texels",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "71bac20b5a421283e6e827022b580631": {
+   "id": "71bac20b5a421283e6e827022b580631",
+   "company": "Heineken International BV",
+   "role": "Internship - Sales",
+   "location": "Amsterdam"
+  },
+  "ba14d99da40e7672298746a3ee63ff87": {
+   "id": "ba14d99da40e7672298746a3ee63ff87",
+   "company": "Heineken International BV",
+   "role": "Internship - Procurement Transformation Europe",
+   "location": "Amsterdam"
+  },
+  "535318ecea4e67dd8709d76aab9407de": {
+   "id": "535318ecea4e67dd8709d76aab9407de",
+   "company": "Heineken International BV",
+   "role": "Internship - Heineken Experience Marketing",
+   "location": "Amsterdam"
+  },
+  "8b7e8e2e539d240a8a5727306f88a4c2": {
+   "id": "8b7e8e2e539d240a8a5727306f88a4c2",
+   "company": "Heineken International BV",
+   "role": "Internship - Global Talent Acquisition &amp; Employer Branding",
+   "location": "Amsterdam"
+  },
+  "ce3cd8be41d6aed57fdc4e1770d03ff8": {
+   "id": "ce3cd8be41d6aed57fdc4e1770d03ff8",
+   "company": "Heineken International BV",
+   "role": "Internship - Learning &amp; People Development",
+   "location": "Amsterdam"
+  },
+  "2aeda4cf67aa42de125636c9644f24ae": {
+   "id": "2aeda4cf67aa42de125636c9644f24ae",
+   "company": "Heineken International BV",
+   "role": "Internship - Global Early Careers",
+   "location": "Amsterdam"
+  },
+  "dfcd07b4b290636bc8554bec8138fd70": {
+   "id": "dfcd07b4b290636bc8554bec8138fd70",
+   "company": "Heineken International BV",
+   "role": "Internship - Global Health &amp; Safety Information Management &amp; Digital Workplace",
+   "location": "Amsterdam"
+  },
+  "77a5374a081733c12e8c0684ff907337": {
+   "id": "77a5374a081733c12e8c0684ff907337",
+   "company": "Heineken International BV",
+   "role": "Internship - Commercial Sales (ah &amp; Jumbo)",
+   "location": "Netherlands"
+  },
+  "85fce3a7700e4296079acb42473b618e": {
+   "id": "85fce3a7700e4296079acb42473b618e",
+   "company": "Heineken International BV",
+   "role": "Internship - Pmo Digital Transformation",
+   "location": "Schiphol +1"
+  },
+  "81941ca9624c2b2e19c56f0b1f6d570e": {
+   "id": "81941ca9624c2b2e19c56f0b1f6d570e",
+   "company": "Heineken International BV",
+   "role": "Internship - Hr Den Bosch",
+   "location": "S Hertogenbosch"
   },
   "71fc60fac2944b20606ac23bb5d6e783": {
    "id": "71fc60fac2944b20606ac23bb5d6e783",
@@ -110,6 +266,12 @@
    "role": "Internship - Ai-software-engineer",
    "location": "Haarlerbergpark"
   },
+  "a9109511f539daf8d6ad1c1166cd2d54": {
+   "id": "a9109511f539daf8d6ad1c1166cd2d54",
+   "company": "CGI",
+   "role": "Afstuderen Bij Cgi - Publieke Sector",
+   "location": "Randstad"
+  },
   "eabef99a294953f75008b4ce1b447dbc": {
    "id": "eabef99a294953f75008b4ce1b447dbc",
    "company": "Stryker Corp",
@@ -169,6 +331,12 @@
    "company": "Hilton Worldwide",
    "role": "Cluster Reservations Internship (february 2027)",
    "location": "Amsterdam"
+  },
+  "714bb334d5eedef82f9e711e70010af6": {
+   "id": "714bb334d5eedef82f9e711e70010af6",
+   "company": "AkzoNobel N.V.",
+   "role": "Supply Chain Internship - Open Application",
+   "location": "Alphen Aan Den Rijn"
   },
   "8f7ce16a401276155e10faa957bd0d6e": {
    "id": "8f7ce16a401276155e10faa957bd0d6e",
@@ -260,12 +428,6 @@
    "role": "Natural Preservation Intern",
    "location": "Arnhem"
   },
-  "214a17c4af1c4d2216001985db78125b": {
-   "id": "214a17c4af1c4d2216001985db78125b",
-   "company": "Heineken International BV",
-   "role": "Internship - Sales Out Of Home Amsterdam",
-   "location": "Amsterdam"
-  },
   "dd6ec992f1a96aa8053290ba3444f3cc": {
    "id": "dd6ec992f1a96aa8053290ba3444f3cc",
    "company": "Park Hyatt Melbourne",
@@ -332,168 +494,6 @@
    "role": "Internship: Indirect Procurement",
    "location": "Alphen Aan Den Rijn"
   },
-  "d52c8acb1da4fb656e9b73facbb4d582": {
-   "id": "d52c8acb1da4fb656e9b73facbb4d582",
-   "company": "Danone",
-   "role": "Benelux Indirect Procurement Intern",
-   "location": "Amsterdam"
-  },
-  "59f73a0d7a441c905b5ffcb4fb49b609": {
-   "id": "59f73a0d7a441c905b5ffcb4fb49b609",
-   "company": "SBM Offshore",
-   "role": "Working Student / Intern - Group Insurance Department",
-   "location": "Amsterdam"
-  },
-  "8d090f0b87743e0689f4dfe1c5930a4f": {
-   "id": "8d090f0b87743e0689f4dfe1c5930a4f",
-   "company": "NetApp",
-   "role": "Intern - Distribution",
-   "location": "Schiphol"
-  },
-  "339348370da55a2ba23bc074767ab277": {
-   "id": "339348370da55a2ba23bc074767ab277",
-   "company": "Mandarin Oriental Hotel Group",
-   "role": "Operational & Managerial Internships",
-   "location": "Amsterdam"
-  },
-  "68da0cec1b118b526b23163c4dc912f0": {
-   "id": "68da0cec1b118b526b23163c4dc912f0",
-   "company": "Halfspace ApS",
-   "role": "Supply Chain & Procurement Working Internship",
-   "location": "Amsterdam"
-  },
-  "31705d2dc574364451cb524e40a60649": {
-   "id": "31705d2dc574364451cb524e40a60649",
-   "company": "Halfspace ApS",
-   "role": "Supply Chain & Procurement Thesis Internship",
-   "location": "Amsterdam"
-  },
-  "7cc6e8ef474e29c398816014ec0b092c": {
-   "id": "7cc6e8ef474e29c398816014ec0b092c",
-   "company": "Halfspace ApS",
-   "role": "Technology Resources Thesis Internship",
-   "location": "Amsterdam"
-  },
-  "9c969fff51e0ce61fc184b79964ea3a6": {
-   "id": "9c969fff51e0ce61fc184b79964ea3a6",
-   "company": "Kraft Heinz",
-   "role": "Customs Intern",
-   "location": "Amsterdam"
-  },
-  "e822ec04bb6b22f2b3c9e70cc5f51f3e": {
-   "id": "e822ec04bb6b22f2b3c9e70cc5f51f3e",
-   "company": "Kraft Heinz",
-   "role": "Supply Chain & Logistics Intern",
-   "location": "Amsterdam"
-  },
-  "fade62010d1486cb5126a4f71775d88f": {
-   "id": "fade62010d1486cb5126a4f71775d88f",
-   "company": "Kraft Heinz",
-   "role": "Fsq Compliance Intern",
-   "location": "Arnhem"
-  },
-  "5b9cd6f5fd0381a8ed91c6d4d8cff802": {
-   "id": "5b9cd6f5fd0381a8ed91c6d4d8cff802",
-   "company": "Kraft Heinz",
-   "role": "Fsq External Manufacturing Intern",
-   "location": "Arnhem"
-  },
-  "0428841ba76b22e9fedc144697dd66c5": {
-   "id": "0428841ba76b22e9fedc144697dd66c5",
-   "company": "Signify",
-   "role": "Social Impact & Due Diligence Intern",
-   "location": "Amsterdam"
-  },
-  "33b74d12294c41876fc928d8a4a158d3": {
-   "id": "33b74d12294c41876fc928d8a4a158d3",
-   "company": "Rbsfuel",
-   "role": "Natwest Markets - Amsterdam Internship Programme",
-   "location": "Amsterdam"
-  },
-  "f586fa860fb43e92b1e962e478127ed0": {
-   "id": "f586fa860fb43e92b1e962e478127ed0",
-   "company": "Tencent Games",
-   "role": "Global Talent Sourcing Intern",
-   "location": "Amsterdam"
-  },
-  "d6511d0a7afefad2911cd3d52d6b2e2d": {
-   "id": "d6511d0a7afefad2911cd3d52d6b2e2d",
-   "company": "Draka",
-   "role": "Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "de6491c0dfa3f6cb551681e7c86aa1fc": {
-   "id": "de6491c0dfa3f6cb551681e7c86aa1fc",
-   "company": "Grasslakeanimalhospital",
-   "role": "Supply Chain Planning Internship (6 Months)",
-   "location": "Amsterdam"
-  },
-  "628387267b322ed2a01521ed75555f01": {
-   "id": "628387267b322ed2a01521ed75555f01",
-   "company": "olam food ingredients (ofi)",
-   "role": "R&d Internship - Shelf Life & Nut Fillings",
-   "location": "Amsterdam"
-  },
-  "4ea5f5b153964536179b2dd443eb0c72": {
-   "id": "4ea5f5b153964536179b2dd443eb0c72",
-   "company": "Lidl & Kaufland Asia",
-   "role": "Meewerkstage Duurzaamheid &amp; Medewerkersbetrokkenheid Huizen (32-40 Uur)",
-   "location": "Unknown"
-  },
-  "54456192f1480de989cfaf08bb7b913d": {
-   "id": "54456192f1480de989cfaf08bb7b913d",
-   "company": "essity.de",
-   "role": "Stagiaire",
-   "location": "Arnhem"
-  },
-  "af53b1acde9154a54b3b4e333addc507": {
-   "id": "af53b1acde9154a54b3b4e333addc507",
-   "company": "Philips",
-   "role": "Internship: Robot-assisted Toothbrush Imu Validation",
-   "location": "Eindhoven"
-  },
-  "c7fd3c7f5847f5f923ca65ea0b8dfa2f": {
-   "id": "c7fd3c7f5847f5f923ca65ea0b8dfa2f",
-   "company": "Philips",
-   "role": "Internship: Synthetic Data Generation For Dental Ai (master)",
-   "location": "Eindhoven"
-  },
-  "a51812ff4bbfe476070d5c75b620e9b7": {
-   "id": "a51812ff4bbfe476070d5c75b620e9b7",
-   "company": "Idexx",
-   "role": "Hr Total Rewards Intern",
-   "location": "Amsterdam"
-  },
-  "a698e54243e063a77f26caf6718a9020": {
-   "id": "a698e54243e063a77f26caf6718a9020",
-   "company": "Vanderlande",
-   "role": "Internship/graduation: Capability Development Service Excellence",
-   "location": "S Hertogenbosch"
-  },
-  "6b64b46345ee44236a1edccf1492d76e": {
-   "id": "6b64b46345ee44236a1edccf1492d76e",
-   "company": "GXO Logistics",
-   "role": "Internship - Bbl Leerling Logistiek Medewerker (niveau 2 Of 3)",
-   "location": "Search By Postal Code"
-  },
-  "8d6140b3e0e00472853ec37000a3f04d": {
-   "id": "8d6140b3e0e00472853ec37000a3f04d",
-   "company": "MSD",
-   "role": "Intern – Bsc (hlo) Or Msc Biology/ Life Sciences – Poultry R&d",
-   "location": "North Brabant"
-  },
-  "6039ff5660d2e001bbb5d7ccd7996e88": {
-   "id": "6039ff5660d2e001bbb5d7ccd7996e88",
-   "company": "createyourowncareer",
-   "role": "Internship Facility Management",
-   "location": "Arnhem"
-  },
-  "c618e54c807e3552847e82695beec827": {
-   "id": "c618e54c807e3552847e82695beec827",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship/graduation: Capability Development & Service Excellence",
-   "location": "S Hertogenbosch"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -504,12 +504,6 @@
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
    "role": "Intern - Software Engineer",
-   "location": "Amsterdam"
-  },
-  "40bfd8ea715f2c582c0e2ed49d6554b2": {
-   "id": "40bfd8ea715f2c582c0e2ed49d6554b2",
-   "company": "IMC Trading",
-   "role": "C++ Software Engineer, Early Careers",
    "location": "Amsterdam"
   },
   "262e4cda291f65c4dfad99889a12b9ff": {
@@ -758,6 +752,12 @@
    "role": "Mgmt Consulting - Commerce Advisory",
    "location": "Amsterdam"
   },
+  "0d3c407bba12269b8e52bc2cbd11c528": {
+   "id": "0d3c407bba12269b8e52bc2cbd11c528",
+   "company": "CGI",
+   "role": "Business Analist - Payments",
+   "location": "Randstad"
+  },
   "49dbba37829fc10287bd5fa09eda90f2": {
    "id": "49dbba37829fc10287bd5fa09eda90f2",
    "company": "Publix Serving (Civica)",
@@ -780,6 +780,12 @@
    "id": "df63e3ddabb18d7c1399c5e33a980370",
    "company": "HSBC",
    "role": "Analyst Corporates",
+   "location": "Amsterdam"
+  },
+  "094db018dd4121126eeaa19d807e0a77": {
+   "id": "094db018dd4121126eeaa19d807e0a77",
+   "company": "CGI",
+   "role": "Ervaren Business En Informatie Analist - Banking",
    "location": "Amsterdam"
   },
   "480634b35d19d5540286c7ad7d795a59": {
@@ -932,23 +938,11 @@
    "role": "Business Analyst / Data-driven Journey Management Amsterdam · Hybrid",
    "location": "Amsterdam"
   },
-  "0f8593b0f2030e2fd9adde1948a3c4d0": {
-   "id": "0f8593b0f2030e2fd9adde1948a3c4d0",
-   "company": "Jobgether",
-   "role": "Business Analyst –data Sensitivity & Vdi Migration",
-   "location": "Netherlands"
-  },
-  "68a9efaa55c652ea32e4eb1cd15d6990": {
-   "id": "68a9efaa55c652ea32e4eb1cd15d6990",
-   "company": "Stryker",
-   "role": "Financial Analyst - English & French Speaker",
-   "location": "Amsterdam"
-  },
-  "099d65cc4d642b3baeac43e2fe1d9b89": {
-   "id": "099d65cc4d642b3baeac43e2fe1d9b89",
-   "company": "Orthopedicjobs",
-   "role": "Financial Analyst - English & French Speaker",
-   "location": "Amsterdam"
+  "146661a105c0dc2966c8decc0d962ef9": {
+   "id": "146661a105c0dc2966c8decc0d962ef9",
+   "company": "Heineken International BV",
+   "role": "Technieker",
+   "location": "Unknown"
   },
   "cf787a38a7cf7b643362c357894b4b38": {
    "id": "cf787a38a7cf7b643362c357894b4b38",
@@ -1412,22 +1406,22 @@
    "role": "Maintenance Technician Security Lane Systems",
    "location": "Schiphol"
   },
+  "c6ac4324bc52719d2701d42142fc67e5": {
+   "id": "c6ac4324bc52719d2701d42142fc67e5",
+   "company": "AkzoNobel N.V.",
+   "role": "Allround Monteur (wtb/e&i) / Akzonobel / Sassenheim",
+   "location": "Alphen Aan Den Rijn"
+  },
   "0d713f3dcbc74711f70fced743019bba": {
    "id": "0d713f3dcbc74711f70fced743019bba",
    "company": "Bilfinger SE",
    "role": "Werkvoorbereider Elektrotechniek",
    "location": "Alphen Aan Den Rijn"
   },
-  "385a4c0882881640a7ff29a2c296c489": {
-   "id": "385a4c0882881640a7ff29a2c296c489",
-   "company": "Ecolab Pty Ltd",
-   "role": "Field Service Rep - F&b",
-   "location": "Utrecht"
-  },
-  "545fabf87befdb4a445b092d5f4d6a57": {
-   "id": "545fabf87befdb4a445b092d5f4d6a57",
-   "company": "Istimewa Elektro BV",
-   "role": "Servicetechnicus (technicus E&i A)",
+  "c78472d1af3f158302461de5a7d933d0": {
+   "id": "c78472d1af3f158302461de5a7d933d0",
+   "company": "Ralph Lauren",
+   "role": "Sales Associate - 32h - Dbk Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
   "26599900a1492cfeb79058a2384fb28f": {
@@ -1476,6 +1470,18 @@
    "id": "f6028da99b3b3c2f2b6756e00a1c4592",
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Delft Verkoopmedewerker Retail Delft 2611 Dc",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "4409c9bd746e8d6e1c287117e9f630a6": {
+   "id": "4409c9bd746e8d6e1c287117e9f630a6",
+   "company": "Beter Horen/Amplifon",
+   "role": "Verkoopadviseur Bij Beter Horen Delft",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f5470127a1987a2bc0e16c40c9c45697": {
+   "id": "f5470127a1987a2bc0e16c40c9c45697",
+   "company": "Amplifon",
+   "role": "Verkoopadviseur Oegstgeest",
    "location": "Alphen Aan Den Rijn"
   },
   "bec96a889c16b7643f78eb93a17cccce": {
@@ -1885,24 +1891,6 @@
    "company": "Golden Goose",
    "role": "Sneaker Maker - Part Time - Amsterdam",
    "location": "Amsterdam"
-  },
-  "4fe86ad200169f202219e52956cfc292": {
-   "id": "4fe86ad200169f202219e52956cfc292",
-   "company": "VFC Corporation",
-   "role": "Sales Associate",
-   "location": "Amsterdam"
-  },
-  "2865520c351947c9904b7655f07d1e58": {
-   "id": "2865520c351947c9904b7655f07d1e58",
-   "company": "Vans",
-   "role": "Sales Associate (15-30 Hrs)",
-   "location": "Amsterdam"
-  },
-  "2070d90e2c0dd7d72df913f4db8eee72": {
-   "id": "2070d90e2c0dd7d72df913f4db8eee72",
-   "company": "Parfumerie Douglas Nederland",
-   "role": "Beauty Advisorfulltime / Parttimerotterdam Weissenbruchlaan",
-   "location": "Alphen Aan Den Rijn"
   },
   "115a820079a7148064ffcd7b0a3647f5": {
    "id": "115a820079a7148064ffcd7b0a3647f5",

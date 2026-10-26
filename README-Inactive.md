@@ -2025,4 +2025,41 @@
 <tr><td>Danone</td><td>Sustainability Intern Benelux (dutch Speaker)</td><td>Alphen Aan Den Rijn</td><td>2026-10-25</td></tr>
 <tr><td>Levis Media</td><td>Retail Sales Assistant 10 Hrs/week</td><td>Amsterdam</td><td>2026-10-25</td></tr>
 <tr><td>DSV Panalpina AS</td><td>Logistiek Administratief Medewerker</td><td>Alphen Aan Den Rijn</td><td>2026-10-25</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Sales Out Of Home Amsterdam</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Danone</td><td>Benelux Indirect Procurement Intern</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>SBM Offshore</td><td>Working Student / Intern - Group Insurance Department</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>NetApp</td><td>Intern - Distribution</td><td>Schiphol</td><td>2026-10-26</td></tr>
+<tr><td>Mandarin Oriental Hotel Group</td><td>Operational & Managerial Internships</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Halfspace ApS</td><td>Supply Chain & Procurement Working Internship</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Halfspace ApS</td><td>Supply Chain & Procurement Thesis Internship</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Halfspace ApS</td><td>Technology Resources Thesis Internship</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Kraft Heinz</td><td>Customs Intern</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Kraft Heinz</td><td>Supply Chain & Logistics Intern</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Kraft Heinz</td><td>Fsq Compliance Intern</td><td>Arnhem</td><td>2026-10-26</td></tr>
+<tr><td>Kraft Heinz</td><td>Fsq External Manufacturing Intern</td><td>Arnhem</td><td>2026-10-26</td></tr>
+<tr><td>Signify</td><td>Social Impact & Due Diligence Intern</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Rbsfuel</td><td>Natwest Markets - Amsterdam Internship Programme</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Tencent Games</td><td>Global Talent Sourcing Intern</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Draka</td><td>Intern</td><td>Alphen Aan Den Rijn</td><td>2026-10-26</td></tr>
+<tr><td>Grasslakeanimalhospital</td><td>Supply Chain Planning Internship (6 Months)</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>olam food ingredients (ofi)</td><td>R&d Internship - Shelf Life & Nut Fillings</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Meewerkstage Duurzaamheid &amp; Medewerkersbetrokkenheid Huizen (32-40 Uur)</td><td>Unknown</td><td>2026-10-26</td></tr>
+<tr><td>essity.de</td><td>Stagiaire</td><td>Arnhem</td><td>2026-10-26</td></tr>
+<tr><td>Philips</td><td>Internship: Robot-assisted Toothbrush Imu Validation</td><td>Eindhoven</td><td>2026-10-26</td></tr>
+<tr><td>Philips</td><td>Internship: Synthetic Data Generation For Dental Ai (master)</td><td>Eindhoven</td><td>2026-10-26</td></tr>
+<tr><td>Idexx</td><td>Hr Total Rewards Intern</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Vanderlande</td><td>Internship/graduation: Capability Development Service Excellence</td><td>S Hertogenbosch</td><td>2026-10-26</td></tr>
+<tr><td>GXO Logistics</td><td>Internship - Bbl Leerling Logistiek Medewerker (niveau 2 Of 3)</td><td>Search By Postal Code</td><td>2026-10-26</td></tr>
+<tr><td>MSD</td><td>Intern – Bsc (hlo) Or Msc Biology/ Life Sciences – Poultry R&d</td><td>North Brabant</td><td>2026-10-26</td></tr>
+<tr><td>createyourowncareer</td><td>Internship Facility Management</td><td>Arnhem</td><td>2026-10-26</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship/graduation: Capability Development & Service Excellence</td><td>S Hertogenbosch</td><td>2026-10-26</td></tr>
+<tr><td>IMC Trading</td><td>C++ Software Engineer, Early Careers</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Jobgether</td><td>Business Analyst –data Sensitivity & Vdi Migration</td><td>Netherlands</td><td>2026-10-26</td></tr>
+<tr><td>Stryker</td><td>Financial Analyst - English & French Speaker</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Orthopedicjobs</td><td>Financial Analyst - English & French Speaker</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Field Service Rep - F&b</td><td>Utrecht</td><td>2026-10-26</td></tr>
+<tr><td>Istimewa Elektro BV</td><td>Servicetechnicus (technicus E&i A)</td><td>Alphen Aan Den Rijn</td><td>2026-10-26</td></tr>
+<tr><td>VFC Corporation</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Vans</td><td>Sales Associate (15-30 Hrs)</td><td>Amsterdam</td><td>2026-10-26</td></tr>
+<tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorfulltime / Parttimerotterdam Weissenbruchlaan</td><td>Alphen Aan Den Rijn</td><td>2026-10-26</td></tr>
 </table>
