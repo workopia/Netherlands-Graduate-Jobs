@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-26",
- "count": 345,
+ "asOf": "2026-10-27",
+ "count": 344,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -12,6 +12,48 @@
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "a269bccd872d1f6eb63d872c097d811b": {
+   "id": "a269bccd872d1f6eb63d872c097d811b",
+   "company": "Tencent",
+   "role": "Sre Intern",
+   "location": "Amsterdam"
+  },
+  "0e6260294b94d643312c644aa91dc300": {
+   "id": "0e6260294b94d643312c644aa91dc300",
+   "company": "DB Cargo France",
+   "role": "Wealth Management Intern – Relationship Management (f/m/x)",
+   "location": "Amsterdam"
+  },
+  "bf0dfc5bffafd4ce765ec760132c49eb": {
+   "id": "bf0dfc5bffafd4ce765ec760132c49eb",
+   "company": "Openclaims B.V",
+   "role": "Qa & Test Automation Internship",
+   "location": "Amsterdam"
+  },
+  "399ccea8b2a1d98fcd22622b6af1f409": {
+   "id": "399ccea8b2a1d98fcd22622b6af1f409",
+   "company": "KraftHeinz",
+   "role": "Value Creation Packaging Intern",
+   "location": "Arnhem"
+  },
+  "95cce8580f1bbb2dcc9aabcf68190bb3": {
+   "id": "95cce8580f1bbb2dcc9aabcf68190bb3",
+   "company": "Idexx",
+   "role": "Finance Business Operation Intern",
+   "location": "Amsterdam"
+  },
+  "08bd0614636e9f0b65e244a4b350f597": {
+   "id": "08bd0614636e9f0b65e244a4b350f597",
+   "company": "Idexx",
+   "role": "Financial Planning & Analysis Intern - Reference Labs",
+   "location": "Amsterdam"
+  },
+  "c3241800531bb83c6d516692a51038b2": {
+   "id": "c3241800531bb83c6d516692a51038b2",
+   "company": "Idexx",
+   "role": "Asia Pacific/latin America Credit Control Intern",
    "location": "Amsterdam"
   },
   "8fbe73f16abb2a07cfe11b4f358b7c65": {
@@ -188,12 +230,6 @@
    "role": "Resources Strategy & Consulting – Working Internship",
    "location": "Amsterdam"
   },
-  "a269bccd872d1f6eb63d872c097d811b": {
-   "id": "a269bccd872d1f6eb63d872c097d811b",
-   "company": "Tencent",
-   "role": "Sre Intern",
-   "location": "Amsterdam"
-  },
   "8cacabb97bcc648ac214b11c27b90c02": {
    "id": "8cacabb97bcc648ac214b11c27b90c02",
    "company": "Vanderlande",
@@ -265,6 +301,12 @@
    "company": "ING Group",
    "role": "Internship - Ai-software-engineer",
    "location": "Haarlerbergpark"
+  },
+  "1e32887abc9de2408b8216abcbb734e4": {
+   "id": "1e32887abc9de2408b8216abcbb734e4",
+   "company": "Hilton",
+   "role": "Leadership & Talent Development Internship",
+   "location": "Amsterdam"
   },
   "a9109511f539daf8d6ad1c1166cd2d54": {
    "id": "a9109511f539daf8d6ad1c1166cd2d54",
@@ -452,48 +494,6 @@
    "role": "Intern Wegontwerp",
    "location": "Amersfoort"
   },
-  "eb7b2c3a3020d07b4083aaae028253c9": {
-   "id": "eb7b2c3a3020d07b4083aaae028253c9",
-   "company": "Arcadis",
-   "role": "Internship - Energie En Omgeving",
-   "location": "Amersfoort"
-  },
-  "3e51ef08e3ab8c2f79918cb5d89cb654": {
-   "id": "3e51ef08e3ab8c2f79918cb5d89cb654",
-   "company": "Arcadis",
-   "role": "Meewerkstage Bodem, Conditionering, Cultuurtechniek",
-   "location": "Amersfoort"
-  },
-  "afb9dda4440f83419070d4e096f1ca08": {
-   "id": "afb9dda4440f83419070d4e096f1ca08",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Client Relations Center Coordinator Intern",
-   "location": "Amsterdam"
-  },
-  "8cbbb35ee1e99d24bc9d773d172acc9f": {
-   "id": "8cbbb35ee1e99d24bc9d773d172acc9f",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Junior E-commerce Operations Coordinator Intern",
-   "location": "Amsterdam"
-  },
-  "dc16df2fca3dbe7f3c64c05351d95d3e": {
-   "id": "dc16df2fca3dbe7f3c64c05351d95d3e",
-   "company": "ING",
-   "role": "Intern",
-   "location": "Maple"
-  },
-  "eebae3c9e7b6dd0fb99924af8f52aa53": {
-   "id": "eebae3c9e7b6dd0fb99924af8f52aa53",
-   "company": "Avery Dennison Smartrac",
-   "role": "Internship: Indirect Procurement",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "08fb479de71b6633ca3447a4da80433a": {
-   "id": "08fb479de71b6633ca3447a4da80433a",
-   "company": "Avery Dennison Corp",
-   "role": "Internship: Indirect Procurement",
-   "location": "Alphen Aan Den Rijn"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -590,6 +590,12 @@
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
    "location": "Amsterdam"
   },
+  "b8056c07c1ccdda346a948f35cbe82e9": {
+   "id": "b8056c07c1ccdda346a948f35cbe82e9",
+   "company": "Vattenfall",
+   "role": "Data Scientist Forecasting & Pricing",
+   "location": "Amsterdam"
+  },
   "d044ee34d54db57ef0a281d1ddb8d976": {
    "id": "d044ee34d54db57ef0a281d1ddb8d976",
    "company": "Booking Holdings",
@@ -666,18 +672,6 @@
    "id": "7147524b3bbe0c7c1bbc822cbbbf4f13",
    "company": "Dentsu Aegis Network",
    "role": "Junior Data Scientist",
-   "location": "Amsterdam"
-  },
-  "8a6228fd6b5bda34eb30febdce3989b7": {
-   "id": "8a6228fd6b5bda34eb30febdce3989b7",
-   "company": "Accenture Australia",
-   "role": "Ai & Data Analyst",
-   "location": "Amsterdam"
-  },
-  "fe65476bcb1ec4f55f1ca01466feb74d": {
-   "id": "fe65476bcb1ec4f55f1ca01466feb74d",
-   "company": "Accenture",
-   "role": "Ai & Data Analyst",
    "location": "Amsterdam"
   },
   "6c10e87a66585e2aed7e85bb440eb957": {

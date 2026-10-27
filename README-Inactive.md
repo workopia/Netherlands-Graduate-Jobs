@@ -2062,4 +2062,13 @@
 <tr><td>VFC Corporation</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-10-26</td></tr>
 <tr><td>Vans</td><td>Sales Associate (15-30 Hrs)</td><td>Amsterdam</td><td>2026-10-26</td></tr>
 <tr><td>Parfumerie Douglas Nederland</td><td>Beauty Advisorfulltime / Parttimerotterdam Weissenbruchlaan</td><td>Alphen Aan Den Rijn</td><td>2026-10-26</td></tr>
+<tr><td>Arcadis</td><td>Internship - Energie En Omgeving</td><td>Amersfoort</td><td>2026-10-27</td></tr>
+<tr><td>Arcadis</td><td>Meewerkstage Bodem, Conditionering, Cultuurtechniek</td><td>Amersfoort</td><td>2026-10-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Client Relations Center Coordinator Intern</td><td>Amsterdam</td><td>2026-10-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Junior E-commerce Operations Coordinator Intern</td><td>Amsterdam</td><td>2026-10-27</td></tr>
+<tr><td>ING</td><td>Intern</td><td>Maple</td><td>2026-10-27</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Indirect Procurement</td><td>Alphen Aan Den Rijn</td><td>2026-10-27</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Indirect Procurement</td><td>Alphen Aan Den Rijn</td><td>2026-10-27</td></tr>
+<tr><td>Accenture Australia</td><td>Ai & Data Analyst</td><td>Amsterdam</td><td>2026-10-27</td></tr>
+<tr><td>Accenture</td><td>Ai & Data Analyst</td><td>Amsterdam</td><td>2026-10-27</td></tr>
 </table>
