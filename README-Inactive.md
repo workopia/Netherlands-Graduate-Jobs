@@ -2071,4 +2071,47 @@
 <tr><td>Avery Dennison Corp</td><td>Internship: Indirect Procurement</td><td>Alphen Aan Den Rijn</td><td>2026-10-27</td></tr>
 <tr><td>Accenture Australia</td><td>Ai & Data Analyst</td><td>Amsterdam</td><td>2026-10-27</td></tr>
 <tr><td>Accenture</td><td>Ai & Data Analyst</td><td>Amsterdam</td><td>2026-10-27</td></tr>
+<tr><td>Danone</td><td>Brand Strategy &amp; Activation Intern</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>Corbion Group Netherlands B.V</td><td>Intern Qc</td><td>S Hertogenbosch</td><td>2026-10-28</td></tr>
+<tr><td>ING Group</td><td>Internship - Ai-software-engineer</td><td>Haarlerbergpark</td><td>2026-10-28</td></tr>
+<tr><td>Hilton</td><td>Leadership & Talent Development Internship</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>CGI</td><td>Afstuderen Bij Cgi - Publieke Sector</td><td>Randstad</td><td>2026-10-28</td></tr>
+<tr><td>Stryker Corp</td><td>Intern Compliance Hr Operations</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>Abbott Laboratories</td><td>Digital Process Improvement & Automation (qa) Intern</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>ING</td><td>Internship - Content Creatie En Employer Branding</td><td>Acanthus</td><td>2026-10-28</td></tr>
+<tr><td>leHACK</td><td>Intern – Life Sciences/molecular Virology – Discovery & Technology</td><td>North Brabant</td><td>2026-10-28</td></tr>
+<tr><td>Golden Palms Rehabilitation and Retirement</td><td>Stagiair(e) Hse</td><td>Slagharen</td><td>2026-10-28</td></tr>
+<tr><td>Imsapharma Com Ar</td><td>Intern – Logistics/supply Chain Management - Import & Export</td><td>North Holland</td><td>2026-10-28</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Pilot Plant Innovation</td><td>Alphen Aan Den Rijn</td><td>2026-10-28</td></tr>
+<tr><td>Avery Dennison Smartrac</td><td>Internship: Pilot Plant Innovation</td><td>Alphen Aan Den Rijn</td><td>2026-10-28</td></tr>
+<tr><td>Dyson</td><td>Intern (january Start Date)</td><td>Amsterdam Office</td><td>2026-10-28</td></tr>
+<tr><td>Hilton Worldwide</td><td>Cluster Reservations Internship (february 2027)</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Supply Chain Internship - Open Application</td><td>Alphen Aan Den Rijn</td><td>2026-10-28</td></tr>
+<tr><td>282</td><td>Internship Transaction Services/trade Finance Services</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>Kraft Heinz</td><td>Shelf Life Labs Intern</td><td>Arnhem</td><td>2026-10-28</td></tr>
+<tr><td>Kraft Heinz</td><td>Culinary Intern</td><td>Arnhem</td><td>2026-10-28</td></tr>
+<tr><td>Kraft Heinz</td><td>Process Modelling Intern</td><td>Arnhem</td><td>2026-10-28</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Stagiaire Wtb</td><td>Eindhoven</td><td>2026-10-28</td></tr>
+<tr><td>Kerry Group</td><td>Ehs Intern</td><td>Breda</td><td>2026-10-28</td></tr>
+<tr><td>Kerry</td><td>EHS Intern</td><td>Breda</td><td>2026-10-28</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Building The Tax Department Of The Future</td><td>S Hertogenbosch</td><td>2026-10-28</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Building The Tax Department Of The Future, Automated Indirect Tax & Global Vat Analytics</td><td>S Hertogenbosch</td><td>2026-10-28</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Internship: Designing And Piloting A Planning Bill Of Materials</td><td>S Hertogenbosch</td><td>2026-10-28</td></tr>
+<tr><td>pladis Global</td><td>Marketing Stagiair</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>Danone</td><td>Marketing Intern – Global Team (cancer Care Focus)</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>Tencent</td><td>Global Talent Sourcing Intern 107847</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>TikTok</td><td>Ecommere Business Project Intern, Chinese Speaking (tiktok Shop)- 2026 Start (bs/ms)</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>KraftHeinz</td><td>Natural Preservation Intern</td><td>Arnhem</td><td>2026-10-28</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>Hyatt Regency Amsterdam Internships 2027</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>Arcadis</td><td>Internship - Water Technologie</td><td>Alphen Aan Den Rijn</td><td>2026-10-28</td></tr>
+<tr><td>Arcadis</td><td>Internship – Machine Learning In Flood Modelling</td><td>Amersfoort</td><td>2026-10-28</td></tr>
+<tr><td>Arcadis</td><td>Intern Wegontwerp</td><td>Amersfoort</td><td>2026-10-28</td></tr>
+<tr><td>flatexDEGIRO AG</td><td>Client Tax Business Analyst</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>Essense</td><td>Business Analyst / Data-driven Journey Management Amsterdam · Hybrid</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Allround Monteur (wtb/e&i) / Akzonobel / Sassenheim</td><td>Alphen Aan Den Rijn</td><td>2026-10-28</td></tr>
+<tr><td>Bilfinger SE</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-10-28</td></tr>
+<tr><td>MediaMarktSaturn - Webshop Foundation</td><td>Bonusgedreven Verkoopmedewerker Telecom & Mobiel Rijswijk</td><td>Alphen Aan Den Rijn</td><td>2026-10-28</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-10-28</td></tr>
+<tr><td>Coach</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>Golden Goose</td><td>Sneaker Maker - Part Time - Amsterdam</td><td>Amsterdam</td><td>2026-10-28</td></tr>
 </table>

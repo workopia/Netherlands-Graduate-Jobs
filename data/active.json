@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-27",
- "count": 344,
+ "asOf": "2026-10-28",
+ "count": 342,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -14,16 +14,220 @@
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
   },
+  "298491d07af8607b852abc053a09ac33": {
+   "id": "298491d07af8607b852abc053a09ac33",
+   "company": "Nestle SA",
+   "role": "Stagiair(e) Consumer Services",
+   "location": "Amsterdam"
+  },
+  "f9e96eab9e310f18d3445e5b738c6681": {
+   "id": "f9e96eab9e310f18d3445e5b738c6681",
+   "company": "Nestle SA",
+   "role": "Stagiair(e) Rsa & Nhw",
+   "location": "Amsterdam"
+  },
+  "eba2e8e50459bcff08ab4e82f5f7ec99": {
+   "id": "eba2e8e50459bcff08ab4e82f5f7ec99",
+   "company": "Nestle SA",
+   "role": "Stagiaire Marketing Food",
+   "location": "Amsterdam"
+  },
+  "cb63afbf8042641c754db67dbd4f9c91": {
+   "id": "cb63afbf8042641c754db67dbd4f9c91",
+   "company": "Nestle SA",
+   "role": "Stagiair(e) Digital Marketing - Dolce Gusto",
+   "location": "Amsterdam"
+  },
+  "7f8bd9f772dbebbf0f1e35f3b9c89c3c": {
+   "id": "7f8bd9f772dbebbf0f1e35f3b9c89c3c",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Workplace & Hospitality Intern",
+   "location": "Amsterdam"
+  },
+  "f7013daf86574005312cec6ab86dc144": {
+   "id": "f7013daf86574005312cec6ab86dc144",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Workplace & Facilities Intern",
+   "location": "Amsterdam"
+  },
+  "c8779361d0024a73627bb42a2a1428d5": {
+   "id": "c8779361d0024a73627bb42a2a1428d5",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Client Relations Center Coordinator Intern",
+   "location": "Amsterdam"
+  },
+  "0d623c1038e481a47515f5d2547a0d48": {
+   "id": "0d623c1038e481a47515f5d2547a0d48",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Logistics Intern",
+   "location": "Amsterdam"
+  },
+  "d302f602ea0706fe2af3fdb2d89745ce": {
+   "id": "d302f602ea0706fe2af3fdb2d89745ce",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Finance Intern",
+   "location": "Amsterdam"
+  },
+  "3bb0e31feb0981ddefbd1ca1fc07770e": {
+   "id": "3bb0e31feb0981ddefbd1ca1fc07770e",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Pr & Events Intern",
+   "location": "Amsterdam"
+  },
+  "859c2ee21ae65760ccd25326ec2b3507": {
+   "id": "859c2ee21ae65760ccd25326ec2b3507",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Talent Acquisition Intern Benelux & Nordics",
+   "location": "Amsterdam"
+  },
+  "921df630e5b3ca02efdfe0f192724acd": {
+   "id": "921df630e5b3ca02efdfe0f192724acd",
+   "company": "Encore Wire Corp",
+   "role": "Supply Chain Intern-5",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "ef50f5a69eb3f2f48aef53e49081ff98": {
+   "id": "ef50f5a69eb3f2f48aef53e49081ff98",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Stagiair(e) Reserveringen",
+   "location": "Amsterdam"
+  },
+  "c3313ed0eefee92f25e2d7cea94751e9": {
+   "id": "c3313ed0eefee92f25e2d7cea94751e9",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Hr Stagiair(e)",
+   "location": "Amsterdam"
+  },
+  "f9d1130d5f256d795778d7e143f52d94": {
+   "id": "f9d1130d5f256d795778d7e143f52d94",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Stagiair(e) Butler",
+   "location": "Amsterdam"
+  },
+  "8caafe34985e7bb8782eae59adb63c56": {
+   "id": "8caafe34985e7bb8782eae59adb63c56",
+   "company": "Parfumado",
+   "role": "People & Office Intern",
+   "location": "Amsterdam"
+  },
+  "fd5e014e0a4838348fa46258c210f103": {
+   "id": "fd5e014e0a4838348fa46258c210f103",
+   "company": "KraftHeinz",
+   "role": "Consumer Experience Sensory Intern",
+   "location": "Arnhem"
+  },
+  "8262120615a828c0aa7321c6a8f6fe3c": {
+   "id": "8262120615a828c0aa7321c6a8f6fe3c",
+   "company": "createyourowncareer",
+   "role": "Gennep Internship Learning & Development",
+   "location": "Unknown"
+  },
+  "18155f7c390de885c5c9576bd8059309": {
+   "id": "18155f7c390de885c5c9576bd8059309",
+   "company": "createyourowncareer",
+   "role": "Venlo Internship Logistics",
+   "location": "Venlo"
+  },
+  "3cfb0d77c19e86d2526f0f3f4b8fdca3": {
+   "id": "3cfb0d77c19e86d2526f0f3f4b8fdca3",
+   "company": "createyourowncareer",
+   "role": "Amsterdam Influencer Marketing En Account Support Intern (mvo)",
+   "location": "Amsterdam"
+  },
+  "679ec8f76272738032dffc3576c99b7a": {
+   "id": "679ec8f76272738032dffc3576c99b7a",
+   "company": "Nestle Ltd",
+   "role": "Stagiair(e) Rsa &amp; Nhw",
+   "location": "Amsterdam"
+  },
+  "5a813d565187ab14f2623f6b821038c5": {
+   "id": "5a813d565187ab14f2623f6b821038c5",
+   "company": "Nestle Ltd",
+   "role": "Stagiair(e) Consumer Services",
+   "location": "Netherlands"
+  },
+  "8b25c030636bc169f6485013568b8f05": {
+   "id": "8b25c030636bc169f6485013568b8f05",
+   "company": "Nestle Ltd",
+   "role": "Stagiaire Marketing Food",
+   "location": "Amsterdam"
+  },
+  "563dd92f5553d1d4255f88f7ad884fb8": {
+   "id": "563dd92f5553d1d4255f88f7ad884fb8",
+   "company": "Nestle Ltd",
+   "role": "Stagiair(e) Marketing Nescafé",
+   "location": "Amsterdam"
+  },
+  "484ef3b238f5637a5c5725e6f08e7e5b": {
+   "id": "484ef3b238f5637a5c5725e6f08e7e5b",
+   "company": "Nestle Ltd",
+   "role": "Stagiair(e) Marketing Chocola",
+   "location": "Amsterdam"
+  },
+  "81ceb474037bc46b5bcfa2ca4906768c": {
+   "id": "81ceb474037bc46b5bcfa2ca4906768c",
+   "company": "Nestle Ltd",
+   "role": "Stagiair(e) Marketing Purina Petcare",
+   "location": "Netherlands"
+  },
+  "cb0d2708d09d6aebc840dbd430116073": {
+   "id": "cb0d2708d09d6aebc840dbd430116073",
+   "company": "Nestle Ltd",
+   "role": "Stagiair(e) Digital Marketing - Dolce Gusto",
+   "location": "Netherlands"
+  },
+  "5a40438e6163d96e22e2983696d5e1de": {
+   "id": "5a40438e6163d96e22e2983696d5e1de",
+   "company": "Nestle Ltd",
+   "role": "Intern Procurement",
+   "location": "Amsterdam"
+  },
+  "2730d4711bed3d458aecc73210a67c8f": {
+   "id": "2730d4711bed3d458aecc73210a67c8f",
+   "company": "Nestle Ltd",
+   "role": "Intern Demand &amp; Supply Planning - Operations",
+   "location": "Netherlands"
+  },
+  "14018772f42d35190baa18276336154c": {
+   "id": "14018772f42d35190baa18276336154c",
+   "company": "Idexx",
+   "role": "User Experience (ux) Intern",
+   "location": "Amsterdam"
+  },
   "a269bccd872d1f6eb63d872c097d811b": {
    "id": "a269bccd872d1f6eb63d872c097d811b",
    "company": "Tencent",
    "role": "Sre Intern",
    "location": "Amsterdam"
   },
+  "bec8ae9d078bc4c741faa9d7c1f9c58d": {
+   "id": "bec8ae9d078bc4c741faa9d7c1f9c58d",
+   "company": "Leadinfo",
+   "role": "People Intern",
+   "location": "Alphen Aan Den Rijn"
+  },
   "0e6260294b94d643312c644aa91dc300": {
    "id": "0e6260294b94d643312c644aa91dc300",
    "company": "DB Cargo France",
    "role": "Wealth Management Intern – Relationship Management (f/m/x)",
+   "location": "Amsterdam"
+  },
+  "30c950fd7af1f9091023c1f618394cd4": {
+   "id": "30c950fd7af1f9091023c1f618394cd4",
+   "company": "AkzoNobel N.V.",
+   "role": "Color Intern",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "dcf48830eed9770d8ed2656ba38fbb25": {
+   "id": "dcf48830eed9770d8ed2656ba38fbb25",
+   "company": "Lincolninternational",
+   "role": "M&a Internship Amsterdam (may-august 2027)",
+   "location": "Amsterdam"
+  },
+  "bdba2e3f9167e1c29ac224340c0d3d6c": {
+   "id": "bdba2e3f9167e1c29ac224340c0d3d6c",
+   "company": "Schneider Electric",
+   "role": "Offer Marketing Intern",
    "location": "Amsterdam"
   },
   "bf0dfc5bffafd4ce765ec760132c49eb": {
@@ -37,6 +241,12 @@
    "company": "KraftHeinz",
    "role": "Value Creation Packaging Intern",
    "location": "Arnhem"
+  },
+  "366ab0ed07ef88ea6edfd47828118dbd": {
+   "id": "366ab0ed07ef88ea6edfd47828118dbd",
+   "company": "Philip Morris International",
+   "role": "Lab Analyst Intern",
+   "location": "Amsterdam"
   },
   "95cce8580f1bbb2dcc9aabcf68190bb3": {
    "id": "95cce8580f1bbb2dcc9aabcf68190bb3",
@@ -283,216 +493,6 @@
    "company": "pladis Global",
    "role": "Marketing & Innovation Intern",
    "location": "Amsterdam"
-  },
-  "fdd8fa7a558cfba41572912c4bf89385": {
-   "id": "fdd8fa7a558cfba41572912c4bf89385",
-   "company": "Danone",
-   "role": "Brand Strategy &amp; Activation Intern",
-   "location": "Amsterdam"
-  },
-  "21d4cbdd7b0e4743a7405968bb4d7715": {
-   "id": "21d4cbdd7b0e4743a7405968bb4d7715",
-   "company": "Corbion Group Netherlands B.V",
-   "role": "Intern Qc",
-   "location": "S Hertogenbosch"
-  },
-  "e55f7009c75448014efcb9e823d8624f": {
-   "id": "e55f7009c75448014efcb9e823d8624f",
-   "company": "ING Group",
-   "role": "Internship - Ai-software-engineer",
-   "location": "Haarlerbergpark"
-  },
-  "1e32887abc9de2408b8216abcbb734e4": {
-   "id": "1e32887abc9de2408b8216abcbb734e4",
-   "company": "Hilton",
-   "role": "Leadership & Talent Development Internship",
-   "location": "Amsterdam"
-  },
-  "a9109511f539daf8d6ad1c1166cd2d54": {
-   "id": "a9109511f539daf8d6ad1c1166cd2d54",
-   "company": "CGI",
-   "role": "Afstuderen Bij Cgi - Publieke Sector",
-   "location": "Randstad"
-  },
-  "eabef99a294953f75008b4ce1b447dbc": {
-   "id": "eabef99a294953f75008b4ce1b447dbc",
-   "company": "Stryker Corp",
-   "role": "Intern Compliance Hr Operations",
-   "location": "Amsterdam"
-  },
-  "07c967bde8b010b9add3c9191d706691": {
-   "id": "07c967bde8b010b9add3c9191d706691",
-   "company": "Abbott Laboratories",
-   "role": "Digital Process Improvement & Automation (qa) Intern",
-   "location": "Amsterdam"
-  },
-  "a42c9e403032218b655bd297007cb5fb": {
-   "id": "a42c9e403032218b655bd297007cb5fb",
-   "company": "ING",
-   "role": "Internship - Content Creatie En Employer Branding",
-   "location": "Acanthus"
-  },
-  "d6aee524ed124a3b2a7e28722029fe99": {
-   "id": "d6aee524ed124a3b2a7e28722029fe99",
-   "company": "leHACK",
-   "role": "Intern – Life Sciences/molecular Virology – Discovery & Technology",
-   "location": "North Brabant"
-  },
-  "81f819ec2fd75502bde9f6cb98567cf5": {
-   "id": "81f819ec2fd75502bde9f6cb98567cf5",
-   "company": "Golden Palms Rehabilitation and Retirement",
-   "role": "Stagiair(e) Hse",
-   "location": "Slagharen"
-  },
-  "7530ecd9d6549454367c4374694f551f": {
-   "id": "7530ecd9d6549454367c4374694f551f",
-   "company": "Imsapharma Com Ar",
-   "role": "Intern – Logistics/supply Chain Management - Import & Export",
-   "location": "North Holland"
-  },
-  "daa074fa2fa5f53cf42a465a1a699530": {
-   "id": "daa074fa2fa5f53cf42a465a1a699530",
-   "company": "Avery Dennison Corp",
-   "role": "Internship: Pilot Plant Innovation",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "72e54518de68bddc9b79dc6f090c2ac0": {
-   "id": "72e54518de68bddc9b79dc6f090c2ac0",
-   "company": "Avery Dennison Smartrac",
-   "role": "Internship: Pilot Plant Innovation",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "3c25bb50425eeed1d1d0e648d92de715": {
-   "id": "3c25bb50425eeed1d1d0e648d92de715",
-   "company": "Dyson",
-   "role": "Intern (january Start Date)",
-   "location": "Amsterdam Office"
-  },
-  "5b204bae4138850ac379d539d78a2152": {
-   "id": "5b204bae4138850ac379d539d78a2152",
-   "company": "Hilton Worldwide",
-   "role": "Cluster Reservations Internship (february 2027)",
-   "location": "Amsterdam"
-  },
-  "714bb334d5eedef82f9e711e70010af6": {
-   "id": "714bb334d5eedef82f9e711e70010af6",
-   "company": "AkzoNobel N.V.",
-   "role": "Supply Chain Internship - Open Application",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "8f7ce16a401276155e10faa957bd0d6e": {
-   "id": "8f7ce16a401276155e10faa957bd0d6e",
-   "company": "282",
-   "role": "Internship Transaction Services/trade Finance Services",
-   "location": "Amsterdam"
-  },
-  "fc5621c51edcd24345e097ac74dd0453": {
-   "id": "fc5621c51edcd24345e097ac74dd0453",
-   "company": "Kraft Heinz",
-   "role": "Shelf Life Labs Intern",
-   "location": "Arnhem"
-  },
-  "2e415e4ca8705a77f283be11007d2a0a": {
-   "id": "2e415e4ca8705a77f283be11007d2a0a",
-   "company": "Kraft Heinz",
-   "role": "Culinary Intern",
-   "location": "Arnhem"
-  },
-  "2f2477175755cde42de7ce2487f99e10": {
-   "id": "2f2477175755cde42de7ce2487f99e10",
-   "company": "Kraft Heinz",
-   "role": "Process Modelling Intern",
-   "location": "Arnhem"
-  },
-  "c4f77784bfc2946e9bfd62ac689baa6e": {
-   "id": "c4f77784bfc2946e9bfd62ac689baa6e",
-   "company": "GE HealthCare Technologies",
-   "role": "Stagiaire Wtb",
-   "location": "Eindhoven"
-  },
-  "7e704f127eacfa024acfd3aca16f28bb": {
-   "id": "7e704f127eacfa024acfd3aca16f28bb",
-   "company": "Kerry Group",
-   "role": "Ehs Intern",
-   "location": "Breda"
-  },
-  "b1464b4aa2fc457fb9cd53c9f365b74c": {
-   "id": "b1464b4aa2fc457fb9cd53c9f365b74c",
-   "company": "Kerry",
-   "role": "EHS Intern",
-   "location": "Breda"
-  },
-  "a780a926f3b70ccf5f6b85e3b0681098": {
-   "id": "a780a926f3b70ccf5f6b85e3b0681098",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Building The Tax Department Of The Future",
-   "location": "S Hertogenbosch"
-  },
-  "1ec0adcbf9ba6ece9b4501352dd49246": {
-   "id": "1ec0adcbf9ba6ece9b4501352dd49246",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Building The Tax Department Of The Future, Automated Indirect Tax & Global Vat Analytics",
-   "location": "S Hertogenbosch"
-  },
-  "9e78287b3781973dd1eb32a9d829b400": {
-   "id": "9e78287b3781973dd1eb32a9d829b400",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Internship: Designing And Piloting A Planning Bill Of Materials",
-   "location": "S Hertogenbosch"
-  },
-  "780d0cb4f06bb9bd5555a851411754aa": {
-   "id": "780d0cb4f06bb9bd5555a851411754aa",
-   "company": "pladis Global",
-   "role": "Marketing Stagiair",
-   "location": "Amsterdam"
-  },
-  "eb74e4d2278caa63940a71e06e944185": {
-   "id": "eb74e4d2278caa63940a71e06e944185",
-   "company": "Danone",
-   "role": "Marketing Intern – Global Team (cancer Care Focus)",
-   "location": "Amsterdam"
-  },
-  "9e2638c4115e2671a6af69197810b271": {
-   "id": "9e2638c4115e2671a6af69197810b271",
-   "company": "Tencent",
-   "role": "Global Talent Sourcing Intern 107847",
-   "location": "Amsterdam"
-  },
-  "43c5d318f571f0a7c78f5e8e5355bd59": {
-   "id": "43c5d318f571f0a7c78f5e8e5355bd59",
-   "company": "TikTok",
-   "role": "Ecommere Business Project Intern, Chinese Speaking (tiktok Shop)- 2026 Start (bs/ms)",
-   "location": "Amsterdam"
-  },
-  "7f796c6d54af95723640241379975acd": {
-   "id": "7f796c6d54af95723640241379975acd",
-   "company": "KraftHeinz",
-   "role": "Natural Preservation Intern",
-   "location": "Arnhem"
-  },
-  "dd6ec992f1a96aa8053290ba3444f3cc": {
-   "id": "dd6ec992f1a96aa8053290ba3444f3cc",
-   "company": "Park Hyatt Melbourne",
-   "role": "Hyatt Regency Amsterdam Internships 2027",
-   "location": "Amsterdam"
-  },
-  "5a5cf290aa306ca5fd5d8b14b998a9a0": {
-   "id": "5a5cf290aa306ca5fd5d8b14b998a9a0",
-   "company": "Arcadis",
-   "role": "Internship - Water Technologie",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "22b2012c89c20b34b9083d302f1b6406": {
-   "id": "22b2012c89c20b34b9083d302f1b6406",
-   "company": "Arcadis",
-   "role": "Internship – Machine Learning In Flood Modelling",
-   "location": "Amersfoort"
-  },
-  "e62f2f6d0971bb785a7ce64bbd203dce": {
-   "id": "e62f2f6d0971bb785a7ce64bbd203dce",
-   "company": "Arcadis",
-   "role": "Intern Wegontwerp",
-   "location": "Amersfoort"
   },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
@@ -920,17 +920,17 @@
    "role": "Projects & Optimisation Analyst (dutch Speaker)",
    "location": "Amsterdam"
   },
-  "b016b9a8dd31588ff9c3af8f7e9b7a92": {
-   "id": "b016b9a8dd31588ff9c3af8f7e9b7a92",
-   "company": "flatexDEGIRO AG",
-   "role": "Client Tax Business Analyst",
+  "569b8225928f89d502296a6fd7cf42c3": {
+   "id": "569b8225928f89d502296a6fd7cf42c3",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Reparatie & Servicemedewerker Elektronica Amsterdam West",
    "location": "Amsterdam"
   },
-  "353ae7944cafcc8c4348660f75340b0c": {
-   "id": "353ae7944cafcc8c4348660f75340b0c",
-   "company": "Essense",
-   "role": "Business Analyst / Data-driven Journey Management Amsterdam · Hybrid",
-   "location": "Amsterdam"
+  "7ecdf7b8c8a1d5b0baba3fb0982fd61f": {
+   "id": "7ecdf7b8c8a1d5b0baba3fb0982fd61f",
+   "company": "GEA",
+   "role": "Field Service Engineer",
+   "location": "De Rijp"
   },
   "146661a105c0dc2966c8decc0d962ef9": {
    "id": "146661a105c0dc2966c8decc0d962ef9",
@@ -1400,17 +1400,29 @@
    "role": "Maintenance Technician Security Lane Systems",
    "location": "Schiphol"
   },
-  "c6ac4324bc52719d2701d42142fc67e5": {
-   "id": "c6ac4324bc52719d2701d42142fc67e5",
-   "company": "AkzoNobel N.V.",
-   "role": "Allround Monteur (wtb/e&i) / Akzonobel / Sassenheim",
+  "8e6d0164b17046138a473349316139c7": {
+   "id": "8e6d0164b17046138a473349316139c7",
+   "company": "Columbia Sportswear Company",
+   "role": "Sales Associate",
+   "location": "Amsterdam"
+  },
+  "69e3a5ed79b0b998bd6a4d96f6426f9d": {
+   "id": "69e3a5ed79b0b998bd6a4d96f6426f9d",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Bonusgedreven Verkoopmedewerker Telecom & Mobiel Rijswijk",
    "location": "Alphen Aan Den Rijn"
   },
-  "0d713f3dcbc74711f70fced743019bba": {
-   "id": "0d713f3dcbc74711f70fced743019bba",
-   "company": "Bilfinger SE",
-   "role": "Werkvoorbereider Elektrotechniek",
+  "44a0592be5b6a8e130f663293502d281": {
+   "id": "44a0592be5b6a8e130f663293502d281",
+   "company": "Parfumerie Douglas Nederland",
+   "role": "Service Assistantparttimerotterdam Zuidplein",
    "location": "Alphen Aan Den Rijn"
+  },
+  "e4a1d45216cf399dd6736f6a5b75e9ce": {
+   "id": "e4a1d45216cf399dd6736f6a5b75e9ce",
+   "company": "Sixt",
+   "role": "Parttime Rental Sales Agent (m/v/d) - Amsterdam Centraal Station",
+   "location": "Amsterdam"
   },
   "c78472d1af3f158302461de5a7d933d0": {
    "id": "c78472d1af3f158302461de5a7d933d0",
@@ -1494,12 +1506,6 @@
    "id": "d96edebf3ee0767f5c80b483cc6c4651",
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Verkoopmedewerker Retail Rotterdam The Corner",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "7b23cfb35c876c8c645a1b433852e495": {
-   "id": "7b23cfb35c876c8c645a1b433852e495",
-   "company": "MediaMarktSaturn - Webshop Foundation",
-   "role": "Bonusgedreven Verkoopmedewerker Telecom & Mobiel Rijswijk",
    "location": "Alphen Aan Den Rijn"
   },
   "82a4ef02e0788c0210ae1ec515320bc9": {
@@ -1866,24 +1872,6 @@
    "id": "4d58601dc63b3c0ed40aac28d487d3c1",
    "company": "Skechers",
    "role": "Parttime Verkoopmedewerker - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "734a3e1c075f40e09f2844085f84650b": {
-   "id": "734a3e1c075f40e09f2844085f84650b",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Sales Associate",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "4bf39f39b8d306146ad053f38318c575": {
-   "id": "4bf39f39b8d306146ad053f38318c575",
-   "company": "Coach",
-   "role": "Sales Associate",
-   "location": "Amsterdam"
-  },
-  "1c82bd4d97bb53e77a839a6a93041051": {
-   "id": "1c82bd4d97bb53e77a839a6a93041051",
-   "company": "Golden Goose",
-   "role": "Sneaker Maker - Part Time - Amsterdam",
    "location": "Amsterdam"
   },
   "115a820079a7148064ffcd7b0a3647f5": {
