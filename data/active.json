@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-28",
- "count": 342,
+ "asOf": "2026-10-29",
+ "count": 345,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -13,6 +13,108 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "79cb7027bbf2ebaf370e25b65d783c74": {
+   "id": "79cb7027bbf2ebaf370e25b65d783c74",
+   "company": "PPD (Thermo Fisher) UK",
+   "role": "Ehs Intern",
+   "location": "Eindhoven"
+  },
+  "1535aefbe46b7443a4df8b697e7e6d32": {
+   "id": "1535aefbe46b7443a4df8b697e7e6d32",
+   "company": "biosimilars-right.eu",
+   "role": "Stagiair(e) Communications",
+   "location": "S Hertogenbosch"
+  },
+  "065c42837b98b892d70e53828510abf9": {
+   "id": "065c42837b98b892d70e53828510abf9",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Supply Chain Performance Intern",
+   "location": "Amsterdam"
+  },
+  "ab9d705eace926da5e5331af9968143b": {
+   "id": "ab9d705eace926da5e5331af9968143b",
+   "company": "Richemont",
+   "role": "Supply Chain Performance Intern",
+   "location": "Amsterdam"
+  },
+  "f5d36f47053520435b1749dedaec5118": {
+   "id": "f5d36f47053520435b1749dedaec5118",
+   "company": "Acrisure",
+   "role": "International Business Development - Internship",
+   "location": "Amsterdam"
+  },
+  "9329f3fada1e3444844aa623aa0060ff": {
+   "id": "9329f3fada1e3444844aa623aa0060ff",
+   "company": "leHACK",
+   "role": "Intern - Finance - Financial Reportings",
+   "location": "North Holland"
+  },
+  "f003967ab2409434a30190f9dc383fda": {
+   "id": "f003967ab2409434a30190f9dc383fda",
+   "company": "Hyatt Hotels Corporation",
+   "role": "Finance Intern",
+   "location": "Amsterdam"
+  },
+  "c19985d11661f326b1f001a2ec99e2ec": {
+   "id": "c19985d11661f326b1f001a2ec99e2ec",
+   "company": "Hyatt Hotels Corporation",
+   "role": "Human Resources Intern",
+   "location": "Amsterdam"
+  },
+  "30e90f1d14666f90d64b4ae9c275c5ca": {
+   "id": "30e90f1d14666f90d64b4ae9c275c5ca",
+   "company": "pladis Global",
+   "role": "Trade Marketing Stagair",
+   "location": "Amsterdam"
+  },
+  "7441fa5f8d2b9954868d483ec1fb5f19": {
+   "id": "7441fa5f8d2b9954868d483ec1fb5f19",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Internship International Seo, Geo & Content",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "15152d88d2cdcc25488d7fa51748d32d": {
+   "id": "15152d88d2cdcc25488d7fa51748d32d",
+   "company": "Vopak",
+   "role": "Internship/stage Facillity",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "7aa24064af166b0bc9dcf0420eac66ac": {
+   "id": "7aa24064af166b0bc9dcf0420eac66ac",
+   "company": "Heineken International BV",
+   "role": "Internship - Sales Retail Superunie",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "a05aedd79d3b2e9532f9e9f6dadec70f": {
+   "id": "a05aedd79d3b2e9532f9e9f6dadec70f",
+   "company": "Lindt & Sprüngli",
+   "role": "Intern Digital & Retail",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "616e1de3fc4b385f5082ae87d59e50c3": {
+   "id": "616e1de3fc4b385f5082ae87d59e50c3",
+   "company": "Mars",
+   "role": "Marketing Activation Internship - Petcare",
+   "location": "S Hertogenbosch"
+  },
+  "0acfea4047c18f222e3204c116566c87": {
+   "id": "0acfea4047c18f222e3204c116566c87",
+   "company": "Mars",
+   "role": "Commercial Internship Petcare",
+   "location": "S Hertogenbosch"
+  },
+  "a1fbb871baa7efb842c6d7cc62d6e553": {
+   "id": "a1fbb871baa7efb842c6d7cc62d6e553",
+   "company": "Accenture",
+   "role": "Internship: Digital Business & Commerce",
+   "location": "Amsterdam"
+  },
+  "e08f4c095717e5adaf6d1695cc80b0da": {
+   "id": "e08f4c095717e5adaf6d1695cc80b0da",
+   "company": "Thermo Fisher Scientific",
+   "role": "Ehs Intern",
+   "location": "Eindhoven"
   },
   "298491d07af8607b852abc053a09ac33": {
    "id": "298491d07af8607b852abc053a09ac33",
@@ -110,6 +212,18 @@
    "role": "People & Office Intern",
    "location": "Amsterdam"
   },
+  "5ea6fdaf4a1be597965f81206fa1ad10": {
+   "id": "5ea6fdaf4a1be597965f81206fa1ad10",
+   "company": "Avery Dennison Corp",
+   "role": "Internship: Indirect Procurement",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "75b7cc4caa52d7be92b8322a33b86cdc": {
+   "id": "75b7cc4caa52d7be92b8322a33b86cdc",
+   "company": "Avery Dennison Smartrac",
+   "role": "Internship: Indirect Procurement",
+   "location": "Alphen Aan Den Rijn"
+  },
   "fd5e014e0a4838348fa46258c210f103": {
    "id": "fd5e014e0a4838348fa46258c210f103",
    "company": "KraftHeinz",
@@ -193,6 +307,18 @@
    "company": "Idexx",
    "role": "User Experience (ux) Intern",
    "location": "Amsterdam"
+  },
+  "5d7a0d51dc9ece6cf6e778cb8b3ad818": {
+   "id": "5d7a0d51dc9ece6cf6e778cb8b3ad818",
+   "company": "Mars Inc",
+   "role": "Commercial Internship Petcare",
+   "location": "S Hertogenbosch"
+  },
+  "561828c4ffdaf838c789ea8815817612": {
+   "id": "561828c4ffdaf838c789ea8815817612",
+   "company": "Mars Inc",
+   "role": "Marketing Activation Internship - Petcare",
+   "location": "S Hertogenbosch"
   },
   "a269bccd872d1f6eb63d872c097d811b": {
    "id": "a269bccd872d1f6eb63d872c097d811b",
@@ -368,132 +494,6 @@
    "role": "Internship - Sales",
    "location": "Amsterdam"
   },
-  "ba14d99da40e7672298746a3ee63ff87": {
-   "id": "ba14d99da40e7672298746a3ee63ff87",
-   "company": "Heineken International BV",
-   "role": "Internship - Procurement Transformation Europe",
-   "location": "Amsterdam"
-  },
-  "535318ecea4e67dd8709d76aab9407de": {
-   "id": "535318ecea4e67dd8709d76aab9407de",
-   "company": "Heineken International BV",
-   "role": "Internship - Heineken Experience Marketing",
-   "location": "Amsterdam"
-  },
-  "8b7e8e2e539d240a8a5727306f88a4c2": {
-   "id": "8b7e8e2e539d240a8a5727306f88a4c2",
-   "company": "Heineken International BV",
-   "role": "Internship - Global Talent Acquisition &amp; Employer Branding",
-   "location": "Amsterdam"
-  },
-  "ce3cd8be41d6aed57fdc4e1770d03ff8": {
-   "id": "ce3cd8be41d6aed57fdc4e1770d03ff8",
-   "company": "Heineken International BV",
-   "role": "Internship - Learning &amp; People Development",
-   "location": "Amsterdam"
-  },
-  "2aeda4cf67aa42de125636c9644f24ae": {
-   "id": "2aeda4cf67aa42de125636c9644f24ae",
-   "company": "Heineken International BV",
-   "role": "Internship - Global Early Careers",
-   "location": "Amsterdam"
-  },
-  "dfcd07b4b290636bc8554bec8138fd70": {
-   "id": "dfcd07b4b290636bc8554bec8138fd70",
-   "company": "Heineken International BV",
-   "role": "Internship - Global Health &amp; Safety Information Management &amp; Digital Workplace",
-   "location": "Amsterdam"
-  },
-  "77a5374a081733c12e8c0684ff907337": {
-   "id": "77a5374a081733c12e8c0684ff907337",
-   "company": "Heineken International BV",
-   "role": "Internship - Commercial Sales (ah &amp; Jumbo)",
-   "location": "Netherlands"
-  },
-  "85fce3a7700e4296079acb42473b618e": {
-   "id": "85fce3a7700e4296079acb42473b618e",
-   "company": "Heineken International BV",
-   "role": "Internship - Pmo Digital Transformation",
-   "location": "Schiphol +1"
-  },
-  "81941ca9624c2b2e19c56f0b1f6d570e": {
-   "id": "81941ca9624c2b2e19c56f0b1f6d570e",
-   "company": "Heineken International BV",
-   "role": "Internship - Hr Den Bosch",
-   "location": "S Hertogenbosch"
-  },
-  "71fc60fac2944b20606ac23bb5d6e783": {
-   "id": "71fc60fac2944b20606ac23bb5d6e783",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Talent Acquisition Europe Intern",
-   "location": "Amsterdam"
-  },
-  "e89686241aa9514ddc9c5deb455886fe": {
-   "id": "e89686241aa9514ddc9c5deb455886fe",
-   "company": "Vanderlande UK",
-   "role": "Internship: Leadership Development Impact & Research",
-   "location": "S Hertogenbosch"
-  },
-  "4c424ba9a323302af6c3d8c2f32365b0": {
-   "id": "4c424ba9a323302af6c3d8c2f32365b0",
-   "company": "Accenture",
-   "role": "Resources Strategy & Consulting – Working Internship",
-   "location": "Amsterdam"
-  },
-  "8cacabb97bcc648ac214b11c27b90c02": {
-   "id": "8cacabb97bcc648ac214b11c27b90c02",
-   "company": "Vanderlande",
-   "role": "Internship: Leadership Development Impact Research",
-   "location": "S Hertogenbosch"
-  },
-  "eb16302ae70d7e08253144cb317c60cb": {
-   "id": "eb16302ae70d7e08253144cb317c60cb",
-   "company": "euroexecutive.de",
-   "role": "Legal Intern",
-   "location": "Amsterdam"
-  },
-  "cf9c5655c8579fe91f3605278f28ca7b": {
-   "id": "cf9c5655c8579fe91f3605278f28ca7b",
-   "company": "MSD",
-   "role": "Intern – Hbo/wo Business Administration Or Data Analytics – Intellectual Property",
-   "location": "North Brabant"
-  },
-  "75dfd5768e4def3f95bb12e16caa340f": {
-   "id": "75dfd5768e4def3f95bb12e16caa340f",
-   "company": "Damen Global Support B.V",
-   "role": "Internship: Employer Branding",
-   "location": "S Hertogenbosch"
-  },
-  "bf8bbb3b293dba903fd4fe04a131cf51": {
-   "id": "bf8bbb3b293dba903fd4fe04a131cf51",
-   "company": "Shiseido",
-   "role": "Marketing/pr Stagiaire",
-   "location": "Schiphol"
-  },
-  "dc0ed325656dfd109794226bac5e439c": {
-   "id": "dc0ed325656dfd109794226bac5e439c",
-   "company": "Arcadis",
-   "role": "Internship - Modellering Technische Vispassages",
-   "location": "Arnhem"
-  },
-  "ee89877f3948d0daf4755aef31337daa": {
-   "id": "ee89877f3948d0daf4755aef31337daa",
-   "company": "KraftHeinz",
-   "role": "Sales Hd And Export Intern",
-   "location": "Amsterdam"
-  },
-  "d16c4c370564cfefd9fd0249a5768724": {
-   "id": "d16c4c370564cfefd9fd0249a5768724",
-   "company": "SBM Offshore",
-   "role": "Internship Program - Engineering",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "a55df712d9a9433a38eda6fcfb01abe5": {
-   "id": "a55df712d9a9433a38eda6fcfb01abe5",
-   "company": "pladis Global",
-   "role": "Marketing & Innovation Intern",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -504,6 +504,12 @@
    "id": "2a9741c4771608fbb96b389c15fb6adc",
    "company": "adidas AG",
    "role": "Intern - Software Engineer",
+   "location": "Amsterdam"
+  },
+  "b086feb9855f4983dd08d509fbffd7ef": {
+   "id": "b086feb9855f4983dd08d509fbffd7ef",
+   "company": "Techsyndicate Inc",
+   "role": "Software Engineering - Development Specialist",
    "location": "Amsterdam"
   },
   "262e4cda291f65c4dfad99889a12b9ff": {
@@ -588,6 +594,12 @@
    "id": "6912eec3081bb2a78cb984b2924a4d40",
    "company": "Oliver Wyman",
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "d66f7357d88abdbfdf6f4646fe3a933d": {
+   "id": "d66f7357d88abdbfdf6f4646fe3a933d",
+   "company": "Mitsubishi UFJ Financial Group",
+   "role": "Junior Data Integrity Analyst (1-year Contract)",
    "location": "Amsterdam"
   },
   "b8056c07c1ccdda346a948f35cbe82e9": {
@@ -715,6 +727,12 @@
    "company": "JPMorgan Chase",
    "role": "2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Off-cycle Internship (september-december) - Amsterdam",
    "location": "Amsterdam"
+  },
+  "53d3700f66298e5302b0606fd22e98e6": {
+   "id": "53d3700f66298e5302b0606fd22e98e6",
+   "company": "CGI",
+   "role": "Business Consulting Traineeship",
+   "location": "Randstad"
   },
   "661aa250bfa48fef9f327e9c8d418118": {
    "id": "661aa250bfa48fef9f327e9c8d418118",
@@ -918,6 +936,18 @@
    "id": "474095b4b4acb19812de138b0087994d",
    "company": "itjobber.de",
    "role": "Projects & Optimisation Analyst (dutch Speaker)",
+   "location": "Amsterdam"
+  },
+  "8e4f1efafe183a52ad2fcaab45781c0f": {
+   "id": "8e4f1efafe183a52ad2fcaab45781c0f",
+   "company": "KONE Croatia",
+   "role": "Service Monteur Schiphol",
+   "location": "Amsterdam"
+  },
+  "d6fa185abed91c5f6af7564f64ee972d": {
+   "id": "d6fa185abed91c5f6af7564f64ee972d",
+   "company": "Feenstra Verwarming B.V.",
+   "role": "Servicemonteur",
    "location": "Amsterdam"
   },
   "569b8225928f89d502296a6fd7cf42c3": {
@@ -1388,18 +1418,6 @@
    "role": "Maintenance Monteur - Storing & Onderhoud",
    "location": "Venlo"
   },
-  "3160dc308fee9e092e66f0da95d1c794": {
-   "id": "3160dc308fee9e092e66f0da95d1c794",
-   "company": "Bunge North America",
-   "role": "Onderhoudsmonteur Wtb / E&i",
-   "location": "Wormerveer"
-  },
-  "34e4507991369f5b982a80ef3b8312dd": {
-   "id": "34e4507991369f5b982a80ef3b8312dd",
-   "company": "VANDERLANDE INDUSTRIES",
-   "role": "Maintenance Technician Security Lane Systems",
-   "location": "Schiphol"
-  },
   "8e6d0164b17046138a473349316139c7": {
    "id": "8e6d0164b17046138a473349316139c7",
    "company": "Columbia Sportswear Company",
@@ -1411,6 +1429,12 @@
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Bonusgedreven Verkoopmedewerker Telecom & Mobiel Rijswijk",
    "location": "Alphen Aan Den Rijn"
+  },
+  "5c5c09785b65c90d93b93833e394be35": {
+   "id": "5c5c09785b65c90d93b93833e394be35",
+   "company": "H&M",
+   "role": "Sales Advisor 5-12h",
+   "location": "Amsterdam"
   },
   "44a0592be5b6a8e130f663293502d281": {
    "id": "44a0592be5b6a8e130f663293502d281",
@@ -1614,12 +1638,6 @@
    "id": "8f5811d7c90c67ec8d02bbe9443992f5",
    "company": "Free People (URBN)",
    "role": "Urban Outfitters Sales Associate - Amsterdam Kalverstraat, Nl",
-   "location": "Amsterdam"
-  },
-  "bb301d12c25a31bf7c4032ac891061ec": {
-   "id": "bb301d12c25a31bf7c4032ac891061ec",
-   "company": "H&M",
-   "role": "Sales Advisor 5-12h",
    "location": "Amsterdam"
   },
   "6f165c03f3a493ba04a04f335e9956b5": {

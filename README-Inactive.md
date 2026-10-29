@@ -2114,4 +2114,28 @@
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-10-28</td></tr>
 <tr><td>Coach</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-10-28</td></tr>
 <tr><td>Golden Goose</td><td>Sneaker Maker - Part Time - Amsterdam</td><td>Amsterdam</td><td>2026-10-28</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Procurement Transformation Europe</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Heineken Experience Marketing</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Talent Acquisition &amp; Employer Branding</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Learning &amp; People Development</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Early Careers</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Health &amp; Safety Information Management &amp; Digital Workplace</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Commercial Sales (ah &amp; Jumbo)</td><td>Netherlands</td><td>2026-10-29</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Pmo Digital Transformation</td><td>Schiphol +1</td><td>2026-10-29</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Hr Den Bosch</td><td>S Hertogenbosch</td><td>2026-10-29</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Talent Acquisition Europe Intern</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>Vanderlande UK</td><td>Internship: Leadership Development Impact & Research</td><td>S Hertogenbosch</td><td>2026-10-29</td></tr>
+<tr><td>Accenture</td><td>Resources Strategy & Consulting – Working Internship</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>Vanderlande</td><td>Internship: Leadership Development Impact Research</td><td>S Hertogenbosch</td><td>2026-10-29</td></tr>
+<tr><td>euroexecutive.de</td><td>Legal Intern</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>MSD</td><td>Intern – Hbo/wo Business Administration Or Data Analytics – Intellectual Property</td><td>North Brabant</td><td>2026-10-29</td></tr>
+<tr><td>Damen Global Support B.V</td><td>Internship: Employer Branding</td><td>S Hertogenbosch</td><td>2026-10-29</td></tr>
+<tr><td>Shiseido</td><td>Marketing/pr Stagiaire</td><td>Schiphol</td><td>2026-10-29</td></tr>
+<tr><td>Arcadis</td><td>Internship - Modellering Technische Vispassages</td><td>Arnhem</td><td>2026-10-29</td></tr>
+<tr><td>KraftHeinz</td><td>Sales Hd And Export Intern</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>SBM Offshore</td><td>Internship Program - Engineering</td><td>Alphen Aan Den Rijn</td><td>2026-10-29</td></tr>
+<tr><td>pladis Global</td><td>Marketing & Innovation Intern</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>Bunge North America</td><td>Onderhoudsmonteur Wtb / E&i</td><td>Wormerveer</td><td>2026-10-29</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Maintenance Technician Security Lane Systems</td><td>Schiphol</td><td>2026-10-29</td></tr>
+<tr><td>H&M</td><td>Sales Advisor 5-12h</td><td>Amsterdam</td><td>2026-10-29</td></tr>
 </table>
