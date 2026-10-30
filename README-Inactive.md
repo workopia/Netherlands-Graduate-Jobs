@@ -2138,4 +2138,31 @@
 <tr><td>Bunge North America</td><td>Onderhoudsmonteur Wtb / E&i</td><td>Wormerveer</td><td>2026-10-29</td></tr>
 <tr><td>VANDERLANDE INDUSTRIES</td><td>Maintenance Technician Security Lane Systems</td><td>Schiphol</td><td>2026-10-29</td></tr>
 <tr><td>H&M</td><td>Sales Advisor 5-12h</td><td>Amsterdam</td><td>2026-10-29</td></tr>
+<tr><td>Encore Wire Corp</td><td>Supply Chain Intern-5</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Brand Management (amstel, Brand &amp; Birra Moretti)</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Data Driven Sales Retail</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Data &amp; Digital Retail Team</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Category Management</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Security Management</td><td>Amsterdam</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Sales Out Of Home Amsterdam</td><td>Amsterdam</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Hr</td><td>Zoeterwoude</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Channel &amp; Execution Sport &amp; Leisure</td><td>Netherlands</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Business Transformation</td><td>Unknown</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Heineken Out Of Home Zuid-holland</td><td>Zuid-Holland</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Heineken Sales Tpw (third Party Wholesale)</td><td>Netherlands</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Trade Marketing</td><td>Unknown</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Heineken (r) Brand Management &amp; Sponsorship</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Desperados &amp; Beyond Beer</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Talent Acquisition Data Analyst</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Marketing Texels</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Sales</td><td>Amsterdam</td><td>2026-10-30</td></tr>
+<tr><td>JPMorgan Chase</td><td>2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Off-cycle Internship (september-december) - Amsterdam</td><td>Amsterdam</td><td>2026-10-30</td></tr>
+<tr><td>Shell plc</td><td>E&i Maintenance Technician</td><td>Pernis</td><td>2026-10-30</td></tr>
+<tr><td>QTS Data Centers</td><td>Critical Operations Technician Ii</td><td>Eemshaven</td><td>2026-10-30</td></tr>
+<tr><td>MSD</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>Venlo</td><td>2026-10-30</td></tr>
+<tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Skechers U.S.A., Inc</td><td>Parttime Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-10-30</td></tr>
+<tr><td>Skechers</td><td>Parttime Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-10-30</td></tr>
+<tr><td>Primark</td><td>Parttime Retail Assistant Rotterdam Forum</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
 </table>

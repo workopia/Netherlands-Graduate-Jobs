@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-29",
+ "asOf": "2026-10-30",
  "count": 345,
  "jobs": {
   "2750069": {
@@ -12,6 +12,90 @@
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "5f0ada7f21469067e332fc3961c25498": {
+   "id": "5f0ada7f21469067e332fc3961c25498",
+   "company": "Encore Wire Corp",
+   "role": "Supply Chain Intern-5",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "a2ea935503df484aecd006779decbea7": {
+   "id": "a2ea935503df484aecd006779decbea7",
+   "company": "investmentbankinginternships.com",
+   "role": "Internship - Predicting Confidence Bands For Future Account Balances",
+   "location": "Cedar"
+  },
+  "7511abd01b3284797c97643cf8b13583": {
+   "id": "7511abd01b3284797c97643cf8b13583",
+   "company": "Philips UK",
+   "role": "Internship: Philips Communications & Brand",
+   "location": "Amsterdam"
+  },
+  "a18a58134121090929a75553f15aa4aa": {
+   "id": "a18a58134121090929a75553f15aa4aa",
+   "company": "leHACK",
+   "role": "Intern – Master Statistics/bioinformatics– Global Statistics And Data Management",
+   "location": "Venlo"
+  },
+  "bc20ee7d4edaf5eca17c5d0513b4a931": {
+   "id": "bc20ee7d4edaf5eca17c5d0513b4a931",
+   "company": "Intelex",
+   "role": "Finance Intern",
+   "location": "Eindhoven"
+  },
+  "a6a5657d64975d5a8800536526556090": {
+   "id": "a6a5657d64975d5a8800536526556090",
+   "company": "Heineken International BV",
+   "role": "Internship - Supply Network Planning",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "4a465479d69367fa29bd80a70afd211f": {
+   "id": "4a465479d69367fa29bd80a70afd211f",
+   "company": "Heineken International BV",
+   "role": "Internship - Retail Heineken Experience Flagship Store",
+   "location": "Amsterdam"
+  },
+  "18f9b0d30f6b3acdcdb628a9bc464473": {
+   "id": "18f9b0d30f6b3acdcdb628a9bc464473",
+   "company": "Heineken International BV",
+   "role": "Internship - Global Business Conduct",
+   "location": "Netherlands"
+  },
+  "7dfc5b5c8c1ac211bda88ea7628e7619": {
+   "id": "7dfc5b5c8c1ac211bda88ea7628e7619",
+   "company": "IKEA",
+   "role": "Campagne Marketing Stage",
+   "location": "Amsterdam"
+  },
+  "d7acc7f7213e0f4ba8243257061c5be0": {
+   "id": "d7acc7f7213e0f4ba8243257061c5be0",
+   "company": "Dyson",
+   "role": "Intern (january Start Date)",
+   "location": "Amsterdam"
+  },
+  "08cd12fb6635cc6231a34cae3858fed7": {
+   "id": "08cd12fb6635cc6231a34cae3858fed7",
+   "company": "FactSet",
+   "role": "Client Solutions Internship - Benelux, February 2027",
+   "location": "Amsterdam"
+  },
+  "5e91669a466d6b890d6ea913ae3c6b37": {
+   "id": "5e91669a466d6b890d6ea913ae3c6b37",
+   "company": "ABB Ltd",
+   "role": "Stagiaire Technische Dienst",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f056a955e2424f80c0086ff55e5d19b5": {
+   "id": "f056a955e2424f80c0086ff55e5d19b5",
+   "company": "ABB Ltd",
+   "role": "Stagiaire Moulding",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "99fc6207fa3778c6c0a9e7ba221f9c32": {
+   "id": "99fc6207fa3778c6c0a9e7ba221f9c32",
+   "company": "Accenture",
+   "role": "Products Working Internship",
    "location": "Amsterdam"
   },
   "79cb7027bbf2ebaf370e25b65d783c74": {
@@ -50,6 +134,12 @@
    "role": "Intern - Finance - Financial Reportings",
    "location": "North Holland"
   },
+  "2400f3406c82f488852792d5db1ecd49": {
+   "id": "2400f3406c82f488852792d5db1ecd49",
+   "company": "Sofitel Sydney Wentworth",
+   "role": "Front Office Stagiaire - Jouw Stageplek Is Beschikbaar!",
+   "location": "Alphen Aan Den Rijn"
+  },
   "f003967ab2409434a30190f9dc383fda": {
    "id": "f003967ab2409434a30190f9dc383fda",
    "company": "Hyatt Hotels Corporation",
@@ -68,11 +158,29 @@
    "role": "Trade Marketing Stagair",
    "location": "Amsterdam"
   },
+  "c3bb74b98fa7dd9f47fd074dc992063a": {
+   "id": "c3bb74b98fa7dd9f47fd074dc992063a",
+   "company": "Bugaboo",
+   "role": "Global Cmi Intern",
+   "location": "Amsterdam"
+  },
+  "a64d58a75f190dddfefc9c2a5f8ee510": {
+   "id": "a64d58a75f190dddfefc9c2a5f8ee510",
+   "company": "FGS Global",
+   "role": "Intern Strategic Corporate & Transaction Communication",
+   "location": "Amsterdam"
+  },
   "7441fa5f8d2b9954868d483ec1fb5f19": {
    "id": "7441fa5f8d2b9954868d483ec1fb5f19",
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Internship International Seo, Geo & Content",
    "location": "Alphen Aan Den Rijn"
+  },
+  "b9fef4efd536427ccc858fb9b9e4273c": {
+   "id": "b9fef4efd536427ccc858fb9b9e4273c",
+   "company": "Danone",
+   "role": "Packaging Procurement Intern",
+   "location": "Amsterdam"
   },
   "15152d88d2cdcc25488d7fa51748d32d": {
    "id": "15152d88d2cdcc25488d7fa51748d32d",
@@ -181,12 +289,6 @@
    "company": "Richemont Australia Pty Ltd",
    "role": "Talent Acquisition Intern Benelux & Nordics",
    "location": "Amsterdam"
-  },
-  "921df630e5b3ca02efdfe0f192724acd": {
-   "id": "921df630e5b3ca02efdfe0f192724acd",
-   "company": "Encore Wire Corp",
-   "role": "Supply Chain Intern-5",
-   "location": "Alphen Aan Den Rijn"
   },
   "ef50f5a69eb3f2f48aef53e49081ff98": {
    "id": "ef50f5a69eb3f2f48aef53e49081ff98",
@@ -392,108 +494,6 @@
    "role": "Asia Pacific/latin America Credit Control Intern",
    "location": "Amsterdam"
   },
-  "8fbe73f16abb2a07cfe11b4f358b7c65": {
-   "id": "8fbe73f16abb2a07cfe11b4f358b7c65",
-   "company": "Heineken International BV",
-   "role": "Internship - Brand Management (amstel, Brand &amp; Birra Moretti)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "5dd81c568db9f429cdb19b76aedaab4f": {
-   "id": "5dd81c568db9f429cdb19b76aedaab4f",
-   "company": "Heineken International BV",
-   "role": "Internship - Data Driven Sales Retail",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "f29335f1bf8ae32e534859c2c85fcb65": {
-   "id": "f29335f1bf8ae32e534859c2c85fcb65",
-   "company": "Heineken International BV",
-   "role": "Internship - Data &amp; Digital Retail Team",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "016d72a2dc0ea4b5ef164dcd95d6236d": {
-   "id": "016d72a2dc0ea4b5ef164dcd95d6236d",
-   "company": "Heineken International BV",
-   "role": "Internship - Category Management",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "0a9cb5480856750e21cd32c1583deca6": {
-   "id": "0a9cb5480856750e21cd32c1583deca6",
-   "company": "Heineken International BV",
-   "role": "Internship - Security Management",
-   "location": "Amsterdam"
-  },
-  "6b58fe61d1403a47ba421617d1155d5d": {
-   "id": "6b58fe61d1403a47ba421617d1155d5d",
-   "company": "Heineken International BV",
-   "role": "Internship - Sales Out Of Home Amsterdam",
-   "location": "Amsterdam"
-  },
-  "f3b2fe2e854e657fb49bc9fb145cd289": {
-   "id": "f3b2fe2e854e657fb49bc9fb145cd289",
-   "company": "Heineken International BV",
-   "role": "Internship - Hr",
-   "location": "Zoeterwoude"
-  },
-  "bdef1c4c461f4343da63c0f55a30bb5f": {
-   "id": "bdef1c4c461f4343da63c0f55a30bb5f",
-   "company": "Heineken International BV",
-   "role": "Internship - Channel &amp; Execution Sport &amp; Leisure",
-   "location": "Netherlands"
-  },
-  "248e42f87eb0fb7005c29041f3ddde68": {
-   "id": "248e42f87eb0fb7005c29041f3ddde68",
-   "company": "Heineken International BV",
-   "role": "Internship - Business Transformation",
-   "location": "Unknown"
-  },
-  "f8cac06544320148d5afd92dcf7c7a93": {
-   "id": "f8cac06544320148d5afd92dcf7c7a93",
-   "company": "Heineken International BV",
-   "role": "Internship - Heineken Out Of Home Zuid-holland",
-   "location": "Zuid-Holland"
-  },
-  "c2ed375277e5a30988ff356d5de252f8": {
-   "id": "c2ed375277e5a30988ff356d5de252f8",
-   "company": "Heineken International BV",
-   "role": "Internship - Heineken Sales Tpw (third Party Wholesale)",
-   "location": "Netherlands"
-  },
-  "96d444b81a4e5fc1539d9ee2552e5c51": {
-   "id": "96d444b81a4e5fc1539d9ee2552e5c51",
-   "company": "Heineken International BV",
-   "role": "Internship - Trade Marketing",
-   "location": "Unknown"
-  },
-  "97e19712c8508a1b1c9a51e28a3e380c": {
-   "id": "97e19712c8508a1b1c9a51e28a3e380c",
-   "company": "Heineken International BV",
-   "role": "Internship - Heineken (r) Brand Management &amp; Sponsorship",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "44b5610a140723330eeaafc961d5a13c": {
-   "id": "44b5610a140723330eeaafc961d5a13c",
-   "company": "Heineken International BV",
-   "role": "Internship - Desperados &amp; Beyond Beer",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "31b72c70c8abd88d493d9cf2824a0cb8": {
-   "id": "31b72c70c8abd88d493d9cf2824a0cb8",
-   "company": "Heineken International BV",
-   "role": "Internship - Talent Acquisition Data Analyst",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "cc9168970797548c025401df0a22e01f": {
-   "id": "cc9168970797548c025401df0a22e01f",
-   "company": "Heineken International BV",
-   "role": "Internship - Marketing Texels",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "71bac20b5a421283e6e827022b580631": {
-   "id": "71bac20b5a421283e6e827022b580631",
-   "company": "Heineken International BV",
-   "role": "Internship - Sales",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -594,6 +594,12 @@
    "id": "6912eec3081bb2a78cb984b2924a4d40",
    "company": "Oliver Wyman",
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "54d37f5a356eb7f6ccbbdda5c686e0c8": {
+   "id": "54d37f5a356eb7f6ccbbdda5c686e0c8",
+   "company": "Vattenfall",
+   "role": "Data Scientist",
    "location": "Amsterdam"
   },
   "d66f7357d88abdbfdf6f4646fe3a933d": {
@@ -720,12 +726,6 @@
    "id": "262aa92cc43c579a2579184288367506",
    "company": "ING",
    "role": "Internship Debt Capital Markets – Ig Corporate Origination",
-   "location": "Amsterdam"
-  },
-  "e1030ac67132661c37d55da7710be8e5": {
-   "id": "e1030ac67132661c37d55da7710be8e5",
-   "company": "JPMorgan Chase",
-   "role": "2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Off-cycle Internship (september-december) - Amsterdam",
    "location": "Amsterdam"
   },
   "53d3700f66298e5302b0606fd22e98e6": {
@@ -937,6 +937,24 @@
    "company": "itjobber.de",
    "role": "Projects & Optimisation Analyst (dutch Speaker)",
    "location": "Amsterdam"
+  },
+  "5290a194380f5dbb9ff707e08ab575a4": {
+   "id": "5290a194380f5dbb9ff707e08ab575a4",
+   "company": "VistaCreate",
+   "role": "Allround Monteur/storingsmonteur/onderhoudsmonteur",
+   "location": "Venlo"
+  },
+  "680df9083dd6c991d874be941a3e0117": {
+   "id": "680df9083dd6c991d874be941a3e0117",
+   "company": "Johnson Controls Inc",
+   "role": "Fire Detection Service Technician",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "26e801ded199e3f81e6f3090fde1cf8b": {
+   "id": "26e801ded199e3f81e6f3090fde1cf8b",
+   "company": "Apple",
+   "role": "Field Service Engineer, Data Center Operations",
+   "location": "Netherlands"
   },
   "8e4f1efafe183a52ad2fcaab45781c0f": {
    "id": "8e4f1efafe183a52ad2fcaab45781c0f",
@@ -1400,23 +1418,29 @@
    "role": "Onderhoudstechnicus Electrical & Instrumentation (e&i)",
    "location": "Pernis"
   },
-  "edbb7585f217175e5aafc829edc9585e": {
-   "id": "edbb7585f217175e5aafc829edc9585e",
-   "company": "Shell plc",
-   "role": "E&i Maintenance Technician",
-   "location": "Pernis"
+  "b0fa0ae5f634e497a98ec87ce9b2d1ff": {
+   "id": "b0fa0ae5f634e497a98ec87ce9b2d1ff",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Sales Associate",
+   "location": "Amsterdam"
   },
-  "88889783e3ccd467b0f0ad4050b31fb3": {
-   "id": "88889783e3ccd467b0f0ad4050b31fb3",
-   "company": "QTS Data Centers",
-   "role": "Critical Operations Technician Ii",
-   "location": "Eemshaven"
+  "a5bf3c8ada090fd868363044ad570432": {
+   "id": "a5bf3c8ada090fd868363044ad570432",
+   "company": "IKEA",
+   "role": "Keukenverkoper (bijbaan & Fulltime)",
+   "location": "Alphen Aan Den Rijn"
   },
-  "10ac84890897bff5bdc8596400cd614a": {
-   "id": "10ac84890897bff5bdc8596400cd614a",
-   "company": "MSD",
-   "role": "Maintenance Monteur - Storing & Onderhoud",
-   "location": "Venlo"
+  "63547ec63c07c65e4cdd7f272d0b7cfc": {
+   "id": "63547ec63c07c65e4cdd7f272d0b7cfc",
+   "company": "Tapestry, Inc.",
+   "role": "Sales Associate",
+   "location": "Amsterdam"
+  },
+  "47be466b684cdd1227208b4156986cdb": {
+   "id": "47be466b684cdd1227208b4156986cdb",
+   "company": "JYSK",
+   "role": "Verkoopmedewerker Met Ambitie",
+   "location": "Amsterdam"
   },
   "8e6d0164b17046138a473349316139c7": {
    "id": "8e6d0164b17046138a473349316139c7",
@@ -1646,12 +1670,6 @@
    "role": "Verkoopmedewerker - Den Haag (16/21 Uur)",
    "location": "Alphen Aan Den Rijn"
   },
-  "464019d4d5ff618b754205611f2e5b58": {
-   "id": "464019d4d5ff618b754205611f2e5b58",
-   "company": "JYSK",
-   "role": "Verkoopmedewerker Met Ambitie",
-   "location": "Alphen Aan Den Rijn"
-  },
   "c2e86a4761c415d94473aad5119b6da7": {
    "id": "c2e86a4761c415d94473aad5119b6da7",
    "company": "H&M",
@@ -1693,12 +1711,6 @@
    "company": "Breitling SA",
    "role": "Sales Associate (f/m/x)",
    "location": "Amsterdam"
-  },
-  "b32789781df2b421879d225ad8d6c655": {
-   "id": "b32789781df2b421879d225ad8d6c655",
-   "company": "Tapestry, Inc.",
-   "role": "Sales Associate",
-   "location": "Alphen Aan Den Rijn"
   },
   "80c71e1877c6785ad71e228a0a0fc3de": {
    "id": "80c71e1877c6785ad71e228a0a0fc3de",
@@ -1880,17 +1892,11 @@
    "role": "Verkoopmedewerker – Leiden (flex Hulp)",
    "location": "Alphen Aan Den Rijn"
   },
-  "43afa288fd6b195190d12de8d0b9d3a6": {
-   "id": "43afa288fd6b195190d12de8d0b9d3a6",
-   "company": "Skechers U.S.A., Inc",
-   "role": "Parttime Verkoopmedewerker - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "4d58601dc63b3c0ed40aac28d487d3c1": {
-   "id": "4d58601dc63b3c0ed40aac28d487d3c1",
-   "company": "Skechers",
-   "role": "Parttime Verkoopmedewerker - Amsterdam",
-   "location": "Amsterdam"
+  "4bda5634d38cb9e8811702c7c646b6b0": {
+   "id": "4bda5634d38cb9e8811702c7c646b6b0",
+   "company": "Primark",
+   "role": "Parttime Retail Assistant Rotterdam Forum",
+   "location": "Alphen Aan Den Rijn"
   },
   "115a820079a7148064ffcd7b0a3647f5": {
    "id": "115a820079a7148064ffcd7b0a3647f5",
@@ -1969,12 +1975,6 @@
    "company": "Primark",
    "role": "Parttime Retail Assistant Venlo",
    "location": "Venlo"
-  },
-  "c06563d02eade18d1e6f99b53f7818a6": {
-   "id": "c06563d02eade18d1e6f99b53f7818a6",
-   "company": "Primark",
-   "role": "Parttime Retail Assistant Rotterdam Forum",
-   "location": "Alphen Aan Den Rijn"
   },
   "4fd4a6f3bf9f7a672dbf0d5b53026948": {
    "id": "4fd4a6f3bf9f7a672dbf0d5b53026948",
