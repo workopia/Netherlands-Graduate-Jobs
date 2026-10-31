@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-30",
- "count": 345,
+ "asOf": "2026-10-31",
+ "count": 346,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -12,6 +12,114 @@
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "b650f3ad43a9ec7e19d0afce4c4b91b5": {
+   "id": "b650f3ad43a9ec7e19d0afce4c4b91b5",
+   "company": "Stryker",
+   "role": "Tax Intern",
+   "location": "Amsterdam"
+  },
+  "2b67ad4662cf5d91cb0915f0304c69d1": {
+   "id": "2b67ad4662cf5d91cb0915f0304c69d1",
+   "company": "Stryker",
+   "role": "Human Resources Intern",
+   "location": "Amsterdam"
+  },
+  "5ca47d04db50c6189a93c7245a41f6ff": {
+   "id": "5ca47d04db50c6189a93c7245a41f6ff",
+   "company": "PPD (Thermo Fisher) UK",
+   "role": "Intern Operations Manufacturing",
+   "location": "Eindhoven"
+  },
+  "46c5976c4b370d6475566a85f0c4ecfe": {
+   "id": "46c5976c4b370d6475566a85f0c4ecfe",
+   "company": "Prysmian Group",
+   "role": "Supply Chain Intern-4",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "851f4f37995de619c9ed0c81c5a87734": {
+   "id": "851f4f37995de619c9ed0c81c5a87734",
+   "company": "NXP",
+   "role": "Internship - Design Of A Compact Solder Joint Resistance Sensor",
+   "location": "Eindhoven"
+  },
+  "1aa0fc74f8c923ea93a7313f4c49a20f": {
+   "id": "1aa0fc74f8c923ea93a7313f4c49a20f",
+   "company": "Parfumado",
+   "role": "Design Intern",
+   "location": "Amsterdam"
+  },
+  "90cebb1b0e55732debd3b4c139f2d74a": {
+   "id": "90cebb1b0e55732debd3b4c139f2d74a",
+   "company": "investmentbankinginternships.com",
+   "role": "Internship - Corporate Finance Mid-market",
+   "location": "Amsterdam"
+  },
+  "a3621fe368112edd97ff2e8a20fd858b": {
+   "id": "a3621fe368112edd97ff2e8a20fd858b",
+   "company": "investmentbankinginternships.com",
+   "role": "Internship Conversational Banking",
+   "location": "Acanthus"
+  },
+  "3fc23d8d2fcee0a2520cb932944b8f7a": {
+   "id": "3fc23d8d2fcee0a2520cb932944b8f7a",
+   "company": "Heineken International BV",
+   "role": "Internship - Media (marketing)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "28a416580faa0d26686e2a0359da62be": {
+   "id": "28a416580faa0d26686e2a0359da62be",
+   "company": "Heineken International BV",
+   "role": "Internship - Risk &amp; Control",
+   "location": "Unknown"
+  },
+  "5db85d80e9cc6dd0b1402b3903fd1c0d": {
+   "id": "5db85d80e9cc6dd0b1402b3903fd1c0d",
+   "company": "Irdeto",
+   "role": "Facilities Coordinator Intern",
+   "location": "Amsterdam"
+  },
+  "82fc14648d41b67a83936adfcf0d0c46": {
+   "id": "82fc14648d41b67a83936adfcf0d0c46",
+   "company": "Danone",
+   "role": "Internship: Campus Recruitment (dutch Speaker)",
+   "location": "Amsterdam"
+  },
+  "19ce56b0ccc8fdafeec5ad466d78c9c7": {
+   "id": "19ce56b0ccc8fdafeec5ad466d78c9c7",
+   "company": "Nestle SA",
+   "role": "Intern Procurement",
+   "location": "Amsterdam"
+  },
+  "4593916abdbcc699202e2940e3a6fd19": {
+   "id": "4593916abdbcc699202e2940e3a6fd19",
+   "company": "Nestle SA",
+   "role": "Stagiair(e) Marketing Purina Petcare",
+   "location": "Amsterdam"
+  },
+  "c271867002ceba0faaecdaf76ce1a769": {
+   "id": "c271867002ceba0faaecdaf76ce1a769",
+   "company": "Halfspace ApS",
+   "role": "Industrial Design Internship",
+   "location": "Eindhoven"
+  },
+  "3146f429eb2cae5bb9fb65a60b7371f6": {
+   "id": "3146f429eb2cae5bb9fb65a60b7371f6",
+   "company": "Stichd",
+   "role": "Intern Go To Market Fanwear",
+   "location": "Stichd HQ"
+  },
+  "090d84a29dae7a3e821d8d5aec64a6c2": {
+   "id": "090d84a29dae7a3e821d8d5aec64a6c2",
+   "company": "Stichd",
+   "role": "Intern Go To Market Essentials",
+   "location": "Stichd HQ"
+  },
+  "8f9ee118d19bae147728a781077b78fd": {
+   "id": "8f9ee118d19bae147728a781077b78fd",
+   "company": "Acrisure",
+   "role": "International Business Development - Internship",
    "location": "Amsterdam"
   },
   "5f0ada7f21469067e332fc3961c25498": {
@@ -120,12 +228,6 @@
    "id": "ab9d705eace926da5e5331af9968143b",
    "company": "Richemont",
    "role": "Supply Chain Performance Intern",
-   "location": "Amsterdam"
-  },
-  "f5d36f47053520435b1749dedaec5118": {
-   "id": "f5d36f47053520435b1749dedaec5118",
-   "company": "Acrisure",
-   "role": "International Business Development - Internship",
    "location": "Amsterdam"
   },
   "9329f3fada1e3444844aa623aa0060ff": {
@@ -392,108 +494,6 @@
    "role": "Stagiair(e) Digital Marketing - Dolce Gusto",
    "location": "Netherlands"
   },
-  "5a40438e6163d96e22e2983696d5e1de": {
-   "id": "5a40438e6163d96e22e2983696d5e1de",
-   "company": "Nestle Ltd",
-   "role": "Intern Procurement",
-   "location": "Amsterdam"
-  },
-  "2730d4711bed3d458aecc73210a67c8f": {
-   "id": "2730d4711bed3d458aecc73210a67c8f",
-   "company": "Nestle Ltd",
-   "role": "Intern Demand &amp; Supply Planning - Operations",
-   "location": "Netherlands"
-  },
-  "14018772f42d35190baa18276336154c": {
-   "id": "14018772f42d35190baa18276336154c",
-   "company": "Idexx",
-   "role": "User Experience (ux) Intern",
-   "location": "Amsterdam"
-  },
-  "5d7a0d51dc9ece6cf6e778cb8b3ad818": {
-   "id": "5d7a0d51dc9ece6cf6e778cb8b3ad818",
-   "company": "Mars Inc",
-   "role": "Commercial Internship Petcare",
-   "location": "S Hertogenbosch"
-  },
-  "561828c4ffdaf838c789ea8815817612": {
-   "id": "561828c4ffdaf838c789ea8815817612",
-   "company": "Mars Inc",
-   "role": "Marketing Activation Internship - Petcare",
-   "location": "S Hertogenbosch"
-  },
-  "a269bccd872d1f6eb63d872c097d811b": {
-   "id": "a269bccd872d1f6eb63d872c097d811b",
-   "company": "Tencent",
-   "role": "Sre Intern",
-   "location": "Amsterdam"
-  },
-  "bec8ae9d078bc4c741faa9d7c1f9c58d": {
-   "id": "bec8ae9d078bc4c741faa9d7c1f9c58d",
-   "company": "Leadinfo",
-   "role": "People Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "0e6260294b94d643312c644aa91dc300": {
-   "id": "0e6260294b94d643312c644aa91dc300",
-   "company": "DB Cargo France",
-   "role": "Wealth Management Intern – Relationship Management (f/m/x)",
-   "location": "Amsterdam"
-  },
-  "30c950fd7af1f9091023c1f618394cd4": {
-   "id": "30c950fd7af1f9091023c1f618394cd4",
-   "company": "AkzoNobel N.V.",
-   "role": "Color Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "dcf48830eed9770d8ed2656ba38fbb25": {
-   "id": "dcf48830eed9770d8ed2656ba38fbb25",
-   "company": "Lincolninternational",
-   "role": "M&a Internship Amsterdam (may-august 2027)",
-   "location": "Amsterdam"
-  },
-  "bdba2e3f9167e1c29ac224340c0d3d6c": {
-   "id": "bdba2e3f9167e1c29ac224340c0d3d6c",
-   "company": "Schneider Electric",
-   "role": "Offer Marketing Intern",
-   "location": "Amsterdam"
-  },
-  "bf0dfc5bffafd4ce765ec760132c49eb": {
-   "id": "bf0dfc5bffafd4ce765ec760132c49eb",
-   "company": "Openclaims B.V",
-   "role": "Qa & Test Automation Internship",
-   "location": "Amsterdam"
-  },
-  "399ccea8b2a1d98fcd22622b6af1f409": {
-   "id": "399ccea8b2a1d98fcd22622b6af1f409",
-   "company": "KraftHeinz",
-   "role": "Value Creation Packaging Intern",
-   "location": "Arnhem"
-  },
-  "366ab0ed07ef88ea6edfd47828118dbd": {
-   "id": "366ab0ed07ef88ea6edfd47828118dbd",
-   "company": "Philip Morris International",
-   "role": "Lab Analyst Intern",
-   "location": "Amsterdam"
-  },
-  "95cce8580f1bbb2dcc9aabcf68190bb3": {
-   "id": "95cce8580f1bbb2dcc9aabcf68190bb3",
-   "company": "Idexx",
-   "role": "Finance Business Operation Intern",
-   "location": "Amsterdam"
-  },
-  "08bd0614636e9f0b65e244a4b350f597": {
-   "id": "08bd0614636e9f0b65e244a4b350f597",
-   "company": "Idexx",
-   "role": "Financial Planning & Analysis Intern - Reference Labs",
-   "location": "Amsterdam"
-  },
-  "c3241800531bb83c6d516692a51038b2": {
-   "id": "c3241800531bb83c6d516692a51038b2",
-   "company": "Idexx",
-   "role": "Asia Pacific/latin America Credit Control Intern",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -692,6 +692,12 @@
    "role": "Junior Data Scientist",
    "location": "Amsterdam"
   },
+  "f3adb0f682a5f9a9ab8287b966dfe009": {
+   "id": "f3adb0f682a5f9a9ab8287b966dfe009",
+   "company": "Schneider Electric",
+   "role": "Access To Energy Business & Financial Analyst Intern",
+   "location": "Amsterdam"
+  },
   "6c10e87a66585e2aed7e85bb440eb957": {
    "id": "6c10e87a66585e2aed7e85bb440eb957",
    "company": "Avanade",
@@ -733,6 +739,12 @@
    "company": "CGI",
    "role": "Business Consulting Traineeship",
    "location": "Randstad"
+  },
+  "21f82a99ff58bf98fd6e54a32a008784": {
+   "id": "21f82a99ff58bf98fd6e54a32a008784",
+   "company": "Flow Traders",
+   "role": "Business Analyst",
+   "location": "Amsterdam"
   },
   "661aa250bfa48fef9f327e9c8d418118": {
    "id": "661aa250bfa48fef9f327e9c8d418118",
@@ -932,11 +944,17 @@
    "role": "Junior Business Analyst Nl",
    "location": "Amsterdam"
   },
-  "474095b4b4acb19812de138b0087994d": {
-   "id": "474095b4b4acb19812de138b0087994d",
-   "company": "itjobber.de",
-   "role": "Projects & Optimisation Analyst (dutch Speaker)",
-   "location": "Amsterdam"
+  "3bfff82929d6b9e38a5d7643f3501111": {
+   "id": "3bfff82929d6b9e38a5d7643f3501111",
+   "company": "Chromalloy Corporation",
+   "role": "066 Maintenance - Maintenance Technician Electrical",
+   "location": "Netherlands"
+  },
+  "a97c23a0b07ae86c7d31145e9cd26a09": {
+   "id": "a97c23a0b07ae86c7d31145e9cd26a09",
+   "company": "Arvesta",
+   "role": "Elektromechanieker Vaste Nacht",
+   "location": "Unknown"
   },
   "5290a194380f5dbb9ff707e08ab575a4": {
    "id": "5290a194380f5dbb9ff707e08ab575a4",
@@ -1406,17 +1424,17 @@
    "role": "Onderhoudsmonteur (wtb/e) / Ammerzoden",
    "location": "Ammerzoden"
   },
-  "09d1b22a0d0f49387d89ec237a81b11b": {
-   "id": "09d1b22a0d0f49387d89ec237a81b11b",
-   "company": "Ardagh Group",
-   "role": "E&i Maintenance Engineer",
-   "location": "Moerdijk"
+  "ca0ec3c65aaf82eff48b8e2fc1ee70cf": {
+   "id": "ca0ec3c65aaf82eff48b8e2fc1ee70cf",
+   "company": "Puma",
+   "role": "Retail Sales Associate",
+   "location": "Amsterdam"
   },
-  "c1e26f32f5a376f8debd6c0afadb5309": {
-   "id": "c1e26f32f5a376f8debd6c0afadb5309",
-   "company": "Shell plc",
-   "role": "Onderhoudstechnicus Electrical & Instrumentation (e&i)",
-   "location": "Pernis"
+  "096143859ed080eec2d7290d8e1db758": {
+   "id": "096143859ed080eec2d7290d8e1db758",
+   "company": "Timberland Com Tr",
+   "role": "Sales Associate",
+   "location": "Alphen Aan Den Rijn"
   },
   "b0fa0ae5f634e497a98ec87ce9b2d1ff": {
    "id": "b0fa0ae5f634e497a98ec87ce9b2d1ff",
@@ -1760,12 +1778,6 @@
    "role": "Sales Associate",
    "location": "Alphen Aan Den Rijn"
   },
-  "132201ff270f78ee97d673bad7012885": {
-   "id": "132201ff270f78ee97d673bad7012885",
-   "company": "Puma",
-   "role": "Retail Sales Associate",
-   "location": "Amsterdam"
-  },
   "9fb0b62d797a7707518e8a13f6f887ce": {
    "id": "9fb0b62d797a7707518e8a13f6f887ce",
    "company": "Vuori",
@@ -1886,11 +1898,17 @@
    "role": "Sales Associate",
    "location": "Amsterdam"
   },
-  "c5c4b374e4df496b16d034c541710e8b": {
-   "id": "c5c4b374e4df496b16d034c541710e8b",
-   "company": "H&M",
-   "role": "Verkoopmedewerker – Leiden (flex Hulp)",
-   "location": "Alphen Aan Den Rijn"
+  "e996dbfb3acbc5d178e4a89ad2cabb21": {
+   "id": "e996dbfb3acbc5d178e4a89ad2cabb21",
+   "company": "Primark",
+   "role": "Verkoopmedewerker / Sales Assistant Parttime Eindhoven",
+   "location": "Eindhoven"
+  },
+  "8b2f526f48786b814e63ddbc0830749f": {
+   "id": "8b2f526f48786b814e63ddbc0830749f",
+   "company": "Primark",
+   "role": "Verkoopmedewerker / Sales Assistant Weekend Eindhoven",
+   "location": "Eindhoven"
   },
   "4bda5634d38cb9e8811702c7c646b6b0": {
    "id": "4bda5634d38cb9e8811702c7c646b6b0",
@@ -1957,18 +1975,6 @@
    "company": "Wolters Kluwer",
    "role": "Content Coordinator",
    "location": "Nld"
-  },
-  "75d7cc267dde895a5687e3f8f2478785": {
-   "id": "75d7cc267dde895a5687e3f8f2478785",
-   "company": "Primark",
-   "role": "Verkoopmedewerker / Sales Assistant Weekend Eindhoven",
-   "location": "Eindhoven"
-  },
-  "6985b3f863fec1c84cde6195dbbd4aec": {
-   "id": "6985b3f863fec1c84cde6195dbbd4aec",
-   "company": "Primark",
-   "role": "Verkoopmedewerker / Sales Assistant Parttime Eindhoven",
-   "location": "Eindhoven"
   },
   "2724c64125b2e8ecfa8655db5febc40e": {
    "id": "2724c64125b2e8ecfa8655db5febc40e",

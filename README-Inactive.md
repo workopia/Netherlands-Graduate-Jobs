@@ -2165,4 +2165,29 @@
 <tr><td>Skechers U.S.A., Inc</td><td>Parttime Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-10-30</td></tr>
 <tr><td>Skechers</td><td>Parttime Verkoopmedewerker - Amsterdam</td><td>Amsterdam</td><td>2026-10-30</td></tr>
 <tr><td>Primark</td><td>Parttime Retail Assistant Rotterdam Forum</td><td>Alphen Aan Den Rijn</td><td>2026-10-30</td></tr>
+<tr><td>Acrisure</td><td>International Business Development - Internship</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>Nestle Ltd</td><td>Intern Procurement</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>Nestle Ltd</td><td>Intern Demand &amp; Supply Planning - Operations</td><td>Netherlands</td><td>2026-10-31</td></tr>
+<tr><td>Idexx</td><td>User Experience (ux) Intern</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>Mars Inc</td><td>Commercial Internship Petcare</td><td>S Hertogenbosch</td><td>2026-10-31</td></tr>
+<tr><td>Mars Inc</td><td>Marketing Activation Internship - Petcare</td><td>S Hertogenbosch</td><td>2026-10-31</td></tr>
+<tr><td>Tencent</td><td>Sre Intern</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>Leadinfo</td><td>People Intern</td><td>Alphen Aan Den Rijn</td><td>2026-10-31</td></tr>
+<tr><td>DB Cargo France</td><td>Wealth Management Intern – Relationship Management (f/m/x)</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Color Intern</td><td>Alphen Aan Den Rijn</td><td>2026-10-31</td></tr>
+<tr><td>Lincolninternational</td><td>M&a Internship Amsterdam (may-august 2027)</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>Schneider Electric</td><td>Offer Marketing Intern</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>Openclaims B.V</td><td>Qa & Test Automation Internship</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>KraftHeinz</td><td>Value Creation Packaging Intern</td><td>Arnhem</td><td>2026-10-31</td></tr>
+<tr><td>Philip Morris International</td><td>Lab Analyst Intern</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>Idexx</td><td>Finance Business Operation Intern</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>Idexx</td><td>Financial Planning & Analysis Intern - Reference Labs</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>Idexx</td><td>Asia Pacific/latin America Credit Control Intern</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>itjobber.de</td><td>Projects & Optimisation Analyst (dutch Speaker)</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>Ardagh Group</td><td>E&i Maintenance Engineer</td><td>Moerdijk</td><td>2026-10-31</td></tr>
+<tr><td>Shell plc</td><td>Onderhoudstechnicus Electrical & Instrumentation (e&i)</td><td>Pernis</td><td>2026-10-31</td></tr>
+<tr><td>Puma</td><td>Retail Sales Associate</td><td>Amsterdam</td><td>2026-10-31</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker – Leiden (flex Hulp)</td><td>Alphen Aan Den Rijn</td><td>2026-10-31</td></tr>
+<tr><td>Primark</td><td>Verkoopmedewerker / Sales Assistant Weekend Eindhoven</td><td>Eindhoven</td><td>2026-10-31</td></tr>
+<tr><td>Primark</td><td>Verkoopmedewerker / Sales Assistant Parttime Eindhoven</td><td>Eindhoven</td><td>2026-10-31</td></tr>
 </table>
