@@ -2190,4 +2190,12 @@
 <tr><td>H&M</td><td>Verkoopmedewerker – Leiden (flex Hulp)</td><td>Alphen Aan Den Rijn</td><td>2026-10-31</td></tr>
 <tr><td>Primark</td><td>Verkoopmedewerker / Sales Assistant Weekend Eindhoven</td><td>Eindhoven</td><td>2026-10-31</td></tr>
 <tr><td>Primark</td><td>Verkoopmedewerker / Sales Assistant Parttime Eindhoven</td><td>Eindhoven</td><td>2026-10-31</td></tr>
+<tr><td>Nestle Ltd</td><td>Stagiair(e) Marketing Nescafé</td><td>Amsterdam</td><td>2026-11-01</td></tr>
+<tr><td>Nestle Ltd</td><td>Stagiair(e) Marketing Chocola</td><td>Amsterdam</td><td>2026-11-01</td></tr>
+<tr><td>Nestle Ltd</td><td>Stagiair(e) Marketing Purina Petcare</td><td>Netherlands</td><td>2026-11-01</td></tr>
+<tr><td>Nestle Ltd</td><td>Stagiair(e) Digital Marketing - Dolce Gusto</td><td>Netherlands</td><td>2026-11-01</td></tr>
+<tr><td>Q42 B.V</td><td>Allround Back-end Developerfulltimeamsterdam En/of Rotterdam</td><td>Amsterdam</td><td>2026-11-01</td></tr>
+<tr><td>Q42 B.V</td><td>Ervaren Python / Django Developerfulltimeamsterdam En/of Rotterdam</td><td>Amsterdam</td><td>2026-11-01</td></tr>
+<tr><td>MSX International Ltd</td><td>Junior Business Analyst Nl</td><td>Amsterdam</td><td>2026-11-01</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Onderhoudsmonteur (wtb/e) / Ammerzoden</td><td>Ammerzoden</td><td>2026-11-01</td></tr>
 </table>

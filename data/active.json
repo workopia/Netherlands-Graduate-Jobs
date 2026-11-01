@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-31",
- "count": 346,
+ "asOf": "2026-11-01",
+ "count": 344,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -12,6 +12,18 @@
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "7cd3645eda4ff0dc84d937cd4f971e74": {
+   "id": "7cd3645eda4ff0dc84d937cd4f971e74",
+   "company": "Melia",
+   "role": "Human Resources Internship",
+   "location": "Amsterdam"
+  },
+  "7e0b21bed22909bf57a001db6f3634d8": {
+   "id": "7e0b21bed22909bf57a001db6f3634d8",
+   "company": "IKEA",
+   "role": "Product Recovery Process Improvement Intern",
    "location": "Amsterdam"
   },
   "b650f3ad43a9ec7e19d0afce4c4b91b5": {
@@ -116,6 +128,12 @@
    "role": "Intern Go To Market Essentials",
    "location": "Stichd HQ"
   },
+  "080781b3d561be2fce94b6071300d924": {
+   "id": "080781b3d561be2fce94b6071300d924",
+   "company": "Thermo Fisher Scientific",
+   "role": "Intern Operations Manufacturing",
+   "location": "Eindhoven"
+  },
   "8f9ee118d19bae147728a781077b78fd": {
    "id": "8f9ee118d19bae147728a781077b78fd",
    "company": "Acrisure",
@@ -151,6 +169,12 @@
    "company": "Intelex",
    "role": "Finance Intern",
    "location": "Eindhoven"
+  },
+  "targetjobs:a0d44b29-5189-48d0-ba54-7ef0c63f7528": {
+   "id": "targetjobs:a0d44b29-5189-48d0-ba54-7ef0c63f7528",
+   "company": "Graviton Research Capital LLP",
+   "role": "Quantitative Researcher PhD - 2027 Internship",
+   "location": "Amsterdam"
   },
   "a6a5657d64975d5a8800536526556090": {
    "id": "a6a5657d64975d5a8800536526556090",
@@ -470,30 +494,6 @@
    "role": "Stagiaire Marketing Food",
    "location": "Amsterdam"
   },
-  "563dd92f5553d1d4255f88f7ad884fb8": {
-   "id": "563dd92f5553d1d4255f88f7ad884fb8",
-   "company": "Nestle Ltd",
-   "role": "Stagiair(e) Marketing Nescafé",
-   "location": "Amsterdam"
-  },
-  "484ef3b238f5637a5c5725e6f08e7e5b": {
-   "id": "484ef3b238f5637a5c5725e6f08e7e5b",
-   "company": "Nestle Ltd",
-   "role": "Stagiair(e) Marketing Chocola",
-   "location": "Amsterdam"
-  },
-  "81ceb474037bc46b5bcfa2ca4906768c": {
-   "id": "81ceb474037bc46b5bcfa2ca4906768c",
-   "company": "Nestle Ltd",
-   "role": "Stagiair(e) Marketing Purina Petcare",
-   "location": "Netherlands"
-  },
-  "cb0d2708d09d6aebc840dbd430116073": {
-   "id": "cb0d2708d09d6aebc840dbd430116073",
-   "company": "Nestle Ltd",
-   "role": "Stagiair(e) Digital Marketing - Dolce Gusto",
-   "location": "Netherlands"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -564,18 +564,6 @@
    "id": "6a5ff51966d48e3d68a1c4762f3484fd",
    "company": "Adyen Payments",
    "role": "Python Software Engineer, Knowledge Infrastructure",
-   "location": "Amsterdam"
-  },
-  "b937ad0778289385fb9a45ebafe88c90": {
-   "id": "b937ad0778289385fb9a45ebafe88c90",
-   "company": "Q42 B.V",
-   "role": "Allround Back-end Developerfulltimeamsterdam En/of Rotterdam",
-   "location": "Amsterdam"
-  },
-  "107efe5d30b4c9b37bbd6a23d2aed1f1": {
-   "id": "107efe5d30b4c9b37bbd6a23d2aed1f1",
-   "company": "Q42 B.V",
-   "role": "Ervaren Python / Django Developerfulltimeamsterdam En/of Rotterdam",
    "location": "Amsterdam"
   },
   "8d5d7844917911ddcdd14d9919d2198b": {
@@ -938,11 +926,11 @@
    "role": "Customer Journey Expert – Business Insurance",
    "location": "Acanthus"
   },
-  "509cb4aabe205ded32e5fc78bf9bab55": {
-   "id": "509cb4aabe205ded32e5fc78bf9bab55",
-   "company": "MSX International Ltd",
-   "role": "Junior Business Analyst Nl",
-   "location": "Amsterdam"
+  "a88fcb7588cf189423e766354b1b5637": {
+   "id": "a88fcb7588cf189423e766354b1b5637",
+   "company": "Chart Industries Inc",
+   "role": "Field Service Technician",
+   "location": "Zuidland"
   },
   "3bfff82929d6b9e38a5d7643f3501111": {
    "id": "3bfff82929d6b9e38a5d7643f3501111",
@@ -1418,12 +1406,6 @@
    "role": "Facility Technician",
    "location": "Alphen Aan Den Rijn"
   },
-  "c04c3510802dbc23612da117b3708bb8": {
-   "id": "c04c3510802dbc23612da117b3708bb8",
-   "company": "AkzoNobel N.V.",
-   "role": "Onderhoudsmonteur (wtb/e) / Ammerzoden",
-   "location": "Ammerzoden"
-  },
   "ca0ec3c65aaf82eff48b8e2fc1ee70cf": {
    "id": "ca0ec3c65aaf82eff48b8e2fc1ee70cf",
    "company": "Puma",
@@ -1897,6 +1879,12 @@
    "company": "The LEGO Group",
    "role": "Sales Associate",
    "location": "Amsterdam"
+  },
+  "dc0fd686c8296bec9df449aa842275c0": {
+   "id": "dc0fd686c8296bec9df449aa842275c0",
+   "company": "Dow",
+   "role": "Business Development Specialist",
+   "location": "Milan +3"
   },
   "e996dbfb3acbc5d178e4a89ad2cabb21": {
    "id": "e996dbfb3acbc5d178e4a89ad2cabb21",
