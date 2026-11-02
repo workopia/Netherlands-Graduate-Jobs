@@ -2198,4 +2198,10 @@
 <tr><td>Q42 B.V</td><td>Ervaren Python / Django Developerfulltimeamsterdam En/of Rotterdam</td><td>Amsterdam</td><td>2026-11-01</td></tr>
 <tr><td>MSX International Ltd</td><td>Junior Business Analyst Nl</td><td>Amsterdam</td><td>2026-11-01</td></tr>
 <tr><td>AkzoNobel N.V.</td><td>Onderhoudsmonteur (wtb/e) / Ammerzoden</td><td>Ammerzoden</td><td>2026-11-01</td></tr>
+<tr><td>Nestle Ltd</td><td>Stagiair(e) Consumer Services</td><td>Netherlands</td><td>2026-11-02</td></tr>
+<tr><td>Nestle Ltd</td><td>Stagiaire Marketing Food</td><td>Amsterdam</td><td>2026-11-02</td></tr>
+<tr><td>American Tower Corporation</td><td>Financial Analyst, Netherlands</td><td>Amsterdam</td><td>2026-11-02</td></tr>
+<tr><td>American Tower</td><td>Financial Analyst, Netherlands</td><td>Amsterdam</td><td>2026-11-02</td></tr>
+<tr><td>ING Group</td><td>Customer Journey Expert – Business Insurance</td><td>Acanthus</td><td>2026-11-02</td></tr>
+<tr><td>Malvern Panalytical Inc</td><td>Customer Service Coordinator</td><td>Eindhoven</td><td>2026-11-02</td></tr>
 </table>

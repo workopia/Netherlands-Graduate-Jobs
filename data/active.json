@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-01",
- "count": 344,
+ "asOf": "2026-11-02",
+ "count": 340,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -12,6 +12,12 @@
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "172a00941890ab04136a97b32ec1c6ad": {
+   "id": "172a00941890ab04136a97b32ec1c6ad",
+   "company": "Nestle SA",
+   "role": "Stagiair(e) Marketing Chocola",
    "location": "Amsterdam"
   },
   "7cd3645eda4ff0dc84d937cd4f971e74": {
@@ -169,6 +175,12 @@
    "company": "Intelex",
    "role": "Finance Intern",
    "location": "Eindhoven"
+  },
+  "79c0bf1cba26a9e24d6eee2181c60579": {
+   "id": "79c0bf1cba26a9e24d6eee2181c60579",
+   "company": "JDE Peet's",
+   "role": "Global Talent Intern",
+   "location": "Amsterdam"
   },
   "targetjobs:a0d44b29-5189-48d0-ba54-7ef0c63f7528": {
    "id": "targetjobs:a0d44b29-5189-48d0-ba54-7ef0c63f7528",
@@ -480,18 +492,6 @@
    "id": "679ec8f76272738032dffc3576c99b7a",
    "company": "Nestle Ltd",
    "role": "Stagiair(e) Rsa &amp; Nhw",
-   "location": "Amsterdam"
-  },
-  "5a813d565187ab14f2623f6b821038c5": {
-   "id": "5a813d565187ab14f2623f6b821038c5",
-   "company": "Nestle Ltd",
-   "role": "Stagiair(e) Consumer Services",
-   "location": "Netherlands"
-  },
-  "8b25c030636bc169f6485013568b8f05": {
-   "id": "8b25c030636bc169f6485013568b8f05",
-   "company": "Nestle Ltd",
-   "role": "Stagiaire Marketing Food",
    "location": "Amsterdam"
   },
   "4479df504e4c9731d0edc314bf928813": {
@@ -907,24 +907,6 @@
    "company": "Euronext Technologies SaS",
    "role": "Projects & Optimisation Analyst (dutch Speaker)",
    "location": "Amsterdam"
-  },
-  "44a803e2b51163a4158d7b82c7cace30": {
-   "id": "44a803e2b51163a4158d7b82c7cace30",
-   "company": "American Tower Corporation",
-   "role": "Financial Analyst, Netherlands",
-   "location": "Amsterdam"
-  },
-  "50f2d5e297484dc21953943020611c9d": {
-   "id": "50f2d5e297484dc21953943020611c9d",
-   "company": "American Tower",
-   "role": "Financial Analyst, Netherlands",
-   "location": "Amsterdam"
-  },
-  "2537fa1a81eefe973432d28d7593763a": {
-   "id": "2537fa1a81eefe973432d28d7593763a",
-   "company": "ING Group",
-   "role": "Customer Journey Expert – Business Insurance",
-   "location": "Acanthus"
   },
   "a88fcb7588cf189423e766354b1b5637": {
    "id": "a88fcb7588cf189423e766354b1b5637",
@@ -2053,12 +2035,6 @@
    "company": "Linklaters LLP",
    "role": "Administrative Assistant",
    "location": "Amsterdam"
-  },
-  "9c6475067c492e19760a57f9601574d4": {
-   "id": "9c6475067c492e19760a57f9601574d4",
-   "company": "Malvern Panalytical Inc",
-   "role": "Customer Service Coordinator",
-   "location": "Eindhoven"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",
