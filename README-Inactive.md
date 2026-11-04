@@ -2253,4 +2253,29 @@
 <tr><td>Nestle Ltd</td><td>Stagiair(e) Rsa &amp; Nhw</td><td>Amsterdam</td><td>2026-11-03</td></tr>
 <tr><td>Nouryon</td><td>Onderhoudsmonteur (wtb/e) / Ammerzoden</td><td>Ammerzoden</td><td>2026-11-03</td></tr>
 <tr><td>jll.co.in</td><td>Facility Technician</td><td>Alphen Aan Den Rijn</td><td>2026-11-03</td></tr>
+<tr><td>Nestle SA</td><td>Stagiair(e) Marketing Purina Petcare</td><td>Amsterdam</td><td>2026-11-04</td></tr>
+<tr><td>Halfspace ApS</td><td>Industrial Design Internship</td><td>Eindhoven</td><td>2026-11-04</td></tr>
+<tr><td>Stichd</td><td>Intern Go To Market Fanwear</td><td>Stichd HQ</td><td>2026-11-04</td></tr>
+<tr><td>Stichd</td><td>Intern Go To Market Essentials</td><td>Stichd HQ</td><td>2026-11-04</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Intern Operations Manufacturing</td><td>Eindhoven</td><td>2026-11-04</td></tr>
+<tr><td>Acrisure</td><td>International Business Development - Internship</td><td>Amsterdam</td><td>2026-11-04</td></tr>
+<tr><td>Encore Wire Corp</td><td>Supply Chain Intern-5</td><td>Alphen Aan Den Rijn</td><td>2026-11-04</td></tr>
+<tr><td>investmentbankinginternships.com</td><td>Internship - Predicting Confidence Bands For Future Account Balances</td><td>Cedar</td><td>2026-11-04</td></tr>
+<tr><td>PepsiCo Inc</td><td>First Gen: Food Brand Marketing Intern</td><td>Utrecht</td><td>2026-11-04</td></tr>
+<tr><td>PepsiCo Inc</td><td>First Gen: Food Brand Marketing Intern (lay's)</td><td>Utrecht</td><td>2026-11-04</td></tr>
+<tr><td>Philips UK</td><td>Internship: Philips Communications & Brand</td><td>Amsterdam</td><td>2026-11-04</td></tr>
+<tr><td>leHACK</td><td>Intern – Master Statistics/bioinformatics– Global Statistics And Data Management</td><td>Venlo</td><td>2026-11-04</td></tr>
+<tr><td>Intelex</td><td>Finance Intern</td><td>Eindhoven</td><td>2026-11-04</td></tr>
+<tr><td>JDE Peet's</td><td>Global Talent Intern</td><td>Amsterdam</td><td>2026-11-04</td></tr>
+<tr><td>Graviton Research Capital LLP</td><td>Quantitative Researcher PhD - 2027 Internship</td><td>Amsterdam</td><td>2026-11-04</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Supply Network Planning</td><td>Alphen Aan Den Rijn</td><td>2026-11-04</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Retail Heineken Experience Flagship Store</td><td>Amsterdam</td><td>2026-11-04</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Business Conduct</td><td>Netherlands</td><td>2026-11-04</td></tr>
+<tr><td>IKEA</td><td>Campagne Marketing Stage</td><td>Amsterdam</td><td>2026-11-04</td></tr>
+<tr><td>PepsiCo Inc</td><td>First Gen: Sales Retail Intern</td><td>Utrecht</td><td>2026-11-04</td></tr>
+<tr><td>Adyen Payments</td><td>Python Software Engineer, Knowledge Infrastructure</td><td>Amsterdam</td><td>2026-11-04</td></tr>
+<tr><td>Smiths Detection</td><td>Field Service Engineer - Schiphol</td><td>Schiphol</td><td>2026-11-04</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-11-04</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-11-04</td></tr>
+<tr><td>The LEGO Group</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-11-04</td></tr>
 </table>
