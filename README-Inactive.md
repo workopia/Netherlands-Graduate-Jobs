@@ -2278,4 +2278,36 @@
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-11-04</td></tr>
 <tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-11-04</td></tr>
 <tr><td>The LEGO Group</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-11-04</td></tr>
+<tr><td>Informa PLC</td><td>Marketing Internship</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>Informa PLC</td><td>Event Executive Internship</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>Informa PLC</td><td>Digital Marketing Internship</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>Informa PLC</td><td>Content Internship</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>Informa PLC</td><td>Business Development Analyst Internship</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Exploration Strategy Office - Strategic Communication Support</td><td>Alphen Aan Den Rijn</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Esa Education Office - Inspiration And Education Outreach</td><td>Alphen Aan Den Rijn</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Space Resilience Office - Space Security And Geopolitical Analysis</td><td>Alphen Aan Den Rijn</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Industrial Audit Services Office - Audit Baseline Services Unit</td><td>Alphen Aan Den Rijn</td><td>2026-11-05</td></tr>
+<tr><td>Mars Inc</td><td>Internship Supply Planning Performance & Value Realization</td><td>S Hertogenbosch</td><td>2026-11-05</td></tr>
+<tr><td>Nestle SA</td><td>Stagiair(e) Marketing Chocola</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>Melia</td><td>Human Resources Internship</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>IKEA</td><td>Product Recovery Process Improvement Intern</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>Stryker</td><td>Tax Intern</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>Stryker</td><td>Human Resources Intern</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Intern Operations Manufacturing</td><td>Eindhoven</td><td>2026-11-05</td></tr>
+<tr><td>Prysmian Group</td><td>Supply Chain Intern-4</td><td>Alphen Aan Den Rijn</td><td>2026-11-05</td></tr>
+<tr><td>NXP</td><td>Internship - Design Of A Compact Solder Joint Resistance Sensor</td><td>Eindhoven</td><td>2026-11-05</td></tr>
+<tr><td>Parfumado</td><td>Design Intern</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>investmentbankinginternships.com</td><td>Internship - Corporate Finance Mid-market</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>investmentbankinginternships.com</td><td>Internship Conversational Banking</td><td>Acanthus</td><td>2026-11-05</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Media (marketing)</td><td>Alphen Aan Den Rijn</td><td>2026-11-05</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Risk &amp; Control</td><td>Unknown</td><td>2026-11-05</td></tr>
+<tr><td>PepsiCo Inc</td><td>First Gen: Hr Intern Benelux</td><td>Utrecht</td><td>2026-11-05</td></tr>
+<tr><td>PepsiCo Inc</td><td>First Gen: Brand Marketing (doritos And Portfolio Transformation) Intern</td><td>Utrecht</td><td>2026-11-05</td></tr>
+<tr><td>Irdeto</td><td>Facilities Coordinator Intern</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>Danone</td><td>Internship: Campus Recruitment (dutch Speaker)</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>Nestle SA</td><td>Intern Procurement</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>JBT Marel</td><td>Field Service Engineer Control Systems</td><td>Netherlands</td><td>2026-11-05</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker - Den Haag (16/21 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-11-05</td></tr>
+<tr><td>IKEA UK</td><td>Verkoopmedewerker Cook & Eat, Ikea Delft Store, 12 Of 16 Uur/week</td><td>Alphen Aan Den Rijn</td><td>2026-11-05</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate 80%</td><td>Amsterdam</td><td>2026-11-05</td></tr>
 </table>
