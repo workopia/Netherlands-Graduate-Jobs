@@ -2310,4 +2310,40 @@
 <tr><td>H&M</td><td>Verkoopmedewerker - Den Haag (16/21 Uur)</td><td>Alphen Aan Den Rijn</td><td>2026-11-05</td></tr>
 <tr><td>IKEA UK</td><td>Verkoopmedewerker Cook & Eat, Ikea Delft Store, 12 Of 16 Uur/week</td><td>Alphen Aan Den Rijn</td><td>2026-11-05</td></tr>
 <tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate 80%</td><td>Amsterdam</td><td>2026-11-05</td></tr>
+<tr><td>Informa PLC</td><td>Content Internship</td><td>Amsterdam</td><td>2026-11-06</td></tr>
+<tr><td>Informa PLC</td><td>Digital Marketing Internship</td><td>Amsterdam</td><td>2026-11-06</td></tr>
+<tr><td>The Business Development School</td><td>Business Developer Intern</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>The Business Development School</td><td>Social Media Manager Internship</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>JYSK</td><td>Ict Meewerkstage Mbo</td><td>Arnhem</td><td>2026-11-06</td></tr>
+<tr><td>Koninklijk Nederlands Lucht</td><td>Internship: Reliability-informed Latent Dynamical Models For Aircraft Propulsion Health Monitoring</td><td>Amsterdam</td><td>2026-11-06</td></tr>
+<tr><td>Koninklijk Nederlands Lucht</td><td>Internship: Explainable Ai For The Qualification Of Aerospace Algorithms</td><td>Amsterdam</td><td>2026-11-06</td></tr>
+<tr><td>Koninklijk Nederlands Lucht</td><td>Internship: Designing A Flexible Robotics Research Platform</td><td>Amsterdam</td><td>2026-11-06</td></tr>
+<tr><td>Koninklijk Nederlands Lucht</td><td>Internship: Dynamic Aircraft Maintenance Scheduling And Spare Part Management: From Mathematical Formulation To Real-world Benchmarks</td><td>Amsterdam</td><td>2026-11-06</td></tr>
+<tr><td>Lama Lama</td><td>Stagiair Online Marketing &amp; Growth</td><td>Amsterdam</td><td>2026-11-06</td></tr>
+<tr><td>Bosveld Gerechtsdeurwaarders & Incassos</td><td>Stagiair(e) Bij Bosveld Incasso En Gerechtsdeurwaardersfulltime / Parttimeamersfoort</td><td>Amersfoort</td><td>2026-11-06</td></tr>
+<tr><td>Capital C</td><td>Stage Finance &amp; Controlinternshipcapital C - Diamantbeurs</td><td>Amsterdam</td><td>2026-11-06</td></tr>
+<tr><td>A'DAM Toren</td><td>Marketing &amp; Communicatie Stagiair - Loft &amp; Shelter Feb 2027stageamsterdam</td><td>Amsterdam</td><td>2026-11-06</td></tr>
+<tr><td>Dentsu Creative</td><td>Ai Designer Intern - Ai Studiofull-timeamsterdam</td><td>Amsterdam</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Industrial Policy And Auditing Department - Sme Section</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Digital, Data And Information Technology Department - Data And Apps Factory</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Galileo And Egnos Programme Department - Resilient Navigation Systems</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Esa Security Office - Cyber Internal Audit Section</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Contracts Department - Earth Observation Contracts Service</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Legal Services Department - New Initiatives And Commercialisation Division</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Future Missions Department - Market Intelligence And Data Infrastructure</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Communication Department - Internal Communication Products And Channels Office</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Technology Department - Accelerate And Innovation Technology Team</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Commercialisation Acceleration Dept. - Entrepreneurship & Business Incubation Office</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Audit And Evaluation Department - Evaluation Office</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Galileo And Egnos Programme Department - Hybrid And Resilient Pnt Systems Evolution</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Climate Action, Sustainability And Science Department - Harmony Mission</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Quality Department - Human Spaceflight Safety</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Galileo And Egnos Programme Department - Digital Transformation</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Space Safety Programme - Mission Implementation Division (clear Space 1)</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Earth Observation Projects Department - Event-aware On-board Processing For Chime</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Industrial Policy And Auditing Department - Buc And Pmso Office Corporate Directorates</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Mechatronica Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>Yara International ASA</td><td>Hoofdmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>Yunex Traffic</td><td>Service Engineer</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
+<tr><td>SIXT</td><td>Rental Sales Agent (m/v/d) - Amsterdam Rai</td><td>Amsterdam</td><td>2026-11-06</td></tr>
 </table>

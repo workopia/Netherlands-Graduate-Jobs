@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-05",
- "count": 348,
+ "asOf": "2026-11-06",
+ "count": 349,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -13,6 +13,144 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "b9926bee33b536f656d5c3a34557cbe5": {
+   "id": "b9926bee33b536f656d5c3a34557cbe5",
+   "company": "adidas AG",
+   "role": "Intern - Digital Sales",
+   "location": "Amsterdam"
+  },
+  "430e8345b5283b200115f182ba7d7084": {
+   "id": "430e8345b5283b200115f182ba7d7084",
+   "company": "PPD (Thermo Fisher) UK",
+   "role": "Internship - Build An Agentic Software Refactoring Workflow",
+   "location": "Eindhoven"
+  },
+  "5e48cb74f3eb0d644fa8a3a8bed108c1": {
+   "id": "5e48cb74f3eb0d644fa8a3a8bed108c1",
+   "company": "Amgen UK",
+   "role": "Global Transportation Excellence Intern",
+   "location": "Breda"
+  },
+  "7a43b9a885e5f859595b46c4e715c878": {
+   "id": "7a43b9a885e5f859595b46c4e715c878",
+   "company": "Amgen UK",
+   "role": "Contracts & Pricing Operations Intern",
+   "location": "Breda"
+  },
+  "6c9f36dbad0ae6326238a6d9ff294fb4": {
+   "id": "6c9f36dbad0ae6326238a6d9ff294fb4",
+   "company": "Philips UK",
+   "role": "Internship: Emc/emi Test Setup For Ivus Image Interference (master)",
+   "location": "Eindhoven"
+  },
+  "3d7e91401428b8f25e1dbd6894de0317": {
+   "id": "3d7e91401428b8f25e1dbd6894de0317",
+   "company": "Philips UK",
+   "role": "Internship: Li-fi Adoption In Healthcare (non-thesis)",
+   "location": "Eindhoven"
+  },
+  "dcd4404237ae2e832f4299b1f0d47d77": {
+   "id": "dcd4404237ae2e832f4299b1f0d47d77",
+   "company": "Qualcomm Technologies Netherlands B.V.",
+   "role": "Fy27 Intern - Deep Learning Researcher Internship - 4 Months, Amsterdam",
+   "location": "Amsterdam"
+  },
+  "76d4f1d71336404d560f9dd0bd47f989": {
+   "id": "76d4f1d71336404d560f9dd0bd47f989",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Internship Product Content",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "a73c2eca7de7adefa56d8ef36498fdbf": {
+   "id": "a73c2eca7de7adefa56d8ef36498fdbf",
+   "company": "Signify",
+   "role": "Ecommerce D2c Internship",
+   "location": "Eindhoven"
+  },
+  "d246f569ff4485e24dedf4b636956c3a": {
+   "id": "d246f569ff4485e24dedf4b636956c3a",
+   "company": "Heineken International BV",
+   "role": "Internship - E-commerce &amp; Content",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "5b16dff22f4c38c92d9181722b1a86cd": {
+   "id": "5b16dff22f4c38c92d9181722b1a86cd",
+   "company": "Heineken International BV",
+   "role": "Internship - Risk Management",
+   "location": "Amsterdam"
+  },
+  "ce1dddbc1c3f0fb961c141f172a857c3": {
+   "id": "ce1dddbc1c3f0fb961c141f172a857c3",
+   "company": "Heineken International BV",
+   "role": "Internship - Global Media Team",
+   "location": "Amsterdam"
+  },
+  "ac1675999a05788fd66f34a44b644cec": {
+   "id": "ac1675999a05788fd66f34a44b644cec",
+   "company": "Heineken International BV",
+   "role": "Internship - Brand &amp; Identity Design Systems",
+   "location": "Amsterdam"
+  },
+  "a9f346c17c5c3d999b1ad8dae2148922": {
+   "id": "a9f346c17c5c3d999b1ad8dae2148922",
+   "company": "Heineken International BV",
+   "role": "Internship - Customer Service Bnl Supply",
+   "location": "Zoeterwoude +1"
+  },
+  "65147302036b7bb76a02751f5b18b67b": {
+   "id": "65147302036b7bb76a02751f5b18b67b",
+   "company": "Heineken International BV",
+   "role": "Internship - Strategy &amp; Transformation",
+   "location": "Netherlands"
+  },
+  "438b242f5e6884d9391c49b79e62d898": {
+   "id": "438b242f5e6884d9391c49b79e62d898",
+   "company": "Heineken International BV",
+   "role": "Internship - Packaging &amp; Dispense Innovation",
+   "location": "Zoeterwoude"
+  },
+  "6ffac277463c135d8292e11991c328a2": {
+   "id": "6ffac277463c135d8292e11991c328a2",
+   "company": "Heineken International BV",
+   "role": "Internship - Communicatie &#39;corporate Affairs&#39; België En Nederland",
+   "location": "Amsterdam +1"
+  },
+  "4086720a42eea0c1b9d57374adcfa458": {
+   "id": "4086720a42eea0c1b9d57374adcfa458",
+   "company": "Bynder",
+   "role": "Video/motion Internship",
+   "location": "Amsterdam"
+  },
+  "0f9986014798056da7437ec997bcb2c3": {
+   "id": "0f9986014798056da7437ec997bcb2c3",
+   "company": "Funda Intellectual Property B.V",
+   "role": "Stagiair Marketing & Communicatie",
+   "location": "Amsterdam"
+  },
+  "d4562ebbc9ddd4c9c9111d16aff360ae": {
+   "id": "d4562ebbc9ddd4c9c9111d16aff360ae",
+   "company": "Danone",
+   "role": "Eu Brand Strategy And Innovation Intern",
+   "location": "Amsterdam"
+  },
+  "c5284dc04522cfa5d8d9eaced7013c67": {
+   "id": "c5284dc04522cfa5d8d9eaced7013c67",
+   "company": "Mars",
+   "role": "Thesis Internship Driving Process Excellence Through Ai",
+   "location": "S Hertogenbosch"
+  },
+  "9fcd7d8344b787a14e8e0b70088d7cca": {
+   "id": "9fcd7d8344b787a14e8e0b70088d7cca",
+   "company": "Thermo Fisher Scientific",
+   "role": "Internship Position: Data Processing And Microscopy Analysis Intern",
+   "location": "Eindhoven"
+  },
+  "658c63824cc014bf5afaedaf173bf2e3": {
+   "id": "658c63824cc014bf5afaedaf173bf2e3",
+   "company": "Thermo Fisher Scientific",
+   "role": "Internship - Build An Agentic Software Refactoring Workflow",
+   "location": "Eindhoven"
   },
   "4c1e2f2177084c586d034a0984cd137a": {
    "id": "4c1e2f2177084c586d034a0984cd137a",
@@ -38,6 +176,42 @@
    "role": "Intern Marketing Automation And Email Nurturing",
    "location": "Amsterdam"
   },
+  "0585bdf36ec5b7c73458e145c9b61a55": {
+   "id": "0585bdf36ec5b7c73458e145c9b61a55",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Internship Supply Chain",
+   "location": "Etten-Leur +1"
+  },
+  "3ea6f3fc68f60e4b90da5cffcb2ed8c4": {
+   "id": "3ea6f3fc68f60e4b90da5cffcb2ed8c4",
+   "company": "Informa PLC",
+   "role": "Digital Marketing Internship",
+   "location": "Amsterdam"
+  },
+  "f66e9d9513891fdb7e21da9b200ee67e": {
+   "id": "f66e9d9513891fdb7e21da9b200ee67e",
+   "company": "Informa PLC",
+   "role": "Business & Process Analyst Internship",
+   "location": "Amsterdam"
+  },
+  "38d700553954adc4de398f6e427aa604": {
+   "id": "38d700553954adc4de398f6e427aa604",
+   "company": "AkzoNobel N.V.",
+   "role": "Intern Digital Media",
+   "location": "Amsterdam"
+  },
+  "b9fb925497d139936f051b213f378dd0": {
+   "id": "b9fb925497d139936f051b213f378dd0",
+   "company": "Informa PLC",
+   "role": "Content Internship",
+   "location": "Amsterdam"
+  },
+  "c3c109581ae258593679231f06947119": {
+   "id": "c3c109581ae258593679231f06947119",
+   "company": "Armada Music",
+   "role": "Marketing Internship",
+   "location": "Amsterdam"
+  },
   "1be28464b4f3e7feaaecb30b5a0ce188": {
    "id": "1be28464b4f3e7feaaecb30b5a0ce188",
    "company": "leHACK",
@@ -48,6 +222,12 @@
    "id": "f3617f648611625b1e40c2bdd22e140b",
    "company": "leHACK",
    "role": "Intern – Hbo – Supplier Development & Performance Management",
+   "location": "Amsterdam"
+  },
+  "5a14e294e4934dcfd367e1c2f53896bd": {
+   "id": "5a14e294e4934dcfd367e1c2f53896bd",
+   "company": "Armada Music",
+   "role": "Social Media & Community Management Internship",
    "location": "Amsterdam"
   },
   "6fba02eebd41c481b921e770175a5016": {
@@ -78,6 +258,12 @@
    "id": "25547674f1698f8a61a1ed2eb268ac70",
    "company": "PepsiCo Inc",
    "role": "First Gen: People & Culture Intern",
+   "location": "Amsterdam"
+  },
+  "6924ab11843473d0aee135ed976f08e9": {
+   "id": "6924ab11843473d0aee135ed976f08e9",
+   "company": "Protolabs",
+   "role": "Logistics Intern",
    "location": "Amsterdam"
   },
   "1f13862cb5dc56bfca0d4919913b0c5c": {
@@ -140,6 +326,12 @@
    "role": "Intern Learning & Development",
    "location": "Stichd HQ"
   },
+  "8a338ba765eaddff6749ce2e336208fd": {
+   "id": "8a338ba765eaddff6749ce2e336208fd",
+   "company": "Mars Inc",
+   "role": "Thesis Internship Driving Process Excellence Through Ai",
+   "location": "S Hertogenbosch"
+  },
   "e89592a7371b0963ff6b60b4348bed5d": {
    "id": "e89592a7371b0963ff6b60b4348bed5d",
    "company": "Richemont Australia Pty Ltd",
@@ -163,18 +355,6 @@
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Internship Legal",
    "location": "Alphen Aan Den Rijn"
-  },
-  "5a4e0ae16602d61b08cffc367ee2b82f": {
-   "id": "5a4e0ae16602d61b08cffc367ee2b82f",
-   "company": "Informa PLC",
-   "role": "Content Internship",
-   "location": "Amsterdam"
-  },
-  "7f8446abc2c8e7c72e4c0e0d67a3a150": {
-   "id": "7f8446abc2c8e7c72e4c0e0d67a3a150",
-   "company": "Informa PLC",
-   "role": "Digital Marketing Internship",
-   "location": "Amsterdam"
   },
   "a6c3697b3abd2cd312fda3f43fb6a8cc": {
    "id": "a6c3697b3abd2cd312fda3f43fb6a8cc",
@@ -313,186 +493,6 @@
    "company": "Parfumado",
    "role": "Brand Management Intern - Start Asap",
    "location": "Amsterdam"
-  },
-  "88209a3022cb8a40b478c5b74e2d208f": {
-   "id": "88209a3022cb8a40b478c5b74e2d208f",
-   "company": "The Business Development School",
-   "role": "Business Developer Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "16d09c57f5ceec7c90ef0366710ef3a7": {
-   "id": "16d09c57f5ceec7c90ef0366710ef3a7",
-   "company": "The Business Development School",
-   "role": "Social Media Manager Internship",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "977e86bf4d83baa6601193500930b559": {
-   "id": "977e86bf4d83baa6601193500930b559",
-   "company": "JYSK",
-   "role": "Ict Meewerkstage Mbo",
-   "location": "Arnhem"
-  },
-  "7948dc62b4bc9546d343de0ccff8d5cd": {
-   "id": "7948dc62b4bc9546d343de0ccff8d5cd",
-   "company": "Koninklijk Nederlands Lucht",
-   "role": "Internship: Reliability-informed Latent Dynamical Models For Aircraft Propulsion Health Monitoring",
-   "location": "Amsterdam"
-  },
-  "3100101d3cdf1b7ddfd9b62dde96db74": {
-   "id": "3100101d3cdf1b7ddfd9b62dde96db74",
-   "company": "Koninklijk Nederlands Lucht",
-   "role": "Internship: Explainable Ai For The Qualification Of Aerospace Algorithms",
-   "location": "Amsterdam"
-  },
-  "6868905d8b349e71bf2e0440af88e086": {
-   "id": "6868905d8b349e71bf2e0440af88e086",
-   "company": "Koninklijk Nederlands Lucht",
-   "role": "Internship: Designing A Flexible Robotics Research Platform",
-   "location": "Amsterdam"
-  },
-  "5171a333cacc75f60b2d48cb9eb9f0b3": {
-   "id": "5171a333cacc75f60b2d48cb9eb9f0b3",
-   "company": "Koninklijk Nederlands Lucht",
-   "role": "Internship: Dynamic Aircraft Maintenance Scheduling And Spare Part Management: From Mathematical Formulation To Real-world Benchmarks",
-   "location": "Amsterdam"
-  },
-  "663deefb32a1e18b5fbd2d9c4f0f495a": {
-   "id": "663deefb32a1e18b5fbd2d9c4f0f495a",
-   "company": "Lama Lama",
-   "role": "Stagiair Online Marketing &amp; Growth",
-   "location": "Amsterdam"
-  },
-  "884b07257f40a2554000ce27191fcce0": {
-   "id": "884b07257f40a2554000ce27191fcce0",
-   "company": "Bosveld Gerechtsdeurwaarders & Incassos",
-   "role": "Stagiair(e) Bij Bosveld Incasso En Gerechtsdeurwaardersfulltime / Parttimeamersfoort",
-   "location": "Amersfoort"
-  },
-  "436a5aab0bdb418a1496c6a22bf98a79": {
-   "id": "436a5aab0bdb418a1496c6a22bf98a79",
-   "company": "Capital C",
-   "role": "Stage Finance &amp; Controlinternshipcapital C - Diamantbeurs",
-   "location": "Amsterdam"
-  },
-  "6c9ace5f6b8f0959e6362f7f60814b26": {
-   "id": "6c9ace5f6b8f0959e6362f7f60814b26",
-   "company": "A'DAM Toren",
-   "role": "Marketing &amp; Communicatie Stagiair - Loft &amp; Shelter Feb 2027stageamsterdam",
-   "location": "Amsterdam"
-  },
-  "2bd3e8d1874341a6744ca528c1d7b163": {
-   "id": "2bd3e8d1874341a6744ca528c1d7b163",
-   "company": "Dentsu Creative",
-   "role": "Ai Designer Intern - Ai Studiofull-timeamsterdam",
-   "location": "Amsterdam"
-  },
-  "aa9c44d122d653c370b89f899aae7168": {
-   "id": "aa9c44d122d653c370b89f899aae7168",
-   "company": "European Space Agency",
-   "role": "Intern In The Industrial Policy And Auditing Department - Sme Section",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "07af875d99eec79ca00d349cf4344837": {
-   "id": "07af875d99eec79ca00d349cf4344837",
-   "company": "European Space Agency",
-   "role": "Intern In The Digital, Data And Information Technology Department - Data And Apps Factory",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "af16d597e9224f6142e8d6edd3397e22": {
-   "id": "af16d597e9224f6142e8d6edd3397e22",
-   "company": "European Space Agency",
-   "role": "Intern In The Galileo And Egnos Programme Department - Resilient Navigation Systems",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "7c4ec80fc4a463deb08393fa08725000": {
-   "id": "7c4ec80fc4a463deb08393fa08725000",
-   "company": "European Space Agency",
-   "role": "Intern In The Esa Security Office - Cyber Internal Audit Section",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1c59cfb5ab2db0ce9da686a8365ae395": {
-   "id": "1c59cfb5ab2db0ce9da686a8365ae395",
-   "company": "European Space Agency",
-   "role": "Intern In The Contracts Department - Earth Observation Contracts Service",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "16487022475fb5e0c7f7a6d7fea358b4": {
-   "id": "16487022475fb5e0c7f7a6d7fea358b4",
-   "company": "European Space Agency",
-   "role": "Intern In The Legal Services Department - New Initiatives And Commercialisation Division",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "fa9e9a477eeda46973584fcf856c92f9": {
-   "id": "fa9e9a477eeda46973584fcf856c92f9",
-   "company": "European Space Agency",
-   "role": "Intern In The Future Missions Department - Market Intelligence And Data Infrastructure",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1073fc3e2d6f426757f1d2af1118f5c7": {
-   "id": "1073fc3e2d6f426757f1d2af1118f5c7",
-   "company": "European Space Agency",
-   "role": "Intern In The Communication Department - Internal Communication Products And Channels Office",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "ff9f106f06d5da549b35208e9662b3fb": {
-   "id": "ff9f106f06d5da549b35208e9662b3fb",
-   "company": "European Space Agency",
-   "role": "Intern In The Technology Department - Accelerate And Innovation Technology Team",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "32940e5711d5718b046d624568cfd179": {
-   "id": "32940e5711d5718b046d624568cfd179",
-   "company": "European Space Agency",
-   "role": "Intern In The Commercialisation Acceleration Dept. - Entrepreneurship & Business Incubation Office",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "e4668a7d0cf0d5d5804dbd7857ebab81": {
-   "id": "e4668a7d0cf0d5d5804dbd7857ebab81",
-   "company": "European Space Agency",
-   "role": "Intern In The Audit And Evaluation Department - Evaluation Office",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "9808890eb37a5de04406baf55035bb7c": {
-   "id": "9808890eb37a5de04406baf55035bb7c",
-   "company": "European Space Agency",
-   "role": "Intern In The Galileo And Egnos Programme Department - Hybrid And Resilient Pnt Systems Evolution",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "063c65cb75106720adaabf93867a814b": {
-   "id": "063c65cb75106720adaabf93867a814b",
-   "company": "European Space Agency",
-   "role": "Intern In The Climate Action, Sustainability And Science Department - Harmony Mission",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "17ae997e6700b9f48dbf194bb4ed80ac": {
-   "id": "17ae997e6700b9f48dbf194bb4ed80ac",
-   "company": "European Space Agency",
-   "role": "Intern In The Quality Department - Human Spaceflight Safety",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "22d9cad1ed506487134158c610ba6083": {
-   "id": "22d9cad1ed506487134158c610ba6083",
-   "company": "European Space Agency",
-   "role": "Intern In The Galileo And Egnos Programme Department - Digital Transformation",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "3a59a0e75c9f1686550691f2908465f1": {
-   "id": "3a59a0e75c9f1686550691f2908465f1",
-   "company": "European Space Agency",
-   "role": "Intern In The Space Safety Programme - Mission Implementation Division (clear Space 1)",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "578001bdf00b712d64d81e39546365c9": {
-   "id": "578001bdf00b712d64d81e39546365c9",
-   "company": "European Space Agency",
-   "role": "Intern In The Earth Observation Projects Department - Event-aware On-board Processing For Chime",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "986024a1a2595e6104aabede8671e499": {
-   "id": "986024a1a2595e6104aabede8671e499",
-   "company": "European Space Agency",
-   "role": "Intern In The Industrial Policy And Auditing Department - Buc And Pmso Office Corporate Directorates",
-   "location": "Alphen Aan Den Rijn"
   },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
@@ -698,6 +698,12 @@
    "role": "Junior Data Scientist",
    "location": "Amsterdam"
   },
+  "388a475fc4fa9e72e23343343fae0430": {
+   "id": "388a475fc4fa9e72e23343343fae0430",
+   "company": "ING",
+   "role": "Internship Financial Institutions Advisory Team",
+   "location": "Amsterdam"
+  },
   "9a1195c87e35cecb96b9140b4a91b15e": {
    "id": "9a1195c87e35cecb96b9140b4a91b15e",
    "company": "Citi",
@@ -757,6 +763,12 @@
    "company": "CGI",
    "role": "Business Consulting Traineeship",
    "location": "Randstad"
+  },
+  "d7c764f642f48e405b9d1cd3299bf03c": {
+   "id": "d7c764f642f48e405b9d1cd3299bf03c",
+   "company": "Kyndryl",
+   "role": "Azure Consultancy Team",
+   "location": "Amsterdam"
   },
   "50f2d5e297484dc21953943020611c9d": {
    "id": "50f2d5e297484dc21953943020611c9d",
@@ -878,12 +890,6 @@
    "role": "Product Analyst",
    "location": "Netherlands"
   },
-  "d7c764f642f48e405b9d1cd3299bf03c": {
-   "id": "d7c764f642f48e405b9d1cd3299bf03c",
-   "company": "Kyndryl",
-   "role": "Azure Consultancy Team",
-   "location": "Amsterdam"
-  },
   "de144205b42cd7977425507dcd1a5f42": {
    "id": "de144205b42cd7977425507dcd1a5f42",
    "company": "Jobgether",
@@ -956,11 +962,29 @@
    "role": "Projects & Optimisation Analyst (dutch Speaker)",
    "location": "Amsterdam"
   },
+  "39ad9f7c9d79fa3f9d687a04103303ea": {
+   "id": "39ad9f7c9d79fa3f9d687a04103303ea",
+   "company": "Heineken International BV",
+   "role": "Tapservice Monteur",
+   "location": "Amsterdam"
+  },
   "9d2aa7057e3ea323a41d7dfa1b12867e": {
    "id": "9d2aa7057e3ea323a41d7dfa1b12867e",
    "company": "100",
    "role": "E&i Maintenance Technician",
    "location": "Pernis"
+  },
+  "d6699b9567553a4e6b7a64e435ae9e7d": {
+   "id": "d6699b9567553a4e6b7a64e435ae9e7d",
+   "company": "Getinge",
+   "role": "Field Service Engineer Medische Apparatuur (acute Care / Intensive Care)",
+   "location": "Netherlands"
+  },
+  "17b483fa92d03ddd299c31e2a4d0da7f": {
+   "id": "17b483fa92d03ddd299c31e2a4d0da7f",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Reparatie & Servicemedewerker Elektronica Amsterdam Centrum",
+   "location": "Amsterdam"
   },
   "21e0bc8c3e2c0729cc77e6bd1f70b15a": {
    "id": "21e0bc8c3e2c0729cc77e6bd1f70b15a",
@@ -1418,24 +1442,6 @@
    "role": "Onderhoudsmonteur",
    "location": "Utrecht"
   },
-  "4a1b093d77aa57ae94ffbf8d0b80f74f": {
-   "id": "4a1b093d77aa57ae94ffbf8d0b80f74f",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Mechatronica Monteur",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "8ff302424fc30328a6336d18c4d487c2": {
-   "id": "8ff302424fc30328a6336d18c4d487c2",
-   "company": "Yara International ASA",
-   "role": "Hoofdmonteur",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "dece2cbbc71cd25d5812d767092dccec": {
-   "id": "dece2cbbc71cd25d5812d767092dccec",
-   "company": "Yunex Traffic",
-   "role": "Service Engineer",
-   "location": "Alphen Aan Den Rijn"
-  },
   "8a80b78c9d32485266507f0520b118e9": {
    "id": "8a80b78c9d32485266507f0520b118e9",
    "company": "Ralph Lauren",
@@ -1452,6 +1458,12 @@
    "id": "b5e8c8c9b756515a3af86629dcee39dc",
    "company": "H&M",
    "role": "Verkoopmedewerker - Den Haag (16/21 Uur)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "d5c44425bcabe405350d661a3390b62f": {
+   "id": "d5c44425bcabe405350d661a3390b62f",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Verkoopmedewerker Laptops & Computers Den Haag",
    "location": "Alphen Aan Den Rijn"
   },
   "e3a01b0266c5e2d72025d0e336405a0a": {
@@ -1903,12 +1915,6 @@
    "company": "Reiss",
    "role": "Verkoopmedewerker / Sales Associate (m/f) / 32 Uren / Rotterdam",
    "location": "Alphen Aan Den Rijn"
-  },
-  "f1982efa2d3bd6ce96c97e5f0a252de9": {
-   "id": "f1982efa2d3bd6ce96c97e5f0a252de9",
-   "company": "SIXT",
-   "role": "Rental Sales Agent (m/v/d) - Amsterdam Rai",
-   "location": "Amsterdam"
   },
   "dc0fd686c8296bec9df449aa842275c0": {
    "id": "dc0fd686c8296bec9df449aa842275c0",
