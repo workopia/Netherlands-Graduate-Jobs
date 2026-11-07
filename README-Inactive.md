@@ -2346,4 +2346,29 @@
 <tr><td>Yara International ASA</td><td>Hoofdmonteur</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
 <tr><td>Yunex Traffic</td><td>Service Engineer</td><td>Alphen Aan Den Rijn</td><td>2026-11-06</td></tr>
 <tr><td>SIXT</td><td>Rental Sales Agent (m/v/d) - Amsterdam Rai</td><td>Amsterdam</td><td>2026-11-06</td></tr>
+<tr><td>Accenture Australia</td><td>Health Technology Internship</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>Accenture</td><td>­­data & Ai – Data Science/ml Engineering Graduation Internship</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>Mars</td><td>Internship Supply Planning Performance & Value Realization</td><td>S Hertogenbosch</td><td>2026-11-07</td></tr>
+<tr><td>Idexx</td><td>Financial Planning And Analysis Intern</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>TUI Musement</td><td>Operations & Delivery Intern - Intercruises</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>Prysmian Group</td><td>Supply Chain Intern-3</td><td>Alphen Aan Den Rijn</td><td>2026-11-07</td></tr>
+<tr><td>Nestle SA</td><td>Stagiair(e) Marketing Nescafé</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>Chanel</td><td>Internship – Sales & Operations Support – December 2026 – Amsterdam – M/f/d</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>E-commerce Operations Intern - Richemont</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>Fortive Corporation</td><td>Service Intern</td><td>Eindhoven</td><td>2026-11-07</td></tr>
+<tr><td>Fortive Corporation</td><td>Finance Intern</td><td>Eindhoven</td><td>2026-11-07</td></tr>
+<tr><td>Golden Palms Rehabilitation and Retirement</td><td>Stagiair(e) Groepen & Scholen</td><td>Slagharen</td><td>2026-11-07</td></tr>
+<tr><td>Bugaboo</td><td>Open Application (internship)</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>pladis Global</td><td>R&d Packaging Intern</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>Parfumado</td><td>Brand Management Intern - Start Asap</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>Dentsu Aegis Network</td><td>Data Scientist</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>Dentsu Aegis Network</td><td>Junior Data Scientist</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>JPMorgan Chase</td><td>Investment Banking – Benelux M&a And Corporate Finance – Analyst – Amsterdam</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>ForFarmers</td><td>Business Analyst</td><td>Netherlands</td><td>2026-11-07</td></tr>
+<tr><td>Euronext Technologies SaS</td><td>Projects & Optimisation Analyst (dutch Speaker)</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>Bilfinger</td><td>Servicetechnicus (technicus E&i A)</td><td>Alphen Aan Den Rijn</td><td>2026-11-07</td></tr>
+<tr><td>Bostik</td><td>Maintenance Technician Giessen</td><td>Giessen</td><td>2026-11-07</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Onderhoudsmonteur</td><td>Utrecht</td><td>2026-11-07</td></tr>
+<tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>Sixt</td><td>Parttime Rental Sales Agent (m/v/d) - Amsterdam Centraal Station</td><td>Amsterdam</td><td>2026-11-07</td></tr>
 </table>
