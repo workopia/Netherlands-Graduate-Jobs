@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-07",
- "count": 346,
+ "asOf": "2026-11-08",
+ "count": 344,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -13,6 +13,60 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "300855619a2a3f17d0fdaf6734315d67": {
+   "id": "300855619a2a3f17d0fdaf6734315d67",
+   "company": "Signify",
+   "role": "Group Accounting And Reporting Internship",
+   "location": "Amsterdam"
+  },
+  "80b33710fbc3037e0e27b964ba98a8d4": {
+   "id": "80b33710fbc3037e0e27b964ba98a8d4",
+   "company": "Nestle SA",
+   "role": "Nespresso Finance Internship",
+   "location": "Amsterdam"
+  },
+  "b709b86cce36603397af1c0c0f9ba77d": {
+   "id": "b709b86cce36603397af1c0c0f9ba77d",
+   "company": "Nestle SA",
+   "role": "Nespresso Commercial Excellence B2b Meewerkstage",
+   "location": "Amstelveen"
+  },
+  "d0bdb4f83a9532cb1038154f79b182ef": {
+   "id": "d0bdb4f83a9532cb1038154f79b182ef",
+   "company": "Nestle Ltd",
+   "role": "Nespresso Product Marketing &amp; Brand Activation Meewerkstage",
+   "location": "Netherlands"
+  },
+  "9197479cd23446717d43023c107bed29": {
+   "id": "9197479cd23446717d43023c107bed29",
+   "company": "Nestle Ltd",
+   "role": "Nespresso Commercial Excellence B2b Meewerkstage",
+   "location": "Netherlands"
+  },
+  "efa394427532f954fe9e785f7b780a82": {
+   "id": "efa394427532f954fe9e785f7b780a82",
+   "company": "Nestle Ltd",
+   "role": "Nespresso Finance Internship",
+   "location": "Netherlands"
+  },
+  "f41dbca9236cddaa66b1c1b8cd90401c": {
+   "id": "f41dbca9236cddaa66b1c1b8cd90401c",
+   "company": "Nestle Ltd",
+   "role": "Nespresso Brand Marketing Pr &amp; Communication Meewerkstage",
+   "location": "Netherlands"
+  },
+  "33cbbf9ac08044693731496cf389f7ef": {
+   "id": "33cbbf9ac08044693731496cf389f7ef",
+   "company": "Stichd",
+   "role": "Creative Design Intern",
+   "location": "Stichd HQ"
+  },
+  "e6f14562e3ed3d8773eeda4a064a8e91": {
+   "id": "e6f14562e3ed3d8773eeda4a064a8e91",
+   "company": "UL Solutions",
+   "role": "Tax Intern – Emea Region",
+   "location": "Arnhem"
   },
   "0b6721d06cf56c0c3aceb7076aacf849": {
    "id": "0b6721d06cf56c0c3aceb7076aacf849",
@@ -440,60 +494,6 @@
    "role": "Partnerships Internship",
    "location": "Amsterdam"
   },
-  "955fd76947c645f389d080dffbb8cc01": {
-   "id": "955fd76947c645f389d080dffbb8cc01",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Internship Legal",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "a6c3697b3abd2cd312fda3f43fb6a8cc": {
-   "id": "a6c3697b3abd2cd312fda3f43fb6a8cc",
-   "company": "Informa PLC",
-   "role": "Event Executive Internship",
-   "location": "Amsterdam"
-  },
-  "b5caf9e8f1eac0af63b287c514d3b117": {
-   "id": "b5caf9e8f1eac0af63b287c514d3b117",
-   "company": "Informa PLC",
-   "role": "Marketing Internship",
-   "location": "Amsterdam"
-  },
-  "7ec35311c58ab4ce15811647816a2117": {
-   "id": "7ec35311c58ab4ce15811647816a2117",
-   "company": "Informa PLC",
-   "role": "Business Development Analyst Internship",
-   "location": "Amsterdam"
-  },
-  "5e86d552171bcfcf68eae61b73026778": {
-   "id": "5e86d552171bcfcf68eae61b73026778",
-   "company": "Hyatt Hotels Corporation",
-   "role": "Purchasing Intern",
-   "location": "Amsterdam"
-  },
-  "0d04861b63b918f78d1c2b158a0e8188": {
-   "id": "0d04861b63b918f78d1c2b158a0e8188",
-   "company": "Heineken International BV",
-   "role": "Internship - Marketing Strategie &amp; Innovatie",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "75b4e291ded41ef9f3b61768e6cd62b4": {
-   "id": "75b4e291ded41ef9f3b61768e6cd62b4",
-   "company": "Heineken International BV",
-   "role": "Internship - Field Sales En Shopper Executie",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "551a91dd8c512d6c2feeca97e2f12eca": {
-   "id": "551a91dd8c512d6c2feeca97e2f12eca",
-   "company": "Heineken International BV",
-   "role": "Internship - Optimalisatie Directiebeoordeling",
-   "location": "Amsterdam"
-  },
-  "f5075473359168b4d2507f39bfe89da0": {
-   "id": "f5075473359168b4d2507f39bfe89da0",
-   "company": "Heineken International BV",
-   "role": "Internship - Global Procurement Compliance",
-   "location": "Netherlands"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -566,12 +566,6 @@
    "role": "Trading Tools Software Engineer",
    "location": "Amsterdam"
   },
-  "f866c8d7b8e408d0c4a2db54e5add12a": {
-   "id": "f866c8d7b8e408d0c4a2db54e5add12a",
-   "company": "Kyndryl",
-   "role": "It Platform Engineer/application Programmer",
-   "location": "Amsterdam"
-  },
   "8d5d7844917911ddcdd14d9919d2198b": {
    "id": "8d5d7844917911ddcdd14d9919d2198b",
    "company": "Monks",
@@ -589,6 +583,18 @@
    "company": "Oliver Wyman",
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
    "location": "Amsterdam"
+  },
+  "f8d761abf3182b27bba8851ffa24dbaa": {
+   "id": "f8d761abf3182b27bba8851ffa24dbaa",
+   "company": "Nestle SA",
+   "role": "Nespresso Data Insights Meewerkstage",
+   "location": "Amstelveen"
+  },
+  "89a4cabd1c51432270a5cc92f00d3574": {
+   "id": "89a4cabd1c51432270a5cc92f00d3574",
+   "company": "Nestle Ltd",
+   "role": "Nespresso Data Insights Meewerkstage",
+   "location": "Netherlands"
   },
   "2eee9a3d6c7da229a45bb4fa8c5890f5": {
    "id": "2eee9a3d6c7da229a45bb4fa8c5890f5",
@@ -758,6 +764,18 @@
    "role": "Business Consulting Traineeship",
    "location": "Randstad"
   },
+  "50dc5f4e243186393aab4c3324769b1c": {
+   "id": "50dc5f4e243186393aab4c3324769b1c",
+   "company": "Royal Bank of Canada",
+   "role": "Analyst, Benelux",
+   "location": "Amsterdam"
+  },
+  "ead15fd88ceb4a72bd88d2fd64f9ff03": {
+   "id": "ead15fd88ceb4a72bd88d2fd64f9ff03",
+   "company": "Jobgether",
+   "role": "Business Analyst - Health Insurance",
+   "location": "Netherlands"
+  },
   "d7c764f642f48e405b9d1cd3299bf03c": {
    "id": "d7c764f642f48e405b9d1cd3299bf03c",
    "company": "Kyndryl",
@@ -902,42 +920,6 @@
    "role": "Analyst Regulatory Reporting",
    "location": "Amsterdam"
   },
-  "2787fac7b8eb4bdb2d326bcad659aad6": {
-   "id": "2787fac7b8eb4bdb2d326bcad659aad6",
-   "company": "ING",
-   "role": "Customer Journey Expert – Business Insurance",
-   "location": "Acanthus"
-  },
-  "e9cc17aed8164a6d05b1bde17d9835ba": {
-   "id": "e9cc17aed8164a6d05b1bde17d9835ba",
-   "company": "224",
-   "role": "Customer Journey Expert – Business Insurance",
-   "location": "Acanthus"
-  },
-  "ad875d42da15c437bcda2ae186a55943": {
-   "id": "ad875d42da15c437bcda2ae186a55943",
-   "company": "Deutsche Bank",
-   "role": "Investment Banking Analyst (f/m/x)",
-   "location": "Amsterdam"
-  },
-  "3fca0e18c014c195d3bc4f94eb774a5b": {
-   "id": "3fca0e18c014c195d3bc4f94eb774a5b",
-   "company": "Dnsdblookup",
-   "role": "Investment Banking Analyst (f/m/x)",
-   "location": "Amsterdam"
-  },
-  "636a0a3a114d045d1cd9de64c130cbf6": {
-   "id": "636a0a3a114d045d1cd9de64c130cbf6",
-   "company": "DB Cargo France",
-   "role": "Investment Banking Analyst (f/m/x)",
-   "location": "Amsterdam"
-  },
-  "d2e8f2c23ae44691cca98b402617891a": {
-   "id": "d2e8f2c23ae44691cca98b402617891a",
-   "company": "Flowserve Corp",
-   "role": "Business Analyst",
-   "location": "Etten"
-  },
   "bac628c84b95e24c6f3fb7a1d500bac0": {
    "id": "bac628c84b95e24c6f3fb7a1d500bac0",
    "company": "essity.de",
@@ -949,6 +931,12 @@
    "company": "Flowserve Corp",
    "role": "Repair Technician-2",
    "location": "Etten"
+  },
+  "cae4c2f09d66616adec940354c16ae45": {
+   "id": "cae4c2f09d66616adec940354c16ae45",
+   "company": "Wehkamp",
+   "role": "Technician",
+   "location": "Zwolle +1"
   },
   "22248dcef4e1e04094d4f9cc78fb7e5a": {
    "id": "22248dcef4e1e04094d4f9cc78fb7e5a",
@@ -1412,16 +1400,22 @@
    "role": "Repair Technician",
    "location": "Etten"
   },
-  "2c10a9b4a81713a8ff8a5be7fb8cb9ec": {
-   "id": "2c10a9b4a81713a8ff8a5be7fb8cb9ec",
-   "company": "Bilfinger",
-   "role": "Werkvoorbereider Elektrotechniek",
-   "location": "Alphen Aan Den Rijn"
+  "195866c7ccf3516e8d81cb0f165c640b": {
+   "id": "195866c7ccf3516e8d81cb0f165c640b",
+   "company": "Vuori",
+   "role": "Retail Sales Associate, Part Time (amsterdam)",
+   "location": "Amsterdam"
   },
   "f4cbd4d9b32dacabebe2f819648c356c": {
    "id": "f4cbd4d9b32dacabebe2f819648c356c",
    "company": "Sixt",
    "role": "Parttime Rental Sales Agent (m/v/d) - Amsterdam Centraal Station",
+   "location": "Amsterdam"
+  },
+  "977eb3e9c04b2e63290da0cac7340167": {
+   "id": "977eb3e9c04b2e63290da0cac7340167",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Purmerend (21/26 Uur)",
    "location": "Amsterdam"
   },
   "80a001ba43d33f945c6b18b54688d5af": {
@@ -1574,16 +1568,16 @@
    "role": "Delft Verkoopmedewerker Retail Delft 2611 Dc",
    "location": "Alphen Aan Den Rijn"
   },
-  "4409c9bd746e8d6e1c287117e9f630a6": {
-   "id": "4409c9bd746e8d6e1c287117e9f630a6",
-   "company": "Beter Horen/Amplifon",
-   "role": "Verkoopadviseur Bij Beter Horen Delft",
-   "location": "Alphen Aan Den Rijn"
-  },
   "f5470127a1987a2bc0e16c40c9c45697": {
    "id": "f5470127a1987a2bc0e16c40c9c45697",
    "company": "Amplifon",
    "role": "Verkoopadviseur Oegstgeest",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "4409c9bd746e8d6e1c287117e9f630a6": {
+   "id": "4409c9bd746e8d6e1c287117e9f630a6",
+   "company": "Beter Horen/Amplifon",
+   "role": "Verkoopadviseur Bij Beter Horen Delft",
    "location": "Alphen Aan Den Rijn"
   },
   "bec96a889c16b7643f78eb93a17cccce": {
@@ -1802,12 +1796,6 @@
    "role": "Sales Associate",
    "location": "Alphen Aan Den Rijn"
   },
-  "9fb0b62d797a7707518e8a13f6f887ce": {
-   "id": "9fb0b62d797a7707518e8a13f6f887ce",
-   "company": "Vuori",
-   "role": "Retail Sales Associate, Part Time (amsterdam)",
-   "location": "Amsterdam"
-  },
   "a3f9297af718873ea6e5cd513a9c2b62": {
    "id": "a3f9297af718873ea6e5cd513a9c2b62",
    "company": "Vuori",
@@ -1886,11 +1874,11 @@
    "role": "Verkoopmedewerker / Sales Associate (m/f) / 16 Uren / Rotterdam",
    "location": "Alphen Aan Den Rijn"
   },
-  "ad5d357470d8d5687a68fa524792490a": {
-   "id": "ad5d357470d8d5687a68fa524792490a",
-   "company": "Reiss",
-   "role": "Verkoopmedewerker / Sales Associate (m/f) / 32 Uren / Rotterdam",
-   "location": "Alphen Aan Den Rijn"
+  "ed21d3cd14fc3e66318152bfb95f39e9": {
+   "id": "ed21d3cd14fc3e66318152bfb95f39e9",
+   "company": "Stichting Westelijke Tuinsteden",
+   "role": "Administratief Medewerker (0,8-1,0 Wtf)fulltime / Parttimeosdorpse Montessorischool",
+   "location": "Amsterdam"
   },
   "146afec623820e676ff3fa1438a48512": {
    "id": "146afec623820e676ff3fa1438a48512",

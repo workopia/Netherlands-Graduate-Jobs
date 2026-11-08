@@ -2371,4 +2371,23 @@
 <tr><td>ALSTOM TRANSPORT SA</td><td>Onderhoudsmonteur</td><td>Utrecht</td><td>2026-11-07</td></tr>
 <tr><td>JYSK</td><td>Verkoopmedewerker Met Ambitie</td><td>Amsterdam</td><td>2026-11-07</td></tr>
 <tr><td>Sixt</td><td>Parttime Rental Sales Agent (m/v/d) - Amsterdam Centraal Station</td><td>Amsterdam</td><td>2026-11-07</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Internship Legal</td><td>Alphen Aan Den Rijn</td><td>2026-11-08</td></tr>
+<tr><td>Informa PLC</td><td>Event Executive Internship</td><td>Amsterdam</td><td>2026-11-08</td></tr>
+<tr><td>Informa PLC</td><td>Marketing Internship</td><td>Amsterdam</td><td>2026-11-08</td></tr>
+<tr><td>Informa PLC</td><td>Business Development Analyst Internship</td><td>Amsterdam</td><td>2026-11-08</td></tr>
+<tr><td>Hyatt Hotels Corporation</td><td>Purchasing Intern</td><td>Amsterdam</td><td>2026-11-08</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Marketing Strategie &amp; Innovatie</td><td>Alphen Aan Den Rijn</td><td>2026-11-08</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Field Sales En Shopper Executie</td><td>Alphen Aan Den Rijn</td><td>2026-11-08</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Optimalisatie Directiebeoordeling</td><td>Amsterdam</td><td>2026-11-08</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Procurement Compliance</td><td>Netherlands</td><td>2026-11-08</td></tr>
+<tr><td>Kyndryl</td><td>It Platform Engineer/application Programmer</td><td>Amsterdam</td><td>2026-11-08</td></tr>
+<tr><td>ING</td><td>Customer Journey Expert – Business Insurance</td><td>Acanthus</td><td>2026-11-08</td></tr>
+<tr><td>224</td><td>Customer Journey Expert – Business Insurance</td><td>Acanthus</td><td>2026-11-08</td></tr>
+<tr><td>Deutsche Bank</td><td>Investment Banking Analyst (f/m/x)</td><td>Amsterdam</td><td>2026-11-08</td></tr>
+<tr><td>Dnsdblookup</td><td>Investment Banking Analyst (f/m/x)</td><td>Amsterdam</td><td>2026-11-08</td></tr>
+<tr><td>DB Cargo France</td><td>Investment Banking Analyst (f/m/x)</td><td>Amsterdam</td><td>2026-11-08</td></tr>
+<tr><td>Flowserve Corp</td><td>Business Analyst</td><td>Etten</td><td>2026-11-08</td></tr>
+<tr><td>Bilfinger</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-11-08</td></tr>
+<tr><td>Vuori</td><td>Retail Sales Associate, Part Time (amsterdam)</td><td>Amsterdam</td><td>2026-11-08</td></tr>
+<tr><td>Reiss</td><td>Verkoopmedewerker / Sales Associate (m/f) / 32 Uren / Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-11-08</td></tr>
 </table>
