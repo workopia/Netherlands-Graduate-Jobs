@@ -2390,4 +2390,7 @@
 <tr><td>Bilfinger</td><td>Werkvoorbereider Elektrotechniek</td><td>Alphen Aan Den Rijn</td><td>2026-11-08</td></tr>
 <tr><td>Vuori</td><td>Retail Sales Associate, Part Time (amsterdam)</td><td>Amsterdam</td><td>2026-11-08</td></tr>
 <tr><td>Reiss</td><td>Verkoopmedewerker / Sales Associate (m/f) / 32 Uren / Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-11-08</td></tr>
+<tr><td>INGRAM MICRO</td><td>Sales Specialist Hpe Networking</td><td>Utrecht</td><td>2026-11-09</td></tr>
+<tr><td>why LLP</td><td>Administrative Assistant</td><td>Amsterdam</td><td>2026-11-09</td></tr>
+<tr><td>Linklaters LLP</td><td>Administrative Assistant</td><td>Amsterdam</td><td>2026-11-09</td></tr>
 </table>
