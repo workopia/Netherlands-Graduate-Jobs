@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-09",
- "count": 341,
+ "asOf": "2026-11-10",
+ "count": 339,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -12,6 +12,36 @@
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "561ea3c7b320526ae7661058634f92e6": {
+   "id": "561ea3c7b320526ae7661058634f92e6",
+   "company": "Sanofi",
+   "role": "Local Marketing Intern",
+   "location": "Amsterdam"
+  },
+  "2f760123b63971a435f5c564c5a60c70": {
+   "id": "2f760123b63971a435f5c564c5a60c70",
+   "company": "Philips UK",
+   "role": "Internship: Sustainability Requirements Management & Digital Transformation",
+   "location": "Eindhoven"
+  },
+  "5d674e7cc8f5f887536fc45e8503942b": {
+   "id": "5d674e7cc8f5f887536fc45e8503942b",
+   "company": "Investmentbankinginternships",
+   "role": "Internship - Supervisory Affairs & Public And Regulatory Affairs",
+   "location": "Cedar"
+  },
+  "eb93a43161f00d5bdcf69b896d0f0dde": {
+   "id": "eb93a43161f00d5bdcf69b896d0f0dde",
+   "company": "The Hoxton",
+   "role": "Finance Intern - The Hoxton, Amsterdam",
+   "location": "Amsterdam"
+  },
+  "6a6c818b1df704d3e6f67c4c3ded8ef0": {
+   "id": "6a6c818b1df704d3e6f67c4c3ded8ef0",
+   "company": "Schneider Electric",
+   "role": "Distribution & Ecommerce Intern",
    "location": "Amsterdam"
   },
   "300855619a2a3f17d0fdaf6734315d67": {
@@ -173,6 +203,12 @@
   "8af9fe395439fc42d5c05aaeb51d6ee8": {
    "id": "8af9fe395439fc42d5c05aaeb51d6ee8",
    "company": "Sofitel Sydney Wentworth",
+   "role": "Internship: People & Culture - The Hoxton, Lloyd",
+   "location": "Amsterdam"
+  },
+  "f763412ca6c636a3811a698984a4081e": {
+   "id": "f763412ca6c636a3811a698984a4081e",
+   "company": "Accor",
    "role": "Internship: People & Culture - The Hoxton, Lloyd",
    "location": "Amsterdam"
   },
@@ -458,52 +494,10 @@
    "role": "Internship – Finance (marketing And Sales Controlling)",
    "location": "Amsterdam"
   },
-  "b3806aff2d510167d114184023f2a748": {
-   "id": "b3806aff2d510167d114184023f2a748",
-   "company": "Accenture",
-   "role": "Technology Strategy And Transformation (ts&t) Thesis Internship",
-   "location": "Amsterdam"
-  },
-  "3854dc3e5d712bb6ee473326f228bccd": {
-   "id": "3854dc3e5d712bb6ee473326f228bccd",
-   "company": "Stichd",
-   "role": "Intern Learning & Development",
-   "location": "Stichd HQ"
-  },
-  "8a338ba765eaddff6749ce2e336208fd": {
-   "id": "8a338ba765eaddff6749ce2e336208fd",
-   "company": "Mars Inc",
-   "role": "Thesis Internship Driving Process Excellence Through Ai",
-   "location": "S Hertogenbosch"
-  },
-  "e89592a7371b0963ff6b60b4348bed5d": {
-   "id": "e89592a7371b0963ff6b60b4348bed5d",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Europe E-commerce Intern",
-   "location": "Amsterdam"
-  },
-  "38040a3ac63a9c7ab32aa4044fc942d5": {
-   "id": "38040a3ac63a9c7ab32aa4044fc942d5",
-   "company": "Richemont",
-   "role": "E-commerce Operations Intern - Richemont",
-   "location": "Amsterdam"
-  },
-  "5898df959abfc2eb91a8b99edfaa36de": {
-   "id": "5898df959abfc2eb91a8b99edfaa36de",
-   "company": "Informa PLC",
-   "role": "Partnerships Internship",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
    "role": "Junior Software Engineer I - Summer Internship 2027 (amsterdam)",
-   "location": "Amsterdam"
-  },
-  "2a9741c4771608fbb96b389c15fb6adc": {
-   "id": "2a9741c4771608fbb96b389c15fb6adc",
-   "company": "adidas AG",
-   "role": "Intern - Software Engineer",
    "location": "Amsterdam"
   },
   "4ddaf8138deeda90fa3902cd7efdef40": {
@@ -692,12 +686,6 @@
    "role": "Club Data Analyst",
    "location": "Amsterdam"
   },
-  "1f13b380cb58605f7d7897d5bdcd62ac": {
-   "id": "1f13b380cb58605f7d7897d5bdcd62ac",
-   "company": "Glanbia",
-   "role": "Online Data Analyst - Dutch (nl)",
-   "location": "Netherlands"
-  },
   "388a475fc4fa9e72e23343343fae0430": {
    "id": "388a475fc4fa9e72e23343343fae0430",
    "company": "ING",
@@ -763,6 +751,12 @@
    "company": "CGI",
    "role": "Business Consulting Traineeship",
    "location": "Randstad"
+  },
+  "1ec9bb5c3f3e27ae7e75c7d840181240": {
+   "id": "1ec9bb5c3f3e27ae7e75c7d840181240",
+   "company": "investmentbankinginternships.com",
+   "role": "Customer Journey Expert / Business Analyst – Pss Cash And Intraday Liquidity Management",
+   "location": "Cedar"
   },
   "50dc5f4e243186393aab4c3324769b1c": {
    "id": "50dc5f4e243186393aab4c3324769b1c",
@@ -919,6 +913,12 @@
    "company": "Commonwealth Bank of Australia (Europe) N.V.",
    "role": "Analyst Regulatory Reporting",
    "location": "Amsterdam"
+  },
+  "e7de55f1ea296cfda90f58ab567dff62": {
+   "id": "e7de55f1ea296cfda90f58ab567dff62",
+   "company": "Vanderlande UK",
+   "role": "Service Technician Security Lane Systems",
+   "location": "Schiphol +1"
   },
   "bac628c84b95e24c6f3fb7a1d500bac0": {
    "id": "bac628c84b95e24c6f3fb7a1d500bac0",
@@ -1393,12 +1393,6 @@
    "company": "KONE ELEVATORS PTY",
    "role": "Reparatie Monteur Roltrappen",
    "location": "Alphen Aan Den Rijn"
-  },
-  "539272e6b0a13bf34875b557b9b20060": {
-   "id": "539272e6b0a13bf34875b557b9b20060",
-   "company": "Flowserve Corporation",
-   "role": "Repair Technician",
-   "location": "Etten"
   },
   "195866c7ccf3516e8d81cb0f165c640b": {
    "id": "195866c7ccf3516e8d81cb0f165c640b",
@@ -2035,12 +2029,6 @@
    "company": "SciAps",
    "role": "Customer Service Coordinator",
    "location": "Eindhoven"
-  },
-  "e777c592020ec9c9bbe13d59b9d5d8b6": {
-   "id": "e777c592020ec9c9bbe13d59b9d5d8b6",
-   "company": "JD",
-   "role": "Admin Support (chinese Speaking)",
-   "location": "Limburg Province"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",

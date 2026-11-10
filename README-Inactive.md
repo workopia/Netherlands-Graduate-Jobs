@@ -2393,4 +2393,14 @@
 <tr><td>INGRAM MICRO</td><td>Sales Specialist Hpe Networking</td><td>Utrecht</td><td>2026-11-09</td></tr>
 <tr><td>why LLP</td><td>Administrative Assistant</td><td>Amsterdam</td><td>2026-11-09</td></tr>
 <tr><td>Linklaters LLP</td><td>Administrative Assistant</td><td>Amsterdam</td><td>2026-11-09</td></tr>
+<tr><td>Accenture</td><td>Technology Strategy And Transformation (ts&t) Thesis Internship</td><td>Amsterdam</td><td>2026-11-10</td></tr>
+<tr><td>Stichd</td><td>Intern Learning & Development</td><td>Stichd HQ</td><td>2026-11-10</td></tr>
+<tr><td>Mars Inc</td><td>Thesis Internship Driving Process Excellence Through Ai</td><td>S Hertogenbosch</td><td>2026-11-10</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Europe E-commerce Intern</td><td>Amsterdam</td><td>2026-11-10</td></tr>
+<tr><td>Richemont</td><td>E-commerce Operations Intern - Richemont</td><td>Amsterdam</td><td>2026-11-10</td></tr>
+<tr><td>Informa PLC</td><td>Partnerships Internship</td><td>Amsterdam</td><td>2026-11-10</td></tr>
+<tr><td>adidas AG</td><td>Intern - Software Engineer</td><td>Amsterdam</td><td>2026-11-10</td></tr>
+<tr><td>Glanbia</td><td>Online Data Analyst - Dutch (nl)</td><td>Netherlands</td><td>2026-11-10</td></tr>
+<tr><td>Flowserve Corporation</td><td>Repair Technician</td><td>Etten</td><td>2026-11-10</td></tr>
+<tr><td>JD</td><td>Admin Support (chinese Speaking)</td><td>Limburg Province</td><td>2026-11-10</td></tr>
 </table>
