@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-10",
+ "asOf": "2026-11-11",
  "count": 339,
  "jobs": {
   "2750069": {
@@ -12,6 +12,78 @@
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "2dcce33e04355c9b89e19da61e71b21c": {
+   "id": "2dcce33e04355c9b89e19da61e71b21c",
+   "company": "PPD (Thermo Fisher)",
+   "role": "Sr. Genai Intern",
+   "location": "Eindhoven"
+  },
+  "64d834cb67934067cd2b6a10a163a7f2": {
+   "id": "64d834cb67934067cd2b6a10a163a7f2",
+   "company": "Aquablu B.V",
+   "role": "People & Culture Intern",
+   "location": "Amsterdam"
+  },
+  "618a6482d082389df2d373f80fd1c49d": {
+   "id": "618a6482d082389df2d373f80fd1c49d",
+   "company": "Trespa International B.V",
+   "role": "Digital Marketing Communication Intern",
+   "location": "Nl"
+  },
+  "a4ffa5b48a57ab0ede81072b75366862": {
+   "id": "a4ffa5b48a57ab0ede81072b75366862",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Stagiair(e) Butler",
+   "location": "Amsterdam"
+  },
+  "508cd97a8a200398bc99d7feeb647f12": {
+   "id": "508cd97a8a200398bc99d7feeb647f12",
+   "company": "Armada Music",
+   "role": "Content Creative Internship",
+   "location": "Amsterdam"
+  },
+  "e83b8b58ff21b30afd502337ea47858c": {
+   "id": "e83b8b58ff21b30afd502337ea47858c",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Stagiair(e) Reserveringen",
+   "location": "Amsterdam"
+  },
+  "7d9cca5451786b136fd22e3f68673dc8": {
+   "id": "7d9cca5451786b136fd22e3f68673dc8",
+   "company": "Intelex",
+   "role": "Finance Intern",
+   "location": "Eindhoven"
+  },
+  "bd2f0290bdb5cb17fd2d8d5d81d11b0a": {
+   "id": "bd2f0290bdb5cb17fd2d8d5d81d11b0a",
+   "company": "Heineken International BV",
+   "role": "Internship - Water And Wastewater Performance",
+   "location": "Schiphol Airport +1"
+  },
+  "354eb43b30a7b5c59c3717a44fdd3c46": {
+   "id": "354eb43b30a7b5c59c3717a44fdd3c46",
+   "company": "Bloomberg LP",
+   "role": "2027 Summer News Internship",
+   "location": "Amsterdam"
+  },
+  "51cdaf2a059c47b0143bdc2b0b22c65b": {
+   "id": "51cdaf2a059c47b0143bdc2b0b22c65b",
+   "company": "Catawiki",
+   "role": "Communications Intern",
+   "location": "Amsterdam"
+  },
+  "98ad3c1109c31e740460faf746dc041e": {
+   "id": "98ad3c1109c31e740460faf746dc041e",
+   "company": "Build in Amsterdam",
+   "role": "Digital Design Internshipinternshipamsterdam",
+   "location": "Amsterdam"
+  },
+  "1ac2b6cf04d1105b9ac3786e8141fb0e": {
+   "id": "1ac2b6cf04d1105b9ac3786e8141fb0e",
+   "company": "KraftHeinz",
+   "role": "Customer Excellence Intern",
    "location": "Amsterdam"
   },
   "561ea3c7b320526ae7661058634f92e6": {
@@ -32,11 +104,59 @@
    "role": "Internship - Supervisory Affairs & Public And Regulatory Affairs",
    "location": "Cedar"
   },
+  "2e0a0bca1cec73b36f44de1784359713": {
+   "id": "2e0a0bca1cec73b36f44de1784359713",
+   "company": "Microsoft",
+   "role": "Cloud Solution Architecture INTERN",
+   "location": "Schiphol +2"
+  },
   "eb93a43161f00d5bdcf69b896d0f0dde": {
    "id": "eb93a43161f00d5bdcf69b896d0f0dde",
    "company": "The Hoxton",
    "role": "Finance Intern - The Hoxton, Amsterdam",
    "location": "Amsterdam"
+  },
+  "f2a4eedee334dd452af582408cd0cb75": {
+   "id": "f2a4eedee334dd452af582408cd0cb75",
+   "company": "Informa PLC",
+   "role": "Content Internship",
+   "location": "Amsterdam"
+  },
+  "436c38325fd465b17d21181a0824c6b0": {
+   "id": "436c38325fd465b17d21181a0824c6b0",
+   "company": "Informa PLC",
+   "role": "Business & Process Analyst Internship",
+   "location": "Amsterdam"
+  },
+  "6f8b19bde51e44c4fff13dfb1c164f5b": {
+   "id": "6f8b19bde51e44c4fff13dfb1c164f5b",
+   "company": "Informa PLC",
+   "role": "Event Executive Internship",
+   "location": "Amsterdam"
+  },
+  "8d4b030dab729abb1a5ada6fb7383953": {
+   "id": "8d4b030dab729abb1a5ada6fb7383953",
+   "company": "Informa PLC",
+   "role": "Marketing Internship",
+   "location": "Amsterdam"
+  },
+  "7bd66ed75e05d99b3d4dd3fe8a8f0233": {
+   "id": "7bd66ed75e05d99b3d4dd3fe8a8f0233",
+   "company": "Informa PLC",
+   "role": "Digital Marketing Internship",
+   "location": "Amsterdam"
+  },
+  "14feab2b7b56de8e27ac669ba037b508": {
+   "id": "14feab2b7b56de8e27ac669ba037b508",
+   "company": "Danone",
+   "role": "Internship (marketing): Digital Marketing Content Platform",
+   "location": "Hoofddorp +2"
+  },
+  "fd1c2f0b25e2c3e9ea97abcaa0a5ba4a": {
+   "id": "fd1c2f0b25e2c3e9ea97abcaa0a5ba4a",
+   "company": "McDermott International",
+   "role": "Intern",
+   "location": "Alphen Aan Den Rijn"
   },
   "6a6c818b1df704d3e6f67c4c3ded8ef0": {
    "id": "6a6c818b1df704d3e6f67c4c3ded8ef0",
@@ -362,136 +482,16 @@
    "role": "Internship Supply Chain",
    "location": "Etten-Leur +1"
   },
-  "3ea6f3fc68f60e4b90da5cffcb2ed8c4": {
-   "id": "3ea6f3fc68f60e4b90da5cffcb2ed8c4",
-   "company": "Informa PLC",
-   "role": "Digital Marketing Internship",
-   "location": "Amsterdam"
-  },
-  "f66e9d9513891fdb7e21da9b200ee67e": {
-   "id": "f66e9d9513891fdb7e21da9b200ee67e",
-   "company": "Informa PLC",
-   "role": "Business & Process Analyst Internship",
-   "location": "Amsterdam"
-  },
   "38d700553954adc4de398f6e427aa604": {
    "id": "38d700553954adc4de398f6e427aa604",
    "company": "AkzoNobel N.V.",
    "role": "Intern Digital Media",
    "location": "Amsterdam"
   },
-  "b9fb925497d139936f051b213f378dd0": {
-   "id": "b9fb925497d139936f051b213f378dd0",
-   "company": "Informa PLC",
-   "role": "Content Internship",
-   "location": "Amsterdam"
-  },
   "c3c109581ae258593679231f06947119": {
    "id": "c3c109581ae258593679231f06947119",
    "company": "Armada Music",
    "role": "Marketing Internship",
-   "location": "Amsterdam"
-  },
-  "1be28464b4f3e7feaaecb30b5a0ce188": {
-   "id": "1be28464b4f3e7feaaecb30b5a0ce188",
-   "company": "leHACK",
-   "role": "Intern - Hbo – Operational Excellence",
-   "location": "North Brabant"
-  },
-  "f3617f648611625b1e40c2bdd22e140b": {
-   "id": "f3617f648611625b1e40c2bdd22e140b",
-   "company": "leHACK",
-   "role": "Intern – Hbo – Supplier Development & Performance Management",
-   "location": "Amsterdam"
-  },
-  "5a14e294e4934dcfd367e1c2f53896bd": {
-   "id": "5a14e294e4934dcfd367e1c2f53896bd",
-   "company": "Armada Music",
-   "role": "Social Media & Community Management Internship",
-   "location": "Amsterdam"
-  },
-  "6fba02eebd41c481b921e770175a5016": {
-   "id": "6fba02eebd41c481b921e770175a5016",
-   "company": "DPG Media",
-   "role": "Marketing & Events Stage",
-   "location": "Amsterdam"
-  },
-  "a01fab14b8e4c61b17fadcbc6bb8c516": {
-   "id": "a01fab14b8e4c61b17fadcbc6bb8c516",
-   "company": "Catawiki",
-   "role": "It Systems & Services Intern",
-   "location": "Amsterdam"
-  },
-  "bc40a2e99be60b98001d32e43bdbb50b": {
-   "id": "bc40a2e99be60b98001d32e43bdbb50b",
-   "company": "Armada Music",
-   "role": "Online Marketing Internship",
-   "location": "Amsterdam"
-  },
-  "89c8878d16b7f61abac0bc5b93f27fad": {
-   "id": "89c8878d16b7f61abac0bc5b93f27fad",
-   "company": "NatWest Group",
-   "role": "Natwest Markets - Amsterdam Sustainable Finance Advisory Internship Programme",
-   "location": "Amsterdam"
-  },
-  "25547674f1698f8a61a1ed2eb268ac70": {
-   "id": "25547674f1698f8a61a1ed2eb268ac70",
-   "company": "PepsiCo Inc",
-   "role": "First Gen: People & Culture Intern",
-   "location": "Amsterdam"
-  },
-  "6924ab11843473d0aee135ed976f08e9": {
-   "id": "6924ab11843473d0aee135ed976f08e9",
-   "company": "Protolabs",
-   "role": "Logistics Intern",
-   "location": "Amsterdam"
-  },
-  "1f13862cb5dc56bfca0d4919913b0c5c": {
-   "id": "1f13862cb5dc56bfca0d4919913b0c5c",
-   "company": "Heineken International BV",
-   "role": "Internship - Procurement &amp; Ai",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "3b3d0a0ea14ee57ae6a5cc465d5d9225": {
-   "id": "3b3d0a0ea14ee57ae6a5cc465d5d9225",
-   "company": "Heineken International BV",
-   "role": "Internship - Global Leadership Development",
-   "location": "Amsterdam"
-  },
-  "41a3f28bae74511f2f33854df1afe1d8": {
-   "id": "41a3f28bae74511f2f33854df1afe1d8",
-   "company": "Heineken International BV",
-   "role": "Internship - Sustainable Production",
-   "location": "Amsterdam"
-  },
-  "db6fbc035e8d6916113ff12707a8c8c7": {
-   "id": "db6fbc035e8d6916113ff12707a8c8c7",
-   "company": "Heineken International BV",
-   "role": "Internship - Social Sustainability",
-   "location": "Amsterdam"
-  },
-  "7775936b2c0b3a3575e3edb51b0ba089": {
-   "id": "7775936b2c0b3a3575e3edb51b0ba089",
-   "company": "Heineken International BV",
-   "role": "Internship - Global Maintenance And Packaging",
-   "location": "Netherlands"
-  },
-  "2fc12ae0fe894dd8d390d1c6aae8e6bc": {
-   "id": "2fc12ae0fe894dd8d390d1c6aae8e6bc",
-   "company": "Tiqets",
-   "role": "Commercial Excellence Intern",
-   "location": "Amsterdam"
-  },
-  "e7b5c168df538007b59ddd5e8ada3828": {
-   "id": "e7b5c168df538007b59ddd5e8ada3828",
-   "company": "Tiqets",
-   "role": "Merchandising Intern",
-   "location": "Amsterdam"
-  },
-  "60c676d9f090b75e8d334b8a94348710": {
-   "id": "60c676d9f090b75e8d334b8a94348710",
-   "company": "Danone",
-   "role": "Internship – Finance (marketing And Sales Controlling)",
    "location": "Amsterdam"
   },
   "4479df504e4c9731d0edc314bf928813": {
@@ -678,12 +678,6 @@
    "id": "276307cbef567504b102add702d515ab",
    "company": "Insify",
    "role": "Finance & Data Analyst",
-   "location": "Amsterdam"
-  },
-  "720b412a17a2d57d6c73685d934a2c46": {
-   "id": "720b412a17a2d57d6c73685d934a2c46",
-   "company": "Basic-Fit",
-   "role": "Club Data Analyst",
    "location": "Amsterdam"
   },
   "388a475fc4fa9e72e23343343fae0430": {
@@ -883,6 +877,12 @@
    "company": "Jobgether",
    "role": "Transformation And Change Management Practitioner",
    "location": "Netherlands"
+  },
+  "22f77a0e4eb0df865827b995b16dbd6a": {
+   "id": "22f77a0e4eb0df865827b995b16dbd6a",
+   "company": "DHL Group",
+   "role": "Business Analyst Integration/designer",
+   "location": "Haarlem +1"
   },
   "bcf1211452e39b8ef12a52526401a4c4": {
    "id": "bcf1211452e39b8ef12a52526401a4c4",
@@ -1196,6 +1196,12 @@
    "role": "Facility Technician",
    "location": "Alphen Aan Den Rijn"
   },
+  "272e213cf059857d5f85fd916b0b6a27": {
+   "id": "272e213cf059857d5f85fd916b0b6a27",
+   "company": "Verisure S.A.",
+   "role": "Service Monteur Buitendienst Ruurlo/doetinchem/winterswijk",
+   "location": "Ruurlo +3"
+  },
   "a6f946f70e9666058e61845272cc9bed": {
    "id": "a6f946f70e9666058e61845272cc9bed",
    "company": "ABB Ltd",
@@ -1388,11 +1394,11 @@
    "role": "Maintenance Technician Security Lane Systems",
    "location": "Schiphol"
   },
-  "8d3759b5ba1060f63f864cff5661b53f": {
-   "id": "8d3759b5ba1060f63f864cff5661b53f",
-   "company": "KONE ELEVATORS PTY",
-   "role": "Reparatie Monteur Roltrappen",
-   "location": "Alphen Aan Den Rijn"
+  "d889d14357ce714612493787e39e25ba": {
+   "id": "d889d14357ce714612493787e39e25ba",
+   "company": "Breitling SA",
+   "role": "Sales Associate (f/m/x) - Amsterdam Boutique",
+   "location": "Amsterdam"
   },
   "195866c7ccf3516e8d81cb0f165c640b": {
    "id": "195866c7ccf3516e8d81cb0f165c640b",
@@ -1862,11 +1868,17 @@
    "role": "Verkoopmedewerker / Sales Associate M/f 24/32 Uren / Amsterdam",
    "location": "Amsterdam"
   },
-  "40ab7a6edd60b6b8f779530680d0aa69": {
-   "id": "40ab7a6edd60b6b8f779530680d0aa69",
-   "company": "Reiss",
-   "role": "Verkoopmedewerker / Sales Associate (m/f) / 16 Uren / Rotterdam",
-   "location": "Alphen Aan Den Rijn"
+  "70e612c17ef6aad2399eb4921ccc181a": {
+   "id": "70e612c17ef6aad2399eb4921ccc181a",
+   "company": "Primark",
+   "role": "Weekend Retail Assistant Den Haag",
+   "location": "Den Haag"
+  },
+  "a5012f8a637c7cdb0bc220a9439d8fb4": {
+   "id": "a5012f8a637c7cdb0bc220a9439d8fb4",
+   "company": "Primark",
+   "role": "Part-time Retail Assistant Den Haag",
+   "location": "Den Haag +1"
   },
   "ed21d3cd14fc3e66318152bfb95f39e9": {
    "id": "ed21d3cd14fc3e66318152bfb95f39e9",
@@ -1903,6 +1915,12 @@
    "company": "Primark",
    "role": "Parttime Retail Assistant Rotterdam Forum",
    "location": "Alphen Aan Den Rijn"
+  },
+  "c6ea92ad22549251c89adcb44daada81": {
+   "id": "c6ea92ad22549251c89adcb44daada81",
+   "company": "DHL Group",
+   "role": "Customer Service Coordinator",
+   "location": "Beringe"
   },
   "115a820079a7148064ffcd7b0a3647f5": {
    "id": "115a820079a7148064ffcd7b0a3647f5",
@@ -1952,6 +1970,12 @@
    "role": "Team Assistant Customer Service",
    "location": "Alphen Aan Den Rijn"
   },
+  "614d1b8bfe67ad881b275092c6a1379b": {
+   "id": "614d1b8bfe67ad881b275092c6a1379b",
+   "company": "DHL Group",
+   "role": "Sheq Coordinator",
+   "location": "Veenendaal"
+  },
   "98259a4baed38a5fea8838627d7181fe": {
    "id": "98259a4baed38a5fea8838627d7181fe",
    "company": "GenScript USA Inc",
@@ -1982,18 +2006,6 @@
    "role": "Administrative Assistant - Amsterdam",
    "location": "Amsterdam"
   },
-  "ec16fd2fdb6b6a9879bec1d0e8826baa": {
-   "id": "ec16fd2fdb6b6a9879bec1d0e8826baa",
-   "company": "Primark",
-   "role": "Part-time Retail Assistant Den Haag",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "47d7e10e1221d7f374dcab94c8c4d9c0": {
-   "id": "47d7e10e1221d7f374dcab94c8c4d9c0",
-   "company": "Primark",
-   "role": "Weekend Retail Assistant Den Haag",
-   "location": "Alphen Aan Den Rijn"
-  },
   "491d47943f878171682ebf72be2117c6": {
    "id": "491d47943f878171682ebf72be2117c6",
    "company": "Primark",
@@ -2017,18 +2029,6 @@
    "company": "Richemont Australia Pty Ltd",
    "role": "Boutique Assistant",
    "location": "Amsterdam"
-  },
-  "bffab1b9a2e10fe15e6638a6c0efa8c4": {
-   "id": "bffab1b9a2e10fe15e6638a6c0efa8c4",
-   "company": "IHC Merwede Holding B.V",
-   "role": "Training Specialist",
-   "location": "Kinderdijk"
-  },
-  "455482d323754fb8747b68227fb81835": {
-   "id": "455482d323754fb8747b68227fb81835",
-   "company": "SciAps",
-   "role": "Customer Service Coordinator",
-   "location": "Eindhoven"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",

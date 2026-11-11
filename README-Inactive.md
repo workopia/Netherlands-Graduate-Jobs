@@ -2403,4 +2403,31 @@
 <tr><td>Glanbia</td><td>Online Data Analyst - Dutch (nl)</td><td>Netherlands</td><td>2026-11-10</td></tr>
 <tr><td>Flowserve Corporation</td><td>Repair Technician</td><td>Etten</td><td>2026-11-10</td></tr>
 <tr><td>JD</td><td>Admin Support (chinese Speaking)</td><td>Limburg Province</td><td>2026-11-10</td></tr>
+<tr><td>Informa PLC</td><td>Digital Marketing Internship</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Informa PLC</td><td>Business & Process Analyst Internship</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Informa PLC</td><td>Content Internship</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>leHACK</td><td>Intern - Hbo – Operational Excellence</td><td>North Brabant</td><td>2026-11-11</td></tr>
+<tr><td>leHACK</td><td>Intern – Hbo – Supplier Development & Performance Management</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Armada Music</td><td>Social Media & Community Management Internship</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>DPG Media</td><td>Marketing & Events Stage</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Catawiki</td><td>It Systems & Services Intern</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Armada Music</td><td>Online Marketing Internship</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>NatWest Group</td><td>Natwest Markets - Amsterdam Sustainable Finance Advisory Internship Programme</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>PepsiCo Inc</td><td>First Gen: People & Culture Intern</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Protolabs</td><td>Logistics Intern</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Procurement &amp; Ai</td><td>Alphen Aan Den Rijn</td><td>2026-11-11</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Leadership Development</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Sustainable Production</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Social Sustainability</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Maintenance And Packaging</td><td>Netherlands</td><td>2026-11-11</td></tr>
+<tr><td>Tiqets</td><td>Commercial Excellence Intern</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Tiqets</td><td>Merchandising Intern</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Danone</td><td>Internship – Finance (marketing And Sales Controlling)</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>Basic-Fit</td><td>Club Data Analyst</td><td>Amsterdam</td><td>2026-11-11</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Reparatie Monteur Roltrappen</td><td>Alphen Aan Den Rijn</td><td>2026-11-11</td></tr>
+<tr><td>Reiss</td><td>Verkoopmedewerker / Sales Associate (m/f) / 16 Uren / Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-11-11</td></tr>
+<tr><td>Primark</td><td>Part-time Retail Assistant Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-11-11</td></tr>
+<tr><td>Primark</td><td>Weekend Retail Assistant Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-11-11</td></tr>
+<tr><td>IHC Merwede Holding B.V</td><td>Training Specialist</td><td>Kinderdijk</td><td>2026-11-11</td></tr>
+<tr><td>SciAps</td><td>Customer Service Coordinator</td><td>Eindhoven</td><td>2026-11-11</td></tr>
 </table>
