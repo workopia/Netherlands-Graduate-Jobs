@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-11",
- "count": 339,
+ "asOf": "2026-11-12",
+ "count": 342,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -13,6 +13,78 @@
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
+  },
+  "c306c1965a0138375667d95154310dd9": {
+   "id": "c306c1965a0138375667d95154310dd9",
+   "company": "PPD (Thermo Fisher)",
+   "role": "Sr. Digital Science Intern",
+   "location": "Eindhoven"
+  },
+  "013f85f40db86d50388f838d15226f44": {
+   "id": "013f85f40db86d50388f838d15226f44",
+   "company": "PPD (Thermo Fisher) UK",
+   "role": "Intern",
+   "location": "Eindhoven"
+  },
+  "6df9cf7dbdb6ccb3164b7b938f5a6660": {
+   "id": "6df9cf7dbdb6ccb3164b7b938f5a6660",
+   "company": "Heineken International BV",
+   "role": "Internship - Marketing &amp; Trade Marketing Nordics &amp; Baltics",
+   "location": "Amsterdam"
+  },
+  "9421e5762ace1a281dfec8850133107f": {
+   "id": "9421e5762ace1a281dfec8850133107f",
+   "company": "Heineken International BV",
+   "role": "Internship - Change &amp; Communication Global Digital And Technology",
+   "location": "Amsterdam"
+  },
+  "f0857c610b22ef7d0feeab02e9b68697": {
+   "id": "f0857c610b22ef7d0feeab02e9b68697",
+   "company": "Heineken International BV",
+   "role": "Internship - Telesales",
+   "location": "Amsterdam"
+  },
+  "b75b47ff5216fea8953e38e9d1de5bb2": {
+   "id": "b75b47ff5216fea8953e38e9d1de5bb2",
+   "company": "Heineken International BV",
+   "role": "Internship - Global Procurement Esg Regulatory Compliance",
+   "location": "Schiphol +1"
+  },
+  "4124b5d7c1be11565ae3e2b30e4aba6b": {
+   "id": "4124b5d7c1be11565ae3e2b30e4aba6b",
+   "company": "Sanofi",
+   "role": "Medical Affairs Intern– Neurology",
+   "location": "Amsterdam"
+  },
+  "738442f66f1082860d95a5524a03cbbe": {
+   "id": "738442f66f1082860d95a5524a03cbbe",
+   "company": "ING",
+   "role": "Data & Ai Adoption Intern",
+   "location": "Amsterdam"
+  },
+  "877ef58c4b37a66043ccc4132d9e252b": {
+   "id": "877ef58c4b37a66043ccc4132d9e252b",
+   "company": "Philips UK",
+   "role": "Internship: Finance Business Partner",
+   "location": "Amsterdam"
+  },
+  "99d30a4a2eb4ab15482d47a18d69d969": {
+   "id": "99d30a4a2eb4ab15482d47a18d69d969",
+   "company": "Park Hyatt Melbourne",
+   "role": "Front Office Intern",
+   "location": "Amsterdam"
+  },
+  "3dcc0245d56b3e96f565dd5f56250548": {
+   "id": "3dcc0245d56b3e96f565dd5f56250548",
+   "company": "Fortive Corporation",
+   "role": "Finance Intern",
+   "location": "Eindhoven"
+  },
+  "b7c6c8bfeec1470655844c6829f5042d": {
+   "id": "b7c6c8bfeec1470655844c6829f5042d",
+   "company": "NXP USA INC.",
+   "role": "Intern: Material Property Estimation",
+   "location": "Arnhem"
   },
   "2dcce33e04355c9b89e19da61e71b21c": {
    "id": "2dcce33e04355c9b89e19da61e71b21c",
@@ -62,6 +134,36 @@
    "role": "Internship - Water And Wastewater Performance",
    "location": "Schiphol Airport +1"
   },
+  "b855d231c6ed3a905ce580be9a50c00d": {
+   "id": "b855d231c6ed3a905ce580be9a50c00d",
+   "company": "DEPT",
+   "role": "Intern Research & Digital Strategy",
+   "location": "Amsterdam"
+  },
+  "a1a7665f8e62939d03d7396001ee372b": {
+   "id": "a1a7665f8e62939d03d7396001ee372b",
+   "company": "DEPT",
+   "role": "Intern Project Management",
+   "location": "Amsterdam"
+  },
+  "db40060b96df620def1b2a3b2edc6323": {
+   "id": "db40060b96df620def1b2a3b2edc6323",
+   "company": "DEPT",
+   "role": "Intern Brand Design",
+   "location": "Amsterdam"
+  },
+  "6775a94069d9c46e01e9eda5efd6676b": {
+   "id": "6775a94069d9c46e01e9eda5efd6676b",
+   "company": "DEPT",
+   "role": "Marketing Support Intern",
+   "location": "Amsterdam"
+  },
+  "5114b4bb21d8b1456803bfe9b9ba5c11": {
+   "id": "5114b4bb21d8b1456803bfe9b9ba5c11",
+   "company": "Kao",
+   "role": "Marketing Intern Guhl, John Frieda & Bondi Sands",
+   "location": "Amersfoort"
+  },
   "354eb43b30a7b5c59c3717a44fdd3c46": {
    "id": "354eb43b30a7b5c59c3717a44fdd3c46",
    "company": "Bloomberg LP",
@@ -74,6 +176,12 @@
    "role": "Communications Intern",
    "location": "Amsterdam"
   },
+  "6e17da1a1c79c1db04d4f6d3abeaa325": {
+   "id": "6e17da1a1c79c1db04d4f6d3abeaa325",
+   "company": "Danone",
+   "role": "Global Marketing Procurement Intern",
+   "location": "Hoofddorp +2"
+  },
   "98ad3c1109c31e740460faf746dc041e": {
    "id": "98ad3c1109c31e740460faf746dc041e",
    "company": "Build in Amsterdam",
@@ -85,6 +193,12 @@
    "company": "KraftHeinz",
    "role": "Customer Excellence Intern",
    "location": "Amsterdam"
+  },
+  "78ec943a9416304801ff55c82b3b4517": {
+   "id": "78ec943a9416304801ff55c82b3b4517",
+   "company": "Thermo Fisher Scientific",
+   "role": "Sr. Genai Intern",
+   "location": "Eindhoven"
   },
   "561ea3c7b320526ae7661058634f92e6": {
    "id": "561ea3c7b320526ae7661058634f92e6",
@@ -113,6 +227,12 @@
   "eb93a43161f00d5bdcf69b896d0f0dde": {
    "id": "eb93a43161f00d5bdcf69b896d0f0dde",
    "company": "The Hoxton",
+   "role": "Finance Intern - The Hoxton, Amsterdam",
+   "location": "Amsterdam"
+  },
+  "df0fec76b0d3179178eedf685886a7f1": {
+   "id": "df0fec76b0d3179178eedf685886a7f1",
+   "company": "Accor",
    "role": "Finance Intern - The Hoxton, Amsterdam",
    "location": "Amsterdam"
   },
@@ -374,126 +494,6 @@
    "role": "Internship - Brand &amp; Identity Design Systems",
    "location": "Amsterdam"
   },
-  "a9f346c17c5c3d999b1ad8dae2148922": {
-   "id": "a9f346c17c5c3d999b1ad8dae2148922",
-   "company": "Heineken International BV",
-   "role": "Internship - Customer Service Bnl Supply",
-   "location": "Zoeterwoude +1"
-  },
-  "65147302036b7bb76a02751f5b18b67b": {
-   "id": "65147302036b7bb76a02751f5b18b67b",
-   "company": "Heineken International BV",
-   "role": "Internship - Strategy &amp; Transformation",
-   "location": "Netherlands"
-  },
-  "438b242f5e6884d9391c49b79e62d898": {
-   "id": "438b242f5e6884d9391c49b79e62d898",
-   "company": "Heineken International BV",
-   "role": "Internship - Packaging &amp; Dispense Innovation",
-   "location": "Zoeterwoude"
-  },
-  "6ffac277463c135d8292e11991c328a2": {
-   "id": "6ffac277463c135d8292e11991c328a2",
-   "company": "Heineken International BV",
-   "role": "Internship - Communicatie &#39;corporate Affairs&#39; België En Nederland",
-   "location": "Amsterdam +1"
-  },
-  "3cb8e180ce9b71d3be5f332accfe66ab": {
-   "id": "3cb8e180ce9b71d3be5f332accfe66ab",
-   "company": "JYSK",
-   "role": "Stage Retail",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "4086720a42eea0c1b9d57374adcfa458": {
-   "id": "4086720a42eea0c1b9d57374adcfa458",
-   "company": "Bynder",
-   "role": "Video/motion Internship",
-   "location": "Amsterdam"
-  },
-  "0f9986014798056da7437ec997bcb2c3": {
-   "id": "0f9986014798056da7437ec997bcb2c3",
-   "company": "Funda Intellectual Property B.V",
-   "role": "Stagiair Marketing & Communicatie",
-   "location": "Amsterdam"
-  },
-  "d4562ebbc9ddd4c9c9111d16aff360ae": {
-   "id": "d4562ebbc9ddd4c9c9111d16aff360ae",
-   "company": "Danone",
-   "role": "Eu Brand Strategy And Innovation Intern",
-   "location": "Amsterdam"
-  },
-  "c5284dc04522cfa5d8d9eaced7013c67": {
-   "id": "c5284dc04522cfa5d8d9eaced7013c67",
-   "company": "Mars",
-   "role": "Thesis Internship Driving Process Excellence Through Ai",
-   "location": "S Hertogenbosch"
-  },
-  "dc229fede3dc83660f649f183346537b": {
-   "id": "dc229fede3dc83660f649f183346537b",
-   "company": "Uber Technologies",
-   "role": "2027 Operations Intern - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "5d85e2247c00e45a17400b81f84d1617": {
-   "id": "5d85e2247c00e45a17400b81f84d1617",
-   "company": "Uber",
-   "role": "2027 Operations Intern - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "9fcd7d8344b787a14e8e0b70088d7cca": {
-   "id": "9fcd7d8344b787a14e8e0b70088d7cca",
-   "company": "Thermo Fisher Scientific",
-   "role": "Internship Position: Data Processing And Microscopy Analysis Intern",
-   "location": "Eindhoven"
-  },
-  "658c63824cc014bf5afaedaf173bf2e3": {
-   "id": "658c63824cc014bf5afaedaf173bf2e3",
-   "company": "Thermo Fisher Scientific",
-   "role": "Internship - Build An Agentic Software Refactoring Workflow",
-   "location": "Eindhoven"
-  },
-  "4c1e2f2177084c586d034a0984cd137a": {
-   "id": "4c1e2f2177084c586d034a0984cd137a",
-   "company": "PPD (Thermo Fisher) UK",
-   "role": "Internship Position: Data Processing And Microscopy Analysis Intern",
-   "location": "Eindhoven"
-  },
-  "a7d1f23b296f8bf6edcd48c104bba80c": {
-   "id": "a7d1f23b296f8bf6edcd48c104bba80c",
-   "company": "IKEA",
-   "role": "Hr Stage",
-   "location": "Amsterdam"
-  },
-  "9410a56f5a9ca4f501e8798e7dfc61ac": {
-   "id": "9410a56f5a9ca4f501e8798e7dfc61ac",
-   "company": "OMRON Corporation",
-   "role": "(oee-emea) Design & Ai Content Creation Intern",
-   "location": "Amsterdam"
-  },
-  "32507e86d6072960bbc88b172096a67d": {
-   "id": "32507e86d6072960bbc88b172096a67d",
-   "company": "OMRON Corporation",
-   "role": "Intern Marketing Automation And Email Nurturing",
-   "location": "Amsterdam"
-  },
-  "0585bdf36ec5b7c73458e145c9b61a55": {
-   "id": "0585bdf36ec5b7c73458e145c9b61a55",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Internship Supply Chain",
-   "location": "Etten-Leur +1"
-  },
-  "38d700553954adc4de398f6e427aa604": {
-   "id": "38d700553954adc4de398f6e427aa604",
-   "company": "AkzoNobel N.V.",
-   "role": "Intern Digital Media",
-   "location": "Amsterdam"
-  },
-  "c3c109581ae258593679231f06947119": {
-   "id": "c3c109581ae258593679231f06947119",
-   "company": "Armada Music",
-   "role": "Marketing Internship",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -576,6 +576,12 @@
    "id": "6912eec3081bb2a78cb984b2924a4d40",
    "company": "Oliver Wyman",
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "cd3edaaa01023ae6e31ddc1b14c3f140": {
+   "id": "cd3edaaa01023ae6e31ddc1b14c3f140",
+   "company": "Just Eat Takeaway",
+   "role": "Data Scientist",
    "location": "Amsterdam"
   },
   "f8d761abf3182b27bba8851ffa24dbaa": {
@@ -678,6 +684,12 @@
    "id": "276307cbef567504b102add702d515ab",
    "company": "Insify",
    "role": "Finance & Data Analyst",
+   "location": "Amsterdam"
+  },
+  "6dcace2e30ff1e1e43cbcbf88a2c0d20": {
+   "id": "6dcace2e30ff1e1e43cbcbf88a2c0d20",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman - Intern Consultant – 2027 – Netherlands",
    "location": "Amsterdam"
   },
   "388a475fc4fa9e72e23343343fae0430": {
@@ -913,6 +925,18 @@
    "company": "Commonwealth Bank of Australia (Europe) N.V.",
    "role": "Analyst Regulatory Reporting",
    "location": "Amsterdam"
+  },
+  "7d4c1c78c15ea9385dc276cf9aaa9328": {
+   "id": "7d4c1c78c15ea9385dc276cf9aaa9328",
+   "company": "Greystar (International)",
+   "role": "Maintenance Technician",
+   "location": "Diemen +2"
+  },
+  "d62f785994abf706e8713170cb0ef66b": {
+   "id": "d62f785994abf706e8713170cb0ef66b",
+   "company": "Spirit Legal LLP",
+   "role": "Hotel Technician (m/f/d) - New Opening",
+   "location": "Rotterdam +1"
   },
   "e7de55f1ea296cfda90f58ab567dff62": {
    "id": "e7de55f1ea296cfda90f58ab567dff62",
@@ -1381,18 +1405,6 @@
    "company": "GEA Dairy Center Zuid",
    "role": "Allround Servicemonteur – Gea Dairy Center Zuid",
    "location": "Beringe"
-  },
-  "d8cc9b41d2aea292bcc29c04da7885da": {
-   "id": "d8cc9b41d2aea292bcc29c04da7885da",
-   "company": "Carrier Corporation",
-   "role": "Field Service Technician - Carrier Rental",
-   "location": "Netherlands"
-  },
-  "21eb355d9b918d7210bbfb86ee18f1f0": {
-   "id": "21eb355d9b918d7210bbfb86ee18f1f0",
-   "company": "Vanderlande",
-   "role": "Maintenance Technician Security Lane Systems",
-   "location": "Schiphol"
   },
   "d889d14357ce714612493787e39e25ba": {
    "id": "d889d14357ce714612493787e39e25ba",
@@ -1868,6 +1880,18 @@
    "role": "Verkoopmedewerker / Sales Associate M/f 24/32 Uren / Amsterdam",
    "location": "Amsterdam"
   },
+  "63d0ae526fd4aa88db79719bea37f77b": {
+   "id": "63d0ae526fd4aa88db79719bea37f77b",
+   "company": "Bechtle AG",
+   "role": "Assistenz Evp Mitte / West (w/m/d)",
+   "location": "Maastricht +1"
+  },
+  "26968176358c74c9d1616b373212c920": {
+   "id": "26968176358c74c9d1616b373212c920",
+   "company": "zorgbedrijf",
+   "role": "Admin Assistent Back Office Fai Wzc Vesalius",
+   "location": "Antwerpen +1"
+  },
   "70e612c17ef6aad2399eb4921ccc181a": {
    "id": "70e612c17ef6aad2399eb4921ccc181a",
    "company": "Primark",
@@ -2023,12 +2047,6 @@
    "company": "GXO Logistics, Inc.",
    "role": "Hr Administrative",
    "location": "Alphen Aan Den Rijn"
-  },
-  "1b3beb516b419c99b90fccc2196ae313": {
-   "id": "1b3beb516b419c99b90fccc2196ae313",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Boutique Assistant",
-   "location": "Amsterdam"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",

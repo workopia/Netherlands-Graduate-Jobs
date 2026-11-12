@@ -2430,4 +2430,27 @@
 <tr><td>Primark</td><td>Weekend Retail Assistant Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-11-11</td></tr>
 <tr><td>IHC Merwede Holding B.V</td><td>Training Specialist</td><td>Kinderdijk</td><td>2026-11-11</td></tr>
 <tr><td>SciAps</td><td>Customer Service Coordinator</td><td>Eindhoven</td><td>2026-11-11</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Customer Service Bnl Supply</td><td>Zoeterwoude +1</td><td>2026-11-12</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Strategy &amp; Transformation</td><td>Netherlands</td><td>2026-11-12</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Packaging &amp; Dispense Innovation</td><td>Zoeterwoude</td><td>2026-11-12</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Communicatie &#39;corporate Affairs&#39; België En Nederland</td><td>Amsterdam +1</td><td>2026-11-12</td></tr>
+<tr><td>JYSK</td><td>Stage Retail</td><td>Alphen Aan Den Rijn</td><td>2026-11-12</td></tr>
+<tr><td>Bynder</td><td>Video/motion Internship</td><td>Amsterdam</td><td>2026-11-12</td></tr>
+<tr><td>Funda Intellectual Property B.V</td><td>Stagiair Marketing & Communicatie</td><td>Amsterdam</td><td>2026-11-12</td></tr>
+<tr><td>Danone</td><td>Eu Brand Strategy And Innovation Intern</td><td>Amsterdam</td><td>2026-11-12</td></tr>
+<tr><td>Mars</td><td>Thesis Internship Driving Process Excellence Through Ai</td><td>S Hertogenbosch</td><td>2026-11-12</td></tr>
+<tr><td>Uber Technologies</td><td>2027 Operations Intern - Amsterdam</td><td>Amsterdam</td><td>2026-11-12</td></tr>
+<tr><td>Uber</td><td>2027 Operations Intern - Amsterdam</td><td>Amsterdam</td><td>2026-11-12</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Internship Position: Data Processing And Microscopy Analysis Intern</td><td>Eindhoven</td><td>2026-11-12</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Internship - Build An Agentic Software Refactoring Workflow</td><td>Eindhoven</td><td>2026-11-12</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Internship Position: Data Processing And Microscopy Analysis Intern</td><td>Eindhoven</td><td>2026-11-12</td></tr>
+<tr><td>IKEA</td><td>Hr Stage</td><td>Amsterdam</td><td>2026-11-12</td></tr>
+<tr><td>OMRON Corporation</td><td>(oee-emea) Design & Ai Content Creation Intern</td><td>Amsterdam</td><td>2026-11-12</td></tr>
+<tr><td>OMRON Corporation</td><td>Intern Marketing Automation And Email Nurturing</td><td>Amsterdam</td><td>2026-11-12</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Internship Supply Chain</td><td>Etten-Leur +1</td><td>2026-11-12</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Intern Digital Media</td><td>Amsterdam</td><td>2026-11-12</td></tr>
+<tr><td>Armada Music</td><td>Marketing Internship</td><td>Amsterdam</td><td>2026-11-12</td></tr>
+<tr><td>Carrier Corporation</td><td>Field Service Technician - Carrier Rental</td><td>Netherlands</td><td>2026-11-12</td></tr>
+<tr><td>Vanderlande</td><td>Maintenance Technician Security Lane Systems</td><td>Schiphol</td><td>2026-11-12</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Boutique Assistant</td><td>Amsterdam</td><td>2026-11-12</td></tr>
 </table>
