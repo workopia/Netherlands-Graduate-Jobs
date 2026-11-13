@@ -2453,4 +2453,23 @@
 <tr><td>Carrier Corporation</td><td>Field Service Technician - Carrier Rental</td><td>Netherlands</td><td>2026-11-12</td></tr>
 <tr><td>Vanderlande</td><td>Maintenance Technician Security Lane Systems</td><td>Schiphol</td><td>2026-11-12</td></tr>
 <tr><td>Richemont Australia Pty Ltd</td><td>Boutique Assistant</td><td>Amsterdam</td><td>2026-11-12</td></tr>
+<tr><td>Amgen UK</td><td>Contracts & Pricing Operations Intern</td><td>Breda</td><td>2026-11-13</td></tr>
+<tr><td>Philips UK</td><td>Internship: Emc/emi Test Setup For Ivus Image Interference (master)</td><td>Eindhoven</td><td>2026-11-13</td></tr>
+<tr><td>Philips UK</td><td>Internship: Li-fi Adoption In Healthcare (non-thesis)</td><td>Eindhoven</td><td>2026-11-13</td></tr>
+<tr><td>Bugaboo</td><td>Digital Growth Content Intern</td><td>Amsterdam</td><td>2026-11-13</td></tr>
+<tr><td>Qualcomm Technologies Netherlands B.V.</td><td>Fy27 Intern - Deep Learning Researcher Internship - 4 Months, Amsterdam</td><td>Amsterdam</td><td>2026-11-13</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Internship Product Content</td><td>Alphen Aan Den Rijn</td><td>2026-11-13</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Internship: People & Culture - The Hoxton, Lloyd</td><td>Amsterdam</td><td>2026-11-13</td></tr>
+<tr><td>Accor</td><td>Internship: People & Culture - The Hoxton, Lloyd</td><td>Amsterdam</td><td>2026-11-13</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Internship: Front Office - The Hoxton, Lloyd</td><td>Amsterdam</td><td>2026-11-13</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Internship: Assistant F&b Director - The Hoxton Lloyd</td><td>Amsterdam</td><td>2026-11-13</td></tr>
+<tr><td>Signify</td><td>Ecommerce D2c Internship</td><td>Eindhoven</td><td>2026-11-13</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - E-commerce &amp; Content</td><td>Alphen Aan Den Rijn</td><td>2026-11-13</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Risk Management</td><td>Amsterdam</td><td>2026-11-13</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Media Team</td><td>Amsterdam</td><td>2026-11-13</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Brand &amp; Identity Design Systems</td><td>Amsterdam</td><td>2026-11-13</td></tr>
+<tr><td>SKF Group</td><td>On-site Machining Technician</td><td>Barendrecht</td><td>2026-11-13</td></tr>
+<tr><td>SKF Sverige AB</td><td>Marine Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-11-13</td></tr>
+<tr><td>GEA Dairy Center Zuid</td><td>Allround Servicemonteur – Gea Dairy Center Zuid</td><td>Beringe</td><td>2026-11-13</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Hr Administrative</td><td>Alphen Aan Den Rijn</td><td>2026-11-13</td></tr>
 </table>
