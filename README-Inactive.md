@@ -2472,4 +2472,26 @@
 <tr><td>SKF Sverige AB</td><td>Marine Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-11-13</td></tr>
 <tr><td>GEA Dairy Center Zuid</td><td>Allround Servicemonteur – Gea Dairy Center Zuid</td><td>Beringe</td><td>2026-11-13</td></tr>
 <tr><td>GXO Logistics, Inc.</td><td>Hr Administrative</td><td>Alphen Aan Den Rijn</td><td>2026-11-13</td></tr>
+<tr><td>Nestle Ltd</td><td>Nespresso Finance Internship</td><td>Netherlands</td><td>2026-11-14</td></tr>
+<tr><td>Nestle Ltd</td><td>Nespresso Brand Marketing Pr &amp; Communication Meewerkstage</td><td>Netherlands</td><td>2026-11-14</td></tr>
+<tr><td>Stichd</td><td>Creative Design Intern</td><td>Stichd HQ</td><td>2026-11-14</td></tr>
+<tr><td>UL Solutions</td><td>Tax Intern – Emea Region</td><td>Arnhem</td><td>2026-11-14</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Intern - Autonomous Lab Concept Development For An Electron Microscope</td><td>Eindhoven</td><td>2026-11-14</td></tr>
+<tr><td>Philips UK</td><td>Internship: Sustainable Healthcare Engagement (master, Non-thesis)</td><td>Amsterdam</td><td>2026-11-14</td></tr>
+<tr><td>IDFA</td><td>Ibf Internpart-timeamsterdam</td><td>Amsterdam</td><td>2026-11-14</td></tr>
+<tr><td>Pledgr</td><td>Analytics & Insights Internship</td><td>Alphen Aan Den Rijn</td><td>2026-11-14</td></tr>
+<tr><td>Danone</td><td>Distribution &amp; Logistics Documentation Intern</td><td>Alphen Aan Den Rijn</td><td>2026-11-14</td></tr>
+<tr><td>Accenture</td><td>Afstudeerstage Data & Ai</td><td>Amsterdam</td><td>2026-11-14</td></tr>
+<tr><td>Stichd</td><td>Intern Sustainability</td><td>Stichd HQ</td><td>2026-11-14</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Intern - Autonomous Lab Concept Development For An Electron Microscope</td><td>Eindhoven</td><td>2026-11-14</td></tr>
+<tr><td>adidas AG</td><td>Intern - Digital Sales</td><td>Amsterdam</td><td>2026-11-14</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Internship - Build An Agentic Software Refactoring Workflow</td><td>Eindhoven</td><td>2026-11-14</td></tr>
+<tr><td>Amgen UK</td><td>Global Transportation Excellence Intern</td><td>Breda</td><td>2026-11-14</td></tr>
+<tr><td>Schindler Group</td><td>Reparatie Monteur Zuid</td><td>Alphen Aan Den Rijn</td><td>2026-11-14</td></tr>
+<tr><td>Schindler Group</td><td>Service Technician Rotterdam</td><td>Alphen Aan Den Rijn</td><td>2026-11-14</td></tr>
+<tr><td>Schindler Group</td><td>Service Technician Utrecht</td><td>Alphen Aan Den Rijn</td><td>2026-11-14</td></tr>
+<tr><td>Schindler Group</td><td>Service Technician Roltrappen</td><td>Alphen Aan Den Rijn</td><td>2026-11-14</td></tr>
+<tr><td>Schindler Group</td><td>Service Technician Regio Leiden</td><td>Alphen Aan Den Rijn</td><td>2026-11-14</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker - Purmerend (21/26 Uur)</td><td>Amsterdam</td><td>2026-11-14</td></tr>
+<tr><td>Reiss</td><td>Verkoopmedewerker / Sales Associate M/f 24/32 Uren / Amsterdam</td><td>Amsterdam</td><td>2026-11-14</td></tr>
 </table>

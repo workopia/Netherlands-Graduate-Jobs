@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-13",
- "count": 342,
+ "asOf": "2026-11-14",
+ "count": 345,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -12,6 +12,54 @@
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "e6ea9a7023c894412a347c91610c645c": {
+   "id": "e6ea9a7023c894412a347c91610c645c",
+   "company": "Boehringer Ingelheim",
+   "role": "Demand Management Intern",
+   "location": "Amsterdam"
+  },
+  "a5a38efe051f68bcf1c92b0597ae7175": {
+   "id": "a5a38efe051f68bcf1c92b0597ae7175",
+   "company": "Coty Inc",
+   "role": "Global Communications Intern",
+   "location": "Amsterdam"
+  },
+  "d62655c8cb730756afba91d90edfb680": {
+   "id": "d62655c8cb730756afba91d90edfb680",
+   "company": "Coty Inc",
+   "role": "Marketing Procurement Intern",
+   "location": "Amsterdam"
+  },
+  "c9038c88a1f30a324e07c8c79412489b": {
+   "id": "c9038c88a1f30a324e07c8c79412489b",
+   "company": "Euronext Technologies SaS",
+   "role": "Listing Analyst Intern",
+   "location": "Amsterdam"
+  },
+  "3ef9b3e089f5ca459279dda021a25f0e": {
+   "id": "3ef9b3e089f5ca459279dda021a25f0e",
+   "company": "Coty",
+   "role": "Marketing Procurement Intern",
+   "location": "Amsterdam"
+  },
+  "1535bfcb763f7fd2c8a269514022ad0e": {
+   "id": "1535bfcb763f7fd2c8a269514022ad0e",
+   "company": "Heineken International BV",
+   "role": "Internship - Sales National Accounts - Heineken Horeca",
+   "location": "Netherlands"
+  },
+  "f795146c8b4ba65dee3b362e30a621b1": {
+   "id": "f795146c8b4ba65dee3b362e30a621b1",
+   "company": "ING Group",
+   "role": "Intern - Hr & Business Administration Support",
+   "location": "Cedar"
+  },
+  "790bb7096e1045f428929da958d6a3a8": {
+   "id": "790bb7096e1045f428929da958d6a3a8",
+   "company": "Arcadis",
+   "role": "Internship - People, Data & Insights",
    "location": "Amsterdam"
   },
   "2b7dbfb9e1349490033c0e78c6120a60": {
@@ -44,17 +92,53 @@
    "role": "Product Design Intern",
    "location": "Arnhem"
   },
+  "036109170f2ba3e9019ae86ce9aba518": {
+   "id": "036109170f2ba3e9019ae86ce9aba518",
+   "company": "JDE Peet’s",
+   "role": "Intern Finance Global Coffee & Tea Sourcing",
+   "location": "Utrecht +1"
+  },
+  "8a7092c836074c47a616a9e1d331f6d1": {
+   "id": "8a7092c836074c47a616a9e1d331f6d1",
+   "company": "Koninklijk Nederlands Lucht",
+   "role": "Internship: Sensors For Automatic Aircraft Walkaround Inspection",
+   "location": "Amsterdam"
+  },
   "074b31aa888a9c98c38f616376238cb1": {
    "id": "074b31aa888a9c98c38f616376238cb1",
    "company": "Bugaboo",
    "role": "Email Marketing Intern",
    "location": "Amsterdam"
   },
+  "24c76d1bc0934903fd5a88e005ae4553": {
+   "id": "24c76d1bc0934903fd5a88e005ae4553",
+   "company": "Keenfootwear",
+   "role": "Ecommerce Intern - February 2027",
+   "location": "Rotterdam +1"
+  },
+  "b111eeeefecdadc21ce6faa4a6f6ca26": {
+   "id": "b111eeeefecdadc21ce6faa4a6f6ca26",
+   "company": "KEEN Footwear",
+   "role": "Graphic/digital Design Intern",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "082864f4559e49a3bb0b345359d45530": {
+   "id": "082864f4559e49a3bb0b345359d45530",
+   "company": "Danone",
+   "role": "Global Procurement Innovation &amp; Partnerships Intern",
+   "location": "Hoofddorp +1"
+  },
   "cca4f4f63a3d8e0b6be009bdc7d1779a": {
    "id": "cca4f4f63a3d8e0b6be009bdc7d1779a",
    "company": "IKEA",
    "role": "People & Culture (hr) Intern",
    "location": "Delft +1"
+  },
+  "ac399ae2c5602b6259c01efaafdd2f6c": {
+   "id": "ac399ae2c5602b6259c01efaafdd2f6c",
+   "company": "Thermo Fisher Scientific",
+   "role": "Internship: Genai-assisted Software Modernization",
+   "location": "Eindhoven"
   },
   "c72c9030502293c14a1e8d22ddf45787": {
    "id": "c72c9030502293c14a1e8d22ddf45787",
@@ -133,6 +217,12 @@
    "company": "My Jewellery",
    "role": "Stage Influencer Marketing",
    "location": "’S-Hertogenbosch +1"
+  },
+  "98aac333d496ff3e43b32ba7466568e6": {
+   "id": "98aac333d496ff3e43b32ba7466568e6",
+   "company": "Aquablu B.V",
+   "role": "Customer Success Intern",
+   "location": "Amsterdam"
   },
   "d227ec65200f418c3c4a7f688378f1ab": {
    "id": "d227ec65200f418c3c4a7f688378f1ab",
@@ -404,96 +494,6 @@
    "role": "Nespresso Commercial Excellence B2b Meewerkstage",
    "location": "Netherlands"
   },
-  "efa394427532f954fe9e785f7b780a82": {
-   "id": "efa394427532f954fe9e785f7b780a82",
-   "company": "Nestle Ltd",
-   "role": "Nespresso Finance Internship",
-   "location": "Netherlands"
-  },
-  "f41dbca9236cddaa66b1c1b8cd90401c": {
-   "id": "f41dbca9236cddaa66b1c1b8cd90401c",
-   "company": "Nestle Ltd",
-   "role": "Nespresso Brand Marketing Pr &amp; Communication Meewerkstage",
-   "location": "Netherlands"
-  },
-  "33cbbf9ac08044693731496cf389f7ef": {
-   "id": "33cbbf9ac08044693731496cf389f7ef",
-   "company": "Stichd",
-   "role": "Creative Design Intern",
-   "location": "Stichd HQ"
-  },
-  "e6f14562e3ed3d8773eeda4a064a8e91": {
-   "id": "e6f14562e3ed3d8773eeda4a064a8e91",
-   "company": "UL Solutions",
-   "role": "Tax Intern – Emea Region",
-   "location": "Arnhem"
-  },
-  "0b6721d06cf56c0c3aceb7076aacf849": {
-   "id": "0b6721d06cf56c0c3aceb7076aacf849",
-   "company": "PPD (Thermo Fisher) UK",
-   "role": "Intern - Autonomous Lab Concept Development For An Electron Microscope",
-   "location": "Eindhoven"
-  },
-  "0849185a00c7bb3c1509173f2c8aa47f": {
-   "id": "0849185a00c7bb3c1509173f2c8aa47f",
-   "company": "Philips UK",
-   "role": "Internship: Sustainable Healthcare Engagement (master, Non-thesis)",
-   "location": "Amsterdam"
-  },
-  "5ab8d1f82755bbb9d1c3b3844ffb791c": {
-   "id": "5ab8d1f82755bbb9d1c3b3844ffb791c",
-   "company": "IDFA",
-   "role": "Ibf Internpart-timeamsterdam",
-   "location": "Amsterdam"
-  },
-  "aee8a55880731595b7cd8fc167d06acd": {
-   "id": "aee8a55880731595b7cd8fc167d06acd",
-   "company": "Pledgr",
-   "role": "Analytics & Insights Internship",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1525731b28c283f7cad4de2651bbffb4": {
-   "id": "1525731b28c283f7cad4de2651bbffb4",
-   "company": "Danone",
-   "role": "Distribution &amp; Logistics Documentation Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "30ff2de1d663f8c9fc0ff54b95624064": {
-   "id": "30ff2de1d663f8c9fc0ff54b95624064",
-   "company": "Accenture",
-   "role": "Afstudeerstage Data & Ai",
-   "location": "Amsterdam"
-  },
-  "4bd1a916f671d73fd1d0190e7ccf4a72": {
-   "id": "4bd1a916f671d73fd1d0190e7ccf4a72",
-   "company": "Stichd",
-   "role": "Intern Sustainability",
-   "location": "Stichd HQ"
-  },
-  "955e7f7a521b9a9de5ccdc6cfc9ff8c2": {
-   "id": "955e7f7a521b9a9de5ccdc6cfc9ff8c2",
-   "company": "Thermo Fisher Scientific",
-   "role": "Intern - Autonomous Lab Concept Development For An Electron Microscope",
-   "location": "Eindhoven"
-  },
-  "b9926bee33b536f656d5c3a34557cbe5": {
-   "id": "b9926bee33b536f656d5c3a34557cbe5",
-   "company": "adidas AG",
-   "role": "Intern - Digital Sales",
-   "location": "Amsterdam"
-  },
-  "430e8345b5283b200115f182ba7d7084": {
-   "id": "430e8345b5283b200115f182ba7d7084",
-   "company": "PPD (Thermo Fisher) UK",
-   "role": "Internship - Build An Agentic Software Refactoring Workflow",
-   "location": "Eindhoven"
-  },
-  "5e48cb74f3eb0d644fa8a3a8bed108c1": {
-   "id": "5e48cb74f3eb0d644fa8a3a8bed108c1",
-   "company": "Amgen UK",
-   "role": "Global Transportation Excellence Intern",
-   "location": "Breda"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -577,6 +577,12 @@
    "company": "Oliver Wyman",
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
    "location": "Amsterdam"
+  },
+  "23f78c328fc85aa9e5d4dd130a599ad8": {
+   "id": "23f78c328fc85aa9e5d4dd130a599ad8",
+   "company": "Nestlé Ltd",
+   "role": "Masterdata Analyst",
+   "location": "Netherlands"
   },
   "cd3edaaa01023ae6e31ddc1b14c3f140": {
    "id": "cd3edaaa01023ae6e31ddc1b14c3f140",
@@ -684,6 +690,12 @@
    "id": "276307cbef567504b102add702d515ab",
    "company": "Insify",
    "role": "Finance & Data Analyst",
+   "location": "Amsterdam"
+  },
+  "cae3d9aaff030c801993b8656e420288": {
+   "id": "cae3d9aaff030c801993b8656e420288",
+   "company": "investmentbankinginternships.com",
+   "role": "Internship Ing Investments",
    "location": "Amsterdam"
   },
   "712351fbc96677a07b77213d9ba5c314": {
@@ -932,17 +944,47 @@
    "role": "Analyst Regulatory Reporting",
    "location": "Amsterdam"
   },
+  "500006c259778733a6e5bc052bbd9391": {
+   "id": "500006c259778733a6e5bc052bbd9391",
+   "company": "ImSAPharma Com Ar",
+   "role": "Maintenance Monteur - Storing & Onderhoud",
+   "location": "North Brabant"
+  },
+  "4f23e54b34599b7664c6ac4bff6d4670": {
+   "id": "4f23e54b34599b7664c6ac4bff6d4670",
+   "company": "Trane Technologies",
+   "role": "Mobiele Service Monteur",
+   "location": "Amsterdam"
+  },
+  "60365474db233b38cf82ea49405d063b": {
+   "id": "60365474db233b38cf82ea49405d063b",
+   "company": "CAF",
+   "role": "Assistant Technician",
+   "location": "Leidschendam"
+  },
+  "3994df80d9f4182221ab021fa78647f5": {
+   "id": "3994df80d9f4182221ab021fa78647f5",
+   "company": "Weatherford International",
+   "role": "Repair & Maintenance Specialist I",
+   "location": "Netherlands"
+  },
+  "1c0b2cf8793396be5ec44985e10c0c53": {
+   "id": "1c0b2cf8793396be5ec44985e10c0c53",
+   "company": "Trane",
+   "role": "Mobiele Service Monteur",
+   "location": "Amsterdam"
+  },
+  "192b584f26340b6cb72ad8d353784277": {
+   "id": "192b584f26340b6cb72ad8d353784277",
+   "company": "microsatsystems.biz",
+   "role": "Maintenance Monteur - Storing & Onderhoud",
+   "location": "North Brabant"
+  },
   "9bd6bc57c03c388d955792c726818cee": {
    "id": "9bd6bc57c03c388d955792c726818cee",
    "company": "Bunge Global",
    "role": "Onderhoudsmonteur E&i",
    "location": "Wormerveer +2"
-  },
-  "3994df80d9f4182221ab021fa78647f5": {
-   "id": "3994df80d9f4182221ab021fa78647f5",
-   "company": "Weatherford",
-   "role": "Repair & Maintenance Specialist I",
-   "location": "Netherlands"
   },
   "d534cee74e42e6e7bc096cd3fb7abccb": {
    "id": "d534cee74e42e6e7bc096cd3fb7abccb",
@@ -1382,34 +1424,16 @@
    "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
    "location": "Alphen Aan Den Rijn"
   },
-  "d3af288591199e4d6b47348b4581a681": {
-   "id": "d3af288591199e4d6b47348b4581a681",
-   "company": "Schindler Group",
-   "role": "Reparatie Monteur Zuid",
-   "location": "Alphen Aan Den Rijn"
+  "858cad6b5c57b768e849f83c1e503ff5": {
+   "id": "858cad6b5c57b768e849f83c1e503ff5",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Purmerend (21/26 Uur)",
+   "location": "Amsterdam"
   },
-  "a341ea7b8e2fdc4e68e74838ba7648c7": {
-   "id": "a341ea7b8e2fdc4e68e74838ba7648c7",
-   "company": "Schindler Group",
-   "role": "Service Technician Rotterdam",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "1f8218c29cccc96d7c4dfc3e8b57b5b6": {
-   "id": "1f8218c29cccc96d7c4dfc3e8b57b5b6",
-   "company": "Schindler Group",
-   "role": "Service Technician Utrecht",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "e1e763a5fa3e969e47c700978e464d1e": {
-   "id": "e1e763a5fa3e969e47c700978e464d1e",
-   "company": "Schindler Group",
-   "role": "Service Technician Roltrappen",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "6a4c9cb7bd9d896c6c6c773492a32207": {
-   "id": "6a4c9cb7bd9d896c6c6c773492a32207",
-   "company": "Schindler Group",
-   "role": "Service Technician Regio Leiden",
+  "1353f52b46aff32756047b3cb8a92ea5": {
+   "id": "1353f52b46aff32756047b3cb8a92ea5",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Den Haag (vakantiehulp)",
    "location": "Alphen Aan Den Rijn"
   },
   "d889d14357ce714612493787e39e25ba": {
@@ -1428,12 +1452,6 @@
    "id": "f4cbd4d9b32dacabebe2f819648c356c",
    "company": "Sixt",
    "role": "Parttime Rental Sales Agent (m/v/d) - Amsterdam Centraal Station",
-   "location": "Amsterdam"
-  },
-  "977eb3e9c04b2e63290da0cac7340167": {
-   "id": "977eb3e9c04b2e63290da0cac7340167",
-   "company": "H&M",
-   "role": "Verkoopmedewerker - Purmerend (21/26 Uur)",
    "location": "Amsterdam"
   },
   "80a001ba43d33f945c6b18b54688d5af": {
@@ -1880,12 +1898,6 @@
    "role": "Verkoopmedewerker / Sales Associate/stockroom - 24 Hours M/f / Amsterdam",
    "location": "Amsterdam"
   },
-  "d87a8e02b7e206def0e71c7102de8360": {
-   "id": "d87a8e02b7e206def0e71c7102de8360",
-   "company": "Reiss",
-   "role": "Verkoopmedewerker / Sales Associate M/f 24/32 Uren / Amsterdam",
-   "location": "Amsterdam"
-  },
   "63d0ae526fd4aa88db79719bea37f77b": {
    "id": "63d0ae526fd4aa88db79719bea37f77b",
    "company": "Bechtle AG",
@@ -1920,6 +1932,12 @@
    "id": "146afec623820e676ff3fa1438a48512",
    "company": "Basic-Fit",
    "role": "Business Development Assistant",
+   "location": "Amsterdam"
+  },
+  "1c463e7e89feb487ec88627e36697194": {
+   "id": "1c463e7e89feb487ec88627e36697194",
+   "company": "vb&t Groep",
+   "role": "Allround Administratief Ondersteuner Vastgoed",
    "location": "Amsterdam"
   },
   "dc0fd686c8296bec9df449aa842275c0": {
