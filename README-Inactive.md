@@ -2494,4 +2494,17 @@
 <tr><td>Schindler Group</td><td>Service Technician Regio Leiden</td><td>Alphen Aan Den Rijn</td><td>2026-11-14</td></tr>
 <tr><td>H&M</td><td>Verkoopmedewerker - Purmerend (21/26 Uur)</td><td>Amsterdam</td><td>2026-11-14</td></tr>
 <tr><td>Reiss</td><td>Verkoopmedewerker / Sales Associate M/f 24/32 Uren / Amsterdam</td><td>Amsterdam</td><td>2026-11-14</td></tr>
+<tr><td>Signify</td><td>Group Accounting And Reporting Internship</td><td>Amsterdam</td><td>2026-11-15</td></tr>
+<tr><td>Nestle SA</td><td>Nespresso Finance Internship</td><td>Amsterdam</td><td>2026-11-15</td></tr>
+<tr><td>Nestle SA</td><td>Nespresso Commercial Excellence B2b Meewerkstage</td><td>Amstelveen</td><td>2026-11-15</td></tr>
+<tr><td>Nestle Ltd</td><td>Nespresso Product Marketing &amp; Brand Activation Meewerkstage</td><td>Netherlands</td><td>2026-11-15</td></tr>
+<tr><td>Nestle Ltd</td><td>Nespresso Commercial Excellence B2b Meewerkstage</td><td>Netherlands</td><td>2026-11-15</td></tr>
+<tr><td>Citi Handlowy</td><td>Banking, Investment Banking, Placement Analyst, Amsterdam – Netherlands 2027</td><td>Amsterdam</td><td>2026-11-15</td></tr>
+<tr><td>ING</td><td>Internship Debt Capital Markets – Ig Corporate Origination</td><td>Amsterdam</td><td>2026-11-15</td></tr>
+<tr><td>Nebius</td><td>Business Analyst, Revenue & Unit Economics</td><td>Amsterdam</td><td>2026-11-15</td></tr>
+<tr><td>Commonwealth Bank of Australia (Europe) N.V.</td><td>Analyst Regulatory Reporting</td><td>Amsterdam</td><td>2026-11-15</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkoopmedewerker - Purmerend (21/26 Uur)</td><td>Amsterdam</td><td>2026-11-15</td></tr>
+<tr><td>Reiss</td><td>Verkoopmedewerker / Sales Associate (m/f) / Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-11-15</td></tr>
+<tr><td>Reiss</td><td>Verkoopmedewerker / Sales Associate/stockroom - 24 Hours M/f / Amsterdam</td><td>Amsterdam</td><td>2026-11-15</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Financial Administrative Assistant</td><td>Venlo</td><td>2026-11-15</td></tr>
 </table>

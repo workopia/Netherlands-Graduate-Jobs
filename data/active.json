@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-14",
- "count": 345,
+ "asOf": "2026-11-15",
+ "count": 338,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -32,17 +32,41 @@
    "role": "Marketing Procurement Intern",
    "location": "Amsterdam"
   },
+  "6ba4295e2dad28349d223c10a49765a4": {
+   "id": "6ba4295e2dad28349d223c10a49765a4",
+   "company": "Avery Dennison Corp",
+   "role": "Internship: Marketing Product Management - Pharma",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "f829583d6357bb3fc92229e5ce2cc5df": {
+   "id": "f829583d6357bb3fc92229e5ce2cc5df",
+   "company": "Avery Dennison",
+   "role": "Internship: Marketing Product Management - Pharma",
+   "location": "Alphen Aan Den Rijn"
+  },
   "c9038c88a1f30a324e07c8c79412489b": {
    "id": "c9038c88a1f30a324e07c8c79412489b",
    "company": "Euronext Technologies SaS",
    "role": "Listing Analyst Intern",
    "location": "Amsterdam"
   },
+  "3c2c783095281c0b4015742f3f959018": {
+   "id": "3c2c783095281c0b4015742f3f959018",
+   "company": "McDonald's",
+   "role": "Intern Strategic Sourcing",
+   "location": "Netherlands"
+  },
   "3ef9b3e089f5ca459279dda021a25f0e": {
    "id": "3ef9b3e089f5ca459279dda021a25f0e",
    "company": "Coty",
    "role": "Marketing Procurement Intern",
    "location": "Amsterdam"
+  },
+  "5a7d711df7a11abd600389fbeda87da9": {
+   "id": "5a7d711df7a11abd600389fbeda87da9",
+   "company": "Danone",
+   "role": "Internship: Global Procurement - Whey And Dairy Ingredients",
+   "location": "Hoofddorp +1"
   },
   "1535bfcb763f7fd2c8a269514022ad0e": {
    "id": "1535bfcb763f7fd2c8a269514022ad0e",
@@ -73,6 +97,12 @@
    "company": "Deutsche Bank",
    "role": "Benelux Seasonal 2027 Interns",
    "location": "Amsterdam"
+  },
+  "759f900319ab37badf0efbd243e474ff": {
+   "id": "759f900319ab37badf0efbd243e474ff",
+   "company": "Microsoft",
+   "role": "Customer Success Account Mgmt INTERN",
+   "location": "Schiphol +2"
   },
   "2ad043ccc8b44b441696d6e43b446c6d": {
    "id": "2ad043ccc8b44b441696d6e43b446c6d",
@@ -464,36 +494,6 @@
    "role": "Distribution & Ecommerce Intern",
    "location": "Amsterdam"
   },
-  "300855619a2a3f17d0fdaf6734315d67": {
-   "id": "300855619a2a3f17d0fdaf6734315d67",
-   "company": "Signify",
-   "role": "Group Accounting And Reporting Internship",
-   "location": "Amsterdam"
-  },
-  "80b33710fbc3037e0e27b964ba98a8d4": {
-   "id": "80b33710fbc3037e0e27b964ba98a8d4",
-   "company": "Nestle SA",
-   "role": "Nespresso Finance Internship",
-   "location": "Amsterdam"
-  },
-  "b709b86cce36603397af1c0c0f9ba77d": {
-   "id": "b709b86cce36603397af1c0c0f9ba77d",
-   "company": "Nestle SA",
-   "role": "Nespresso Commercial Excellence B2b Meewerkstage",
-   "location": "Amstelveen"
-  },
-  "d0bdb4f83a9532cb1038154f79b182ef": {
-   "id": "d0bdb4f83a9532cb1038154f79b182ef",
-   "company": "Nestle Ltd",
-   "role": "Nespresso Product Marketing &amp; Brand Activation Meewerkstage",
-   "location": "Netherlands"
-  },
-  "9197479cd23446717d43023c107bed29": {
-   "id": "9197479cd23446717d43023c107bed29",
-   "company": "Nestle Ltd",
-   "role": "Nespresso Commercial Excellence B2b Meewerkstage",
-   "location": "Netherlands"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -752,18 +752,6 @@
    "role": "Banking Off Cycle Internship Programme 2027 Amsterdam",
    "location": "Amsterdam"
   },
-  "cad281eea4cb15fc28e8942d25ab9f62": {
-   "id": "cad281eea4cb15fc28e8942d25ab9f62",
-   "company": "Citi Handlowy",
-   "role": "Banking, Investment Banking, Placement Analyst, Amsterdam – Netherlands 2027",
-   "location": "Amsterdam"
-  },
-  "262aa92cc43c579a2579184288367506": {
-   "id": "262aa92cc43c579a2579184288367506",
-   "company": "ING",
-   "role": "Internship Debt Capital Markets – Ig Corporate Origination",
-   "location": "Amsterdam"
-  },
   "bbbb7815b8b491c67e32170205a615fb": {
    "id": "bbbb7815b8b491c67e32170205a615fb",
    "company": "FTI Consulting",
@@ -931,18 +919,6 @@
    "company": "Jobgether",
    "role": "Business/process Analyst",
    "location": "Netherlands"
-  },
-  "e52d8308b9f118bd592cd58a0cae85be": {
-   "id": "e52d8308b9f118bd592cd58a0cae85be",
-   "company": "Nebius",
-   "role": "Business Analyst, Revenue & Unit Economics",
-   "location": "Amsterdam"
-  },
-  "e42280c59ada5a4af891a9b1df3c4231": {
-   "id": "e42280c59ada5a4af891a9b1df3c4231",
-   "company": "Commonwealth Bank of Australia (Europe) N.V.",
-   "role": "Analyst Regulatory Reporting",
-   "location": "Amsterdam"
   },
   "500006c259778733a6e5bc052bbd9391": {
    "id": "500006c259778733a6e5bc052bbd9391",
@@ -1424,6 +1400,12 @@
    "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
    "location": "Alphen Aan Den Rijn"
   },
+  "d2cd8785036d232d61707ddd0b2f1728": {
+   "id": "d2cd8785036d232d61707ddd0b2f1728",
+   "company": "Audemars Piguet",
+   "role": "Sales Associate",
+   "location": "Amsterdam"
+  },
   "858cad6b5c57b768e849f83c1e503ff5": {
    "id": "858cad6b5c57b768e849f83c1e503ff5",
    "company": "H&M",
@@ -1880,24 +1862,6 @@
    "role": "Part Time - Sales Associate, Ugg - Amsterdam",
    "location": "Amsterdam"
   },
-  "69241ff2c30fe8b59bed4d4bf432b631": {
-   "id": "69241ff2c30fe8b59bed4d4bf432b631",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Verkoopmedewerker - Purmerend (21/26 Uur)",
-   "location": "Amsterdam"
-  },
-  "5e2bb6780196911e99861be2edfc4824": {
-   "id": "5e2bb6780196911e99861be2edfc4824",
-   "company": "Reiss",
-   "role": "Verkoopmedewerker / Sales Associate (m/f) / Den Haag",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "a1f8c9baba2f72432d4658908c94812e": {
-   "id": "a1f8c9baba2f72432d4658908c94812e",
-   "company": "Reiss",
-   "role": "Verkoopmedewerker / Sales Associate/stockroom - 24 Hours M/f / Amsterdam",
-   "location": "Amsterdam"
-  },
   "63d0ae526fd4aa88db79719bea37f77b": {
    "id": "63d0ae526fd4aa88db79719bea37f77b",
    "company": "Bechtle AG",
@@ -2059,12 +2023,6 @@
    "company": "Primark",
    "role": "Fulltime Retail Assistant Eindhoven",
    "location": "Eindhoven"
-  },
-  "fbce0d49c52c36e9f1b84185349b60c0": {
-   "id": "fbce0d49c52c36e9f1b84185349b60c0",
-   "company": "DSV Panalpina AS",
-   "role": "Financial Administrative Assistant",
-   "location": "Venlo"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",
