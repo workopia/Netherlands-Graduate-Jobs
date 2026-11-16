@@ -2507,4 +2507,8 @@
 <tr><td>Reiss</td><td>Verkoopmedewerker / Sales Associate (m/f) / Den Haag</td><td>Alphen Aan Den Rijn</td><td>2026-11-15</td></tr>
 <tr><td>Reiss</td><td>Verkoopmedewerker / Sales Associate/stockroom - 24 Hours M/f / Amsterdam</td><td>Amsterdam</td><td>2026-11-15</td></tr>
 <tr><td>DSV Panalpina AS</td><td>Financial Administrative Assistant</td><td>Venlo</td><td>2026-11-15</td></tr>
+<tr><td>Flow Traders</td><td>Trading Tools Software Engineer</td><td>Amsterdam</td><td>2026-11-16</td></tr>
+<tr><td>Schneider Electric</td><td>Vie - Commercial Data Governance Analyst - Amsterdam</td><td>Amsterdam</td><td>2026-11-16</td></tr>
+<tr><td>Insify</td><td>Finance & Data Analyst</td><td>Amsterdam</td><td>2026-11-16</td></tr>
+<tr><td>Jobgether</td><td>Business/process Analyst</td><td>Netherlands</td><td>2026-11-16</td></tr>
 </table>

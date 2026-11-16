@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-15",
- "count": 338,
+ "asOf": "2026-11-16",
+ "count": 335,
  "jobs": {
   "2750069": {
    "id": "2750069",
@@ -554,12 +554,6 @@
    "role": "Software Engineer (java) - Identify & Verification Services Team",
    "location": "Amsterdam"
   },
-  "561896e022732fb859919061b323732c": {
-   "id": "561896e022732fb859919061b323732c",
-   "company": "Flow Traders",
-   "role": "Trading Tools Software Engineer",
-   "location": "Amsterdam"
-  },
   "8d5d7844917911ddcdd14d9919d2198b": {
    "id": "8d5d7844917911ddcdd14d9919d2198b",
    "company": "Monks",
@@ -679,18 +673,6 @@
    "company": "Jobgether",
    "role": "Marketing & Data Analyst",
    "location": "Netherlands"
-  },
-  "6d1799d66effff4bdfce015c3848fbaa": {
-   "id": "6d1799d66effff4bdfce015c3848fbaa",
-   "company": "Schneider Electric",
-   "role": "Vie - Commercial Data Governance Analyst - Amsterdam",
-   "location": "Amsterdam"
-  },
-  "276307cbef567504b102add702d515ab": {
-   "id": "276307cbef567504b102add702d515ab",
-   "company": "Insify",
-   "role": "Finance & Data Analyst",
-   "location": "Amsterdam"
   },
   "cae3d9aaff030c801993b8656e420288": {
    "id": "cae3d9aaff030c801993b8656e420288",
@@ -912,12 +894,6 @@
    "id": "061f6243066252994273a4a2a7012192",
    "company": "Jobgether",
    "role": "Product Analyst",
-   "location": "Netherlands"
-  },
-  "de144205b42cd7977425507dcd1a5f42": {
-   "id": "de144205b42cd7977425507dcd1a5f42",
-   "company": "Jobgether",
-   "role": "Business/process Analyst",
    "location": "Netherlands"
   },
   "500006c259778733a6e5bc052bbd9391": {
@@ -1399,6 +1375,12 @@
    "company": "Schindler Group",
    "role": "Servicemonteur Roltrappen - Regio Midden Nederland",
    "location": "Alphen Aan Den Rijn"
+  },
+  "1e903efbc49cc499b7c8dd4bfc488b09": {
+   "id": "1e903efbc49cc499b7c8dd4bfc488b09",
+   "company": "Levi Strauss & Co.",
+   "role": "Sales Stylist 16h",
+   "location": "Amsterdam"
   },
   "d2cd8785036d232d61707ddd0b2f1728": {
    "id": "d2cd8785036d232d61707ddd0b2f1728",
