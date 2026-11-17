@@ -2511,4 +2511,9 @@
 <tr><td>Schneider Electric</td><td>Vie - Commercial Data Governance Analyst - Amsterdam</td><td>Amsterdam</td><td>2026-11-16</td></tr>
 <tr><td>Insify</td><td>Finance & Data Analyst</td><td>Amsterdam</td><td>2026-11-16</td></tr>
 <tr><td>Jobgether</td><td>Business/process Analyst</td><td>Netherlands</td><td>2026-11-16</td></tr>
+<tr><td>Boekenvoordeel B.V</td><td>Verkoopmedewerker Amsterdam 16 Uur</td><td>Amsterdam</td><td>2026-11-17</td></tr>
+<tr><td>Schneider Electric</td><td>Distribution & Ecommerce Intern</td><td>Amsterdam</td><td>2026-11-17</td></tr>
+<tr><td>Jobgether</td><td>Product Analyst</td><td>Netherlands</td><td>2026-11-17</td></tr>
+<tr><td>COS</td><td>Sales Advisor 5-12h</td><td>Alphen Aan Den Rijn</td><td>2026-11-17</td></tr>
+<tr><td>Deckers</td><td>Part Time - Sales Associate, Ugg - Amsterdam</td><td>Amsterdam</td><td>2026-11-17</td></tr>
 </table>
