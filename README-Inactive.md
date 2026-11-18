@@ -2516,4 +2516,16 @@
 <tr><td>Jobgether</td><td>Product Analyst</td><td>Netherlands</td><td>2026-11-17</td></tr>
 <tr><td>COS</td><td>Sales Advisor 5-12h</td><td>Alphen Aan Den Rijn</td><td>2026-11-17</td></tr>
 <tr><td>Deckers</td><td>Part Time - Sales Associate, Ugg - Amsterdam</td><td>Amsterdam</td><td>2026-11-17</td></tr>
+<tr><td>Informa PLC</td><td>Event Executive Internship</td><td>Amsterdam</td><td>2026-11-18</td></tr>
+<tr><td>Informa PLC</td><td>Marketing Internship</td><td>Amsterdam</td><td>2026-11-18</td></tr>
+<tr><td>Informa PLC</td><td>Digital Marketing Internship</td><td>Amsterdam</td><td>2026-11-18</td></tr>
+<tr><td>Danone</td><td>Internship (marketing): Digital Marketing Content Platform</td><td>Hoofddorp +2</td><td>2026-11-18</td></tr>
+<tr><td>McDermott International</td><td>Intern</td><td>Alphen Aan Den Rijn</td><td>2026-11-18</td></tr>
+<tr><td>Adyen</td><td>Software Engineer (java) - Identify & Verification Services Team</td><td>Amsterdam</td><td>2026-11-18</td></tr>
+<tr><td>Jobgether</td><td>Marketing & Data Analyst</td><td>Netherlands</td><td>2026-11-18</td></tr>
+<tr><td>Mt</td><td>Trainee Field Service Technician Noord-holland</td><td>Noord-Holland</td><td>2026-11-18</td></tr>
+<tr><td>Mt</td><td>Technicus Met Rijbewijs C</td><td>Unknown</td><td>2026-11-18</td></tr>
+<tr><td>Volvo Group Truck Center</td><td>Apk & Tachograaf Keurmeester</td><td>Alphen Aan Den Rijn</td><td>2026-11-18</td></tr>
+<tr><td>Schindler Group</td><td>Servicemonteur Roltrappen - Regio Midden Nederland</td><td>Alphen Aan Den Rijn</td><td>2026-11-18</td></tr>
+<tr><td>Primark</td><td>Fulltime Retail Assistant Eindhoven</td><td>Eindhoven</td><td>2026-11-18</td></tr>
 </table>
