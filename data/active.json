@@ -1,11 +1,101 @@
 {
- "asOf": "2026-11-18",
- "count": 333,
+ "asOf": "2026-11-19",
+ "count": 337,
  "jobs": {
   "2757993": {
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "f18796a4bb12fd45f7ebf6304fe840d3": {
+   "id": "f18796a4bb12fd45f7ebf6304fe840d3",
+   "company": "Boston Scientific",
+   "role": "Health Economics & Market Access Intern",
+   "location": "Utrecht +1"
+  },
+  "81a7f9237ee5003c159033a9e9fc185b": {
+   "id": "81a7f9237ee5003c159033a9e9fc185b",
+   "company": "Boston Scientific",
+   "role": "Internship Assignment (students Only)- Supply Chain & Freight Analytics Intern",
+   "location": "Kerkrade +1"
+  },
+  "30bdfb008c2af62ef4bbfe87ff6ff5e0": {
+   "id": "30bdfb008c2af62ef4bbfe87ff6ff5e0",
+   "company": "Intelex",
+   "role": "Service Intern",
+   "location": "Eindhoven"
+  },
+  "b7f70dc319d4875bb843ecc5297b65ef": {
+   "id": "b7f70dc319d4875bb843ecc5297b65ef",
+   "company": "KraftHeinz",
+   "role": "Culinary Capabilities Intern",
+   "location": "Arnhem"
+  },
+  "040ab7cd6d8b3ff28695ad90bb6c259e": {
+   "id": "040ab7cd6d8b3ff28695ad90bb6c259e",
+   "company": "PPD (Thermo Fisher) UK",
+   "role": "Intern Assignment: Image Quality Improvement Of Direct Detection Cameras",
+   "location": "Eindhoven"
+  },
+  "8af195d6fd38d62474cc1d470e7a74fc": {
+   "id": "8af195d6fd38d62474cc1d470e7a74fc",
+   "company": "Fortive Corporation",
+   "role": "Service Intern",
+   "location": "Eindhoven"
+  },
+  "d45fbdf50e80bdba820c266d33df6f14": {
+   "id": "d45fbdf50e80bdba820c266d33df6f14",
+   "company": "Signify",
+   "role": "Internship - Emlyon Student's Visit To Signify",
+   "location": "Eindhoven"
+  },
+  "b91cb444b0789b243ac3ea39d4e3ecca": {
+   "id": "b91cb444b0789b243ac3ea39d4e3ecca",
+   "company": "Linklaters",
+   "role": "Student-stagiair(e)",
+   "location": "Amsterdam"
+  },
+  "0a64bb3142a172779c75e3f4c0498473": {
+   "id": "0a64bb3142a172779c75e3f4c0498473",
+   "company": "Golden Palms Rehabilitation and Retirement",
+   "role": "Stagiair(e) Reserveringen",
+   "location": "Slagharen +1"
+  },
+  "95bb0608add196ee020757d315b72227": {
+   "id": "95bb0608add196ee020757d315b72227",
+   "company": "Sanofi Genzyme",
+   "role": "Medical Affairs Intern – Rare Hematology",
+   "location": "Amsterdam"
+  },
+  "24955703a4e4069307b29feb75ce6ef5": {
+   "id": "24955703a4e4069307b29feb75ce6ef5",
+   "company": "Sanofi Genzyme",
+   "role": "Medical Affairs Intern – Immunology",
+   "location": "Amsterdam"
+  },
+  "a95b6f76d6ea8f8d15897bf99afbb2c9": {
+   "id": "a95b6f76d6ea8f8d15897bf99afbb2c9",
+   "company": "Koninklijke Philips",
+   "role": "Internship: Supplier Management Support (non-thesis)",
+   "location": "Eindhoven"
+  },
+  "8bfac7fc7bf5a0f0740631b34ca0db2e": {
+   "id": "8bfac7fc7bf5a0f0740631b34ca0db2e",
+   "company": "Koninklijke Philips",
+   "role": "Internship: Commercial Strategy & Sales (dutch Speaking)",
+   "location": "Eindhoven"
+  },
+  "eec5d6f4e3d0b15c897f7ce536c8a13c": {
+   "id": "eec5d6f4e3d0b15c897f7ce536c8a13c",
+   "company": "Elsevier",
+   "role": "Intern",
+   "location": "Amsterdam"
+  },
+  "4deafe3ae1b86cd2ac801b3bdb96ab19": {
+   "id": "4deafe3ae1b86cd2ac801b3bdb96ab19",
+   "company": "G&F Châtelain",
+   "role": "Internship – Retail Operations Assistant – Fashion – Benelux & Scandinavia – January 2027 – M/f/d",
    "location": "Amsterdam"
   },
   "70ba696f407bb4feba5d9fcfe8e75b4b": {
@@ -19,6 +109,30 @@
    "company": "Heineken International BV",
    "role": "Internship - Global Cslp Analytics",
    "location": "Netherlands"
+  },
+  "c7487c36e9aca656a73c06c84d33ce64": {
+   "id": "c7487c36e9aca656a73c06c84d33ce64",
+   "company": "By433",
+   "role": "Internship - Creative Prompter / Graphic Design Womenfc (feb 2027)",
+   "location": "Amsterdam"
+  },
+  "78695e9bcfc0e28cae02b1f5f95d4a46": {
+   "id": "78695e9bcfc0e28cae02b1f5f95d4a46",
+   "company": "Amazon",
+   "role": "Professional Services Cloud Consultant Intern",
+   "location": "Amsterdam"
+  },
+  "6a7739bf879756b1faa44f0a5056001f": {
+   "id": "6a7739bf879756b1faa44f0a5056001f",
+   "company": "Catawiki",
+   "role": "Accounting & Reporting Intern",
+   "location": "Amsterdam"
+  },
+  "b8f757e92b9f12203fab0847af8b0ed7": {
+   "id": "b8f757e92b9f12203fab0847af8b0ed7",
+   "company": "Nielen Schuman",
+   "role": "Internship",
+   "location": "Amsterdam +1"
   },
   "118fba153c0c498613a1e4428c762fab": {
    "id": "118fba153c0c498613a1e4428c762fab",
@@ -374,124 +488,16 @@
    "role": "Internship - Water And Wastewater Performance",
    "location": "Schiphol Airport +1"
   },
-  "b855d231c6ed3a905ce580be9a50c00d": {
-   "id": "b855d231c6ed3a905ce580be9a50c00d",
-   "company": "DEPT",
-   "role": "Intern Research & Digital Strategy",
-   "location": "Amsterdam"
-  },
-  "a1a7665f8e62939d03d7396001ee372b": {
-   "id": "a1a7665f8e62939d03d7396001ee372b",
-   "company": "DEPT",
-   "role": "Intern Project Management",
-   "location": "Amsterdam"
-  },
-  "db40060b96df620def1b2a3b2edc6323": {
-   "id": "db40060b96df620def1b2a3b2edc6323",
-   "company": "DEPT",
-   "role": "Intern Brand Design",
-   "location": "Amsterdam"
-  },
-  "6775a94069d9c46e01e9eda5efd6676b": {
-   "id": "6775a94069d9c46e01e9eda5efd6676b",
-   "company": "DEPT",
-   "role": "Marketing Support Intern",
-   "location": "Amsterdam"
-  },
-  "5114b4bb21d8b1456803bfe9b9ba5c11": {
-   "id": "5114b4bb21d8b1456803bfe9b9ba5c11",
-   "company": "Kao",
-   "role": "Marketing Intern Guhl, John Frieda & Bondi Sands",
-   "location": "Amersfoort"
-  },
-  "354eb43b30a7b5c59c3717a44fdd3c46": {
-   "id": "354eb43b30a7b5c59c3717a44fdd3c46",
-   "company": "Bloomberg LP",
-   "role": "2027 Summer News Internship",
-   "location": "Amsterdam"
-  },
-  "51cdaf2a059c47b0143bdc2b0b22c65b": {
-   "id": "51cdaf2a059c47b0143bdc2b0b22c65b",
-   "company": "Catawiki",
-   "role": "Communications Intern",
-   "location": "Amsterdam"
-  },
-  "6e17da1a1c79c1db04d4f6d3abeaa325": {
-   "id": "6e17da1a1c79c1db04d4f6d3abeaa325",
-   "company": "Danone",
-   "role": "Global Marketing Procurement Intern",
-   "location": "Hoofddorp +2"
-  },
-  "98ad3c1109c31e740460faf746dc041e": {
-   "id": "98ad3c1109c31e740460faf746dc041e",
-   "company": "Build in Amsterdam",
-   "role": "Digital Design Internshipinternshipamsterdam",
-   "location": "Amsterdam"
-  },
-  "1ac2b6cf04d1105b9ac3786e8141fb0e": {
-   "id": "1ac2b6cf04d1105b9ac3786e8141fb0e",
-   "company": "KraftHeinz",
-   "role": "Customer Excellence Intern",
-   "location": "Amsterdam"
-  },
-  "78ec943a9416304801ff55c82b3b4517": {
-   "id": "78ec943a9416304801ff55c82b3b4517",
-   "company": "Thermo Fisher Scientific",
-   "role": "Sr. Genai Intern",
-   "location": "Eindhoven"
-  },
-  "561ea3c7b320526ae7661058634f92e6": {
-   "id": "561ea3c7b320526ae7661058634f92e6",
-   "company": "Sanofi",
-   "role": "Local Marketing Intern",
-   "location": "Amsterdam"
-  },
-  "2f760123b63971a435f5c564c5a60c70": {
-   "id": "2f760123b63971a435f5c564c5a60c70",
-   "company": "Philips UK",
-   "role": "Internship: Sustainability Requirements Management & Digital Transformation",
-   "location": "Eindhoven"
-  },
-  "5d674e7cc8f5f887536fc45e8503942b": {
-   "id": "5d674e7cc8f5f887536fc45e8503942b",
-   "company": "Investmentbankinginternships",
-   "role": "Internship - Supervisory Affairs & Public And Regulatory Affairs",
-   "location": "Cedar"
-  },
-  "2e0a0bca1cec73b36f44de1784359713": {
-   "id": "2e0a0bca1cec73b36f44de1784359713",
-   "company": "Microsoft",
-   "role": "Cloud Solution Architecture INTERN",
-   "location": "Schiphol +2"
-  },
-  "eb93a43161f00d5bdcf69b896d0f0dde": {
-   "id": "eb93a43161f00d5bdcf69b896d0f0dde",
-   "company": "The Hoxton",
-   "role": "Finance Intern - The Hoxton, Amsterdam",
-   "location": "Amsterdam"
-  },
-  "df0fec76b0d3179178eedf685886a7f1": {
-   "id": "df0fec76b0d3179178eedf685886a7f1",
-   "company": "Accor",
-   "role": "Finance Intern - The Hoxton, Amsterdam",
-   "location": "Amsterdam"
-  },
-  "f2a4eedee334dd452af582408cd0cb75": {
-   "id": "f2a4eedee334dd452af582408cd0cb75",
-   "company": "Informa PLC",
-   "role": "Content Internship",
-   "location": "Amsterdam"
-  },
-  "436c38325fd465b17d21181a0824c6b0": {
-   "id": "436c38325fd465b17d21181a0824c6b0",
-   "company": "Informa PLC",
-   "role": "Business & Process Analyst Internship",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
    "role": "Junior Software Engineer I - Summer Internship 2027 (amsterdam)",
+   "location": "Amsterdam"
+  },
+  "40bfd8ea715f2c582c0e2ed49d6554b2": {
+   "id": "40bfd8ea715f2c582c0e2ed49d6554b2",
+   "company": "IMC Trading",
+   "role": "C++ Software Engineer, Early Careers",
    "location": "Amsterdam"
   },
   "4ddaf8138deeda90fa3902cd7efdef40": {
@@ -740,6 +746,18 @@
    "role": "Business Consulting Traineeship",
    "location": "Randstad"
   },
+  "5e5142264e0980053ec2dd0547e8452c": {
+   "id": "5e5142264e0980053ec2dd0547e8452c",
+   "company": "AT Osborne",
+   "role": "Adviseur Energie",
+   "location": "Hilversum"
+  },
+  "b25b822549c92ad30e807c983afd1e5c": {
+   "id": "b25b822549c92ad30e807c983afd1e5c",
+   "company": "CGI",
+   "role": "Business Analist – Energiemanagement & Flexibiliteit",
+   "location": "Rotterdam +1"
+  },
   "1ec9bb5c3f3e27ae7e75c7d840181240": {
    "id": "1ec9bb5c3f3e27ae7e75c7d840181240",
    "company": "investmentbankinginternships.com",
@@ -883,6 +901,24 @@
    "company": "Antler",
    "role": "Visiting Investment Analyst",
    "location": "Amsterdam"
+  },
+  "b9d4f21e3f95e0764b7515c0085c3075": {
+   "id": "b9d4f21e3f95e0764b7515c0085c3075",
+   "company": "Alstom",
+   "role": "Electrical Maintenance Technician",
+   "location": "Rotterdam +1"
+  },
+  "7256084c55f36ffeafd0ba58dbce3342": {
+   "id": "7256084c55f36ffeafd0ba58dbce3342",
+   "company": "SteelcoBelimed",
+   "role": "Field Service Engineer (regio Midden-oost Nederland)",
+   "location": "Midden-Oost Nederland"
+  },
+  "1e606d4acf3268929dd880dec09dd562": {
+   "id": "1e606d4acf3268929dd880dec09dd562",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Service Technician Security Lane Systems",
+   "location": "Schiphol"
   },
   "82d4a46b5036c511e6a97f74512bac3f": {
    "id": "82d4a46b5036c511e6a97f74512bac3f",
@@ -1346,23 +1382,11 @@
    "role": "Service Center Technician",
    "location": "Amsterdam"
   },
-  "6966d9d8a4d3917e54d6cb1e18c310b7": {
-   "id": "6966d9d8a4d3917e54d6cb1e18c310b7",
-   "company": "De Jong Verpakking",
-   "role": "Allround Servicemonteur",
-   "location": "Den Hoorn"
-  },
-  "a09d3e6239e3ba27bd503eca094b6cfd": {
-   "id": "a09d3e6239e3ba27bd503eca094b6cfd",
-   "company": "Outokumpu Oyj",
-   "role": "Mechanical Technician",
-   "location": "Westdorpe"
-  },
-  "85d72453a430e4bd0714d9132b15b605": {
-   "id": "85d72453a430e4bd0714d9132b15b605",
-   "company": "Mt",
-   "role": "Trainee Field Service Technicus (noord-holland)",
-   "location": "Noord-Holland"
+  "9d65b425c3ba48e67598359273f438a0": {
+   "id": "9d65b425c3ba48e67598359273f438a0",
+   "company": "Levi Strauss & Co.",
+   "role": "Sales Stylist 24h",
+   "location": "Amsterdam"
   },
   "4e926f2f751d88b0009a145000f45e06": {
    "id": "4e926f2f751d88b0009a145000f45e06",
@@ -1832,11 +1856,11 @@
    "role": "Urban Outfitters Sales Associate - Amsterdam Kalverstraat, Nl",
    "location": "Amsterdam"
   },
-  "92113c6ef02f2f3406e100f849ba8b87": {
-   "id": "92113c6ef02f2f3406e100f849ba8b87",
-   "company": "Loods 5",
-   "role": "Bijbaan Verkoopadviseur Interieur / Weekenden En Vakantiesparttimezaandam",
-   "location": "Amsterdam"
+  "db278ce2c50260dd286e4db099b0cb09": {
+   "id": "db278ce2c50260dd286e4db099b0cb09",
+   "company": "Mars Australia",
+   "role": "Customer Service Coordinator",
+   "location": "North Brabant"
   },
   "63d0ae526fd4aa88db79719bea37f77b": {
    "id": "63d0ae526fd4aa88db79719bea37f77b",

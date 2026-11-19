@@ -2528,4 +2528,27 @@
 <tr><td>Volvo Group Truck Center</td><td>Apk & Tachograaf Keurmeester</td><td>Alphen Aan Den Rijn</td><td>2026-11-18</td></tr>
 <tr><td>Schindler Group</td><td>Servicemonteur Roltrappen - Regio Midden Nederland</td><td>Alphen Aan Den Rijn</td><td>2026-11-18</td></tr>
 <tr><td>Primark</td><td>Fulltime Retail Assistant Eindhoven</td><td>Eindhoven</td><td>2026-11-18</td></tr>
+<tr><td>DEPT</td><td>Intern Research & Digital Strategy</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>DEPT</td><td>Intern Project Management</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>DEPT</td><td>Intern Brand Design</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>DEPT</td><td>Marketing Support Intern</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>Kao</td><td>Marketing Intern Guhl, John Frieda & Bondi Sands</td><td>Amersfoort</td><td>2026-11-19</td></tr>
+<tr><td>Bloomberg LP</td><td>2027 Summer News Internship</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>Catawiki</td><td>Communications Intern</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>Danone</td><td>Global Marketing Procurement Intern</td><td>Hoofddorp +2</td><td>2026-11-19</td></tr>
+<tr><td>Build in Amsterdam</td><td>Digital Design Internshipinternshipamsterdam</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>KraftHeinz</td><td>Customer Excellence Intern</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Sr. Genai Intern</td><td>Eindhoven</td><td>2026-11-19</td></tr>
+<tr><td>Sanofi</td><td>Local Marketing Intern</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>Philips UK</td><td>Internship: Sustainability Requirements Management & Digital Transformation</td><td>Eindhoven</td><td>2026-11-19</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Internship - Supervisory Affairs & Public And Regulatory Affairs</td><td>Cedar</td><td>2026-11-19</td></tr>
+<tr><td>Microsoft</td><td>Cloud Solution Architecture INTERN</td><td>Schiphol +2</td><td>2026-11-19</td></tr>
+<tr><td>The Hoxton</td><td>Finance Intern - The Hoxton, Amsterdam</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>Accor</td><td>Finance Intern - The Hoxton, Amsterdam</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>Informa PLC</td><td>Content Internship</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>Informa PLC</td><td>Business & Process Analyst Internship</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>De Jong Verpakking</td><td>Allround Servicemonteur</td><td>Den Hoorn</td><td>2026-11-19</td></tr>
+<tr><td>Outokumpu Oyj</td><td>Mechanical Technician</td><td>Westdorpe</td><td>2026-11-19</td></tr>
+<tr><td>Mt</td><td>Trainee Field Service Technicus (noord-holland)</td><td>Noord-Holland</td><td>2026-11-19</td></tr>
+<tr><td>Loods 5</td><td>Bijbaan Verkoopadviseur Interieur / Weekenden En Vakantiesparttimezaandam</td><td>Amsterdam</td><td>2026-11-19</td></tr>
 </table>
