@@ -2551,4 +2551,23 @@
 <tr><td>Outokumpu Oyj</td><td>Mechanical Technician</td><td>Westdorpe</td><td>2026-11-19</td></tr>
 <tr><td>Mt</td><td>Trainee Field Service Technicus (noord-holland)</td><td>Noord-Holland</td><td>2026-11-19</td></tr>
 <tr><td>Loods 5</td><td>Bijbaan Verkoopadviseur Interieur / Weekenden En Vakantiesparttimezaandam</td><td>Amsterdam</td><td>2026-11-19</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>Front Office Intern</td><td>Amsterdam</td><td>2026-11-20</td></tr>
+<tr><td>Fortive Corporation</td><td>Finance Intern</td><td>Eindhoven</td><td>2026-11-20</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Intern</td><td>Eindhoven</td><td>2026-11-20</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Sr. Digital Science Intern</td><td>Eindhoven</td><td>2026-11-20</td></tr>
+<tr><td>Allianz Technology SE</td><td>Compliance Intern</td><td>Rotterdam +1</td><td>2026-11-20</td></tr>
+<tr><td>NXP USA INC.</td><td>Intern: Material Property Estimation</td><td>Arnhem</td><td>2026-11-20</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Sr. Genai Intern</td><td>Eindhoven</td><td>2026-11-20</td></tr>
+<tr><td>Aquablu B.V</td><td>People & Culture Intern</td><td>Amsterdam</td><td>2026-11-20</td></tr>
+<tr><td>Trespa International B.V</td><td>Digital Marketing Communication Intern</td><td>Nl</td><td>2026-11-20</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Stagiair(e) Butler</td><td>Amsterdam</td><td>2026-11-20</td></tr>
+<tr><td>Armada Music</td><td>Content Creative Internship</td><td>Amsterdam</td><td>2026-11-20</td></tr>
+<tr><td>Twenty Seven Amsterdam B.V</td><td>Stagiair(e) Reserveringen</td><td>Amsterdam</td><td>2026-11-20</td></tr>
+<tr><td>Intelex</td><td>Finance Intern</td><td>Eindhoven</td><td>2026-11-20</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Water And Wastewater Performance</td><td>Schiphol Airport +1</td><td>2026-11-20</td></tr>
+<tr><td>VistaCreate</td><td>Maintenance Technician X3</td><td>Venlo</td><td>2026-11-20</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Mechanisch Monteur</td><td>Alphen Aan Den Rijn</td><td>2026-11-20</td></tr>
+<tr><td>Controlant hf</td><td>Service Center Technician</td><td>Amsterdam</td><td>2026-11-20</td></tr>
+<tr><td>Audemars Piguet</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-11-20</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker – Delft (weekend/bijbaan)</td><td>Alphen Aan Den Rijn</td><td>2026-11-20</td></tr>
 </table>
