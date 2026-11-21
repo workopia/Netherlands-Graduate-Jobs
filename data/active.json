@@ -1,11 +1,101 @@
 {
- "asOf": "2026-11-20",
- "count": 337,
+ "asOf": "2026-11-21",
+ "count": 338,
  "jobs": {
   "2757993": {
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "28510c1daf0642bfe3471bfeb0892b4d": {
+   "id": "28510c1daf0642bfe3471bfeb0892b4d",
+   "company": "Coty Inc",
+   "role": "Intern Sales Team Prestige Benelux",
+   "location": "Europe"
+  },
+  "a924ad927bf3712704175117e2a0b4b2": {
+   "id": "a924ad927bf3712704175117e2a0b4b2",
+   "company": "Wakuli Koffie",
+   "role": "Coffee Packaging Specialist Intern (4-6 Months)",
+   "location": "Amsterdam"
+  },
+  "b3c59b8363a11d5e6869bd218b215bda": {
+   "id": "b3c59b8363a11d5e6869bd218b215bda",
+   "company": "KraftHeinz",
+   "role": "Procurement Operations And Enablement Intern",
+   "location": "Amsterdam"
+  },
+  "ce1b9980bf7c283cff93e380cf506278": {
+   "id": "ce1b9980bf7c283cff93e380cf506278",
+   "company": "MEDTRONIC",
+   "role": "Nextgen Academy Intern: Field Support",
+   "location": "Eindhoven"
+  },
+  "6c2495c884777d3944d3b134a0c91e52": {
+   "id": "6c2495c884777d3944d3b134a0c91e52",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Retail Operations Intern",
+   "location": "Amsterdam"
+  },
+  "52d2d5f2720f3918feae07d02e4dcfec": {
+   "id": "52d2d5f2720f3918feae07d02e4dcfec",
+   "company": "Cartier",
+   "role": "5. marketing & Merchandising Intern (cartier)",
+   "location": "Amsterdam"
+  },
+  "6eb35657f567d9cf8752cdbf259f899d": {
+   "id": "6eb35657f567d9cf8752cdbf259f899d",
+   "company": "Richemont",
+   "role": "Retail Operations Intern",
+   "location": "Amsterdam"
+  },
+  "fb8eeb72e41eae3b661888d7b908d0a3": {
+   "id": "fb8eeb72e41eae3b661888d7b908d0a3",
+   "company": "MSD",
+   "role": "Intern – Hbo Ai/machine Learning Or Bachelor Ict Ai – Qa Packaging",
+   "location": "North Brabant +1"
+  },
+  "9d12a75d83ffc5d363ae912d8c7982ec": {
+   "id": "9d12a75d83ffc5d363ae912d8c7982ec",
+   "company": "Dyson",
+   "role": "Marketing Intern - Home Category (january Start Date)",
+   "location": "Amsterdam"
+  },
+  "3c1df3e391c0dee24676018a5b08ed06": {
+   "id": "3c1df3e391c0dee24676018a5b08ed06",
+   "company": "Signify",
+   "role": "Integrity Investigations Internship",
+   "location": "Amsterdam"
+  },
+  "8dbcc9cd419e5be79cc90905c296784d": {
+   "id": "8dbcc9cd419e5be79cc90905c296784d",
+   "company": "Signify",
+   "role": "Global Employer Branding Intern",
+   "location": "Amsterdam +1"
+  },
+  "600e70f5c9fea60cdc27d220ca5b201b": {
+   "id": "600e70f5c9fea60cdc27d220ca5b201b",
+   "company": "VANDERLANDE INDUSTRIES",
+   "role": "Internship: Campus Recruitment",
+   "location": "S Hertogenbosch"
+  },
+  "dc0c9ee8382b082ebf8b07e09240dd75": {
+   "id": "dc0c9ee8382b082ebf8b07e09240dd75",
+   "company": "Sanofi Genzyme",
+   "role": "Social Media & Content Intern",
+   "location": "Amsterdam"
+  },
+  "b37600ed34207f7f383c96f60c5dd39b": {
+   "id": "b37600ed34207f7f383c96f60c5dd39b",
+   "company": "itinfinance.nl",
+   "role": "Internship - Interest Rate Risk In The Banking Book",
+   "location": "Cedar"
+  },
+  "5df6ac8cdb8d90e3c2683137729bb38b": {
+   "id": "5df6ac8cdb8d90e3c2683137729bb38b",
+   "company": "Workwize",
+   "role": "Operations Intern (oem)",
    "location": "Amsterdam"
   },
   "ec04d3239c4badaeedd1caa8bb07a79d": {
@@ -398,96 +488,6 @@
    "role": "Internship: Genai-assisted Software Modernization",
    "location": "Eindhoven"
   },
-  "c72c9030502293c14a1e8d22ddf45787": {
-   "id": "c72c9030502293c14a1e8d22ddf45787",
-   "company": "Abbott Laboratories",
-   "role": "Intern",
-   "location": "Breda"
-  },
-  "c306c1965a0138375667d95154310dd9": {
-   "id": "c306c1965a0138375667d95154310dd9",
-   "company": "PPD (Thermo Fisher)",
-   "role": "Sr. Digital Science Intern",
-   "location": "Eindhoven"
-  },
-  "013f85f40db86d50388f838d15226f44": {
-   "id": "013f85f40db86d50388f838d15226f44",
-   "company": "PPD (Thermo Fisher) UK",
-   "role": "Intern",
-   "location": "Eindhoven"
-  },
-  "6df9cf7dbdb6ccb3164b7b938f5a6660": {
-   "id": "6df9cf7dbdb6ccb3164b7b938f5a6660",
-   "company": "Heineken International BV",
-   "role": "Internship - Marketing &amp; Trade Marketing Nordics &amp; Baltics",
-   "location": "Amsterdam"
-  },
-  "9421e5762ace1a281dfec8850133107f": {
-   "id": "9421e5762ace1a281dfec8850133107f",
-   "company": "Heineken International BV",
-   "role": "Internship - Change &amp; Communication Global Digital And Technology",
-   "location": "Amsterdam"
-  },
-  "f0857c610b22ef7d0feeab02e9b68697": {
-   "id": "f0857c610b22ef7d0feeab02e9b68697",
-   "company": "Heineken International BV",
-   "role": "Internship - Telesales",
-   "location": "Amsterdam"
-  },
-  "b75b47ff5216fea8953e38e9d1de5bb2": {
-   "id": "b75b47ff5216fea8953e38e9d1de5bb2",
-   "company": "Heineken International BV",
-   "role": "Internship - Global Procurement Esg Regulatory Compliance",
-   "location": "Schiphol +1"
-  },
-  "4124b5d7c1be11565ae3e2b30e4aba6b": {
-   "id": "4124b5d7c1be11565ae3e2b30e4aba6b",
-   "company": "Sanofi",
-   "role": "Medical Affairs Intern– Neurology",
-   "location": "Amsterdam"
-  },
-  "738442f66f1082860d95a5524a03cbbe": {
-   "id": "738442f66f1082860d95a5524a03cbbe",
-   "company": "ING",
-   "role": "Data & Ai Adoption Intern",
-   "location": "Amsterdam"
-  },
-  "877ef58c4b37a66043ccc4132d9e252b": {
-   "id": "877ef58c4b37a66043ccc4132d9e252b",
-   "company": "Philips UK",
-   "role": "Internship: Finance Business Partner",
-   "location": "Amsterdam"
-  },
-  "dd66aac859c345709e6f920f9f2bf2d1": {
-   "id": "dd66aac859c345709e6f920f9f2bf2d1",
-   "company": "Allianz SE",
-   "role": "Compliance Intern",
-   "location": "Rotterdam +1"
-  },
-  "e85a207f2814dbcc64f3929d3a0e2485": {
-   "id": "e85a207f2814dbcc64f3929d3a0e2485",
-   "company": "McArthurGlen Group",
-   "role": "Tourism Marketing Intern",
-   "location": "Roermond +1"
-  },
-  "256c5324c9aaf93b82ad2f9e11e5af55": {
-   "id": "256c5324c9aaf93b82ad2f9e11e5af55",
-   "company": "My Jewellery",
-   "role": "Stage Influencer Marketing",
-   "location": "’S-Hertogenbosch +1"
-  },
-  "98aac333d496ff3e43b32ba7466568e6": {
-   "id": "98aac333d496ff3e43b32ba7466568e6",
-   "company": "Aquablu B.V",
-   "role": "Customer Success Intern",
-   "location": "Amsterdam"
-  },
-  "d227ec65200f418c3c4a7f688378f1ab": {
-   "id": "d227ec65200f418c3c4a7f688378f1ab",
-   "company": "Informa PLC",
-   "role": "Partnerships Coordinator Internship",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -564,6 +564,12 @@
    "id": "6912eec3081bb2a78cb984b2924a4d40",
    "company": "Oliver Wyman",
    "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "5f81ee8319e89bca4b14bff7c9d917d8": {
+   "id": "5f81ee8319e89bca4b14bff7c9d917d8",
+   "company": "Elsevier",
+   "role": "Data Analyst Ii",
    "location": "Amsterdam"
   },
   "8ae60d5e32aa734ee58e53fdaaad237e": {
@@ -746,6 +752,12 @@
    "role": "Business Consulting Traineeship",
    "location": "Randstad"
   },
+  "51bf5a6c80b7ef9b84bc72fdf9c9985d": {
+   "id": "51bf5a6c80b7ef9b84bc72fdf9c9985d",
+   "company": "DHL Group",
+   "role": "Global Bpo - Business Analyst",
+   "location": "Maastricht +1"
+  },
   "5e5142264e0980053ec2dd0547e8452c": {
    "id": "5e5142264e0980053ec2dd0547e8452c",
    "company": "AT Osborne",
@@ -902,9 +914,15 @@
    "role": "Visiting Investment Analyst",
    "location": "Amsterdam"
   },
-  "94ef651fd25bd3d11a415f4786e6dbbd": {
-   "id": "94ef651fd25bd3d11a415f4786e6dbbd",
-   "company": "JDE Peet’s",
+  "ee07e95916b3143993554189d384976a": {
+   "id": "ee07e95916b3143993554189d384976a",
+   "company": "Mars",
+   "role": "Mechanisch Monteur (dagdienst)",
+   "location": "North Brabant +1"
+  },
+  "94288c82f7ee2e8dccd0532880e26440": {
+   "id": "94288c82f7ee2e8dccd0532880e26440",
+   "company": "JDE Peet's",
    "role": "Servicemonteur (2 Ploegen)",
    "location": "Utrecht"
   },
@@ -1376,12 +1394,6 @@
    "role": "Maintenance Technician",
    "location": "Alphen Aan Den Rijn"
   },
-  "be97bdd1535c18ef7a5f43253ea327e3": {
-   "id": "be97bdd1535c18ef7a5f43253ea327e3",
-   "company": "Yunex Traffic",
-   "role": "Maintenance Engineer",
-   "location": "Netherlands"
-  },
   "e50e8ca18b7693fd001cdc812b006eb1": {
    "id": "e50e8ca18b7693fd001cdc812b006eb1",
    "company": "Audemars Piguet",
@@ -1844,17 +1856,11 @@
    "role": "Emea Aftersales And Technical Associate",
    "location": "Amsterdam"
   },
-  "d167927029599c20f34fe90275347ddb": {
-   "id": "d167927029599c20f34fe90275347ddb",
-   "company": "DNV",
-   "role": "Inside Sales Specialist Benelux",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "7c71d3f0eaa81017fdece8be8abe6c7a": {
-   "id": "7c71d3f0eaa81017fdece8be8abe6c7a",
-   "company": "Urban Outfitters",
-   "role": "Urban Outfitters Sales Associate - Amsterdam Kalverstraat, Nl",
-   "location": "Amsterdam"
+  "ddc738424f579374b35ef820d4745b05": {
+   "id": "ddc738424f579374b35ef820d4745b05",
+   "company": "Building Engines",
+   "role": "Facilities Coordinator",
+   "location": "Eindhoven"
   },
   "db278ce2c50260dd286e4db099b0cb09": {
    "id": "db278ce2c50260dd286e4db099b0cb09",

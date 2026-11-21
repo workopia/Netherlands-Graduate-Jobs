@@ -2570,4 +2570,23 @@
 <tr><td>Controlant hf</td><td>Service Center Technician</td><td>Amsterdam</td><td>2026-11-20</td></tr>
 <tr><td>Audemars Piguet</td><td>Sales Associate</td><td>Amsterdam</td><td>2026-11-20</td></tr>
 <tr><td>H&M</td><td>Verkoopmedewerker – Delft (weekend/bijbaan)</td><td>Alphen Aan Den Rijn</td><td>2026-11-20</td></tr>
+<tr><td>Abbott Laboratories</td><td>Intern</td><td>Breda</td><td>2026-11-21</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Sr. Digital Science Intern</td><td>Eindhoven</td><td>2026-11-21</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Intern</td><td>Eindhoven</td><td>2026-11-21</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Marketing &amp; Trade Marketing Nordics &amp; Baltics</td><td>Amsterdam</td><td>2026-11-21</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Change &amp; Communication Global Digital And Technology</td><td>Amsterdam</td><td>2026-11-21</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Telesales</td><td>Amsterdam</td><td>2026-11-21</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Procurement Esg Regulatory Compliance</td><td>Schiphol +1</td><td>2026-11-21</td></tr>
+<tr><td>Sanofi</td><td>Medical Affairs Intern– Neurology</td><td>Amsterdam</td><td>2026-11-21</td></tr>
+<tr><td>ING</td><td>Data & Ai Adoption Intern</td><td>Amsterdam</td><td>2026-11-21</td></tr>
+<tr><td>Philips UK</td><td>Internship: Finance Business Partner</td><td>Amsterdam</td><td>2026-11-21</td></tr>
+<tr><td>Allianz SE</td><td>Compliance Intern</td><td>Rotterdam +1</td><td>2026-11-21</td></tr>
+<tr><td>McArthurGlen Group</td><td>Tourism Marketing Intern</td><td>Roermond +1</td><td>2026-11-21</td></tr>
+<tr><td>My Jewellery</td><td>Stage Influencer Marketing</td><td>’S-Hertogenbosch +1</td><td>2026-11-21</td></tr>
+<tr><td>Aquablu B.V</td><td>Customer Success Intern</td><td>Amsterdam</td><td>2026-11-21</td></tr>
+<tr><td>Informa PLC</td><td>Partnerships Coordinator Internship</td><td>Amsterdam</td><td>2026-11-21</td></tr>
+<tr><td>JDE Peet’s</td><td>Servicemonteur (2 Ploegen)</td><td>Utrecht</td><td>2026-11-21</td></tr>
+<tr><td>Yunex Traffic</td><td>Maintenance Engineer</td><td>Netherlands</td><td>2026-11-21</td></tr>
+<tr><td>DNV</td><td>Inside Sales Specialist Benelux</td><td>Alphen Aan Den Rijn</td><td>2026-11-21</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate - Amsterdam Kalverstraat, Nl</td><td>Amsterdam</td><td>2026-11-21</td></tr>
 </table>
