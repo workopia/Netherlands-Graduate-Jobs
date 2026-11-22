@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-21",
- "count": 338,
+ "asOf": "2026-11-22",
+ "count": 340,
  "jobs": {
   "2757993": {
    "id": "2757993",
@@ -8,11 +8,35 @@
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
   },
+  "ed13256f5a6f73f67a41e540d19eed0e": {
+   "id": "ed13256f5a6f73f67a41e540d19eed0e",
+   "company": "Koos Service Design",
+   "role": "Service Design Intern",
+   "location": "Amsterdam"
+  },
+  "a3955eab62c8ce865013ec7f1a6bfb1f": {
+   "id": "a3955eab62c8ce865013ec7f1a6bfb1f",
+   "company": "Damen Global Support B.V",
+   "role": "Internship: Ai Adoption",
+   "location": "S Hertogenbosch"
+  },
   "28510c1daf0642bfe3471bfeb0892b4d": {
    "id": "28510c1daf0642bfe3471bfeb0892b4d",
    "company": "Coty Inc",
    "role": "Intern Sales Team Prestige Benelux",
    "location": "Europe"
+  },
+  "73b2dc018cba35d1af6b1b3f1276dd79": {
+   "id": "73b2dc018cba35d1af6b1b3f1276dd79",
+   "company": "AECOM UK",
+   "role": "Architecture Intern",
+   "location": "Den Haag +1"
+  },
+  "4b0ab3d60d1b882b36825a27fc2405be": {
+   "id": "4b0ab3d60d1b882b36825a27fc2405be",
+   "company": "JDE Peet’s",
+   "role": "Corporate Communications & Content Intern",
+   "location": "Amsterdam"
   },
   "a924ad927bf3712704175117e2a0b4b2": {
    "id": "a924ad927bf3712704175117e2a0b4b2",
@@ -284,6 +308,12 @@
    "role": "Internship - Creative Prompter / Graphic Design Womenfc (feb 2027)",
    "location": "Amsterdam"
   },
+  "724049ad8f1835724198dee6bf8262f3": {
+   "id": "724049ad8f1835724198dee6bf8262f3",
+   "company": "Voyado",
+   "role": "Gtm Internship",
+   "location": "Amsterdam"
+  },
   "78695e9bcfc0e28cae02b1f5f95d4a46": {
    "id": "78695e9bcfc0e28cae02b1f5f95d4a46",
    "company": "Amazon",
@@ -457,36 +487,6 @@
    "company": "Bugaboo",
    "role": "Email Marketing Intern",
    "location": "Amsterdam"
-  },
-  "24c76d1bc0934903fd5a88e005ae4553": {
-   "id": "24c76d1bc0934903fd5a88e005ae4553",
-   "company": "Keenfootwear",
-   "role": "Ecommerce Intern - February 2027",
-   "location": "Rotterdam +1"
-  },
-  "b111eeeefecdadc21ce6faa4a6f6ca26": {
-   "id": "b111eeeefecdadc21ce6faa4a6f6ca26",
-   "company": "KEEN Footwear",
-   "role": "Graphic/digital Design Intern",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "082864f4559e49a3bb0b345359d45530": {
-   "id": "082864f4559e49a3bb0b345359d45530",
-   "company": "Danone",
-   "role": "Global Procurement Innovation &amp; Partnerships Intern",
-   "location": "Hoofddorp +1"
-  },
-  "cca4f4f63a3d8e0b6be009bdc7d1779a": {
-   "id": "cca4f4f63a3d8e0b6be009bdc7d1779a",
-   "company": "IKEA",
-   "role": "People & Culture (hr) Intern",
-   "location": "Delft +1"
-  },
-  "ac399ae2c5602b6259c01efaafdd2f6c": {
-   "id": "ac399ae2c5602b6259c01efaafdd2f6c",
-   "company": "Thermo Fisher Scientific",
-   "role": "Internship: Genai-assisted Software Modernization",
-   "location": "Eindhoven"
   },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
@@ -734,12 +734,6 @@
    "role": "Oliver Wyman - Intern Consultant – 2026 – Netherlands",
    "location": "Amsterdam"
   },
-  "768d3c3f9d78c7d61e315b4be8feda44": {
-   "id": "768d3c3f9d78c7d61e315b4be8feda44",
-   "company": "Brightonparkbank",
-   "role": "Banking Off Cycle Internship Programme 2027 Amsterdam",
-   "location": "Amsterdam"
-  },
   "bbbb7815b8b491c67e32170205a615fb": {
    "id": "bbbb7815b8b491c67e32170205a615fb",
    "company": "FTI Consulting",
@@ -913,6 +907,18 @@
    "company": "Antler",
    "role": "Visiting Investment Analyst",
    "location": "Amsterdam"
+  },
+  "2d77c1470b9f7a0bf483a9a381fe3609": {
+   "id": "2d77c1470b9f7a0bf483a9a381fe3609",
+   "company": "Park Hyatt Melbourne",
+   "role": "All-round Maintenance Employee/ Engineer",
+   "location": "Unknown +1"
+  },
+  "c3ecc406b6bef8a1d17dd291932a0ea0": {
+   "id": "c3ecc406b6bef8a1d17dd291932a0ea0",
+   "company": "Vestas",
+   "role": "Ijmuiden Service Technician (fmd) Owez Zh",
+   "location": "Ijmuiden +1"
   },
   "ee07e95916b3143993554189d384976a": {
    "id": "ee07e95916b3143993554189d384976a",
@@ -1382,17 +1388,41 @@
    "role": "Onderhoudsmonteur Wtb / E&i",
    "location": "Wormerveer"
   },
-  "cfbca7c33caefee1996043cfaad68864": {
-   "id": "cfbca7c33caefee1996043cfaad68864",
-   "company": "Husqvarna AB",
-   "role": "Service Technician",
-   "location": "Utrecht"
+  "a70ddaa7a0ebd73adabdbd09e62b2e2f": {
+   "id": "a70ddaa7a0ebd73adabdbd09e62b2e2f",
+   "company": "Estée Lauder",
+   "role": "Le Labo Beauty Advisor/artist Sales Associate De Bijenkorf Amsterdam (16)",
+   "location": "Amsterdam"
   },
-  "c8b91c769c7e207e9a07e47cb78fd8a3": {
-   "id": "c8b91c769c7e207e9a07e47cb78fd8a3",
-   "company": "Johnson & Johnson UK",
-   "role": "Maintenance Technician",
+  "9a5136de217c150d1615019cd676b90f": {
+   "id": "9a5136de217c150d1615019cd676b90f",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Amsterdam Dam Square (vakantiehulp)",
+   "location": "Amsterdam"
+  },
+  "c393d92d19e6f52d6be40a792ac7b956": {
+   "id": "c393d92d19e6f52d6be40a792ac7b956",
+   "company": "H&M",
+   "role": "Verkoopmedewerker – Schiedam (weekend/bijbaan)",
    "location": "Alphen Aan Den Rijn"
+  },
+  "6ae7d704dd3cf85c5dd199e1ba9387a9": {
+   "id": "6ae7d704dd3cf85c5dd199e1ba9387a9",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Schiedam (vakantiehulp)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "721261808b48ceb70081d4b44bee152a": {
+   "id": "721261808b48ceb70081d4b44bee152a",
+   "company": "H&M",
+   "role": "Verkoopmedewerker - Naaldwijk (26 Uur)",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "1c23dbc407566b76317743a579b036d4": {
+   "id": "1c23dbc407566b76317743a579b036d4",
+   "company": "The Estée Lauder Companies Inc.",
+   "role": "Le Labo Beauty Advisor/Artist Sales Associate De BIjenkorf Amsterdam (16)",
+   "location": "Amsterdam"
   },
   "e50e8ca18b7693fd001cdc812b006eb1": {
    "id": "e50e8ca18b7693fd001cdc812b006eb1",
@@ -1837,24 +1867,6 @@
    "company": "TJX Companies",
    "role": "Sales Associate",
    "location": "Alphen Aan Den Rijn"
-  },
-  "a3f9297af718873ea6e5cd513a9c2b62": {
-   "id": "a3f9297af718873ea6e5cd513a9c2b62",
-   "company": "Vuori",
-   "role": "Retail Sales Associate, Full Time (amsterdam)",
-   "location": "Amsterdam"
-  },
-  "2cf490f17ffe39d91bfdb10b13233ff7": {
-   "id": "2cf490f17ffe39d91bfdb10b13233ff7",
-   "company": "Nespresso",
-   "role": "Verkoopmedewerker Nespresso Amsterdam",
-   "location": "Amsterdam"
-  },
-  "fe0dd1eed47bd6dbdbea2bba773b1c1c": {
-   "id": "fe0dd1eed47bd6dbdbea2bba773b1c1c",
-   "company": "Brunswick",
-   "role": "Emea Aftersales And Technical Associate",
-   "location": "Amsterdam"
   },
   "ddc738424f579374b35ef820d4745b05": {
    "id": "ddc738424f579374b35ef820d4745b05",

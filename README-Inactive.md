@@ -2589,4 +2589,15 @@
 <tr><td>Yunex Traffic</td><td>Maintenance Engineer</td><td>Netherlands</td><td>2026-11-21</td></tr>
 <tr><td>DNV</td><td>Inside Sales Specialist Benelux</td><td>Alphen Aan Den Rijn</td><td>2026-11-21</td></tr>
 <tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate - Amsterdam Kalverstraat, Nl</td><td>Amsterdam</td><td>2026-11-21</td></tr>
+<tr><td>Keenfootwear</td><td>Ecommerce Intern - February 2027</td><td>Rotterdam +1</td><td>2026-11-22</td></tr>
+<tr><td>KEEN Footwear</td><td>Graphic/digital Design Intern</td><td>Alphen Aan Den Rijn</td><td>2026-11-22</td></tr>
+<tr><td>Danone</td><td>Global Procurement Innovation &amp; Partnerships Intern</td><td>Hoofddorp +1</td><td>2026-11-22</td></tr>
+<tr><td>IKEA</td><td>People & Culture (hr) Intern</td><td>Delft +1</td><td>2026-11-22</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Internship: Genai-assisted Software Modernization</td><td>Eindhoven</td><td>2026-11-22</td></tr>
+<tr><td>Brightonparkbank</td><td>Banking Off Cycle Internship Programme 2027 Amsterdam</td><td>Amsterdam</td><td>2026-11-22</td></tr>
+<tr><td>Husqvarna AB</td><td>Service Technician</td><td>Utrecht</td><td>2026-11-22</td></tr>
+<tr><td>Johnson & Johnson UK</td><td>Maintenance Technician</td><td>Alphen Aan Den Rijn</td><td>2026-11-22</td></tr>
+<tr><td>Vuori</td><td>Retail Sales Associate, Full Time (amsterdam)</td><td>Amsterdam</td><td>2026-11-22</td></tr>
+<tr><td>Nespresso</td><td>Verkoopmedewerker Nespresso Amsterdam</td><td>Amsterdam</td><td>2026-11-22</td></tr>
+<tr><td>Brunswick</td><td>Emea Aftersales And Technical Associate</td><td>Amsterdam</td><td>2026-11-22</td></tr>
 </table>
