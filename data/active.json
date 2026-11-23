@@ -1,11 +1,29 @@
 {
- "asOf": "2026-11-22",
- "count": 340,
+ "asOf": "2026-11-23",
+ "count": 338,
  "jobs": {
   "2757993": {
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "35d9acbfe66bb4f28af158d53296335d": {
+   "id": "35d9acbfe66bb4f28af158d53296335d",
+   "company": "Coty Inc",
+   "role": "Europe Performance &amp; Analytics Intern",
+   "location": "Amsterdam"
+  },
+  "c192e1ea051475ce08f71d79759f804f": {
+   "id": "c192e1ea051475ce08f71d79759f804f",
+   "company": "Coty Inc",
+   "role": "Marketing Intern",
+   "location": "Amsterdam"
+  },
+  "bb934bbbbc78e3e3861bcf37a8a60de3": {
+   "id": "bb934bbbbc78e3e3861bcf37a8a60de3",
+   "company": "Coty Inc",
+   "role": "Marketing Intern - Consumer Beauty",
    "location": "Amsterdam"
   },
   "ed13256f5a6f73f67a41e540d19eed0e": {
@@ -470,24 +488,6 @@
    "role": "Product Design Intern",
    "location": "Arnhem"
   },
-  "036109170f2ba3e9019ae86ce9aba518": {
-   "id": "036109170f2ba3e9019ae86ce9aba518",
-   "company": "JDE Peet’s",
-   "role": "Intern Finance Global Coffee & Tea Sourcing",
-   "location": "Utrecht +1"
-  },
-  "8a7092c836074c47a616a9e1d331f6d1": {
-   "id": "8a7092c836074c47a616a9e1d331f6d1",
-   "company": "Koninklijk Nederlands Lucht",
-   "role": "Internship: Sensors For Automatic Aircraft Walkaround Inspection",
-   "location": "Amsterdam"
-  },
-  "074b31aa888a9c98c38f616376238cb1": {
-   "id": "074b31aa888a9c98c38f616376238cb1",
-   "company": "Bugaboo",
-   "role": "Email Marketing Intern",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -901,12 +901,6 @@
    "company": "DHL Group",
    "role": "Business Analyst Integration/designer",
    "location": "Haarlem +1"
-  },
-  "bcf1211452e39b8ef12a52526401a4c4": {
-   "id": "bcf1211452e39b8ef12a52526401a4c4",
-   "company": "Antler",
-   "role": "Visiting Investment Analyst",
-   "location": "Amsterdam"
   },
   "2d77c1470b9f7a0bf483a9a381fe3609": {
    "id": "2d77c1470b9f7a0bf483a9a381fe3609",
@@ -2029,12 +2023,6 @@
    "company": "Primark",
    "role": "Parttime Retail Assistant Rotterdam Zuidplein",
    "location": "Alphen Aan Den Rijn"
-  },
-  "a27f3a52d4de271b6e6a2541eb8bdec5": {
-   "id": "a27f3a52d4de271b6e6a2541eb8bdec5",
-   "company": "Moelis & Company",
-   "role": "Administrative Assistant - Amsterdam",
-   "location": "Amsterdam"
   },
   "75136906aa2da301902c38be6f43e868": {
    "id": "75136906aa2da301902c38be6f43e868",

@@ -2600,4 +2600,9 @@
 <tr><td>Vuori</td><td>Retail Sales Associate, Full Time (amsterdam)</td><td>Amsterdam</td><td>2026-11-22</td></tr>
 <tr><td>Nespresso</td><td>Verkoopmedewerker Nespresso Amsterdam</td><td>Amsterdam</td><td>2026-11-22</td></tr>
 <tr><td>Brunswick</td><td>Emea Aftersales And Technical Associate</td><td>Amsterdam</td><td>2026-11-22</td></tr>
+<tr><td>JDE Peet’s</td><td>Intern Finance Global Coffee & Tea Sourcing</td><td>Utrecht +1</td><td>2026-11-23</td></tr>
+<tr><td>Koninklijk Nederlands Lucht</td><td>Internship: Sensors For Automatic Aircraft Walkaround Inspection</td><td>Amsterdam</td><td>2026-11-23</td></tr>
+<tr><td>Bugaboo</td><td>Email Marketing Intern</td><td>Amsterdam</td><td>2026-11-23</td></tr>
+<tr><td>Antler</td><td>Visiting Investment Analyst</td><td>Amsterdam</td><td>2026-11-23</td></tr>
+<tr><td>Moelis & Company</td><td>Administrative Assistant - Amsterdam</td><td>Amsterdam</td><td>2026-11-23</td></tr>
 </table>
