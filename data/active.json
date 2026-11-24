@@ -1,11 +1,41 @@
 {
- "asOf": "2026-11-23",
- "count": 338,
+ "asOf": "2026-11-24",
+ "count": 336,
  "jobs": {
   "2757993": {
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "3e90693b12a20c65941267838ea73b0e": {
+   "id": "3e90693b12a20c65941267838ea73b0e",
+   "company": "MediamarktSaturn",
+   "role": "Internship Learning & Development",
+   "location": "Rotterdam +1"
+  },
+  "a41b73e80875e0a63816a3abaf2243d0": {
+   "id": "a41b73e80875e0a63816a3abaf2243d0",
+   "company": "NielsenIQ",
+   "role": "Client Analyst Intern",
+   "location": "Amsterdam"
+  },
+  "2187254713bd274236e4b6c4bc9f7f7f": {
+   "id": "2187254713bd274236e4b6c4bc9f7f7f",
+   "company": "WRI",
+   "role": "Champ Events Intern",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "261bf76f8ab8acdeb065d9b5791ad2d9": {
+   "id": "261bf76f8ab8acdeb065d9b5791ad2d9",
+   "company": "WRI",
+   "role": "Champ Communications Intern",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "9dc4bba9da4992ff4fa54a1acd2ef10f": {
+   "id": "9dc4bba9da4992ff4fa54a1acd2ef10f",
+   "company": "Insify",
+   "role": "Product Building Intern - Insurance",
    "location": "Amsterdam"
   },
   "35d9acbfe66bb4f28af158d53296335d": {
@@ -458,36 +488,6 @@
    "role": "Internship: Genai-assisted Software Modernization",
    "location": "Eindhoven"
   },
-  "8259d21c15812f4836a25b66096d930c": {
-   "id": "8259d21c15812f4836a25b66096d930c",
-   "company": "Deutsche Bank",
-   "role": "Benelux Seasonal 2027 Interns",
-   "location": "Amsterdam"
-  },
-  "759f900319ab37badf0efbd243e474ff": {
-   "id": "759f900319ab37badf0efbd243e474ff",
-   "company": "Microsoft",
-   "role": "Customer Success Account Mgmt INTERN",
-   "location": "Schiphol +2"
-  },
-  "2ad043ccc8b44b441696d6e43b446c6d": {
-   "id": "2ad043ccc8b44b441696d6e43b446c6d",
-   "company": "KraftHeinz",
-   "role": "Global Nutrition Intern",
-   "location": "Amsterdam"
-  },
-  "6b8e458169120f33cba465e8894a7f9b": {
-   "id": "6b8e458169120f33cba465e8894a7f9b",
-   "company": "KraftHeinz",
-   "role": "Consumer & Sensory Scientist Intern",
-   "location": "Arnhem"
-  },
-  "fbca61510cf454b6cfcc4585f619c1f3": {
-   "id": "fbca61510cf454b6cfcc4585f619c1f3",
-   "company": "KraftHeinz",
-   "role": "Product Design Intern",
-   "location": "Arnhem"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -540,12 +540,6 @@
    "id": "55669b7929e92ab7c0180b5dbe7025b1",
    "company": "Warner Bros. Entertainment Inc.",
    "role": "Staff Software Engineer",
-   "location": "Amsterdam"
-  },
-  "d26acc787b0acc0dfa92f0d54704efee": {
-   "id": "d26acc787b0acc0dfa92f0d54704efee",
-   "company": "Adyen Payments",
-   "role": "Software Engineer (java) - Identify & Verification Services Team",
    "location": "Amsterdam"
   },
   "8d5d7844917911ddcdd14d9919d2198b": {
@@ -895,12 +889,6 @@
    "company": "Jobgether",
    "role": "Transformation And Change Management Practitioner",
    "location": "Netherlands"
-  },
-  "22f77a0e4eb0df865827b995b16dbd6a": {
-   "id": "22f77a0e4eb0df865827b995b16dbd6a",
-   "company": "DHL Group",
-   "role": "Business Analyst Integration/designer",
-   "location": "Haarlem +1"
   },
   "2d77c1470b9f7a0bf483a9a381fe3609": {
    "id": "2d77c1470b9f7a0bf483a9a381fe3609",
@@ -1382,6 +1370,12 @@
    "role": "Onderhoudsmonteur Wtb / E&i",
    "location": "Wormerveer"
   },
+  "0e19a7aacafc5a1e623861210ab7ca93": {
+   "id": "0e19a7aacafc5a1e623861210ab7ca93",
+   "company": "Free People (URBN)",
+   "role": "Urban Outfitters Sales Associate - Amsterdam Kalverstraat, Nl",
+   "location": "Amsterdam"
+  },
   "a70ddaa7a0ebd73adabdbd09e62b2e2f": {
    "id": "a70ddaa7a0ebd73adabdbd09e62b2e2f",
    "company": "Estée Lauder",
@@ -1764,12 +1758,6 @@
    "id": "a0942c9b815ca34fc853d33f62fe42dc",
    "company": "Capri",
    "role": "Part Time Sales Associate 8h",
-   "location": "Amsterdam"
-  },
-  "8f5811d7c90c67ec8d02bbe9443992f5": {
-   "id": "8f5811d7c90c67ec8d02bbe9443992f5",
-   "company": "Free People (URBN)",
-   "role": "Urban Outfitters Sales Associate - Amsterdam Kalverstraat, Nl",
    "location": "Amsterdam"
   },
   "c2e86a4761c415d94473aad5119b6da7": {

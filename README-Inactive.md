@@ -2605,4 +2605,12 @@
 <tr><td>Bugaboo</td><td>Email Marketing Intern</td><td>Amsterdam</td><td>2026-11-23</td></tr>
 <tr><td>Antler</td><td>Visiting Investment Analyst</td><td>Amsterdam</td><td>2026-11-23</td></tr>
 <tr><td>Moelis & Company</td><td>Administrative Assistant - Amsterdam</td><td>Amsterdam</td><td>2026-11-23</td></tr>
+<tr><td>Deutsche Bank</td><td>Benelux Seasonal 2027 Interns</td><td>Amsterdam</td><td>2026-11-24</td></tr>
+<tr><td>Microsoft</td><td>Customer Success Account Mgmt INTERN</td><td>Schiphol +2</td><td>2026-11-24</td></tr>
+<tr><td>KraftHeinz</td><td>Global Nutrition Intern</td><td>Amsterdam</td><td>2026-11-24</td></tr>
+<tr><td>KraftHeinz</td><td>Consumer & Sensory Scientist Intern</td><td>Arnhem</td><td>2026-11-24</td></tr>
+<tr><td>KraftHeinz</td><td>Product Design Intern</td><td>Arnhem</td><td>2026-11-24</td></tr>
+<tr><td>Adyen Payments</td><td>Software Engineer (java) - Identify & Verification Services Team</td><td>Amsterdam</td><td>2026-11-24</td></tr>
+<tr><td>DHL Group</td><td>Business Analyst Integration/designer</td><td>Haarlem +1</td><td>2026-11-24</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate - Amsterdam Kalverstraat, Nl</td><td>Amsterdam</td><td>2026-11-24</td></tr>
 </table>
