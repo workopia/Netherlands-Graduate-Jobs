@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-24",
- "count": 336,
+ "asOf": "2026-11-25",
+ "count": 337,
  "jobs": {
   "2757993": {
    "id": "2757993",
@@ -8,11 +8,53 @@
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
   },
+  "bbea098013fdbd1f749e49de465f4af6": {
+   "id": "bbea098013fdbd1f749e49de465f4af6",
+   "company": "Sanofi Genzyme",
+   "role": "Market Access Intern – Health Economics & Policy Research",
+   "location": "Amsterdam"
+  },
+  "e88f1aeaa22ef689ef5bc741ccc13129": {
+   "id": "e88f1aeaa22ef689ef5bc741ccc13129",
+   "company": "DEPT",
+   "role": "Influencer Marketing Intern",
+   "location": "Amsterdam"
+  },
+  "88121a8b76b7f0f84b8b43cd1cdaf367": {
+   "id": "88121a8b76b7f0f84b8b43cd1cdaf367",
+   "company": "NN Group",
+   "role": "Hbo Meewerkstage Klantteam Individueel Pensioen",
+   "location": "Rotterdam +1"
+  },
+  "ee61ca19e86052911de00c7a38124bbf": {
+   "id": "ee61ca19e86052911de00c7a38124bbf",
+   "company": "Golden Palms Rehabilitation and Retirement",
+   "role": "Stagiair(e) F&b Management",
+   "location": "Slagharen"
+  },
   "3e90693b12a20c65941267838ea73b0e": {
    "id": "3e90693b12a20c65941267838ea73b0e",
    "company": "MediamarktSaturn",
    "role": "Internship Learning & Development",
    "location": "Rotterdam +1"
+  },
+  "e865542e793bd9a13b6f9e5eb6be3a05": {
+   "id": "e865542e793bd9a13b6f9e5eb6be3a05",
+   "company": "Sofitel Sydney Wentworth",
+   "role": "General Management Intern",
+   "location": "Amsterdam"
+  },
+  "4a7decbec8159fbc501769af08e01e01": {
+   "id": "4a7decbec8159fbc501769af08e01e01",
+   "company": "Sofitel Sydney Wentworth",
+   "role": "F&b Operations Intern",
+   "location": "Amsterdam"
+  },
+  "eef1832aa6c1bad73060ab86673a1740": {
+   "id": "eef1832aa6c1bad73060ab86673a1740",
+   "company": "Ardena",
+   "role": "Intern Precision Medicines Chemistry, Nanomedicine",
+   "location": "Oss +1"
   },
   "a41b73e80875e0a63816a3abaf2243d0": {
    "id": "a41b73e80875e0a63816a3abaf2243d0",
@@ -31,6 +73,12 @@
    "company": "WRI",
    "role": "Champ Communications Intern",
    "location": "Alphen Aan Den Rijn"
+  },
+  "a33d05034df5b60b092a6eb33cb26819": {
+   "id": "a33d05034df5b60b092a6eb33cb26819",
+   "company": "Getbux",
+   "role": "Office Manager Intern",
+   "location": "Amsterdam"
   },
   "9dc4bba9da4992ff4fa54a1acd2ef10f": {
    "id": "9dc4bba9da4992ff4fa54a1acd2ef10f",
@@ -440,54 +488,6 @@
    "role": "Internship: Marketing Product Management - Pharma",
    "location": "Alphen Aan Den Rijn"
   },
-  "c9038c88a1f30a324e07c8c79412489b": {
-   "id": "c9038c88a1f30a324e07c8c79412489b",
-   "company": "Euronext Technologies SaS",
-   "role": "Listing Analyst Intern",
-   "location": "Amsterdam"
-  },
-  "3c2c783095281c0b4015742f3f959018": {
-   "id": "3c2c783095281c0b4015742f3f959018",
-   "company": "McDonald's",
-   "role": "Intern Strategic Sourcing",
-   "location": "Netherlands"
-  },
-  "3ef9b3e089f5ca459279dda021a25f0e": {
-   "id": "3ef9b3e089f5ca459279dda021a25f0e",
-   "company": "Coty",
-   "role": "Marketing Procurement Intern",
-   "location": "Amsterdam"
-  },
-  "5a7d711df7a11abd600389fbeda87da9": {
-   "id": "5a7d711df7a11abd600389fbeda87da9",
-   "company": "Danone",
-   "role": "Internship: Global Procurement - Whey And Dairy Ingredients",
-   "location": "Hoofddorp +1"
-  },
-  "1535bfcb763f7fd2c8a269514022ad0e": {
-   "id": "1535bfcb763f7fd2c8a269514022ad0e",
-   "company": "Heineken International BV",
-   "role": "Internship - Sales National Accounts - Heineken Horeca",
-   "location": "Netherlands"
-  },
-  "f795146c8b4ba65dee3b362e30a621b1": {
-   "id": "f795146c8b4ba65dee3b362e30a621b1",
-   "company": "ING Group",
-   "role": "Intern - Hr & Business Administration Support",
-   "location": "Cedar"
-  },
-  "790bb7096e1045f428929da958d6a3a8": {
-   "id": "790bb7096e1045f428929da958d6a3a8",
-   "company": "Arcadis",
-   "role": "Internship - People, Data & Insights",
-   "location": "Amsterdam"
-  },
-  "2b7dbfb9e1349490033c0e78c6120a60": {
-   "id": "2b7dbfb9e1349490033c0e78c6120a60",
-   "company": "PPD (Thermo Fisher)",
-   "role": "Internship: Genai-assisted Software Modernization",
-   "location": "Eindhoven"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -534,12 +534,6 @@
    "id": "0a5572a3b37910ec434eed10d01bd56a",
    "company": "BeFrank",
    "role": "Software Engineer Data Platform",
-   "location": "Amsterdam"
-  },
-  "55669b7929e92ab7c0180b5dbe7025b1": {
-   "id": "55669b7929e92ab7c0180b5dbe7025b1",
-   "company": "Warner Bros. Entertainment Inc.",
-   "role": "Staff Software Engineer",
    "location": "Amsterdam"
   },
   "8d5d7844917911ddcdd14d9919d2198b": {
@@ -889,6 +883,24 @@
    "company": "Jobgether",
    "role": "Transformation And Change Management Practitioner",
    "location": "Netherlands"
+  },
+  "fd9c52cda4bcc15776672b242106ca83": {
+   "id": "fd9c52cda4bcc15776672b242106ca83",
+   "company": "APG",
+   "role": "Business Analyst - Regulatory",
+   "location": "Amsterdam"
+  },
+  "985d4490585687f6e54104c3add3cfe1": {
+   "id": "985d4490585687f6e54104c3add3cfe1",
+   "company": "Ecolab",
+   "role": "Field Service Specialist - F&b",
+   "location": "Utrecht +1"
+  },
+  "d839aaf0a05f2f773296689b7f37e457": {
+   "id": "d839aaf0a05f2f773296689b7f37e457",
+   "company": "Aggreko",
+   "role": "Power Engineer, M&r Shop",
+   "location": "Moerdijk"
   },
   "2d77c1470b9f7a0bf483a9a381fe3609": {
    "id": "2d77c1470b9f7a0bf483a9a381fe3609",
@@ -1357,18 +1369,6 @@
    "company": "Curium",
    "role": "Co-worker Mechanical",
    "location": "Petten"
-  },
-  "ff79b10b3003dbb062c5b7ae6ab459b1": {
-   "id": "ff79b10b3003dbb062c5b7ae6ab459b1",
-   "company": "Ingersoll Rand PLC",
-   "role": "Service Technician",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "76a8fdf215a2eb548e9969fc031a7ffb": {
-   "id": "76a8fdf215a2eb548e9969fc031a7ffb",
-   "company": "Bunge",
-   "role": "Onderhoudsmonteur Wtb / E&i",
-   "location": "Wormerveer"
   },
   "0e19a7aacafc5a1e623861210ab7ca93": {
    "id": "0e19a7aacafc5a1e623861210ab7ca93",
@@ -1850,6 +1850,18 @@
    "role": "Sales Associate",
    "location": "Alphen Aan Den Rijn"
   },
+  "2811fb3288b41d121a2b6ba519268b2d": {
+   "id": "2811fb3288b41d121a2b6ba519268b2d",
+   "company": "DHL Group",
+   "role": "Customer Service Coordinator",
+   "location": "Eindhoven"
+  },
+  "0926823e861f57b3d613b3d42259f678": {
+   "id": "0926823e861f57b3d613b3d42259f678",
+   "company": "Primark",
+   "role": "Parttime Retail Assistant Zaandam",
+   "location": "Amsterdam"
+  },
   "ddc738424f579374b35ef820d4745b05": {
    "id": "ddc738424f579374b35ef820d4745b05",
    "company": "Building Engines",
@@ -1927,12 +1939,6 @@
    "company": "Primark",
    "role": "Parttime Retail Assistant Rotterdam Forum",
    "location": "Alphen Aan Den Rijn"
-  },
-  "c6ea92ad22549251c89adcb44daada81": {
-   "id": "c6ea92ad22549251c89adcb44daada81",
-   "company": "DHL Group",
-   "role": "Customer Service Coordinator",
-   "location": "Beringe"
   },
   "115a820079a7148064ffcd7b0a3647f5": {
    "id": "115a820079a7148064ffcd7b0a3647f5",

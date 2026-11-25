@@ -2613,4 +2613,16 @@
 <tr><td>Adyen Payments</td><td>Software Engineer (java) - Identify & Verification Services Team</td><td>Amsterdam</td><td>2026-11-24</td></tr>
 <tr><td>DHL Group</td><td>Business Analyst Integration/designer</td><td>Haarlem +1</td><td>2026-11-24</td></tr>
 <tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate - Amsterdam Kalverstraat, Nl</td><td>Amsterdam</td><td>2026-11-24</td></tr>
+<tr><td>Euronext Technologies SaS</td><td>Listing Analyst Intern</td><td>Amsterdam</td><td>2026-11-25</td></tr>
+<tr><td>McDonald's</td><td>Intern Strategic Sourcing</td><td>Netherlands</td><td>2026-11-25</td></tr>
+<tr><td>Coty</td><td>Marketing Procurement Intern</td><td>Amsterdam</td><td>2026-11-25</td></tr>
+<tr><td>Danone</td><td>Internship: Global Procurement - Whey And Dairy Ingredients</td><td>Hoofddorp +1</td><td>2026-11-25</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Sales National Accounts - Heineken Horeca</td><td>Netherlands</td><td>2026-11-25</td></tr>
+<tr><td>ING Group</td><td>Intern - Hr & Business Administration Support</td><td>Cedar</td><td>2026-11-25</td></tr>
+<tr><td>Arcadis</td><td>Internship - People, Data & Insights</td><td>Amsterdam</td><td>2026-11-25</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Internship: Genai-assisted Software Modernization</td><td>Eindhoven</td><td>2026-11-25</td></tr>
+<tr><td>Warner Bros. Entertainment Inc.</td><td>Staff Software Engineer</td><td>Amsterdam</td><td>2026-11-25</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-11-25</td></tr>
+<tr><td>Bunge</td><td>Onderhoudsmonteur Wtb / E&i</td><td>Wormerveer</td><td>2026-11-25</td></tr>
+<tr><td>DHL Group</td><td>Customer Service Coordinator</td><td>Beringe</td><td>2026-11-25</td></tr>
 </table>
