@@ -1,11 +1,29 @@
 {
- "asOf": "2026-11-25",
- "count": 337,
+ "asOf": "2026-11-26",
+ "count": 339,
  "jobs": {
   "2757993": {
    "id": "2757993",
    "company": "Vandebron Energie B.V",
    "role": "Business Analyst Portfolio Management & Trading",
+   "location": "Amsterdam"
+  },
+  "d833f204dccbb7c05b6585866f9fbb34": {
+   "id": "d833f204dccbb7c05b6585866f9fbb34",
+   "company": "Agrifirm Group",
+   "role": "Intern Accountmanager Inkoop",
+   "location": "S Hertogenbosch"
+  },
+  "fb7c3f555ecd926680e74c52a391217b": {
+   "id": "fb7c3f555ecd926680e74c52a391217b",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Marketing & Pr Intern",
+   "location": "Amsterdam"
+  },
+  "ce54daa271e185d3a8a42493f45088ad": {
+   "id": "ce54daa271e185d3a8a42493f45088ad",
+   "company": "Valmont Industries, Inc",
+   "role": "Internship At Global Fraud Prevention",
    "location": "Amsterdam"
   },
   "bbea098013fdbd1f749e49de465f4af6": {
@@ -470,24 +488,6 @@
    "role": "Global Communications Intern",
    "location": "Amsterdam"
   },
-  "d62655c8cb730756afba91d90edfb680": {
-   "id": "d62655c8cb730756afba91d90edfb680",
-   "company": "Coty Inc",
-   "role": "Marketing Procurement Intern",
-   "location": "Amsterdam"
-  },
-  "6ba4295e2dad28349d223c10a49765a4": {
-   "id": "6ba4295e2dad28349d223c10a49765a4",
-   "company": "Avery Dennison Corp",
-   "role": "Internship: Marketing Product Management - Pharma",
-   "location": "Alphen Aan Den Rijn"
-  },
-  "f829583d6357bb3fc92229e5ce2cc5df": {
-   "id": "f829583d6357bb3fc92229e5ce2cc5df",
-   "company": "Avery Dennison",
-   "role": "Internship: Marketing Product Management - Pharma",
-   "location": "Alphen Aan Den Rijn"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -504,6 +504,12 @@
    "id": "4ddaf8138deeda90fa3902cd7efdef40",
    "company": "Databricks Lakehouse",
    "role": "Software Engineer - New Grad (2027 Start) - Amsterdam",
+   "location": "Amsterdam"
+  },
+  "fd5339641f44cf5f9399b61320aad466": {
+   "id": "fd5339641f44cf5f9399b61320aad466",
+   "company": "Sierra",
+   "role": "Software Engineer, Agent",
    "location": "Amsterdam"
   },
   "4f21a5159c00bd9dccbabad5c7a083b1": {
@@ -546,12 +552,6 @@
    "id": "8ff74f34fb1b27e3851b8c003d79e570",
    "company": "Avanade",
    "role": "Afstudeerstage Data & Ai / Functional / Data Analyst / Visualization",
-   "location": "Amsterdam"
-  },
-  "6912eec3081bb2a78cb984b2924a4d40": {
-   "id": "6912eec3081bb2a78cb984b2924a4d40",
-   "company": "Oliver Wyman",
-   "role": "Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam",
    "location": "Amsterdam"
   },
   "5f81ee8319e89bca4b14bff7c9d917d8": {
@@ -668,6 +668,18 @@
    "role": "Data Analyst",
    "location": "Netherlands"
   },
+  "df46b337245c679531d27707c00efda8": {
+   "id": "df46b337245c679531d27707c00efda8",
+   "company": "Linklaters",
+   "role": "Student-stagiair(e) - Capital Markets",
+   "location": "Amsterdam"
+  },
+  "010fd6cabd4e771e08ae87bde77c5432": {
+   "id": "010fd6cabd4e771e08ae87bde77c5432",
+   "company": "Valmont Industries, Inc",
+   "role": "Internship Debt Capital Markets – Ig Corporate Origination",
+   "location": "Amsterdam"
+  },
   "cae3d9aaff030c801993b8656e420288": {
    "id": "cae3d9aaff030c801993b8656e420288",
    "company": "investmentbankinginternships.com",
@@ -716,12 +728,6 @@
    "role": "Internship Financial Institutions Lending",
    "location": "Amsterdam"
   },
-  "46987d1bc16759e68828782aa6069248": {
-   "id": "46987d1bc16759e68828782aa6069248",
-   "company": "Oliver Wyman",
-   "role": "Oliver Wyman - Intern Consultant – 2026 – Netherlands",
-   "location": "Amsterdam"
-  },
   "bbbb7815b8b491c67e32170205a615fb": {
    "id": "bbbb7815b8b491c67e32170205a615fb",
    "company": "FTI Consulting",
@@ -733,6 +739,12 @@
    "company": "CGI",
    "role": "Business Consulting Traineeship",
    "location": "Randstad"
+  },
+  "7f491afedbb7a3972f79047b01e13c93": {
+   "id": "7f491afedbb7a3972f79047b01e13c93",
+   "company": "diversey.si",
+   "role": "Customer Intelligence Analyst - Belgische Markt",
+   "location": "Utrecht +1"
   },
   "51bf5a6c80b7ef9b84bc72fdf9c9985d": {
    "id": "51bf5a6c80b7ef9b84bc72fdf9c9985d",
@@ -890,6 +902,12 @@
    "role": "Business Analyst - Regulatory",
    "location": "Amsterdam"
   },
+  "3db3fc54a9325920e965c410ed01c6b8": {
+   "id": "3db3fc54a9325920e965c410ed01c6b8",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Reparatie & Servicemedewerker Elektronica Alphen Aan Den Rijn",
+   "location": "Alphen Aan Den Rijn"
+  },
   "985d4490585687f6e54104c3add3cfe1": {
    "id": "985d4490585687f6e54104c3add3cfe1",
    "company": "Ecolab",
@@ -901,6 +919,12 @@
    "company": "Aggreko",
    "role": "Power Engineer, M&r Shop",
    "location": "Moerdijk"
+  },
+  "ad0642c04031914b9b5ded67876e9f6f": {
+   "id": "ad0642c04031914b9b5ded67876e9f6f",
+   "company": "Expro Group",
+   "role": "Field Service Technician Iii, Level 2",
+   "location": "Netherlands"
   },
   "2d77c1470b9f7a0bf483a9a381fe3609": {
    "id": "2d77c1470b9f7a0bf483a9a381fe3609",
@@ -1358,17 +1382,11 @@
    "role": "Servicetechnicus Werktuigbouwkunde / Nexton Building Services / Amsterdam",
    "location": "Amsterdam"
   },
-  "6f35bac61e072b4da4d24e039d3519a5": {
-   "id": "6f35bac61e072b4da4d24e039d3519a5",
-   "company": "Chart Industries Inc",
-   "role": "Maintenance/field Services Technician",
-   "location": "Zuidland"
-  },
-  "a356a942c5ec01052d65ce3a9a35a35c": {
-   "id": "a356a942c5ec01052d65ce3a9a35a35c",
-   "company": "Curium",
-   "role": "Co-worker Mechanical",
-   "location": "Petten"
+  "19e22aa1c7f4ade1c8e05b1d9c9dbbb0": {
+   "id": "19e22aa1c7f4ade1c8e05b1d9c9dbbb0",
+   "company": "H&M",
+   "role": "Sales Advisor 16h",
+   "location": "Amsterdam"
   },
   "0e19a7aacafc5a1e623861210ab7ca93": {
    "id": "0e19a7aacafc5a1e623861210ab7ca93",
@@ -1844,10 +1862,10 @@
    "role": "Verkoopmedewerker Vers / Sligro / Gouda",
    "location": "Alphen Aan Den Rijn"
   },
-  "60d54bbd0e3ac7eea4c3c518e7c8f1c9": {
-   "id": "60d54bbd0e3ac7eea4c3c518e7c8f1c9",
-   "company": "TJX Companies",
-   "role": "Sales Associate",
+  "f12c913e1b68f51b2d86c4f678fa1e1a": {
+   "id": "f12c913e1b68f51b2d86c4f678fa1e1a",
+   "company": "Primark",
+   "role": "Parttime Retail Assistant Rotterdam Forum",
    "location": "Alphen Aan Den Rijn"
   },
   "2811fb3288b41d121a2b6ba519268b2d": {
@@ -1933,12 +1951,6 @@
    "company": "Primark",
    "role": "Verkoopmedewerker / Sales Assistant Weekend Eindhoven",
    "location": "Eindhoven"
-  },
-  "4bda5634d38cb9e8811702c7c646b6b0": {
-   "id": "4bda5634d38cb9e8811702c7c646b6b0",
-   "company": "Primark",
-   "role": "Parttime Retail Assistant Rotterdam Forum",
-   "location": "Alphen Aan Den Rijn"
   },
   "115a820079a7148064ffcd7b0a3647f5": {
    "id": "115a820079a7148064ffcd7b0a3647f5",

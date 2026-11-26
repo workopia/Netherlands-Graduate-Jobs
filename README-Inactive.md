@@ -2625,4 +2625,13 @@
 <tr><td>Ingersoll Rand PLC</td><td>Service Technician</td><td>Alphen Aan Den Rijn</td><td>2026-11-25</td></tr>
 <tr><td>Bunge</td><td>Onderhoudsmonteur Wtb / E&i</td><td>Wormerveer</td><td>2026-11-25</td></tr>
 <tr><td>DHL Group</td><td>Customer Service Coordinator</td><td>Beringe</td><td>2026-11-25</td></tr>
+<tr><td>Coty Inc</td><td>Marketing Procurement Intern</td><td>Amsterdam</td><td>2026-11-26</td></tr>
+<tr><td>Avery Dennison Corp</td><td>Internship: Marketing Product Management - Pharma</td><td>Alphen Aan Den Rijn</td><td>2026-11-26</td></tr>
+<tr><td>Avery Dennison</td><td>Internship: Marketing Product Management - Pharma</td><td>Alphen Aan Den Rijn</td><td>2026-11-26</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Data & Analytics Intern Analyst - Amsterdam</td><td>Amsterdam</td><td>2026-11-26</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Intern Consultant – 2026 – Netherlands</td><td>Amsterdam</td><td>2026-11-26</td></tr>
+<tr><td>Chart Industries Inc</td><td>Maintenance/field Services Technician</td><td>Zuidland</td><td>2026-11-26</td></tr>
+<tr><td>Curium</td><td>Co-worker Mechanical</td><td>Petten</td><td>2026-11-26</td></tr>
+<tr><td>TJX Companies</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-11-26</td></tr>
+<tr><td>Primark</td><td>Parttime Retail Assistant Rotterdam Forum</td><td>Alphen Aan Den Rijn</td><td>2026-11-26</td></tr>
 </table>
