@@ -2634,4 +2634,15 @@
 <tr><td>Curium</td><td>Co-worker Mechanical</td><td>Petten</td><td>2026-11-26</td></tr>
 <tr><td>TJX Companies</td><td>Sales Associate</td><td>Alphen Aan Den Rijn</td><td>2026-11-26</td></tr>
 <tr><td>Primark</td><td>Parttime Retail Assistant Rotterdam Forum</td><td>Alphen Aan Den Rijn</td><td>2026-11-26</td></tr>
+<tr><td>Amazon</td><td>Associate Delivery Consultant Intern, Professional Services A2C Delivery 2027</td><td>Amsterdam</td><td>2026-11-27</td></tr>
+<tr><td>Catawiki</td><td>Accounting & Reporting Intern</td><td>Amsterdam</td><td>2026-11-27</td></tr>
+<tr><td>Nielen Schuman</td><td>Internship</td><td>Amsterdam +1</td><td>2026-11-27</td></tr>
+<tr><td>AKQA</td><td>Client Services Intern</td><td>Amsterdam</td><td>2026-11-27</td></tr>
+<tr><td>Informa PLC</td><td>Digital Marketing Internship</td><td>Amsterdam</td><td>2026-11-27</td></tr>
+<tr><td>PepsiCo Inc</td><td>First Gen: Quality & Food Safety Intern</td><td>Zaandam +1</td><td>2026-11-27</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Intern Assignment: Image Quality Improvement Of Direct Detection Cameras</td><td>Eindhoven</td><td>2026-11-27</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>Demand Management Intern</td><td>Amsterdam</td><td>2026-11-27</td></tr>
+<tr><td>Coty Inc</td><td>Global Communications Intern</td><td>Amsterdam</td><td>2026-11-27</td></tr>
+<tr><td>JDE Peet's</td><td>Servicemonteur (2 Ploegen)</td><td>Utrecht</td><td>2026-11-27</td></tr>
+<tr><td>Sligro</td><td>Verkoopmedewerker Vers / Sligro / Gouda</td><td>Alphen Aan Den Rijn</td><td>2026-11-27</td></tr>
 </table>

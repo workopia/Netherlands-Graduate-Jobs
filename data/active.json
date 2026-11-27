@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-26",
- "count": 339,
+ "asOf": "2026-11-27",
+ "count": 338,
  "jobs": {
   "2757993": {
    "id": "2757993",
@@ -8,11 +8,65 @@
    "role": "Business Analyst Portfolio Management & Trading",
    "location": "Amsterdam"
   },
+  "75c7471c367e2eeac5e1a76ca5becd6a": {
+   "id": "75c7471c367e2eeac5e1a76ca5becd6a",
+   "company": "IKEA",
+   "role": "Intern",
+   "location": "Delft +1"
+  },
+  "d504f5a9eb40e950f25360be73760485": {
+   "id": "d504f5a9eb40e950f25360be73760485",
+   "company": "Workwize",
+   "role": "Operations Intern, Oem Partnerships",
+   "location": "Amsterdam"
+  },
+  "1ddf51d4039c37bc7d8e45f68be4d617": {
+   "id": "1ddf51d4039c37bc7d8e45f68be4d617",
+   "company": "Philips",
+   "role": "Internship: Operational Material Management",
+   "location": "Eindhoven"
+  },
+  "422d66db8e115a9a8949b8d09a32505a": {
+   "id": "422d66db8e115a9a8949b8d09a32505a",
+   "company": "Philips Healthcare",
+   "role": "Internship: Program Ai Enablement (master, Non-thesis)",
+   "location": "Eindhoven"
+  },
+  "efe4e96a1608e2abb5129f71de45ef22": {
+   "id": "efe4e96a1608e2abb5129f71de45ef22",
+   "company": "WRI",
+   "role": "Eu Funding And Engagement Intern",
+   "location": "Alphen Aan Den Rijn"
+  },
+  "0e2e2a5c5664ecf537d18a2e2d8f4a71": {
+   "id": "0e2e2a5c5664ecf537d18a2e2d8f4a71",
+   "company": "NXP Semiconductors N.V.",
+   "role": "Software, Electrical, Industrial Or Computer Engineering Ai Internship",
+   "location": "Eindhoven +1"
+  },
   "d833f204dccbb7c05b6585866f9fbb34": {
    "id": "d833f204dccbb7c05b6585866f9fbb34",
    "company": "Agrifirm Group",
    "role": "Intern Accountmanager Inkoop",
    "location": "S Hertogenbosch"
+  },
+  "a33e4843282f0353a854e81169b4f73a": {
+   "id": "a33e4843282f0353a854e81169b4f73a",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Internship Marketing Let's Go Mobile",
+   "location": "Rotterdam"
+  },
+  "dd58d610ee937e62e71b355758aed69c": {
+   "id": "dd58d610ee937e62e71b355758aed69c",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Stagiair(e) Butler",
+   "location": "Amsterdam"
+  },
+  "84172e75bfc8f71ea4180c8cea7b927b": {
+   "id": "84172e75bfc8f71ea4180c8cea7b927b",
+   "company": "Twenty Seven Amsterdam B.V",
+   "role": "Stagiair(e) Reserveringen",
+   "location": "Amsterdam"
   },
   "fb7c3f555ecd926680e74c52a391217b": {
    "id": "fb7c3f555ecd926680e74c52a391217b",
@@ -434,60 +488,6 @@
    "role": "Professional Services Cloud Consultant Intern",
    "location": "Amsterdam"
   },
-  "e4a02b14f820dfa3b49fbbc298692f88": {
-   "id": "e4a02b14f820dfa3b49fbbc298692f88",
-   "company": "Amazon",
-   "role": "Associate Delivery Consultant Intern, Professional Services A2C Delivery 2027",
-   "location": "Amsterdam"
-  },
-  "6a7739bf879756b1faa44f0a5056001f": {
-   "id": "6a7739bf879756b1faa44f0a5056001f",
-   "company": "Catawiki",
-   "role": "Accounting & Reporting Intern",
-   "location": "Amsterdam"
-  },
-  "b8f757e92b9f12203fab0847af8b0ed7": {
-   "id": "b8f757e92b9f12203fab0847af8b0ed7",
-   "company": "Nielen Schuman",
-   "role": "Internship",
-   "location": "Amsterdam +1"
-  },
-  "118fba153c0c498613a1e4428c762fab": {
-   "id": "118fba153c0c498613a1e4428c762fab",
-   "company": "AKQA",
-   "role": "Client Services Intern",
-   "location": "Amsterdam"
-  },
-  "7b5a7d08a4ca5a4e327747fb56db5bd6": {
-   "id": "7b5a7d08a4ca5a4e327747fb56db5bd6",
-   "company": "Informa PLC",
-   "role": "Digital Marketing Internship",
-   "location": "Amsterdam"
-  },
-  "ba21a4128da8b0a31cb9cbcc3c929279": {
-   "id": "ba21a4128da8b0a31cb9cbcc3c929279",
-   "company": "PepsiCo Inc",
-   "role": "First Gen: Quality & Food Safety Intern",
-   "location": "Zaandam +1"
-  },
-  "8c75de30789c112f2596da89682c1628": {
-   "id": "8c75de30789c112f2596da89682c1628",
-   "company": "Thermo Fisher Scientific",
-   "role": "Intern Assignment: Image Quality Improvement Of Direct Detection Cameras",
-   "location": "Eindhoven"
-  },
-  "e6ea9a7023c894412a347c91610c645c": {
-   "id": "e6ea9a7023c894412a347c91610c645c",
-   "company": "Boehringer Ingelheim",
-   "role": "Demand Management Intern",
-   "location": "Amsterdam"
-  },
-  "a5a38efe051f68bcf1c92b0597ae7175": {
-   "id": "a5a38efe051f68bcf1c92b0597ae7175",
-   "company": "Coty Inc",
-   "role": "Global Communications Intern",
-   "location": "Amsterdam"
-  },
   "4479df504e4c9731d0edc314bf928813": {
    "id": "4479df504e4c9731d0edc314bf928813",
    "company": "Booking Holdings",
@@ -902,6 +902,12 @@
    "role": "Business Analyst - Regulatory",
    "location": "Amsterdam"
   },
+  "d9ee46653bd5efcdfe0fc38aaffc97c3": {
+   "id": "d9ee46653bd5efcdfe0fc38aaffc97c3",
+   "company": "JDE Peet's",
+   "role": "Servicemonteur (2 Ploegen)",
+   "location": "Utrecht"
+  },
   "3db3fc54a9325920e965c410ed01c6b8": {
    "id": "3db3fc54a9325920e965c410ed01c6b8",
    "company": "MediamarktSaturn - Webshop Foundation",
@@ -943,12 +949,6 @@
    "company": "Mars",
    "role": "Mechanisch Monteur (dagdienst)",
    "location": "North Brabant +1"
-  },
-  "94288c82f7ee2e8dccd0532880e26440": {
-   "id": "94288c82f7ee2e8dccd0532880e26440",
-   "company": "JDE Peet's",
-   "role": "Servicemonteur (2 Ploegen)",
-   "location": "Utrecht"
   },
   "49384e54307c5bbfc2a992497da57f0f": {
    "id": "49384e54307c5bbfc2a992497da57f0f",
@@ -1855,12 +1855,6 @@
    "company": "LOVISA",
    "role": "Team Member Part Time 20h+",
    "location": "Amsterdam"
-  },
-  "2c8e4500ebdd39bca0f6c22150a58580": {
-   "id": "2c8e4500ebdd39bca0f6c22150a58580",
-   "company": "Sligro",
-   "role": "Verkoopmedewerker Vers / Sligro / Gouda",
-   "location": "Alphen Aan Den Rijn"
   },
   "f12c913e1b68f51b2d86c4f678fa1e1a": {
    "id": "f12c913e1b68f51b2d86c4f678fa1e1a",
