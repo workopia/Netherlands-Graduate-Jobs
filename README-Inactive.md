@@ -2645,4 +2645,32 @@
 <tr><td>Coty Inc</td><td>Global Communications Intern</td><td>Amsterdam</td><td>2026-11-27</td></tr>
 <tr><td>JDE Peet's</td><td>Servicemonteur (2 Ploegen)</td><td>Utrecht</td><td>2026-11-27</td></tr>
 <tr><td>Sligro</td><td>Verkoopmedewerker Vers / Sligro / Gouda</td><td>Alphen Aan Den Rijn</td><td>2026-11-27</td></tr>
+<tr><td>Vandebron Energie B.V</td><td>Business Analyst Portfolio Management & Trading</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>KraftHeinz</td><td>Culinary Capabilities Intern</td><td>Arnhem</td><td>2026-11-28</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Intern Assignment: Image Quality Improvement Of Direct Detection Cameras</td><td>Eindhoven</td><td>2026-11-28</td></tr>
+<tr><td>Fortive Corporation</td><td>Service Intern</td><td>Eindhoven</td><td>2026-11-28</td></tr>
+<tr><td>Signify</td><td>Internship - Emlyon Student's Visit To Signify</td><td>Eindhoven</td><td>2026-11-28</td></tr>
+<tr><td>Linklaters</td><td>Student-stagiair(e)</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>Golden Palms Rehabilitation and Retirement</td><td>Stagiair(e) Reserveringen</td><td>Slagharen +1</td><td>2026-11-28</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Medical Affairs Intern – Rare Hematology</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Medical Affairs Intern – Immunology</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>Koninklijke Philips</td><td>Internship: Supplier Management Support (non-thesis)</td><td>Eindhoven</td><td>2026-11-28</td></tr>
+<tr><td>Koninklijke Philips</td><td>Internship: Commercial Strategy & Sales (dutch Speaking)</td><td>Eindhoven</td><td>2026-11-28</td></tr>
+<tr><td>Elsevier</td><td>Intern</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>G&F Châtelain</td><td>Internship – Retail Operations Assistant – Fashion – Benelux & Scandinavia – January 2027 – M/f/d</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Design Brand &amp; Packaging Design Excellence</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Global Cslp Analytics</td><td>Netherlands</td><td>2026-11-28</td></tr>
+<tr><td>By433</td><td>Internship - Creative Prompter / Graphic Design Womenfc (feb 2027)</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>Voyado</td><td>Gtm Internship</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>Amazon</td><td>Professional Services Cloud Consultant Intern</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>Jobgether</td><td>Transformation And Change Management Practitioner</td><td>Netherlands</td><td>2026-11-28</td></tr>
+<tr><td>JDE Peet's</td><td>Servicemonteur (2 Ploegen)</td><td>Utrecht</td><td>2026-11-28</td></tr>
+<tr><td>microsatsystems.biz</td><td>Maintenance Monteur - Storing & Onderhoud</td><td>North Brabant</td><td>2026-11-28</td></tr>
+<tr><td>Eurofins</td><td>Servicemonteur Drinkwaterinstallaties</td><td>Alphen Aan Den Rijn</td><td>2026-11-28</td></tr>
+<tr><td>Damen Global Support B.V</td><td>Maintenance Technician</td><td>Alphen Aan Den Rijn</td><td>2026-11-28</td></tr>
+<tr><td>Nexton Building Services</td><td>Servicetechnicus Elektrotechniek / Nexton Building Services / Amsterdam</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>Nexton Building Services</td><td>Servicetechnicus Werktuigbouwkunde / Nexton Building Services / Amsterdam</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>H&M</td><td>Verkoopmedewerker - Amsterdam Osdorp (vakantiehulp)</td><td>Amsterdam</td><td>2026-11-28</td></tr>
+<tr><td>TK Maxx</td><td>Retail Associate- Tkmaxx Zuidplein</td><td>Alphen Aan Den Rijn</td><td>2026-11-28</td></tr>
+<tr><td>LOVISA</td><td>Team Member Part Time 20h+</td><td>Amsterdam</td><td>2026-11-28</td></tr>
 </table>
